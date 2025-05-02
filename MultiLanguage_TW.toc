@@ -1,0 +1,19 @@
+## Interface: 40402
+## Title: MultiLanguage_TW
+## Notes: TW language for the MultiLanguage addon
+## Author: Ruben Zantingh
+## Version: 1.0.0
+## Dependencies: MultiLanguage
+
+Database/Npcs/npcs.lua
+Database/Quests/quests.lua
+
+Database/Items/items.lua
+Database/Items/itemsOne.lua
+Database/Items/itemsTwo.lua
+
+Database/Spells/spells.lua
+Database/Spells/spellsOne.lua
+Database/Spells/spellsTwo.lua
+
+MultiLanguage_TW.lua
