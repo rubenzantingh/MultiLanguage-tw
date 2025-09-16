@@ -17405,7 +17405,7 @@ MultiLanguageNpcData['tw'][85282] = {name = "日脊幼獸", subname = nil}
 MultiLanguageNpcData['tw'][85285] = {name = "費滋爾‧薑折", subname = "探險者協會"}
 MultiLanguageNpcData['tw'][85286] = {name = "熔核犬", subname = nil}
 MultiLanguageNpcData['tw'][85287] = {name = "蕊妮‧長蹄", subname = "公會銀行職員"}
-MultiLanguageNpcData['tw'][85288] = {name = "寶庫管理者梅爾薩斯", subname = "虛空倉庫"}
+MultiLanguageNpcData['tw'][85288] = {name = "寶庫管理者梅爾薩斯", subname = nil}
 MultiLanguageNpcData['tw'][85289] = {name = "星移編織師法斯拉", subname = "塑形師"}
 MultiLanguageNpcData['tw'][85290] = {name = "寶庫管理者薩尼夫", subname = nil}
 MultiLanguageNpcData['tw'][85291] = {name = "星移編織師圖維斯", subname = "塑形師"}
@@ -18002,7 +18002,7 @@ MultiLanguageNpcData['tw'][85958] = {name = "伯特‧裂幣", subname = "公會
 MultiLanguageNpcData['tw'][85959] = {name = "恩斯特‧騰博斯", subname = "飛行管理員"}
 MultiLanguageNpcData['tw'][85960] = {name = "硫磺軟泥怪", subname = nil}
 MultiLanguageNpcData['tw'][85961] = {name = "星移編織師沙爾", subname = "塑形師"}
-MultiLanguageNpcData['tw'][85962] = {name = "寶庫管理者尼茲善", subname = "虛空倉庫"}
+MultiLanguageNpcData['tw'][85962] = {name = "寶庫管理者尼茲善", subname = nil}
 MultiLanguageNpcData['tw'][85963] = {name = "歐威爾‧曼弗瑞德", subname = "獸欄管理員"}
 MultiLanguageNpcData['tw'][85964] = {name = "喬琪特‧泰隆", subname = "拍賣師"}
 MultiLanguageNpcData['tw'][85965] = {name = "瑪莉詠‧沃瑟爾", subname = "戰寵訓練師"}
@@ -48511,7 +48511,7 @@ MultiLanguageNpcData['tw'][120841] = {name = "燃燒軍團獵人殺手", subname
 MultiLanguageNpcData['tw'][120842] = {name = "艾薩萊斯特", subname = nil}
 MultiLanguageNpcData['tw'][120843] = {name = "阿曼尼暴徒", subname = nil}
 MultiLanguageNpcData['tw'][120844] = {name = "艾蘭里亞‧風行者", subname = nil}
-MultiLanguageNpcData['tw'][120845] = {name = "『救贖者』阿拉特", subname = nil}
+MultiLanguageNpcData['tw'][120845] = {name = "阿拉特", subname = nil}
 MultiLanguageNpcData['tw'][120846] = {name = "贊達拉商人", subname = "商人"}
 MultiLanguageNpcData['tw'][120847] = {name = "卜大師", subname = nil}
 MultiLanguageNpcData['tw'][120849] = {name = "戰鬥牧師", subname = nil}

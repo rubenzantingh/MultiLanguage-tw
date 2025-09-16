@@ -108,7 +108,7 @@ MultiLanguageItemData['tw'][133579] = {name = "蘇拉瑪爾豪宴", additional_i
 MultiLanguageItemData['tw'][133580] = {name = "[q3]布魯塔格的劍尖", additional_info = "拾取後綁定飾品\n[q2]+ 6 致命一擊\n職業： 惡魔獵人\n[q2]使用: 將致命的劍尖射向敵方目標，造成 113 點傷害。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][133581] = {name = "種子袋", additional_info = "任務物品\n[q2]使用: 在附近的陷坑種下一枚種子。"}
 MultiLanguageItemData['tw'][133584] = {name = "[q4]好戰鬥士符文之斧", additional_info = "德拉諾之霸第3季精英\n拾取後綁定{單手} {斧}\n{2-5點傷害} {速度 2.60}\n(每秒1.3點傷害)\n售價:"}
-MultiLanguageItemData['tw'][133585] = {name = "[q7]那魯審判", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n[q2]+ 16 臨機應變\n[q2]使用: 懲擊敵人造成 101 點傷害，並恢復 2 %法力值。可治療一名附近的盟友相當於所造成傷害 100 %的生命力。對惡魔造成的傷害額外提高 150 %。 (1分鐘 冷卻)\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
+MultiLanguageItemData['tw'][133585] = {name = "[q7]那魯審判", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n[q2]+ 16 臨機應變\n[q2]使用: 懲擊敵人造成 101 點傷害，並恢復2%法力值。可治療一名附近的盟友相當於所造成傷害100%的生命力。對惡魔造成的傷害額外提高150%。 (1分鐘 冷卻)\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
 MultiLanguageItemData['tw'][133586] = {name = "伊利達瑞水囊", additional_info = "[q2]使用: 在20秒內恢復總計( 2125 / 5 * 20)點法力。喝飲料時必須保持坐姿。\n售價:"}
 MultiLanguageItemData['tw'][133587] = {name = "[q0]破損的護目鏡", additional_info = "拾取後綁定\n[q]\"狗身上到底為什麼會有這個玩意？\"\n售價:"}
 MultiLanguageItemData['tw'][133588] = {name = "海鹽之花", additional_info = "制作材料\n\"可以向達拉然的烹飪商人購買。\"\n售價:"}
@@ -117,10 +117,10 @@ MultiLanguageItemData['tw'][133590] = {name = "鬃牛奶油", additional_info = 
 MultiLanguageItemData['tw'][133591] = {name = "河蔥", additional_info = "制作材料\n\"可以向達拉然的烹飪商人購買。\"\n售價:"}
 MultiLanguageItemData['tw'][133592] = {name = "石暗蝸牛", additional_info = "制作材料\n\"可以向達拉然的烹飪商人購買。\"\n售價:"}
 MultiLanguageItemData['tw'][133593] = {name = "皇家橄欖", additional_info = "制作材料\n\"可以向達拉然的烹飪商人購買。\"\n售價:"}
-MultiLanguageItemData['tw'][133595] = {name = "[q7]古羅之牙戰爭號角", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]+ 7 加速\n[q2]+ 7 精通\n[q2]裝備： 近戰攻擊時有機會獲得惡魔剋星，使力量提高 28 點，並使對惡魔造成的所有傷害提高 10 %，持續15秒。若在此效果有效期間內造成最後一擊，其持續時間會比原來延長8秒。\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
-MultiLanguageItemData['tw'][133596] = {name = "[q7]虛無之視球體", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n+11 智力\n[q2]裝備： 以有害法術擊中敵人時有機會獲得虛無之視，可使致命一擊、加速和精通提高 22 點，並使對惡魔造成的所有傷害提高 10 %，持續15秒。\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
-MultiLanguageItemData['tw'][133597] = {name = "[q7]可靠的追蹤符咒", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n+11 敏捷\n[q2]裝備： 近戰或遠程攻擊時有機會獲得淨化火焰，可立即造成 178 點傷害，並使你對惡魔造成的傷害提高 10 %，持續5秒。\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
-MultiLanguageItemData['tw'][133598] = {name = "[q7]純淨的第三月裂片", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n[q2]+ 16 臨機應變\n[q2]使用: 獲得可吸收[(1 + 臨機應變) * 1081 ]點傷害的護盾，持續20秒。當惡魔攻擊你時，護盾的效果會增強 100 %。 (1分鐘 冷卻)\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
+MultiLanguageItemData['tw'][133595] = {name = "[q7]古羅之牙戰爭號角", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]+ 7 加速\n[q2]+ 7 精通\n[q2]裝備： 近戰攻擊時有機會獲得惡魔剋星，使力量提高 28 點，並使對惡魔造成的所有傷害提高10%，持續15秒。若在此效果有效期間內造成最後一擊，其持續時間會比原來延長8秒。\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
+MultiLanguageItemData['tw'][133596] = {name = "[q7]虛無之視球體", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n+11 智力\n[q2]裝備： 以有害法術擊中敵人時有機會獲得虛無之視，可使致命一擊、加速和精通提高 22 點，並使對惡魔造成的所有傷害提高10%，持續15秒。\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
+MultiLanguageItemData['tw'][133597] = {name = "[q7]可靠的追蹤符咒", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n+11 敏捷\n[q2]裝備： 近戰或遠程攻擊時有機會獲得淨化火焰，可立即造成 178 點傷害，並使你對惡魔造成的傷害提高10%，持續5秒。\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
+MultiLanguageItemData['tw'][133598] = {name = "[q7]純淨的第三月裂片", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n[q2]+ 16 臨機應變\n[q2]使用: 獲得可吸收[(1 + 臨機應變) * 1081 ]點傷害的護盾，持續20秒。當惡魔攻擊你時，護盾的效果會增強100%。 (1分鐘 冷卻)\n44 ( 44)\n\n\n德拉諾之霸傳奇難度地城首領"}
 MultiLanguageItemData['tw'][133607] = {name = "銀色鯖魚", additional_info = "制作材料\n售價:"}
 MultiLanguageItemData['tw'][133608] = {name = "[q3]霧縳黑爾拉亞裹足", additional_info = "拾取後綁定{腳} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][133609] = {name = "[q3]有血腥味的絲質手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 加速\n耐久: 55 / 55\n售價:"}
@@ -862,7 +862,7 @@ MultiLanguageItemData['tw'][134522] = {name = "[q3]拘束腕箝", additional_inf
 MultiLanguageItemData['tw'][134523] = {name = "[q3]蝕刻龍骨戰靴", additional_info = "拾取後綁定{腳} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 5 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][134524] = {name = "[q3]巨龍族母指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 9 致命一擊\n[q2]+ 5 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][134525] = {name = "[q3]納沙塔爾帝國徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 9 致命一擊\n[q2]+ 5 加速\n售價:"}
-MultiLanguageItemData['tw'][134526] = {name = "[q3]啃過的拇指環戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 8 致命一擊\n[q2]+ 6 精通\n[q2]使用: 啃一下，你造成的治療效果和魔法傷害提高 5 %，持續12秒。 (3分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][134526] = {name = "[q3]啃過的拇指環戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 8 致命一擊\n[q2]+ 6 精通\n[q2]使用: 啃一下，你造成的治療效果和魔法傷害提高5%，持續12秒。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][134527] = {name = "[q3]八重眼指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 4 臨機應變\n[q2]+ 10 精通\n售價:"}
 MultiLanguageItemData['tw'][134528] = {name = "[q3]無情制霸之環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 10 致命一擊\n[q2]+ 4 加速\n售價:"}
 MultiLanguageItemData['tw'][134529] = {name = "[q3]焦骨之鍊", additional_info = "拾取後綁定頸部\n+4 耐力\n[q2]+ 9 加速\n[q2]+ 5 臨機應變\n[q]燃燒軍團遠征 (0/2)\n[q0]焦骨之鍊\n威脅迫近戒指\n[q0](2) 組合 : 你針對惡魔的法術和攻擊有機會造成額外 203 點火焰傷害。\n售價:"}
@@ -2115,7 +2115,7 @@ MultiLanguageItemData['tw'][136711] = {name = "[q3]皇后蛋白石戒環", addit
 MultiLanguageItemData['tw'][136712] = {name = "[q3]皇后蛋白石墜飾", additional_info = "裝備後綁定\n頸部\n+4 耐力\n[q2]+ 8 精通\n\n[q0]多色插槽\n售價:"}
 MultiLanguageItemData['tw'][136713] = {name = "[q4]暗影紅寶石指環", additional_info = "裝備後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 8 精通\n\n[q0]多色插槽\n售價:"}
 MultiLanguageItemData['tw'][136714] = {name = "[q3]融合體的第七條脊椎", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的 直接性治療法術 會施加並重置易碎迴音，持續6秒。在易碎回音結束時，會為你恢復 9 點法力。\n[q]\"這個特大號骸骨漸漸散溢出靈魂能量。\"\n售價:"}
-MultiLanguageItemData['tw'][136715] = {name = "[q3]尖刺平衡錘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 你的近戰攻擊有機會造成 353 點物理傷害並讓目標在承受你的所有攻擊時，造成的傷害提高 15 %，持續15秒。最多可提高 242 點額外傷害。（15秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][136715] = {name = "[q3]尖刺平衡錘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 你的近戰攻擊有機會造成 353 點物理傷害並讓目標在承受你的所有攻擊時，造成的傷害提高15%，持續15秒。最多可提高 242 點額外傷害。（15秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][136716] = {name = "[q3]籠困恐懼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]裝備： 你的遠程攻擊和法術有機會對目標方向釋放一道黑暗衝擊，對一直線上的敵人造成 297 點暗影傷害。\n售價:"}
 MultiLanguageItemData['tw'][136717] = {name = "[q3]黑羽解脫胸針", additional_info = "拾取後綁定\n神聖神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][136718] = {name = "[q3]瓦羅森的印記", additional_info = "拾取後綁定\n血神器遺物\n+\n售價:"}
@@ -2220,7 +2220,7 @@ MultiLanguageItemData['tw'][136840] = {name = "蜜露恩的長笛", additional_i
 MultiLanguageItemData['tw'][136843] = {name = "黑穫侍僧", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
 MultiLanguageItemData['tw'][136844] = {name = "一群小鬼", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
 MultiLanguageItemData['tw'][136845] = {name = "惡魔守衛", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
-MultiLanguageItemData['tw'][136846] = {name = "[q3]魔寵石", additional_info = "拾取後綁定\n玩具\n職業： 法師\n[q2]使用: 召喚一顆魔寵石，內含一隻秘法魔寵、熾炎魔寵或寒冰魔寵。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][136846] = {name = "[q3]魔寵石", additional_info = "拾取後綁定\n玩具\n職業： 法師\n[q2]使用: 召喚一顆魔寵石，內含一隻秘法魔寵、熾炎魔寵或寒冰魔寵。 (1分鐘 冷卻)\n已經學會\n售價:"}
 MultiLanguageItemData['tw'][136849] = {name = "[q3]自然信標", additional_info = "拾取後綁定\n唯一\n玩具\n職業： 德魯伊\n[q2]使用: 將你傳送到某個天然地點。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][136850] = {name = "偷取的脈能水晶", additional_info = "任務物品\n[q]\"它還剩下一點點脈能。\""}
 MultiLanguageItemData['tw'][136851] = {name = "指揮官多米泰爾的頭盔", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
@@ -2548,7 +2548,7 @@ MultiLanguageItemData['tw'][137302] = {name = "[q3]畸形憎惡之心", addition
 MultiLanguageItemData['tw'][137303] = {name = "[q3]夜落之觸", additional_info = "拾取後綁定\n秘法神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137304] = {name = "[q3]橡心的樹褲", additional_info = "拾取後綁定{腿部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n[q2]+ 4 加速\n[q2]+ 6 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][137305] = {name = "[q3]荒疫之握護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 2 加速\n[q2]+ 3 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][137306] = {name = "[q3]橡心的瘤根", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n{[q2]裝備： 你的遠程攻擊和法術有一定機率在6秒內額外造成 167 點暗影傷害}，並使目標的移動{速度降低 20 %。}\n售價:"}
+MultiLanguageItemData['tw'][137306] = {name = "[q3]橡心的瘤根", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n{[q2]裝備： 你的遠程攻擊和法術有一定機率在6秒內額外造成 167 點暗影傷害}，並使目標的移動{速度降低20%。}\n售價:"}
 MultiLanguageItemData['tw'][137307] = {name = "[q3]腐化之節", additional_info = "拾取後綁定\n生命神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137308] = {name = "[q3]林地樹液凝塊", additional_info = "拾取後綁定\n冰霜神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137309] = {name = "[q3]低壓氣流肩墊", additional_info = "拾取後綁定{肩部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 5 加速\n[q2]+ 3 精通\n耐久: 100 / 100\n售價:"}
@@ -2582,7 +2582,7 @@ MultiLanguageItemData['tw'][137339] = {name = "[q3]顫動荒碎軀殼", addition
 MultiLanguageItemData['tw'][137340] = {name = "[q3]結晶能量", additional_info = "拾取後綁定\n冰霜神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137341] = {name = "[q3]塑崖合身兜帽", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][137342] = {name = "[q3]堅岩腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n16護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 7 加速\n[q2]+ 3 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][137344] = {name = "[q3]塑崖者咒符", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]使用: 使受到的所有傷害降低 50 %，持續15秒。最多可吸收[ 764 * (1 + 臨機應變)]點傷害。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][137344] = {name = "[q3]塑崖者咒符", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]使用: 使受到的所有傷害降低50%，持續15秒。最多可吸收[ 764 * (1 + 臨機應變)]點傷害。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][137346] = {name = "[q3]低語塑像", additional_info = "拾取後綁定\n神聖神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137347] = {name = "[q3]反感碎片", additional_info = "拾取後綁定\n暗影神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137348] = {name = "[q3]無數倒刺護手", additional_info = "拾取後綁定{手} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 2 致命一擊\n[q2]+ 5 精通\n耐久: 55 / 55\n售價:"}
@@ -2598,7 +2598,7 @@ MultiLanguageItemData['tw'][137358] = {name = "[q3]恨雕熔岩", additional_inf
 MultiLanguageItemData['tw'][137359] = {name = "[q3]遠古石礫", additional_info = "拾取後綁定\n鐵神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137360] = {name = "[q3]粉碎浪潮肩墊", additional_info = "拾取後綁定{肩部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 5 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][137361] = {name = "[q3]咆哮破殼者巨腰帶", additional_info = "拾取後綁定{腰部} {板甲}\n10護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 5 加速\n[q2]+ 3 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][137362] = {name = "[q3]帕傑許勳章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]裝備： 當你的生命掉到 35 %以下，就會獲得酋長堅韌效果，讓你的生命力提高 1282 點且精通提高 20 點，持續12秒。\n\n 此效果只能每1.5分鐘觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][137362] = {name = "[q3]帕傑許勳章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]裝備： 當你的生命掉到35%以下，就會獲得酋長堅韌效果，讓你的生命力提高 1282 點且精通提高 20 點，持續12秒。\n\n 此效果只能每1.5分鐘觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][137363] = {name = "[q3]染血矛尖", additional_info = "拾取後綁定\n血神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][137364] = {name = "[q3]粉碎海潮披肩", additional_info = "拾取後綁定{肩部} {皮甲}\n6護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][137365] = {name = "[q3]濃縮盬海水珠", additional_info = "拾取後綁定\n風暴神器遺物\n+\n售價:"}
@@ -2671,7 +2671,7 @@ MultiLanguageItemData['tw'][137436] = {name = "[q3]膚瘡束腰", additional_inf
 MultiLanguageItemData['tw'][137437] = {name = "[q3]泥流胸甲", additional_info = "拾取後綁定{胸部} {板甲}\n18護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 6 致命一擊\n[q2]+ 4 加速\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][137438] = {name = "[q3]衰敗紅寶石指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 8 致命一擊\n[q2]+ 6 加速\n售價:"}
 MultiLanguageItemData['tw'][137439] = {name = "[q3]瓶中的小軟泥怪", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]裝備： 你的近戰攻擊有一定機率賦予你凝結黏膠，最多可堆疊6層。\n[q2]使用: 消耗所有凝結黏膠，對你面前的敵人嘔吐，持續3秒，每消耗一個黏膠，可造成[ 17 * (1 + 臨機應變)]點自然傷害。 (20秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][137440] = {name = "[q3]顫喉顎骨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n{[q2]使用: 在你的地點施放一枚冰凍炸彈，對12碼範圍內的敵人造成 26 點冰霜傷害}，並使其移動{速度降低 50 %，持續10秒。\n\n 每擊中一位敵人會讓你獲得 1 點臨機應變，最高可達5層，持續10秒。 (1分鐘 冷卻)}\n售價:"}
+MultiLanguageItemData['tw'][137440] = {name = "[q3]顫喉顎骨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n{[q2]使用: 在你的地點施放一枚冰凍炸彈，對12碼範圍內的敵人造成 26 點冰霜傷害}，並使其移動{速度降低50%，持續10秒。\n\n 每擊中一位敵人會讓你獲得 1 點臨機應變，最高可達5層，持續10秒。 (1分鐘 冷卻)}\n售價:"}
 MultiLanguageItemData['tw'][137441] = {name = "[q3]米歐菲瑟的強化視力護目鏡", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n[q2]+ 4 加速\n[q2]+ 6 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][137442] = {name = "[q3]精巧三捆式腕輪", additional_info = "拾取後綁定{手腕} {皮甲}\n4護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 2 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][137443] = {name = "[q3]秘銀瓜型帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 精通\n耐久: 100 / 100\n售價:"}
@@ -2765,7 +2765,7 @@ MultiLanguageItemData['tw'][137535] = {name = "[q3]熔岩液滴墜飾", addition
 MultiLanguageItemData['tw'][137536] = {name = "[q3]銳眼墜飾", additional_info = "拾取後綁定頸部\n+4 耐力\n[q2]+ 5 致命一擊\n[q2]+ 9 加速\n售價:"}
 MultiLanguageItemData['tw'][137537] = {name = "[q3]泰拉松的背叛", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 敏捷\n[q2]使用: 以黑暗能量強化自身，讓你的攻擊有機會造成 19 點額外暗影傷害，並讓你獲得 21 點的護盾。\n\n 持續15秒。 (1分鐘，15秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][137538] = {name = "[q3]拷問之球", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 使目標的靈魂衰竭，你對其造成的50%傷害可轉為治療，最高可恢復 3008 點生命力，持續20秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][137539] = {name = "[q3]不良的反制系統", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n{[q2]使用: 以寒冰包覆你的武器，持續30秒，使你的近戰攻擊有一定機率額外造成 45 點冰霜傷害}，並使目標的移動{速度降低 20 %，持續8秒。 (2分鐘 冷卻)}\n售價:"}
+MultiLanguageItemData['tw'][137539] = {name = "[q3]不良的反制系統", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n{[q2]使用: 以寒冰包覆你的武器，持續30秒，使你的近戰攻擊有一定機率額外造成 45 點冰霜傷害}，並使目標的移動{速度降低20%，持續8秒。 (2分鐘 冷卻)}\n售價:"}
 MultiLanguageItemData['tw'][137540] = {name = "[q3]低谷反射透鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 你的治療法術有機會對目標送出一道脈衝，為他們恢復 52 點生命力並彈跳到最多3位額外目標身上。\n售價:"}
 MultiLanguageItemData['tw'][137541] = {name = "[q3]月光稜石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 使你的敏捷或智力提高 1 點，持續20秒。你的遠程攻擊和法術可堆疊此效果，最多堆疊20次。（400毫秒 冷卻） (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][137542] = {name = "[q3]惡魔化身火花", additional_info = "拾取後綁定\n邪能神器遺物\n+\n售價:"}
@@ -3279,7 +3279,7 @@ MultiLanguageItemData['tw'][138220] = {name = "[q4]心智崩圮指環", addition
 MultiLanguageItemData['tw'][138221] = {name = "[q4]紗織巨型披風", additional_info = "拾取後綁定背部\n3護甲\n+3 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 精通\n售價:"}
 MultiLanguageItemData['tw'][138222] = {name = "[q4]夢魘迷霧之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 你的治療法術有機會施加一枚靈魂碎片，抵消目標接下來受到的 61 點傷害，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][138224] = {name = "[q4]不穩定的驚懼軟泥", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 你的遠程攻擊和法術有機會召喚一枚易變膿液，朝著目標爬行並在接觸時引爆，對8碼造成 39 點自然傷害。\n售價:"}
-MultiLanguageItemData['tw'][138225] = {name = "[q4]魅影返想", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 當你的生命力低於50%時，將會從翡翠夢魘顯露一個暗影分身，吸收承受的 50 %傷害，持續20秒。最多可預防 3246 點總傷害。只能每2分鐘觸發一次。（2分鐘 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][138225] = {name = "[q4]魅影返想", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 當你的生命力低於50%時，將會從翡翠夢魘顯露一個暗影分身，吸收承受的50%傷害，持續20秒。最多可預防 3246 點總傷害。只能每2分鐘觸發一次。（2分鐘 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][138226] = {name = "[q4]夢魘盤據珠寶", additional_info = "拾取後綁定\n暗影神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][138227] = {name = "[q4]心醉神迷之石", additional_info = "拾取後綁定\n秘法神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][138228] = {name = "[q4]發光蘑菇", additional_info = "拾取後綁定\n生命神器遺物\n+\n售價:"}
@@ -3452,8 +3452,8 @@ MultiLanguageItemData['tw'][138474] = {name = "[q2]冠軍的保險箱", addition
 MultiLanguageItemData['tw'][138475] = {name = "[q3]白銀保險箱", additional_info = "拾取後綁定\n持續時間：3天\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][138476] = {name = "[q2]青銅保險箱", additional_info = "拾取後綁定\n持續時間：3天\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][138477] = {name = "純水之核", additional_info = "任務物品\n[q]\"取出它的時候還沒受到腐化的影響。\""}
-MultiLanguageItemData['tw'][138478] = {name = "[q3]肋排大餐", additional_info = "拾取後綁定\n[q2]使用: 擺出一整套肋排讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命力和 5 %法力，持續20秒。如果進食時間超過10秒，你將因充分進食而獲得10%耐力，持續1小時。\n\n 只能在戰場中使用。\n售價:"}
-MultiLanguageItemData['tw'][138479] = {name = "[q3]馬鈴薯燉肉大餐", additional_info = "拾取後綁定\n[q2]使用: 擺設一道由牛排和馬鈴薯組成的大餐，讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命力和 5 %法力，持續20秒。如果進食時間超過10秒，你將因充分進食而獲得10%耐力，持續1小時。\n\n 只能在戰場中使用。\n售價:"}
+MultiLanguageItemData['tw'][138478] = {name = "[q3]肋排大餐", additional_info = "拾取後綁定\n[q2]使用: 擺出一整套肋排讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命力和5%法力，持續20秒。如果進食時間超過10秒，你將因充分進食而獲得10%耐力，持續1小時。\n\n 只能在戰場中使用。\n售價:"}
+MultiLanguageItemData['tw'][138479] = {name = "[q3]馬鈴薯燉肉大餐", additional_info = "拾取後綁定\n[q2]使用: 擺設一道由牛排和馬鈴薯組成的大餐，讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命力和5%法力，持續20秒。如果進食時間超過10秒，你將因充分進食而獲得10%耐力，持續1小時。\n\n 只能在戰場中使用。\n售價:"}
 MultiLanguageItemData['tw'][138480] = {name = "[q0]黑穫魔典", additional_info = "拾取後綁定\n[q]\"一本發霉的魔典，書頁上潦草地寫著一種古代文字。\"\n售價:"}
 MultiLanguageItemData['tw'][138482] = {name = "統御者靈魂", additional_info = "任務物品\n[q]\"湊足能量，發動魔錘號。\""}
 MultiLanguageItemData['tw'][138483] = {name = "魔化引擎燃料噴嘴", additional_info = "任務物品\n唯一\n[q]\"它噴射的究竟是什麼燃料？\""}
@@ -3701,7 +3701,7 @@ MultiLanguageItemData['tw'][138727] = {name = "[q3]挑戰藥水", additional_inf
 MultiLanguageItemData['tw'][138728] = {name = "[q3]微量隱形藥水", additional_info = "[q2]使用: 隱形6秒。只能在戰場使用。 (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][138729] = {name = "[q3]感官提升藥水", additional_info = "[q2]使用: 提高你偵測隱形或潛行敵人的機率，持續30秒。只能在戰場使用。 (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][138730] = {name = "模擬醉眼護目鏡XL", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]裝備： 這付眼鏡模擬著酒精效果。只要拿下眼鏡就可以解除此效果。\n[q]\"警告：搭乘坐騎時請勿穿戴。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][138731] = {name = "一籃蘋果", additional_info = "拾取後綁定\n[q2]使用: 擺設出一籃蘋果讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命和 5 %法力，持續20秒。如果進食時間超過10秒，你將因充分進食而使召喚坐騎施法時間縮短50%，持續1小時。\n\n\n 只能在戰場中使用。\n售價:"}
+MultiLanguageItemData['tw'][138731] = {name = "一籃蘋果", additional_info = "拾取後綁定\n[q2]使用: 擺設出一籃蘋果讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命和5%法力，持續20秒。如果進食時間超過10秒，你將因充分進食而使召喚坐騎施法時間縮短50%，持續1小時。\n\n\n 只能在戰場中使用。\n售價:"}
 MultiLanguageItemData['tw'][138732] = {name = "[q0]神兵沿革", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][138733] = {name = "闇鱗操控裝置", additional_info = "任務物品\n[q2]使用: 將一隻闇鱗食蠅者包覆在時光異相中以馴服牠們，並將吸引向施法者，以供捕捉。 (6秒 冷卻)"}
 MultiLanguageItemData['tw'][138760] = {name = "安瑟拉指揮官", additional_info = "拾取後綁定\n[q]\"安瑟拉指揮官來到聖光之願禮拜堂，你獲得徵募侍從小隊的能力，他們可以陪伴你的勇士執行任務。\""}
@@ -4816,7 +4816,7 @@ MultiLanguageItemData['tw'][140021] = {name = "[q4]十字軍的煉獄肩鎧", ad
 MultiLanguageItemData['tw'][140024] = {name = "[q2]地脈充能指環", additional_info = "拾取後綁定手指\n+4 耐力\n[q2]+ 6 致命一擊\n[q2]+ 8 精通\n售價:"}
 MultiLanguageItemData['tw'][140026] = {name = "[q3]魔暴龍之噬", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]裝備： 你的攻擊有機會造成 66 點物理傷害並使目標昏迷，持續1秒。\n[q]\"在一場「餵食」事件，從身亡的馴龍師中拉出。\"\n售價:"}
 MultiLanguageItemData['tw'][140027] = {name = "[q2]地脈火花", additional_info = "拾取後綁定飾品\n[q2]+ 7 加速\n[q2]裝備： 攻擊時有一定機率使你每0.5秒提高 1 點敏捷，持續15秒。 （15秒 冷卻）\n售價:"}
-MultiLanguageItemData['tw'][140030] = {name = "[q3]魔暴龍電擊棍", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n{[q2]裝備： 你的傷害性法術有機會造成 43 點自然傷害}並使目標的移動{速度降低 50 %，持續6秒。}\n售價:"}
+MultiLanguageItemData['tw'][140030] = {name = "[q3]魔暴龍電擊棍", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n{[q2]裝備： 你的傷害性法術有機會造成 43 點自然傷害}並使目標的移動{速度降低50%，持續6秒。}\n售價:"}
 MultiLanguageItemData['tw'][140031] = {name = "[q2]法力火花", additional_info = "拾取後綁定飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 施展法術時有一定機率獲得超載效果，使你的智力提高 4 點，持續20秒。 （20秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][140034] = {name = "[q3]衝擊震顫", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 你的攻擊有機會啟動魔暴龍的奔竄，讓你每一步對附近敵人造成[ 8 * (9)]點物理傷害，持續8秒。\n[q]\"必須再快點！\"\n售價:"}
 MultiLanguageItemData['tw'][140035] = {name = "[q2]不穩定的弧光儲能器", additional_info = "拾取後綁定飾品\n[q2]+ 7 精通\n[q2]裝備： 攻擊時有一定機率使你的力量提高 3 點、 4 點或 5 點，持續20秒。（20秒 冷卻）\n[q]\"可處理1.21單位的法力火花。\"\n售價:"}
@@ -5494,7 +5494,7 @@ MultiLanguageItemData['tw'][140784] = {name = "魔化活塞穩定器", additiona
 MultiLanguageItemData['tw'][140785] = {name = "電路板強化鍍層", additional_info = "拾取後綁定\n唯一（50）\n制作材料\n[q]\"針對戶外戰鬥的嚴苛環境而設計。可以在北風凍原的水泉原野那邊的機械生物身上找到。\""}
 MultiLanguageItemData['tw'][140786] = {name = "[q3]地脈蛛卵", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 對你當前目標丟出法多雷蜘蛛罐。 (2小時 冷卻)"}
 MultiLanguageItemData['tw'][140788] = {name = "[q2]電蟲器XT", additional_info = "拾取後綁定\n[q2]使用: 正在自行清理害蟲。\n[q]\"最佳害蟲消滅系統\""}
-MultiLanguageItemData['tw'][140789] = {name = "[q4]活動外骨骼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]使用: 使所有承受的傷害降低 30 %，持續15秒，此效果將在你減免[ 248 * (1 + 臨機應變)]點傷害後結束。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][140789] = {name = "[q4]活動外骨骼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]使用: 使所有承受的傷害降低30%，持續15秒，此效果將在你減免[ 248 * (1 + 臨機應變)]點傷害後結束。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][140790] = {name = "[q4]水晶蠍爪", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 力量\n[q2]裝備： 你的攻擊有一定機率產生傷害性衝擊波，可對你面前的敵人造成 34 點物理傷害。\n售價:"}
 MultiLanguageItemData['tw'][140791] = {name = "[q4]皇家匕首斷片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 當攻擊會置你於死地時，最多吸收該次攻擊的 6587 點傷害。當此效果觸發時，你立即恢復 178 點生命力，並在10秒內承受所有吸收的傷害。每6分鐘只能觸發一次。\n[q]\"劍柄底部的水晶球有道裂痕，不斷有沙粒滲出。\"\n售價:"}
 MultiLanguageItemData['tw'][140792] = {name = "[q4]錯誤的節拍器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的傷害性法術有一定機率使你獲得 4 點加速，持續12秒，最多堆疊5次。堆疊效果不會重置持續時間。\n售價:"}
@@ -5511,8 +5511,8 @@ MultiLanguageItemData['tw'][140802] = {name = "[q4]夜綻藻葉", additional_inf
 MultiLanguageItemData['tw'][140803] = {name = "[q4]伊崔斯的天界圖", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的治療法術有一定機率使你的精通、加速或致命一擊提高 26 點，持續8秒。\n售價:"}
 MultiLanguageItemData['tw'][140804] = {name = "[q4]星門", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的傷害法術有一定機率從扭曲虛空召來一顆隕石，對目標及其附近的敵人造成 22 點法火傷害。\n售價:"}
 MultiLanguageItemData['tw'][140805] = {name = "[q4]閃逝悖論", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的治療法術有一定機率使你的下一個 直接性治療法術 不會消耗法力，而是恢復 10 點法力。\n售價:"}
-MultiLanguageItemData['tw'][140806] = {name = "[q4]宿命交會", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率使 你的強大技能 的剩餘冷卻時間縮短 3 秒。 你目前的專精不適用。\n售價:"}
-MultiLanguageItemData['tw'][140807] = {name = "[q4]煉獄契約", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 使受到的所有傷害降低 50 %，持續20秒，最多共可抵消[ 985 * (1 + 臨機應變)]點傷害。此效果結束時，你受到傷害時會額外受到 20 %的火焰傷害，持續30秒，最多額外承受 4197 點傷害。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][140806] = {name = "[q4]宿命交會", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率使 你的強大技能 的剩餘冷卻時間縮短3秒。 你目前的專精不適用。\n售價:"}
+MultiLanguageItemData['tw'][140807] = {name = "[q4]煉獄契約", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 使受到的所有傷害降低50%，持續20秒，最多共可抵消[ 985 * (1 + 臨機應變)]點傷害。此效果結束時，你受到傷害時會額外受到20%的火焰傷害，持續30秒，最多額外承受 4197 點傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][140808] = {name = "[q4]靈魂晶露", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 陷入魔化狂怒，每0.25秒隨機對附近一名敵人造成 34 點暗影傷害，持續3秒。狂怒期間無法移動或使用技能。 (1分鐘，20秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][140809] = {name = "[q4]暗處細語", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的傷害法術有一定機率產生邪惡協定效果，使所有法術的施法速度提高 0 %，持續12秒。邪惡協定效果結束時，你的施法速度會降低 0 %，持續8秒。（20秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][140810] = {name = "[q4]預視靈魂珠寶", additional_info = "拾取後綁定\n秘法神器遺物\n+\n售價:"}
@@ -6112,7 +6112,7 @@ MultiLanguageItemData['tw'][141581] = {name = "[q4]德瑪的慈愛指環", addit
 MultiLanguageItemData['tw'][141582] = {name = "[q4]弗朗的不羈指環", additional_info = "裝備後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 14 加速\n售價:"}
 MultiLanguageItemData['tw'][141583] = {name = "[q4]薩米德的異像戒指", additional_info = "裝備後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 14 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][141584] = {name = "[q4]艾亞蘇的換牌", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]使用: 在5秒後，致命一擊、加速、精通或臨機應變提高 32 點，持續20秒。你可以在5秒內重新啟動這個效果一次，切換獲得的加成。(2分鐘冷卻時間)\n售價:"}
-MultiLanguageItemData['tw'][141585] = {name = "[q4]六羽扇", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+5 敏捷\n[q2]裝備： 你的攻擊有一定機率發射6支颶風箭，每支颶風箭對你的目標造成 19 點自然傷害，並使其緩速 30 %，持續6秒。\n[q]\"它的力量之大，就連最兇惡的生物也被其清涼微風鎮服。\"\n售價:"}
+MultiLanguageItemData['tw'][141585] = {name = "[q4]六羽扇", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+5 敏捷\n[q2]裝備： 你的攻擊有一定機率發射6支颶風箭，每支颶風箭對你的目標造成 19 點自然傷害，並使其緩速30%，持續6秒。\n[q]\"它的力量之大，就連最兇惡的生物也被其清涼微風鎮服。\"\n售價:"}
 MultiLanguageItemData['tw'][141586] = {name = "[q4]瑪爾菲希的大型香爐", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+5 力量\n[q2]裝備： 你的攻擊有機會將致命一擊的傷害提高 0 %，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][141587] = {name = "[q4]依瑟麗雅女王的墜飾", additional_info = "裝備後綁定\n頸部\n+4 耐力\n[q2]+ 8 加速\n[q2]+ 6 精通\n[q]\"依瑟麗雅與奎雷坦親王共同統治，她的英明決斷，讓部族連在戰時也依然茁壯興盛。\"\n售價:"}
 MultiLanguageItemData['tw'][141588] = {name = "[q4]潔米爾‧亮心的護符", additional_info = "裝備後綁定\n頸部\n+4 耐力\n[q2]+ 10 致命一擊\n[q2]+ 4 臨機應變\n[q]\"潔米爾對聖光的忠貞信仰，將葛羅克帶回她的身邊，讓他們安然渡過大崩裂的劫難。\"\n售價:"}
@@ -6490,12 +6490,12 @@ MultiLanguageItemData['tw'][142159] = {name = "[q4]染血的手帕", additional_
 MultiLanguageItemData['tw'][142160] = {name = "[q4]莫哩呀的青睞", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]使用: 以雷霆儀式標記一名敵人，於3秒後造成 69 點自然傷害。如果敵人受到焰風影響，則雷霆儀式造成的傷害提高30%，並使其陷入昏迷3秒。 (30秒 冷卻)\n[q]\"標有烏鴉圖徽。\"\n售價:"}
 MultiLanguageItemData['tw'][142161] = {name = "[q4]無可逃避之懼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]裝備： 你的攻擊有機會召喚無形魅影來糾纏你的目標，降低他們對你的自動攻擊傷害，每次攻擊最多降低 214 點，持續12秒。\n[q]\"標有烏鴉圖徽。\"\n售價:"}
 MultiLanguageItemData['tw'][142162] = {name = "[q4]浮動的能量", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的治療法術有一定機率在附近產生流竄的法力，持續30秒。接觸流竄的法力能為你恢復 58 點法力。\n[q]\"標有烏鴉圖徽。\"\n售價:"}
-MultiLanguageItemData['tw'][142164] = {name = "[q4]東泥的承諾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 在敵人所在位置形成焰風，在8秒內造成( 10 * 8)點火焰傷害。如果焰風擊中受到雷霆儀式影響的敵人，則焰風的範圍半徑延長 50 %，造成的傷害提高 30 %。 (1分鐘 冷卻)\n[q]\"標有烏鴉圖徽。\"\n售價:"}
+MultiLanguageItemData['tw'][142164] = {name = "[q4]東泥的承諾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 在敵人所在位置形成焰風，在8秒內造成( 10 * 8)點火焰傷害。如果焰風擊中受到雷霆儀式影響的敵人，則焰風的範圍半徑延長50%，造成的傷害提高30%。 (1分鐘 冷卻)\n[q]\"標有烏鴉圖徽。\"\n售價:"}
 MultiLanguageItemData['tw'][142165] = {name = "[q4]衰變的傀儡核心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 智力]\n[q2]裝備： 你的遠程攻擊與法術有一定的機率釋放一個易變能量球體，朝你的目標飛去，對穿過的所有敵人造成 28 點傷害。\n[q]\"標有烏鴉圖徽。\"\n售價:"}
 MultiLanguageItemData['tw'][142166] = {name = "[q4]無形之甕", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量 or 智力]\n[q2]+ 7 精通\n[q2]使用: 立即移除所有恐懼效果。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][142167] = {name = "[q4]命令之眼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量]\n[q2]裝備： 你的近戰自動攻擊可以讓致命一擊提高 1 點，持續10秒，最多可以堆疊10次。如果你自動攻擊另一個目標則重置此效果。\n[q]\"標有烏鴉圖徽。\"\n售價:"}
 MultiLanguageItemData['tw'][142168] = {name = "[q4]管理者的晚餐鈴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]使用: 使一項隨機次要屬性提高 39 點，持續15秒。 (1分鐘，30秒 冷卻)\n[q]\"標有烏鴉圖徽。\"\n售價:"}
-MultiLanguageItemData['tw'][142169] = {name = "[q4]烏鴉幻象", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 耐力\n[q2]+ 6 精通\n[q2]使用: 召喚一個守護者魔寵，保護附近4名盟友，持續20秒。每位盟友受到的 50 %傷害會轉移到你身上，每名目標最多轉移 52 點傷害。 (2分鐘 冷卻)\n[q]\"標有烏鴉圖徽。\"\n售價:"}
+MultiLanguageItemData['tw'][142169] = {name = "[q4]烏鴉幻象", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 耐力\n[q2]+ 6 精通\n[q2]使用: 召喚一個守護者魔寵，保護附近4名盟友，持續20秒。每位盟友受到的50%傷害會轉移到你身上，每名目標最多轉移 52 點傷害。 (2分鐘 冷卻)\n[q]\"標有烏鴉圖徽。\"\n售價:"}
 MultiLanguageItemData['tw'][142170] = {name = "[q4]羞恥披氅", additional_info = "拾取後綁定背部\n3護甲\n+3 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 臨機應變\n[q2]裝備： 你的極效治療造成的治療效果提高3%。\n售價:"}
 MultiLanguageItemData['tw'][142171] = {name = "[q4]夜色鎮貴族徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 9 臨機應變\n[q2]+ 5 精通\n[q2]裝備： 你第一次對一名敵人造成傷害時，使該名敵人對你造成的傷害降低10%，持續4秒。\n售價:"}
 MultiLanguageItemData['tw'][142172] = {name = "[q4]泰瑞斯提安的璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 6 致命一擊\n[q2]+ 8 加速\n[q]\"某人遺留在展示廳的東西。\"\n售價:"}
@@ -8023,7 +8023,7 @@ MultiLanguageItemData['tw'][144013] = {name = "[q3]怨靈足靴", additional_inf
 MultiLanguageItemData['tw'][144014] = {name = "[q3]釋放痛苦護腿", additional_info = "拾取後綁定{腿部} {布甲}\n4護甲\n+4 智力\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][144015] = {name = "[q3]勇鋼肩甲", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+3 [力量 or 智力]\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 5 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][144016] = {name = "[q3]痛苦課程肩衛", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+3 [力量 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n耐久: 85 / 85\n售價:"}
-MultiLanguageItemData['tw'][144017] = {name = "[q3]水衝頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n耐久: 100 / 100\n售價:"}
+MultiLanguageItemData['tw'][144017] = {name = "[q3]水衝頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][144018] = {name = "[q3]落塵過濾兜帽", additional_info = "拾取後綁定{頭部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][144019] = {name = "[q3]蟲群呼喚頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][144020] = {name = "[q3]氏族領主紋章", additional_info = "拾取後綁定{頭部} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n耐久: 85 / 85\n售價:"}
@@ -10205,21 +10205,21 @@ MultiLanguageItemData['tw'][146409] = {name = "夜裔靈魂石", additional_info
 MultiLanguageItemData['tw'][146411] = {name = "梵陀符文技藝：薩格拉斯之墓", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作梵陀符文：薩格拉斯之墓。\n[q2]製造一枚梵陀符文：薩格拉斯之墓。\n需要 軍團銘文學 (1)\n售價: \n梵陀符文：薩格拉斯之墓\n[q2]使用: 讓你自身與薩格拉斯之墓中特定團隊首領的能量同調，和這名首領對戰時，你的臨機應變將提高 3380 點。此效果持續一週。\n\n 你每週只能使用一枚梵陀符文。\n售價: \n需要 灰黃色顏料 (10), 玫瑰色顏料 (30)"}
 MultiLanguageItemData['tw'][146412] = {name = "梵陀符文技藝：薩格拉斯之墓", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作梵陀符文：薩格拉斯之墓。\n[q2]減少製造梵陀符文：薩格拉斯之墓所需材料。\n需要 軍團銘文學 (1)\n售價: \n梵陀符文：薩格拉斯之墓\n[q2]使用: 讓你自身與薩格拉斯之墓中特定團隊首領的能量同調，和這名首領對戰時，你的臨機應變將提高 3380 點。此效果持續一週。\n\n 你每週只能使用一枚梵陀符文。\n售價: \n需要 灰黃色顏料 (8), 玫瑰色顏料 (30)"}
 MultiLanguageItemData['tw'][146413] = {name = "梵陀符文技藝：薩格拉斯之墓", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作梵陀符文：薩格拉斯之墓。\n[q2]大幅減少製造梵陀符文：薩格拉斯之墓所需材料。\n需要 軍團銘文學 (1)\n售價: \n梵陀符文：薩格拉斯之墓\n[q2]使用: 讓你自身與薩格拉斯之墓中特定團隊首領的能量同調，和這名首領對戰時，你的臨機應變將提高 3380 點。此效果持續一週。\n\n 你每週只能使用一枚梵陀符文。\n售價: \n需要 灰黃色顏料 (6), 玫瑰色顏料 (30)"}
-MultiLanguageItemData['tw'][146419] = {name = "[q3]套裝：嗜血鬥士鍊甲護甲", additional_info = "第9季\n拾取後綁定 職業： 獵人\n[q2]使用: 收集嗜血鬥士鍊甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146419] = {name = "[q3]套裝：嗜血鬥士鍊甲護甲", additional_info = "第9季\n拾取後綁定 職業： 獵人\n[q2]使用: 收集嗜血鬥士鍊甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146421] = {name = "[q3]套裝：嗜血鬥士龍皮護甲", additional_info = "第9季\n拾取後綁定 職業： 德魯伊\n[q2]使用: 收集嗜血鬥士龍皮護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146423] = {name = "[q3]套裝：嗜血鬥士懼鎧護甲", additional_info = "第9季\n拾取後綁定 職業： 死亡騎士\n[q2]使用: 收集嗜血鬥士懼鎧護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146425] = {name = "[q3]套裝：嗜血鬥士魔織護甲", additional_info = "第9季\n拾取後綁定 職業： 術士\n[q2]使用: 收集嗜血鬥士魔織護甲套裝外觀。"}
-MultiLanguageItemData['tw'][146427] = {name = "[q3]套裝：嗜血鬥士皮甲護甲", additional_info = "第9季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集嗜血鬥士皮甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146427] = {name = "[q3]套裝：嗜血鬥士皮甲護甲", additional_info = "第9季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集嗜血鬥士皮甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146429] = {name = "[q3]套裝：嗜血鬥士鎧甲護甲", additional_info = "第9季\n拾取後綁定 職業： 戰士\n[q2]使用: 收集嗜血鬥士鎧甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146431] = {name = "[q3]套裝：嗜血鬥士環甲護甲", additional_info = "第9季\n拾取後綁定 職業： 薩滿\n[q2]使用: 收集嗜血鬥士環甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146433] = {name = "[q3]套裝：嗜血鬥士緞質護甲", additional_info = "第9季\n拾取後綁定 職業： 牧師\n[q2]使用: 收集嗜血鬥士緞質護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146435] = {name = "[q3]套裝：嗜血鬥士綴鱗護甲", additional_info = "第9季\n拾取後綁定 職業： 聖騎士\n[q2]使用: 收集嗜血鬥士綴鱗護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146437] = {name = "[q3]套裝：嗜血鬥士絲質護甲", additional_info = "第9季\n拾取後綁定 職業： 法師\n[q2]使用: 收集嗜血鬥士絲質護甲套裝外觀。"}
-MultiLanguageItemData['tw'][146439] = {name = "[q4]套裝：絕命鬥士鍊甲護甲", additional_info = "第11季\n拾取後綁定 職業： 獵人\n[q2]使用: 收集絕命鬥士鍊甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146439] = {name = "[q4]套裝：絕命鬥士鍊甲護甲", additional_info = "第11季\n拾取後綁定 職業： 獵人\n[q2]使用: 收集絕命鬥士鍊甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146441] = {name = "[q4]套裝：絕命鬥士龍皮護甲", additional_info = "第11季\n拾取後綁定 職業： 德魯伊\n[q2]使用: 收集絕命鬥士龍皮護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146443] = {name = "[q4]套裝：絕命鬥士懼鎧護甲", additional_info = "第11季\n拾取後綁定 職業： 死亡騎士\n[q2]使用: 收集絕命鬥士懼鎧護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146445] = {name = "[q4]套裝：絕命鬥士魔織護甲", additional_info = "第11季\n拾取後綁定 職業： 術士\n[q2]使用: 收集絕命鬥士魔織護甲套裝外觀。\n已經學會"}
-MultiLanguageItemData['tw'][146447] = {name = "[q4]套裝：絕命鬥士皮甲護甲", additional_info = "第11季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集絕命鬥士皮甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146447] = {name = "[q4]套裝：絕命鬥士皮甲護甲", additional_info = "第11季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集絕命鬥士皮甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146449] = {name = "[q4]套裝：絕命鬥士鎧甲護甲", additional_info = "第11季\n拾取後綁定 職業： 戰士\n[q2]使用: 收集絕命鬥士鎧甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146451] = {name = "[q4]套裝：絕命鬥士環甲護甲", additional_info = "第11季\n拾取後綁定 職業： 薩滿\n[q2]使用: 收集絕命鬥士環甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146453] = {name = "[q4]套裝：絕命鬥士緞質護甲", additional_info = "第11季\n拾取後綁定 職業： 牧師\n[q2]使用: 收集絕命鬥士緞質護甲套裝外觀。"}
@@ -10229,17 +10229,17 @@ MultiLanguageItemData['tw'][146499] = {name = "[q4]套裝：殘酷鬥士鍊甲�
 MultiLanguageItemData['tw'][146501] = {name = "[q4]套裝：殘酷鬥士龍皮護甲", additional_info = "第10季\n拾取後綁定 職業： 德魯伊\n[q2]使用: 收集殘酷鬥士龍皮護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146503] = {name = "[q4]套裝：殘酷鬥士懼鎧護甲", additional_info = "第10季\n拾取後綁定 職業： 死亡騎士\n[q2]使用: 收集殘酷鬥士懼鎧護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146505] = {name = "[q4]套裝：殘酷鬥士魔織護甲", additional_info = "第10季\n拾取後綁定 職業： 術士\n[q2]使用: 收集殘酷鬥士魔織護甲套裝外觀。"}
-MultiLanguageItemData['tw'][146507] = {name = "[q4]套裝：殘酷鬥士皮甲護甲", additional_info = "第10季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集殘酷鬥士皮甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146507] = {name = "[q4]套裝：殘酷鬥士皮甲護甲", additional_info = "第10季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集殘酷鬥士皮甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146509] = {name = "[q4]套裝：殘酷鬥士鎧甲護甲", additional_info = "第10季\n拾取後綁定 職業： 戰士\n[q2]使用: 收集殘酷鬥士鎧甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146511] = {name = "[q4]套裝：殘酷鬥士環甲護甲", additional_info = "第10季\n拾取後綁定 職業： 薩滿\n[q2]使用: 收集殘酷鬥士環甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146513] = {name = "[q4]套裝：殘酷鬥士緞質護甲", additional_info = "第10季\n拾取後綁定 職業： 牧師\n[q2]使用: 收集殘酷鬥士緞質護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146515] = {name = "[q4]套裝：殘酷鬥士綴鱗護甲", additional_info = "第10季\n拾取後綁定 職業： 聖騎士\n[q2]使用: 收集殘酷鬥士綴鱗護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146517] = {name = "[q4]套裝：殘酷鬥士絲質護甲", additional_info = "第10季\n拾取後綁定 職業： 法師\n[q2]使用: 收集殘酷鬥士絲質護甲套裝外觀。"}
-MultiLanguageItemData['tw'][146519] = {name = "[q4]套裝：兇惡鬥士鍊甲護甲", additional_info = "第9季\n拾取後綁定 職業： 獵人\n[q2]使用: 收集兇惡鬥士鍊甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146519] = {name = "[q4]套裝：兇惡鬥士鍊甲護甲", additional_info = "第9季\n拾取後綁定 職業： 獵人\n[q2]使用: 收集兇惡鬥士鍊甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146521] = {name = "[q4]套裝：兇惡鬥士龍皮護甲", additional_info = "第9季\n拾取後綁定 職業： 德魯伊\n[q2]使用: 收集兇惡鬥士龍皮護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146523] = {name = "[q4]套裝：兇惡鬥士懼鎧護甲", additional_info = "第9季\n拾取後綁定 職業： 死亡騎士\n[q2]使用: 收集兇惡鬥士懼鎧護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146525] = {name = "[q4]套裝：兇惡鬥士魔織護甲", additional_info = "第9季\n拾取後綁定 職業： 術士\n[q2]使用: 收集兇惡鬥士魔織護甲套裝外觀。"}
-MultiLanguageItemData['tw'][146527] = {name = "[q4]套裝：兇惡鬥士皮甲護甲", additional_info = "第9季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集兇惡鬥士皮甲護甲套裝外觀。"}
+MultiLanguageItemData['tw'][146527] = {name = "[q4]套裝：兇惡鬥士皮甲護甲", additional_info = "第9季\n拾取後綁定 職業： 盜賊\n[q2]使用: 收集兇惡鬥士皮甲護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146529] = {name = "[q4]套裝：兇惡鬥士鎧甲護甲", additional_info = "第9季\n拾取後綁定 職業： 戰士\n[q2]使用: 收集兇惡鬥士鎧甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146531] = {name = "[q4]套裝：兇惡鬥士環甲護甲", additional_info = "第9季\n拾取後綁定 職業： 薩滿\n[q2]使用: 收集兇惡鬥士環甲護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146533] = {name = "[q4]套裝：兇惡鬥士緞質護甲", additional_info = "第9季\n拾取後綁定 職業： 牧師\n[q2]使用: 收集兇惡鬥士緞質護甲套裝外觀。"}
@@ -10342,7 +10342,7 @@ MultiLanguageItemData['tw'][146634] = {name = "[q4]套裝：仇恨鬥士環甲�
 MultiLanguageItemData['tw'][146635] = {name = "[q4]套裝：仇恨鬥士緞質護甲", additional_info = "第3季\n拾取後綁定 職業： 牧師\n[q2]使用: 收集仇恨鬥士緞質護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146636] = {name = "[q4]套裝：仇恨鬥士綴鱗護甲", additional_info = "第3季\n拾取後綁定 職業： 聖騎士\n[q2]使用: 收集仇恨鬥士綴鱗護甲套裝外觀。"}
 MultiLanguageItemData['tw'][146637] = {name = "[q4]套裝：仇恨鬥士絲質護甲", additional_info = "第3季\n拾取後綁定 職業： 法師\n[q2]使用: 收集仇恨鬥士絲質護甲套裝外觀。"}
-MultiLanguageItemData['tw'][146639] = {name = "[q4]武器庫：絕命鬥士武器", additional_info = "拾取後綁定\n[q2]使用: 收集絕命鬥士武器套裝外觀。"}
+MultiLanguageItemData['tw'][146639] = {name = "[q4]武器庫：絕命鬥士武器", additional_info = "拾取後綁定\n[q2]使用: 收集絕命鬥士武器套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][146640] = {name = "[q4]武器庫：殘酷鬥士武器", additional_info = "拾取後綁定\n[q2]使用: 收集殘酷鬥士武器套裝外觀。"}
 MultiLanguageItemData['tw'][146641] = {name = "[q4]武器庫：兇惡鬥士武器", additional_info = "拾取後綁定\n[q2]使用: 收集兇惡鬥士武器套裝外觀。"}
 MultiLanguageItemData['tw'][146642] = {name = "[q4]武器庫：憤怒鬥士武器", additional_info = "拾取後綁定\n[q2]使用: 收集憤怒鬥士武器套裝外觀。"}
@@ -10654,14 +10654,14 @@ MultiLanguageItemData['tw'][147003] = {name = "[q4]野蠻役心者", additional_
 MultiLanguageItemData['tw'][147004] = {name = "[q4]深海之母海星", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]裝備： 你的 多目標治療法術 有一定機率讓你獲得海洋之擁，每0.25秒為15碼內的負傷盟友治療 7 點生命力，持續8秒。 僅適用於治療者專精。\n售價:"}
 MultiLanguageItemData['tw'][147005] = {name = "[q4]夜光杯", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的治療法術有一定機率使你的致命一擊或加速提高 22 點，持續12秒。這個效果會在白天提供致命一擊，在夜晚提供加速。\n售價:"}
 MultiLanguageItemData['tw'][147006] = {name = "[q4]信心秘典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]使用: 對一名盟友引導淨化矩陣，在3秒內治療 439 點生命力。全程引導之後，該盟友會獲得可吸收 160 點傷害的護盾，持續10秒。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][147007] = {name = "[q4]欺詐者的大計", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 以指引之手標示一名友方玩家，每3.0秒為其治療 22 點生命力，持續2分鐘。如果他們的生命力降至 35 %以下，就會消耗指引之手來獲得護盾，抵消後續的[(1 + 臨機應變) * 379 ]點傷害，持續15秒。(恢復時間2分鐘，可使用2次)\n售價:"}
+MultiLanguageItemData['tw'][147007] = {name = "[q4]欺詐者的大計", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 以指引之手標示一名友方玩家，每3.0秒為其治療 22 點生命力，持續2分鐘。如果他們的生命力降至35%以下，就會消耗指引之手來獲得護盾，抵消後續的[(1 + 臨機應變) * 379 ]點傷害，持續15秒。(恢復時間2分鐘，可使用2次)\n售價:"}
 MultiLanguageItemData['tw'][147009] = {name = "[q4]煉獄燼火", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 你的近戰攻擊有一定的機率額外造成 20 點火焰傷害。10碼範圍內每多一名盟友帶著這個物品，這個攻擊造成致命一擊的機率就提高10%。\n售價:"}
 MultiLanguageItemData['tw'][147010] = {name = "[q4]痛苦搖籃", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 你的生命力高於80%時，你每秒獲得 1 點力量或敏捷，視你的專精而定，最多可堆疊10次。若你的生命力掉到50%以下，效果即會消失。\n售價:"}
-MultiLanguageItemData['tw'][147011] = {name = "[q4]無盡毒素之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量]\n[q2]使用: 對一名近戰範圍內的敵人造成 56 點暗影傷害，並在20秒內額外造成 91 點傷害。如果他們死亡時這個效果仍在發揮作用，此技能的冷卻時間縮短 45 秒。 (1分鐘 冷卻)\n[q]\"這次帶點鰻魚。\"\n售價:"}
+MultiLanguageItemData['tw'][147011] = {name = "[q4]無盡毒素之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量]\n[q2]使用: 對一名近戰範圍內的敵人造成 56 點暗影傷害，並在20秒內額外造成 91 點傷害。如果他們死亡時這個效果仍在發揮作用，此技能的冷卻時間縮短45秒。 (1分鐘 冷卻)\n[q]\"這次帶點鰻魚。\"\n售價:"}
 MultiLanguageItemData['tw'][147012] = {name = "[q4]陰影月刃", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]使用: 在你的位置召喚旋刃風暴，每1秒對附近敵人造成 18 點秘法傷害。旋刃會在8秒後爆碎，對區域中的敵人額外造成 49 點秘法傷害。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][147013] = {name = "[q4]犬齒串鍊", additional_info = "拾取後綁定頸部\n+4 耐力\n[q2]+ 8 加速\n[q2]+ 6 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][147014] = {name = "[q4]殘破靈魂墜盒", additional_info = "拾取後綁定頸部\n+4 耐力\n[q2]+ 6 致命一擊\n[q2]+ 8 精通\n售價:"}
-MultiLanguageItemData['tw'][147015] = {name = "[q4]滅絕引擎", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]裝備： 你的自動攻擊有一定機率使你的力量或敏捷提高 12 點，視你的專精而定，持續12秒，並釋放魔化能量球。收集魔化能量球可以讓這個效果的持續時間延長 3 秒。（12秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][147015] = {name = "[q4]滅絕引擎", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]裝備： 你的自動攻擊有一定機率使你的力量或敏捷提高 12 點，視你的專精而定，持續12秒，並釋放魔化能量球。收集魔化能量球可以讓這個效果的持續時間延長3秒。（12秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][147016] = {name = "[q4]深淵之懼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 你的遠程攻擊和法術有一定機率從深淵召喚一頭巨獸將目標整個吞下，造成 182 點自然傷害並由你和所有附近所有敵人分擔。（5秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][147017] = {name = "[q4]黯淡的哨兵勳章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 召喚一頭幽魂貓頭鷹攻擊你的目標，每1秒造成 15 點秘法傷害，持續20秒。你對同一個敵人施放的遠程攻擊和法術，有機率讓貓頭鷹額外攻擊一次，造成 19 點傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][147018] = {name = "[q4]鬼靈香爐", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]裝備： 你的遠程攻擊和法術有一定機率施放苦痛長矛。長矛會在3秒後射向目標，對行經路線上的所有敵人造成 73 點暗影傷害。（5秒 冷卻）\n售價:"}
@@ -10669,8 +10669,8 @@ MultiLanguageItemData['tw'][147019] = {name = "[q4]崩潰理智之書", addition
 MultiLanguageItemData['tw'][147020] = {name = "[q4]奴役之綴鱗指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 6 加速\n[q2]+ 8 精通\n售價:"}
 MultiLanguageItemData['tw'][147021] = {name = "[q4]雅賽的拇指戒環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+4 耐力\n[q2]+ 10 致命一擊\n[q2]+ 4 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][147022] = {name = "[q4]狂熱甲殼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量]\n[q2]裝備： 承受傷害有一定機率讓你的護甲值提高 20 點，並使你遭受攻擊時反彈 6 點傷害，視為火焰傷害。持續10秒。\n售價:"}
-MultiLanguageItemData['tw'][147023] = {name = "[q4]海巨獸之飢", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n{[q2]使用: 對敵人施放吞噬暗影，使其移動{速度降低 70 %，並在8秒內造成 134 點暗影傷害}。你會獲得相當於此傷害300%的治療量。 (1分鐘，30秒 冷卻)}\n售價:"}
-MultiLanguageItemData['tw'][147024] = {name = "[q4]詛咒聖匣", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]使用: 讓哀嚎之魂環繞在你身邊，抵消後續所受到的 50 %傷害，持續10秒，最高可達[ 585 * (1 + 臨機應變)]點傷害。此技能的冷卻時間會根據吸收的傷害量縮短冷卻時間，最多可縮短 30 秒。 (2分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][147023] = {name = "[q4]海巨獸之飢", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n{[q2]使用: 對敵人施放吞噬暗影，使其移動{速度降低70%，並在8秒內造成 134 點暗影傷害}。你會獲得相當於此傷害300%的治療量。 (1分鐘，30秒 冷卻)}\n售價:"}
+MultiLanguageItemData['tw'][147024] = {name = "[q4]詛咒聖匣", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 耐力\n[q2]使用: 讓哀嚎之魂環繞在你身邊，抵消後續所受到的50%傷害，持續10秒，最高可達[ 585 * (1 + 臨機應變)]點傷害。此技能的冷卻時間會根據吸收的傷害量縮短冷卻時間，最多可縮短30秒。 (2分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][147025] = {name = "[q4]重鑄之守護者模組", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]裝備： 承受傷害時有機會在6秒內為你治療 72 點生命力。此效果結束時，你和範圍15碼內最多4名盟友可獲得護盾，抵消接下來的 21 點傷害，持續15秒。（7秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][147026] = {name = "[q4]萬變宇宙裂片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]裝備： 承受傷害時有一定機率賦予你欺詐者的狡詐，最高可堆疊10層。\n[q2]使用: 消耗你的靈巧，每層堆疊可讓 一項強大防衛技能 的冷卻時間縮短 10 秒。如果 此強大防衛技能 處於作用期間，每層堆疊改為使持續時間延長 1 秒。 僅適用於坦克專精。 (20秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][147027] = {name = "[q4]破塔者背心", additional_info = "拾取後綁定{胸部} {皮甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 6 加速\n[q2]+ 3 精通\n耐久: 165 / 165\n售價:"}
@@ -13869,7 +13869,7 @@ MultiLanguageItemData['tw'][150424] = {name = "[q4]冰冷魔棒", additional_inf
 MultiLanguageItemData['tw'][150425] = {name = "[q4]雪盲輕鞋", additional_info = "拾取後綁定{腳} {布甲}\n2護甲\n+3 智力\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][150426] = {name = "[q4]火焰之怒勳章", additional_info = "拾取後綁定頸部\n+3 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 臨機應變\n{[q2]裝備： 使你的自動攻擊增加(主手武器最低基本{速度 * 0 )點火焰傷害}。}\n售價:"}
 MultiLanguageItemData['tw'][150427] = {name = "[q4]蒼穹擊碎者", additional_info = "拾取後綁定{單手} {權杖}\n{4-6點傷害} {速度 2.60}\n(每秒1.9點傷害)\n+2 [敏捷 or 力量]\n+3 耐力\n耐久: 110 / 110\n[q2]裝備： 你的近戰攻擊有一定的機率使你提高 14 點加速，持續10秒。\n售價:"}
-MultiLanguageItemData['tw'][150428] = {name = "[q4]艾斯卡達爾的左爪", additional_info = "拾取後綁定\n僅可裝備一件\n{單手} {拳套}\n{4-6點傷害} {速度 2.60}\n(每秒1.9點傷害)\n+2 敏捷\n+3 耐力\n耐久: 80 / 80\n[q2]裝備： 你的近戰攻擊有一定機率掃擊敵人，使其移動速度降低 30 %，並使其流血，在30秒內受到 43 點物理傷害。\n售價:"}
+MultiLanguageItemData['tw'][150428] = {name = "[q4]艾斯卡達爾的左爪", additional_info = "拾取後綁定\n僅可裝備一件\n{單手} {拳套}\n{4-6點傷害} {速度 2.60}\n(每秒1.9點傷害)\n+2 敏捷\n+3 耐力\n耐久: 80 / 80\n[q2]裝備： 你的近戰攻擊有一定機率掃擊敵人，使其移動速度降低30%，並使其流血，在30秒內受到 43 點物理傷害。\n售價:"}
 MultiLanguageItemData['tw'][150429] = {name = "[q4]翡翠龍牙", additional_info = "拾取後綁定{單手} {匕首}\n{2-5點傷害} {速度 1.80}\n(每秒1.9點傷害)\n+2 敏捷\n+3 耐力\n耐久: 80 / 80\n[q2]裝備： 你的近戰攻擊有一定機率以酸液轟擊敵人，造成 16 點自然傷害。\n售價:"}
 MultiLanguageItemData['tw'][150430] = {name = "黏稠的內臟", additional_info = "任務物品\n[q]\"金龜子的腸道在許多文化中都被視為佳餚。\""}
 MultiLanguageItemData['tw'][150431] = {name = "無瑕的甲蟲眼", additional_info = "任務物品\n[q]\"這強大的材料據說能用來占卜，讓施法者看穿最遙遠的未來。\""}
@@ -13978,7 +13978,7 @@ MultiLanguageItemData['tw'][150536] = {name = "[q4]伊利達瑞高階領主風�
 MultiLanguageItemData['tw'][150543] = {name = "[q4]鑲嵌藍寶石的外套", additional_info = "拾取後綁定{胸部} {皮甲}\n7護甲\n+4 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][150544] = {name = "[q4]法力霜結肩鎧", additional_info = "拾取後綁定{肩部} {鎖甲}\n7護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][150545] = {name = "[q4]上古秘法指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+3 耐力\n[q2]+ 3 致命一擊\n[q2]+ 7 臨機應變\n售價:"}
-MultiLanguageItemData['tw'][150546] = {name = "[q2]吸血蟲幼蟲", additional_info = "拾取後綁定\n唯一（5）\n持續時間：1天 (實時)\n[q2]使用: 吞食幼蟲，讓汲取提高 30 %，持續15分鐘。\n[q]\"它企圖咬你。\""}
+MultiLanguageItemData['tw'][150546] = {name = "[q2]吸血蟲幼蟲", additional_info = "拾取後綁定\n唯一（5）\n持續時間：1天 (實時)\n[q2]使用: 吞食幼蟲，讓汲取提高30%，持續15分鐘。\n[q]\"它企圖咬你。\""}
 MultiLanguageItemData['tw'][150547] = {name = "[q3]黑旗", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 升起黑旗。 (30秒 冷卻)\n[q]\"豎起黑旗。宣告大眾我們來了。這樣比較好玩。\"\n售價:"}
 MultiLanguageItemData['tw'][150550] = {name = "[q4]殺戮者護胸", additional_info = "拾取後綁定{胸部} {皮甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 165 / 165 職業： 盜賊\n售價:"}
 MultiLanguageItemData['tw'][150551] = {name = "[q4]猛擊防禦護胸", additional_info = "拾取後綁定{胸部} {板甲}\n15護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 165 / 165 職業： 戰士\n售價:"}
@@ -14171,7 +14171,7 @@ MultiLanguageItemData['tw'][150740] = {name = "[q3]胖鳥娃娃", additional_inf
 MultiLanguageItemData['tw'][150741] = {name = "[q2]海盜鼠", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][150742] = {name = "寵物收割者0.9型", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][150743] = {name = "[q7]偵察地圖：卡林多生存指南", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現卡林多各處的飛行點並顯現出整張地圖。\n[q]\"各種長著獠牙、揮舞利爪、藏有劇毒，還有效忠部落的兇蠻野獸資訊全集。\""}
-MultiLanguageItemData['tw'][150744] = {name = "[q7]偵察地圖：與大地之母一起走遍卡林多", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現卡林多各處的飛行點並顯現出整張地圖。\n[q]\"療養邪惡、腐化，還有畸變之徒在大地上造成的瘡疤。\""}
+MultiLanguageItemData['tw'][150744] = {name = "[q7]偵察地圖：與大地之母一起走遍卡林多", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現卡林多各處的飛行點並顯現出整張地圖。\n已經學會\n[q]\"療養邪惡、腐化，還有畸變之徒在大地上造成的瘡疤。\""}
 MultiLanguageItemData['tw'][150745] = {name = "[q7]偵察地圖：東部王國戰役計畫", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現東部王國各處的飛行點並顯現出整張地圖。\n[q]\"在發生第四次大戰的情況下，快速癱瘓聯盟手下東部王國部隊的綜合策略。\""}
 MultiLanguageItemData['tw'][150746] = {name = "[q7]偵察地圖：東部王國現代化部屬報告", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現東部王國各處的飛行點並顯現出整張地圖。\n[q]\"即時支援與補給東部王國哨站的謙卑提案。\""}
 MultiLanguageItemData['tw'][150747] = {name = "[q2]明亮的瓶子", additional_info = "唯一\n[q2]使用: 結合明亮的瓶子、克斯特拉斯腐質和月華水來製造一份月吻靈藥。 (3秒 冷卻)\n需要梟獸節"}
@@ -14943,7 +14943,7 @@ MultiLanguageItemData['tw'][151816] = {name = "部落旌旗", additional_info = 
 MultiLanguageItemData['tw'][151817] = {name = "[q5]焦躁詛咒", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n背部\n3護甲\n+3 敏捷\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n職業： 盜賊\n[q2]裝備： 不息之刃每消耗一個連擊點數可額外使能量刺激的冷卻時間縮短0.5秒。\n[q2]裝備： 每消耗一個連擊點數，不息之刃會使驚懼雙刀的詛咒冷卻時間縮短0.25秒。\n[q]\"我們焦躁不安。我們需要目標。\"\n售價:"}
 MultiLanguageItemData['tw'][151818] = {name = "[q5]死亡開端", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{手} {皮甲}\n5護甲\n+4 敏捷\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 精通\n耐久: 70 / 70 職業： 盜賊\n[q2]裝備： 啟動死亡徵兆之後的2秒內，暗影打擊會額外產生3個連擊點數，背刺會額外產生4個連擊點數。（500毫秒 冷卻）\n[q]\"死亡終究會降臨在所有人身上…\"\n售價:"}
 MultiLanguageItemData['tw'][151819] = {name = "[q5]悶燃之心", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{手} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 3 精通\n耐久: 70 / 70 職業： 薩滿\n[q2]裝備： 你每消耗一點元能，就有 [ 風暴打擊 : 0.12% / 0.10%]的機率獲得卓越術效果，持續10秒。\n[q]\"數千個熾炎元素生物的精華都匯聚在這雙手套上，奇怪的是摸起來還是涼涼的。\"\n售價:"}
-MultiLanguageItemData['tw'][151821] = {name = "[q5]收割大師", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{胸部} {布甲}\n5護甲\n+5 智力\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 200 / 200 職業： 術士\n[q2]裝備： 你每消耗一塊靈魂裂片，就有 [ 惡魔學識 : 3% ] [ 毀滅 : 6% /\n\n痛苦\n9% ]的機率賦予你靈魂收割效果，持續8秒。\n[q]\"苦難可以淬鍊出最強大的靈魂。\"\n售價:"}
+MultiLanguageItemData['tw'][151821] = {name = "[q5]收割大師", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{胸部} {布甲}\n5護甲\n+5 智力\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 200 / 200 職業： 術士\n[q2]裝備： 惡魔學識\n 你每消耗一塊靈魂裂片，就有3%的機率賦予你靈魂收割效果，持續8秒。\n\n毀滅\n 你每消耗一塊靈魂裂片，就有6%的機率賦予你靈魂收割效果，持續8秒。\n\n痛苦\n 你每消耗一塊靈魂裂片，就有9%的機率賦予你靈魂收割效果，持續8秒。\n[q]\"苦難可以淬鍊出最強大的靈魂。\"\n售價:"}
 MultiLanguageItemData['tw'][151822] = {name = "[q5]阿拉瑞特的血鏡", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{腿部} {板甲}\n16護甲\n+5 力量\n+7 耐力\n[q2]+ 5 臨機應變\n[q2]+ 5 精通\n耐久: 145 / 145 職業： 戰士\n[q2]裝備： 盾牌格擋和法術反射獲得1次額外使用次數。\n[q]\"巨龍、神明和惡魔所造成的傷口，讓他的鮮血灌注在閃耀的鋼鐵中。遠從其它界域，他仍然守護他的朋友。\"\n售價:"}
 MultiLanguageItemData['tw'][151823] = {name = "[q5]宏偉風暴之眼", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{頭部} {板甲}\n13護甲\n+5 力量\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 120 / 120 職業： 戰士\n[q2]裝備： 劍刃風暴會定期使你的移動速度提高10%且造成的傷害提高2%，持續6秒，最多可堆疊6次。\n[q]\"在風暴之眼沒有高低上下的分別。\"\n售價:"}
 MultiLanguageItemData['tw'][151824] = {name = "[q5]華爾拉亞之狂", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{腿部} {板甲}\n16護甲\n+5 力量\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 加速\n耐久: 145 / 145 職業： 戰士\n[q2]裝備： 暴怒對主要目標造成致命一擊時會產生6點怒氣。\n[q]\"他們可不玩什麼策略心機。\"\n售價:"}
@@ -15076,14 +15076,14 @@ MultiLanguageItemData['tw'][151966] = {name = "[q4]狂亂鉚釘頸飾", addition
 MultiLanguageItemData['tw'][151968] = {name = "[q4]影灼之牙", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]裝備： 你的近戰和遠程技能有一定機率使你的力量或敏捷提高 9 點，持續12秒。\n[q2]裝備： 你的自動攻擊有一定機率使你的致命一擊提高 14 點，持續12秒。\n售價:"}
 MultiLanguageItemData['tw'][151969] = {name = "[q4]航運站信標", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 呼叫一艘燃燒軍團船艦轟炸目標所在的區域，持續9秒，對目標附近12碼範圍內的所有目標造成 30 點火焰傷害。此效果也會對船艦本身造成傷害。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][151970] = {name = "[q4]活力共鳴器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 臨機應變\n[q2]使用: 轉移一名敵人的生命之力，使你的智力提高 18 點，持續15秒。對高生命力的目標使用時，會獲得更多智力。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][151971] = {name = "[q4]雅薩拉的劍鞘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的傷害法術有一定機率產生6把暗影之刃。2秒後，刀刃會向前發射，每把會對路徑上的第一個敵人造成 16 點暗影傷害，並使其接下來受到的暗影之刃傷害提高 10 %，持續3秒，最多可提高( 10 * 5)%。（6秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][151971] = {name = "[q4]雅薩拉的劍鞘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 智力\n[q2]裝備： 你的傷害法術有一定機率產生6把暗影之刃。2秒後，刀刃會向前發射，每把會對路徑上的第一個敵人造成 16 點暗影傷害，並使其接下來受到的暗影之刃傷害提高10%，持續3秒，最多可提高50%。（6秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][151972] = {name = "[q4]汙穢的萬神殿徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+5 耐力\n[q2]+ 7 臨機應變\n[q2]+ 10 精通\n售價:"}
 MultiLanguageItemData['tw'][151973] = {name = "[q4]空火項圈", additional_info = "拾取後綁定頸部\n+4 耐力\n[q2]+ 6 臨機應變\n[q2]+ 8 精通\n售價:"}
 MultiLanguageItemData['tw'][151974] = {name = "[q4]沙圖格的眼睛", additional_info = "拾取後綁定\n僅可裝備一件：獵犬之眼（1）\n飾品\n[q2]裝備： 如果附近的坦克專精盟友身上帶有相反的眼睛，護甲值提高 1 點，或是臨機應變提高 2 點。\n[q2]使用: 變形 眼睛 。 (30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][151975] = {name = "[q4]滅世裝置", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 降低你下10次受到的近戰攻擊傷害，每次最多可降低 38 點，最久可持續20秒。\n\n 承受近戰攻擊傷害可使此技能的冷卻時間縮短( 1000 / 1000)秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][151975] = {name = "[q4]滅世裝置", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]使用: 降低你下10次受到的近戰攻擊傷害，每次最多可降低 38 點，最久可持續20秒。\n\n 承受近戰攻擊傷害可使此技能的冷卻時間縮短1秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][151976] = {name = "[q4]裂隙世界律法", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 致命一擊\n[q2]裝備： 受到傷害時有一定的機率開啟另一個世界的傳送門，讓你恢復生命力、獲得可吸收傷害的護盾，或是受到暗焰魔法強化。（4秒 冷卻）\n售價:"}
-MultiLanguageItemData['tw'][151977] = {name = "[q4]迪伊瑪的冰河之盾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量]\n{[q2]使用: 使你的護甲值提高 2 點，持續12秒，並且對12碼範圍內的敵人造成 65 點冰霜傷害}，使其移動{速度降低 70 %，持續12秒。 (1分鐘 冷卻)}\n售價:"}
-MultiLanguageItemData['tw'][151978] = {name = "[q4]悶燃的泰坦之護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 引導可吸收 512 點傷害的烈焰壁壘，持續3秒。壁壘效果結束時，會釋放 4 道烈焰波，對路徑上的所有敵人造成 72 點火焰傷害。\n\n 在烈焰壁壘效果作用期間內，你無法移動或使用技能。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][151977] = {name = "[q4]迪伊瑪的冰河之盾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+5 [敏捷 or 力量]\n{[q2]使用: 使你的護甲值提高 2 點，持續12秒，並且對12碼範圍內的敵人造成 65 點冰霜傷害}，使其移動{速度降低70%，持續12秒。 (1分鐘 冷卻)}\n售價:"}
+MultiLanguageItemData['tw'][151978] = {name = "[q4]悶燃的泰坦之護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 精通\n[q2]使用: 引導可吸收 512 點傷害的烈焰壁壘，持續3秒。壁壘效果結束時，會釋放4道烈焰波，對路徑上的所有敵人造成 72 點火焰傷害。\n\n 在烈焰壁壘效果作用期間內，你無法移動或使用技能。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][151979] = {name = "[q4]成謎苦痛外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 6 加速\n[q2]+ 4 精通\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][151980] = {name = "[q4]迫襲黑暗背心", additional_info = "拾取後綁定{胸部} {皮甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 6 致命一擊\n[q2]+ 4 加速\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][151981] = {name = "[q4]生存薄靴", additional_info = "拾取後綁定{腳} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
@@ -16914,7 +16914,7 @@ MultiLanguageItemData['tw'][154171] = {name = "熾炎精華", additional_info = 
 MultiLanguageItemData['tw'][154172] = {name = "[q5]阿曼蘇爾的遠見", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n[q2]+ 6 致命一擊\n[q2]+ 6 加速\n[q2]+ 6 臨機應變\n[q2]+ 6 精通\n[q2]裝備： 你的法術和技能有一定機率使你的速度、迴避和汲取提高 9 點，持續12秒。\n\n阿曼蘇爾的尊榮\n 受到萬神殿的強化時，你的 智力 提高 6 點，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][154173] = {name = "[q4]阿格拉瑪的信念", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 受到傷害時有一定機率使你的臨機應變提高 27 點，持續14秒。\n\n阿格拉瑪的堅韌\n 受到萬神殿的強化時，你的生命力上限提高 94 點，持續15秒，並使你恢復生命力，持續 988 秒。\n售價:"}
 MultiLanguageItemData['tw'][154174] = {name = "[q4]葛剛尼斯的活力", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n+6 敏捷\n{[q2]裝備： 你的傷害性技能有一定機率在目標地點引發肆虐風暴，在6秒內對6碼範圍內的所有敵人造成( 10 * 6)點自然傷害}，由被擊中的敵人平均分攤。\n\n葛剛尼斯的雷霆震怒\n 受到萬神殿的強化時，你的自動攻擊會爆發閃電，對目標附近8碼範圍內的所有敵人造成[ 1 * (主手武器最低基本{速度) * 5 ]點自然傷害}。持續15秒。}\n售價:"}
-MultiLanguageItemData['tw'][154175] = {name = "[q4]伊歐娜的憐憫", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n+6 智力\n[q2]裝備： 每當你造成治療效果，有一定機率使附近長出翡翠之花，每 2 秒隨機為一名受傷的盟友恢復 16 點生命力。持續時間為12秒。\n\n伊歐娜的翠綠之擁\n 受到萬神殿的強化時，你下4次施放 直接治療 法術，會使目標獲得護盾，防止 24 點傷害，持續30秒。\n售價:"}
+MultiLanguageItemData['tw'][154175] = {name = "[q4]伊歐娜的憐憫", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n+6 智力\n[q2]裝備： 每當你造成治療效果，有一定機率使附近長出翡翠之花，每2秒隨機為一名受傷的盟友恢復 16 點生命力。持續時間為12秒。\n\n伊歐娜的翠綠之擁\n 受到萬神殿的強化時，你下4次施放 直接治療 法術，會使目標獲得護盾，防止 24 點傷害，持續30秒。\n售價:"}
 MultiLanguageItemData['tw'][154176] = {name = "[q4]卡茲格羅斯的勇氣", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n+6 力量\n{[q2]裝備： 你的傷害性攻擊有一定機率使你的武器燃起卡茲格羅斯熔爐的烈焰，使你的自動攻擊額外造成( 1 * 主手武器最低基本{速度 * 8 )點火焰傷害}，持續12秒。\n\n卡茲格羅斯的塑造\n 受到萬神殿的強化時，你的致命一擊、加速、精通或臨機應變提高 26 點，持續15秒。卡茲格羅斯一定會強化你最高的屬性。}\n售價:"}
 MultiLanguageItemData['tw'][154177] = {name = "[q4]諾甘農的威能", additional_info = "拾取後綁定\n僅可裝備一件：泰坦之途（1）\n飾品\n[q2]+ 8 精通\n[q2]裝備： 你的傷害性法術有一定機率使你的智力提高 22 點，持續12秒。\n\n諾甘農的號令\n 受到萬神殿的強化時，你會獲得6層諾甘農的號令，持續15秒。你的傷害法術會消耗一層諾甘農的號令，對目標額外造成 13 點隨機魔法系別傷害。\n售價:"}
 MultiLanguageItemData['tw'][154183] = {name = "[q3]波拉勒斯船長的鍊甲長靴", additional_info = "拾取後綁定{腳} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 精通\n耐久: 65 / 65\n售價:"}
@@ -17788,7 +17788,7 @@ MultiLanguageItemData['tw'][155943] = {name = "[q4]痛悔", additional_info = "�
 MultiLanguageItemData['tw'][155944] = {name = "[q4]薩鋼網鍊腿甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n9護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][155945] = {name = "[q4]侍婢鐐銬", additional_info = "拾取後綁定{手腕} {布甲}\n2護甲\n+2 智力\n+3 耐力\n[q2]+ 3 致命一擊\n[q2]+ 1 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][155946] = {name = "[q4]引導之星", additional_info = "拾取後綁定{單手} {權杖}\n{2-3點傷害} {速度 2.60}\n(每秒1.0點傷害)\n+12 智力\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 臨機應變\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][155947] = {name = "[q4]生命烈焰", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 致命一擊\n[q2]使用: 提高 15 點智力，持續20秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][155947] = {name = "[q4]生命烈焰", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 致命一擊\n[q2]使用: 提高 14 點智力，持續20秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][155948] = {name = "[q4]育母護腕", additional_info = "拾取後綁定{手腕} {皮甲}\n3護甲\n+2 [敏捷 or 智力]\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 3 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][155949] = {name = "[q4]獵龍者頭帶", additional_info = "拾取後綁定{頭部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 2 致命一擊\n[q2]+ 6 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][155950] = {name = "[q4]殞落巨龍腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 4 加速\n[q2]+ 2 臨機應變\n耐久: 55 / 55\n售價:"}
@@ -17832,7 +17832,7 @@ MultiLanguageItemData['tw'][155995] = {name = "[q4]莽撞急躁便鞋", addition
 MultiLanguageItemData['tw'][155996] = {name = "[q4]石英釘飾背心", additional_info = "拾取後綁定{胸部} {鎖甲}\n10護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 臨機應變\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][155997] = {name = "[q4]匆促復甦長靴", additional_info = "拾取後綁定{腳} {皮甲}\n4護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 3 加速\n[q2]+ 3 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][155998] = {name = "[q4]巨人之禍", additional_info = "拾取後綁定{遠程} {槍}\n{6-12點傷害} {速度 3.00}\n(每秒3.0點傷害)\n+4 敏捷\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 臨機應變\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][156000] = {name = "[q4]怒石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 致命一擊\n[q2]使用: 提高 15 點敏捷或力量，持續20秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][156000] = {name = "[q4]怒石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 致命一擊\n[q2]使用: 提高 14 點敏捷或力量，持續20秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][156001] = {name = "[q4]屠殺者臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n8護甲\n+2 [力量 or 智力]\n+3 耐力\n[q2]+ 3 致命一擊\n[q2]+ 1 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][156002] = {name = "[q4]獨石肩墊", additional_info = "拾取後綁定{肩部} {皮甲}\n5護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 3 加速\n[q2]+ 3 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][156003] = {name = "[q4]怨恨", additional_info = "拾取後綁定{單手} {劍}\n{4-7點傷害} {速度 2.60}\n(每秒2.1點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 1 致命一擊\n[q2]+ 3 加速\n耐久: 110 / 110\n售價:"}
@@ -17847,7 +17847,7 @@ MultiLanguageItemData['tw'][156011] = {name = "[q4]魔法釋放護腕", addition
 MultiLanguageItemData['tw'][156012] = {name = "[q4]鐵魂", additional_info = "拾取後綁定{雙手} {權杖}\n{9-12點傷害} {速度 3.60}\n(每秒2.9點傷害)\n+4 力量\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 5 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][156013] = {name = "[q4]烈焰守望臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n8護甲\n+2 [力量 or 智力]\n+3 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][156014] = {name = "[q4]躍動撕裂者", additional_info = "拾取後綁定{單手} {拳套}\n{4-7點傷害} {速度 2.60}\n(每秒2.1點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 1 致命一擊\n[q2]+ 3 加速\n耐久: 80 / 80\n售價:"}
-MultiLanguageItemData['tw'][156016] = {name = "[q4]黃鐵灌注器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 加速\n[q2]裝備： 你的近戰和遠程攻擊有一定機率使你的敏捷或力量提高 12 點，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][156016] = {name = "[q4]黃鐵灌注器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 加速\n[q2]裝備： 你的近戰和遠程攻擊有一定機率使你的敏捷或力量提高 11 點，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][156017] = {name = "[q4]炎魂", additional_info = "拾取後綁定\n僅可裝備一件\n{單手} {劍}\n{2-4點傷害} {速度 2.60}\n(每秒1.2點傷害)\n+12 智力\n+3 耐力\n[q2]+ 3 加速\n[q2]+ 1 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][156018] = {name = "[q4]炎行者護胸", additional_info = "拾取後綁定{胸部} {鎖甲}\n10護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 6 致命一擊\n[q2]+ 2 臨機應變\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][156019] = {name = "[q4]生命火光面具", additional_info = "拾取後綁定{頭部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 臨機應變\n耐久: 100 / 100\n售價:"}
@@ -18046,7 +18046,7 @@ MultiLanguageItemData['tw'][156284] = {name = "[q4]培養之觸", additional_inf
 MultiLanguageItemData['tw'][156285] = {name = "[q4]保衛者披肩", additional_info = "拾取後綁定{肩部} {布甲}\n3護甲\n+3 智力\n+4 耐力\n[q2]+ 4 致命一擊\n[q2]+ 1 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][156286] = {name = "[q4]守衛者頭罩", additional_info = "拾取後綁定{頭部} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 6 致命一擊\n[q2]+ 2 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][156287] = {name = "[q4]腐化衣飾", additional_info = "拾取後綁定{胸部} {布甲}\n4護甲\n+4 智力\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 5 臨機應變\n耐久: 165 / 165\n售價:"}
-MultiLanguageItemData['tw'][156288] = {name = "[q4]元素集中石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+4 智力\n[q2]裝備： 你的有害法術有一定的機率使你提高 23 點加速，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][156288] = {name = "[q4]元素集中石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+4 智力\n[q2]裝備： 你的有害法術有一定的機率使你提高 22 點加速，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][156289] = {name = "[q4]塑石者胸甲", additional_info = "拾取後綁定{胸部} {鎖甲}\n10護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 加速\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][156290] = {name = "[q4]阿薩神族之鋒", additional_info = "拾取後綁定{雙手} {劍}\n{8-14點傷害} {速度 3.60}\n(每秒3.1點傷害)\n+4 力量\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][156291] = {name = "[q4]能流纏腕", additional_info = "拾取後綁定{手腕} {皮甲}\n3護甲\n+2 [敏捷 or 智力]\n+3 耐力\n[q2]+ 1 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n售價:"}
@@ -18066,7 +18066,7 @@ MultiLanguageItemData['tw'][156306] = {name = "[q4]返響裹手", additional_inf
 MultiLanguageItemData['tw'][156307] = {name = "[q4]雷神護手", additional_info = "拾取後綁定{手} {板甲}\n9護甲\n+3 [力量 or 智力]\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][156308] = {name = "[q4]希芙的憶往", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 6 臨機應變\n[q2]裝備： 你的治療法術有一定機率使你的智力提高 9 點，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][156309] = {name = "[q4]戰鬥者靴刃", additional_info = "拾取後綁定{單手} {匕首}\n{3-5點傷害} {速度 1.80}\n(每秒2.2點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 3 加速\n[q2]+ 1 臨機應變\n耐久: 80 / 80\n售價:"}
-MultiLanguageItemData['tw'][156310] = {name = "[q4]雷神之錘符石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+4 [敏捷 or 力量]\n[q2]裝備： 你的近戰和遠程攻擊有一定的機率提高 18 點加速，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][156310] = {name = "[q4]雷神之錘符石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+4 [敏捷 or 力量]\n[q2]裝備： 你的近戰和遠程攻擊有一定的機率提高 17 點加速，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][156312] = {name = "[q4]闡明之域", additional_info = "拾取後綁定{雙手} {法杖}\n{4-6點傷害} {速度 3.60}\n(每秒1.4點傷害)\n+18 智力\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 5 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][156313] = {name = "[q4]鐵桉面甲", additional_info = "拾取後綁定{頭部} {板甲}\n12護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 2 致命一擊\n[q2]+ 6 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][156314] = {name = "[q4]繁茂決心腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n14護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -18489,7 +18489,7 @@ MultiLanguageItemData['tw'][156936] = {name = "[q2]黑鐵長矛", additional_inf
 MultiLanguageItemData['tw'][156937] = {name = "[q2]黑鐵棍棒", additional_info = "拾取後綁定{單手} {權杖}\n{4-5點傷害} {速度 2.60}\n(每秒1.7點傷害)\n+2 [敏捷 or 力量]\n+2 耐力\n耐久: 75 / 75\n售價:"}
 MultiLanguageItemData['tw'][156938] = {name = "灼閃鬥棍", additional_info = "拾取後綁定{單手} {權杖}\n{1-2點傷害} {速度 2.60}\n(每秒0.6點傷害)\n耐久: 30 / 30\n售價:"}
 MultiLanguageItemData['tw'][156939] = {name = "餘燼魔杖", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"警告：很燙！\""}
-MultiLanguageItemData['tw'][156940] = {name = "短管短槍", additional_info = "拾取後綁定{遠程} {槍}\n{1-3點傷害} {速度 3.00}\n(每秒0.7點傷害)\n耐久: 30 / 30\n售價:"}
+MultiLanguageItemData['tw'][156940] = {name = "短管短槍", additional_info = "拾取後綁定{遠程} {槍}\n{1-3點傷害} {速度 3.00}\n(每秒0.7點傷害)\n耐久: 45 / 45\n售價:"}
 MultiLanguageItemData['tw'][156941] = {name = "[q3]光輝法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{5-8點傷害} {速度 3.60}\n(每秒1.8點傷害)\n+3 敏捷\n+4 耐力\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][156942] = {name = "[q2]尖利腿骨", additional_info = "拾取後綁定{單手} {權杖}\n{2-4點傷害} {速度 2.60}\n(每秒1.2點傷害)\n+1 敏捷\n+2 耐力\n[q2]+ 1 致命一擊\n[q2]+ 1 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][156943] = {name = "[q2]荷特中士的鼓勵", additional_info = "拾取後綁定{單手} {權杖}\n{2-3點傷害} {速度 2.60}\n(每秒1.0點傷害)\n+1 敏捷\n+1 耐力\n耐久: 50 / 50\n售價:"}
@@ -18794,9 +18794,9 @@ MultiLanguageItemData['tw'][157749] = {name = "[q2]華麗銀環", additional_inf
 MultiLanguageItemData['tw'][157750] = {name = "[q2]好運墜飾", additional_info = "拾取後綁定頸部\n+2 耐力\n[q2]+ 2 加速\n[q2]+ 5 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][157751] = {name = "[q2]嶄新開始披氅", additional_info = "拾取後綁定背部\n2護甲\n+2 [敏捷 or 力量 or 智力]\n+2 耐力\n[q2]+ 1 致命一擊\n[q2]+ 2 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][157752] = {name = "[q3]流放建築師之臂環", additional_info = "拾取後綁定{手腕} {布甲}\n2護甲\n+2 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 加速\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][157753] = {name = "[q3]奇妙訪客外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 5 加速\n[q2]+ 3 臨機應變\n耐久: 140 / 140\n售價:"}
-MultiLanguageItemData['tw'][157754] = {name = "[q3]老友的手套", additional_info = "拾取後綁定{手} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][157755] = {name = "[q3]失蹤使節肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+3 [力量 or 智力]\n+5 耐力\n[q2]+ 4 加速\n[q2]+ 3 臨機應變\n耐久: 85 / 85\n售價:"}
+MultiLanguageItemData['tw'][157753] = {name = "[q3]奇妙訪客外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 5 加速\n[q2]+ 3 臨機應變\n耐久: 165 / 165\n售價:"}
+MultiLanguageItemData['tw'][157754] = {name = "[q3]老友的手套", additional_info = "拾取後綁定{手} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 55 / 55\n售價:"}
+MultiLanguageItemData['tw'][157755] = {name = "[q3]失蹤使節肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+3 [力量 or 智力]\n+5 耐力\n[q2]+ 4 加速\n[q2]+ 3 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][157756] = {name = "[q3]光鑄外袍", additional_info = "拾取後綁定外袍\n種族: 光鑄德萊尼\n售價:"}
 MultiLanguageItemData['tw'][157757] = {name = "[q3]高嶺外袍", additional_info = "拾取後綁定外袍\n種族: 高嶺牛頭人\n售價:"}
 MultiLanguageItemData['tw'][157758] = {name = "[q3]刃多雷外袍", additional_info = "拾取後綁定外袍\n種族: 虛無精靈\n售價:"}
@@ -19174,9 +19174,9 @@ MultiLanguageItemData['tw'][158193] = {name = "沼喉鱷皮", additional_info = 
 MultiLanguageItemData['tw'][158195] = {name = "滾沸小瓶", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][158200] = {name = "塞斯吉爾引導節杖", additional_info = "任務物品\n[q]\"裝飾華麗的金屬節杖，散發潮起潮落的力量。\""}
 MultiLanguageItemData['tw'][158201] = {name = "智力戰爭卷軸", additional_info = "[q2]使用: 使目標的智力提高3%，持續30分鐘。\n\n 如果目標在你的隊伍或團隊，所有的隊伍或團隊成員都會受到影響。等級超過50時無法使用。\n售價:"}
-MultiLanguageItemData['tw'][158202] = {name = "戰鬥怒吼戰爭卷軸", additional_info = "[q2]使用: 使目標的攻擊強度提高 3 %，持續30分鐘。\n\n 如果目標在你的隊伍或團隊，所有的隊伍或團隊成員都會受到影響。等級超過50時無法使用。\n售價:"}
+MultiLanguageItemData['tw'][158202] = {name = "戰鬥怒吼戰爭卷軸", additional_info = "[q2]使用: 使目標的攻擊強度提高3%，持續30分鐘。\n\n 如果目標在你的隊伍或團隊，所有的隊伍或團隊成員都會受到影響。等級超過50時無法使用。\n售價:"}
 MultiLanguageItemData['tw'][158203] = {name = "[q3]炙燃火藥", additional_info = "[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標額外造成火焰傷害。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:"}
-MultiLanguageItemData['tw'][158204] = {name = "堅韌戰爭卷軸", additional_info = "[q2]使用: 使目標的耐力提高 3 %，持續30分鐘。\n\n 如果目標在你的隊伍或團隊，所有的隊伍或團隊成員都會受到影響。等級超過50時無法使用。\n售價:"}
+MultiLanguageItemData['tw'][158204] = {name = "堅韌戰爭卷軸", additional_info = "[q2]使用: 使目標的耐力提高3%，持續30分鐘。\n\n 如果目標在你的隊伍或團隊，所有的隊伍或團隊成員都會受到影響。等級超過50時無法使用。\n售價:"}
 MultiLanguageItemData['tw'][158205] = {name = "金合歡粉末", additional_info = "制作材料\n\"用來將各種顏料混入墨水中，由銘文學商人販售。\"\n售價:"}
 MultiLanguageItemData['tw'][158206] = {name = "充能水晶", additional_info = "任務物品\n[q]\"微小的電弧在水晶內部一閃而逝。\""}
 MultiLanguageItemData['tw'][158207] = {name = "絕緣之錘", additional_info = "任務物品\n唯一\n[q]\"塞斯拉克軍隊用來形塑他們的水晶武器。\""}
@@ -19322,7 +19322,7 @@ MultiLanguageItemData['tw'][158371] = {name = "[q3]海息法杖", additional_inf
 MultiLanguageItemData['tw'][158373] = {name = "[q3]共鳴水晶彎刀", additional_info = "拾取後綁定{單手} {劍}\n{6-12點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 力量\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 加速\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][158374] = {name = "[q3]瓶中的微型元素生物", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]裝備： 你的攻擊與技能有一定機率賦予你無以倫比的力量。堆疊12層時，你會釋放閃電，造成 47 點自然傷害。\n[q]\"無與倫比的閃電力量，被封鎖在極小的空間裡。\"\n售價:"}
 MultiLanguageItemData['tw'][158375] = {name = "[q3]忠節臣民披氅", additional_info = "拾取後綁定背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+5 耐力\n[q2]+ 4 加速\n[q2]+ 3 精通\n售價:"}
-MultiLanguageItemData['tw'][158377] = {name = "[q3]霜覆火藥", additional_info = "[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標造成少量冰霜傷害，並使其緩速 20 %，持續3秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:"}
+MultiLanguageItemData['tw'][158377] = {name = "[q3]霜覆火藥", additional_info = "[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標造成少量冰霜傷害，並使其緩速20%，持續3秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:"}
 MultiLanguageItemData['tw'][158378] = {name = "[q3]鑲邊深海絲緞", additional_info = "制作材料\n\"由擁有裁縫技能的玩家製造。可在拍賣場進行買賣。\"\n售價:"}
 MultiLanguageItemData['tw'][158379] = {name = "不穩定的時間轉移器", additional_info = "[q2]使用: 逆轉方才死去不久的目標身上的時間，使其復活並且恢復60%的生命力和20%的法力。可在戰鬥中施放。\n\n 有可能在失常之下快速推進目標的時間流速，導致活力流失。\n\n 等級高於50的玩家無法使用。 (10分鐘 冷卻)\n需要 庫爾提拉斯工程學 (85)\n[q]\"雖然這台裝置可以讓人死而復活，卻也能讓活人瀕臨死亡。\""}
 MultiLanguageItemData['tw'][158380] = {name = "魔法入侵抑制器", additional_info = "[q2]使用: 對部分煩人的效果免疫。在死亡之後仍然有效，持續12小時。\n[q]\"煩人的效果包括虔信之躍，轉移威脅值技能和調換衝擊槍之類的器具。\"\n售價:"}
@@ -19579,7 +19579,7 @@ MultiLanguageItemData['tw'][158676] = {name = "回收的飛行器零件", additi
 MultiLanguageItemData['tw'][158677] = {name = "骨頭幫的帳本", additional_info = "任務物品\n[q]\"骨頭幫近期的借貸、賄賂以及洗錢活動記錄。\""}
 MultiLanguageItemData['tw'][158678] = {name = "抗毒血清", additional_info = "任務物品\n唯一\n[q2]使用: 對你的目標使用一劑解毒劑。 (2秒 冷卻)\n[q]\"有效解除毒尾刺蠍的毒液。\""}
 MultiLanguageItemData['tw'][158679] = {name = "[q2]瑪奧卡的雕刻", additional_info = "拾取後綁定飾品\n[q2]+ 7 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 11 點主要屬性，持續12秒。\n售價:"}
-MultiLanguageItemData['tw'][158680] = {name = "[q2]里凱的儀式串珠", additional_info = "拾取後綁定飾品\n+5 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率賦予你 17 點加速和 50 %游泳速度，持續20秒。\n售價:"}
+MultiLanguageItemData['tw'][158680] = {name = "[q2]里凱的儀式串珠", additional_info = "拾取後綁定飾品\n+5 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率賦予你 17 點加速和50%游泳速度，持續20秒。\n售價:"}
 MultiLanguageItemData['tw'][158681] = {name = "[q2]閃電束鏈", additional_info = "拾取後綁定飾品\n+5 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的攻擊和技能有一定機率電擊目標，每0.5秒造成 7 點自然傷害，持續3秒。\n售價:"}
 MultiLanguageItemData['tw'][158682] = {name = "[q2]捆著船錨的屏障", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][158683] = {name = "[q3]巨型雪人的碗", additional_info = "拾取後綁定{副手} {盾}\n61護甲\n+3 力量\n+10 智力\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 加速\n耐久: 100 / 100\n售價:"}
@@ -19897,7 +19897,7 @@ MultiLanguageItemData['tw'][159123] = {name = "[q2]詹巴尼屏障", additional_
 MultiLanguageItemData['tw'][159124] = {name = "[q2]黃金艦隊圓盾", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 3 加速\n[q2]+ 2 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][159125] = {name = "[q4]暗月套卡：深淵", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有機會對目標拋錨，造成 10 - 80 點物理傷害。錨的傷害，視牌堆最上面那張卡片而定。\n[q2]裝備： 在戰鬥期間週期性地洗牌。\n售價:"}
 MultiLanguageItemData['tw'][159126] = {name = "[q4]暗月套卡：尖嘯", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的法術有機會在敵人身上形成一道窒息狂風，每2秒造成 13 點自然傷害，持續2-16。持續時間視牌堆上面那張卡片而定。\n[q2]裝備： 在戰鬥期間週期性地洗牌。\n售價:"}
-MultiLanguageItemData['tw'][159127] = {name = "[q4]暗月套卡：浪潮", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 在牌組洗牌時回復 1 - 12 點法力，且你的法術有機會治療 1 - 8 位盟友，持續 13 。恢復的法力和治療的盟友人數，視牌堆最上面那張卡片而定。\n[q2]裝備： 在戰鬥期間週期性地洗牌。\n售價:"}
+MultiLanguageItemData['tw'][159127] = {name = "[q4]暗月套卡：浪潮", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 在牌組洗牌時回復 1 - 12 點法力，且你的法術有機會治療 1-8位盟友，持續 13 。恢復的法力和治療的盟友人數，視牌堆最上面那張卡片而定。\n[q2]裝備： 在戰鬥期間週期性地洗牌。\n售價:"}
 MultiLanguageItemData['tw'][159128] = {name = "[q4]暗月套卡：封阻", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 只要牌組開始洗牌，就使你的耐力提高 2 - 14 點，並治療 34 - 274 點生命。提高的耐力和治療效果，視牌堆最上面那張卡片而定。\n[q2]裝備： 在戰鬥期間週期性地洗牌。\n售價:"}
 MultiLanguageItemData['tw'][159129] = {name = "[q3]施火師點火棒", additional_info = "拾取後綁定{雙手} {法杖}\n{7-10點傷害} {速度 3.60}\n(每秒2.4點傷害)\n+28 智力\n+9 耐力\n[q2]+ 7 臨機應變\n[q2]+ 5 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][159130] = {name = "[q3]船長的交涉手段", additional_info = "拾取後綁定{遠程} {槍}\n{14點傷害} {速度 3.00}\n(每秒4.7點傷害)\n+6 敏捷\n+9 耐力\n[q2]+ 5 致命一擊\n[q2]+ 8 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -20292,7 +20292,7 @@ MultiLanguageItemData['tw'][159615] = {name = "[q3]點燃法師的引信", addit
 MultiLanguageItemData['tw'][159616] = {name = "[q3]沾滿血汙的屠夫砧板", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率讓你變得敏銳，使致命一擊提高 36 點，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][159617] = {name = "[q3]亮麗金色羽毛", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]使用: 你的臨機應變提高 38 點，持續20秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][159618] = {name = "[q3]瑪欽巴的儀式繃帶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]使用: 以儀式繃帶纏繞自己，吸收[ 559 * (1 + 臨機應變)]點傷害，持續6秒。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][159619] = {name = "[q3]鹹水藤壺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率施加窒息鹽水，每1秒造成 4 點傷害，持續6秒。若目標死於窒息鹽水，效果便會散播至附近8碼範圍內的所有敵人身上。\n售價:"}
+MultiLanguageItemData['tw'][159619] = {name = "[q3]鹹水藤壺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率施加窒息鹽水，在6秒內造成( 4 * 6 / 1)點自然傷害。如果受窒息鹽水影響的目標死亡，效果便會散播至附近8碼範圍內的所有目標身上。\n售價:"}
 MultiLanguageItemData['tw'][159620] = {name = "[q3]黑暗低語海螺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的法術有一定機率賦予你 37 點致命一擊，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][159621] = {name = "[q0]私人船錨", additional_info = "唯一\n[q]\"長得像的東西不少，但這個是我的。\"\n售價:"}
 MultiLanguageItemData['tw'][159622] = {name = "[q3]哈達爾的鸚鵡螺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的傷害法術有一定機率在你的目標位置產生一道水柱。水柱會在2秒後爆發，造成 23 點自然傷害，由附近所有敵人分攤。攻擊多名目標時，造成的傷害提高。（3秒 冷卻）\n售價:"}
@@ -20300,7 +20300,7 @@ MultiLanguageItemData['tw'][159623] = {name = "[q3]神槍手望遠鏡", addition
 MultiLanguageItemData['tw'][159624] = {name = "[q3]腐殼巫毒娃娃", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]使用: 朝你的目標揮舞巫毒娃娃，在6秒內造成 126 點暗影傷害，在6秒後額外造成 202 點暗影傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][159625] = {name = "[q3]一瓶活化之血", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 精通\n[q2]使用: 啜飲藥瓶，獲得(3 * 9 )點力量，效果會在18秒內消退。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][159626] = {name = "[q3]殘留的孢子莢", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 你的攻擊與你受到的攻擊有一定機率使孢子生長4秒，然後爆炸。爆炸時，為你治療 75 點生命力，並造成 21 點傷害，由附近的所有敵人共同分攤。對多個目標造成的傷害提高。\n售價:"}
-MultiLanguageItemData['tw'][159627] = {name = "[q3]傑斯之嚎", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]使用: 發出激勵嚎叫，賦予 60 點臨機應變，持續12秒，由你和最多 4 名附近的盟友共同分攤。每激勵一名盟友，你額外獲得 7 點臨機應變。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][159627] = {name = "[q3]傑斯之嚎", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]使用: 發出激勵嚎叫，賦予 60 點臨機應變，持續12秒，由你和最多4名附近的盟友共同分攤。每激勵一名盟友，你額外獲得 7 點臨機應變。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][159628] = {name = "[q3]庫爾提拉斯便攜火砲", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]裝備： 你的攻擊有機會在身邊佈置一個火砲陣地，持續10秒，共計造成( 11 * 5)點火焰傷害並由其面前錐形範圍內的所有敵人平分。攻擊多名目標時，造成的傷害提高。（5秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][159630] = {name = "[q3]野火枝條", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 精通\n[q2]使用: 點燃你的靈魂，獲得(100 * 0 )點智力，效果會在20秒內或受到傷害時逐漸消退。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][159631] = {name = "[q0]威奎斯特夫人音樂盒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的傷害法術有一定機率觸發刺耳和弦，對附近一名敵人造成 26 點傷害。\n\n 你的治療法術有一定機率觸發悅耳和弦，使附近一名受傷的盟友恢復 39 點生命力。\n\n[q]威奎斯特的傳承 (0/2)\n[q0]威奎斯特領主的璽戒\n威奎斯特夫人音樂盒\n[q0](2) 組合 : 當你觸發刺耳和弦或悅耳和弦時，有40%的機率以60%的強度觸發兩者中的另一個和弦。\n售價:"}
@@ -20442,7 +20442,7 @@ MultiLanguageItemData['tw'][159787] = {name = "[q2]附魔武器 - 精湛指引",
 MultiLanguageItemData['tw'][159788] = {name = "[q2]附魔武器 - 多用途指引", additional_info = "使用: 永久性地為一把武器附魔，偶爾能使臨機應變提高 15 點，持續30秒，最多可堆疊5層。達到5層時，會一次消耗所有層數，賦予你 179 點臨機應變，持續10秒。無法用在等級高於376的物品。\n售價:"}
 MultiLanguageItemData['tw'][159789] = {name = "[q2]附魔武器 - 堅實指引", additional_info = "使用: 永久性地為一把武器附魔，有時候會使你的護甲值提高 15 點，持續30秒，最多可堆疊5次。堆疊5層時，會一次消耗所有層數，賦予你 179 點護甲值，持續10秒。無法用在等級高於376的物品。\n售價:"}
 MultiLanguageItemData['tw'][159790] = {name = "海玻璃", additional_info = "任務物品\n[q]\"被永不止息的海水磨得光亮。\""}
-MultiLanguageItemData['tw'][159791] = {name = "潮沫亞麻布之網", additional_info = "[q2]使用: 以 75 %將最遠35碼外的一個目標網住並緩速，持續5秒。無法作用於50級以上的目標。 (1分鐘 冷卻)\n需要 庫爾提拉斯裁縫 (1)\n售價:"}
+MultiLanguageItemData['tw'][159791] = {name = "潮沫亞麻布之網", additional_info = "[q2]使用: 以75%將最遠35碼外的一個目標網住並緩速，持續5秒。無法作用於50級以上的目標。 (1分鐘 冷卻)\n需要 庫爾提拉斯裁縫 (1)\n售價:"}
 MultiLanguageItemData['tw'][159792] = {name = "帶鉤深海漁網", additional_info = "[q2]使用: 使最遠35碼外的一個目標定身在網子裡，持續3秒。無法作用於50級以上的目標。 (1分鐘 冷卻)\n需要 庫爾提拉斯裁縫 (1)\n售價:"}
 MultiLanguageItemData['tw'][159794] = {name = "炙烤禿鷲肉", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][159795] = {name = "冒熱氣的蟹肉", additional_info = "任務物品"}
@@ -21116,7 +21116,7 @@ MultiLanguageItemData['tw'][160649] = {name = "[q4]接種疫苗提取物", addit
 MultiLanguageItemData['tw'][160650] = {name = "[q4]系統復原圓盤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率造成一個虛無區段，對你面前錐形範圍內的所有目標立刻造成 72 點暗影傷害，傷害由目標均攤。擊中多個目標時造成的傷害提高。\n售價:"}
 MultiLanguageItemData['tw'][160651] = {name = "[q4]警戒人員的塑血器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的傷害法術有一定機率朝一名目標發射一團充能的血球，造成 91 點暗影傷害，由附近所有敵人共同分攤。攻擊多名目標時，造成的傷害提高。\n售價:"}
 MultiLanguageItemData['tw'][160652] = {name = "[q4]傀儡超載裝置", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]裝備： 你的攻擊有一定機率賦予你 3 點加速，持續10秒，最多可堆疊8次。\n售價:"}
-MultiLanguageItemData['tw'][160653] = {name = "[q4]薩爾扎克斯的朦朧之眼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 生命力降低到少於 40 %時，賦予你一道護盾，吸收50%受到的傷害，最多可吸收[ 750 * (1 + 臨機應變)]點總傷害量。持續20秒。每2分鐘只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][160653] = {name = "[q4]薩爾扎克斯的朦朧之眼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 生命力降低到少於40%時，賦予你一道護盾，吸收50%受到的傷害，最多可吸收[ 750 * (1 + 臨機應變)]點總傷害量。持續20秒。每2分鐘只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][160654] = {name = "[q4]被征服的古翰觸鬚", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 臨機應變\n[q2]裝備： 你的法術和技能有一定機率召喚一個被征服的古翰觸鬚為你而戰，持續20秒。（20秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][160655] = {name = "[q4]血液傳染疾病注射器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率對目標造成衰竭感染，在12秒內造成( 5 * 12 / 2)點暗影傷害。攻擊一名受到衰竭感染效果影響的敵人，會賦予你 5 點致命一擊，持續6秒，最多可堆疊5次。\n售價:"}
 MultiLanguageItemData['tw'][160656] = {name = "[q4]薩爾扎克斯的抽動觸手", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 致命一擊\n[q2]裝備： 你的法術有一定機率賦予你薩爾扎克斯的不散之力，持續30秒。堆疊至5層時，會釋放能量，使你的智力提高 25 點，持續12秒。\n售價:"}
@@ -21537,7 +21537,7 @@ MultiLanguageItemData['tw'][161285] = {name = "[q2]無信飛龍騎兵法器", ad
 MultiLanguageItemData['tw'][161286] = {name = "[q2]無信恐龍騎兵盾牌", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 精通\n售價:"}
 MultiLanguageItemData['tw'][161287] = {name = "[q2]無信恐龍騎士盾牌", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 加速\n售價:"}
 MultiLanguageItemData['tw'][161288] = {name = "[q2]產蜜者戒指", additional_info = "拾取後綁定手指\n+4 耐力\n[q2]+ 7 致命一擊\n[q2]+ 7 臨機應變\n售價:"}
-MultiLanguageItemData['tw'][161289] = {name = "[q2]里凱的鯊魚牙齒", additional_info = "拾取後綁定飾品\n+5 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率賦予你 17 點加速和 50 %游泳速度，持續20秒。\n售價:"}
+MultiLanguageItemData['tw'][161289] = {name = "[q2]里凱的鯊魚牙齒", additional_info = "拾取後綁定飾品\n+5 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率賦予你 17 點加速和50%游泳速度，持續20秒。\n售價:"}
 MultiLanguageItemData['tw'][161290] = {name = "[q2]汙石巨錘", additional_info = "拾取後綁定{雙手} {權杖}\n{11-15點傷害} {速度 3.60}\n(每秒3.6點傷害)\n+5 敏捷\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n售價:"}
 MultiLanguageItemData['tw'][161291] = {name = "[q2]汙石法錘", additional_info = "拾取後綁定{雙手} {權杖}\n{5-8點傷害} {速度 3.60}\n(每秒1.8點傷害)\n+22 智力\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][161292] = {name = "[q2]汙石魔錘", additional_info = "拾取後綁定{雙手} {權杖}\n{5-8點傷害} {速度 3.60}\n(每秒1.8點傷害)\n+22 智力\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 120 / 120\n售價:"}
@@ -21682,7 +21682,7 @@ MultiLanguageItemData['tw'][161458] = {name = "[q4]鱗甲戰鬥背心", addition
 MultiLanguageItemData['tw'][161459] = {name = "[q4]發霉的戰爭機器烤架", additional_info = "拾取後綁定{胸部} {板甲}\n21護甲\n+12 [力量 or 智力]\n+14 耐力\n耐久: 165 / 165\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][161460] = {name = "[q4]尖刺恐怖戰盾肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n14護甲\n+9 [力量 or 智力]\n+10 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][161461] = {name = "[q4]末日之恨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的法術有一定機率賦予你 25 點臨機應變，持續10秒。\n售價:"}
-MultiLanguageItemData['tw'][161462] = {name = "[q4]末日覺醒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 精通\n[q2]使用: 釋放末日覺醒可使你的敏捷每2秒提高 8 點，持續 10 秒，然後此效果會再持續作用(16 - 10 )秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][161462] = {name = "[q4]末日覺醒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 精通\n[q2]使用: 釋放末日覺醒可使你的敏捷每2秒提高 8 點，持續10秒，然後此效果會再持續作用6秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][161463] = {name = "[q4]末日狂怒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]使用: 你的致命一擊提高( 13 * 6)點，但每3秒降低 13 點。 (1分鐘，45秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][161464] = {name = "[q4]聯盟弓箭手罩盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][161465] = {name = "[q4]戰爭法師的秘法披肩", additional_info = "拾取後綁定{肩部} {布甲}\n4護甲\n+9 智力\n+10 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
@@ -21693,7 +21693,7 @@ MultiLanguageItemData['tw'][161469] = {name = "[q4]狙擊手的鎖甲鍊衫", ad
 MultiLanguageItemData['tw'][161470] = {name = "[q4]磨亮的盾防者胸甲", additional_info = "拾取後綁定{胸部} {板甲}\n21護甲\n+12 [力量 or 智力]\n+14 耐力\n耐久: 165 / 165\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][161471] = {name = "[q4]雄獅之吼肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n14護甲\n+9 [力量 or 智力]\n+10 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][161472] = {name = "[q4]雄獅之雅", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的法術有一定機率賦予你 25 點臨機應變，持續10秒。\n售價:"}
-MultiLanguageItemData['tw'][161473] = {name = "[q4]雄獅之詐", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 精通\n[q2]使用: 釋放雄獅之詐可使你的敏捷每2秒提高 8 點，持續 10 秒，然後此效果會再持續作用(16 - 10 )秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][161473] = {name = "[q4]雄獅之詐", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 9 精通\n[q2]使用: 釋放雄獅之詐可使你的敏捷每2秒提高 8 點，持續10秒，然後此效果會再持續作用6秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][161474] = {name = "[q4]雄獅之力", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]使用: 你的致命一擊提高( 13 * 6)點，但每3秒降低 13 點。 (1分鐘，45秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][161475] = {name = "[q3]神秘魚餌", additional_info = "拾取後綁定\n唯一（20）\n[q2]使用: 在目標地點製造神秘魚餌。只有神秘魚護目鏡的穿戴者和小隊成員才能看到魚餌。 (5分鐘 冷卻)\n[q]\"雖然看不到，卻可能找得到。\"\n售價:"}
 MultiLanguageItemData['tw'][161476] = {name = "李德的保險箱鑰匙", additional_info = "任務物品\n[q]\"交由『花心蘿蔔』李德‧費斯克保管的花俏鑰匙。\""}
@@ -22185,7 +22185,7 @@ MultiLanguageItemData['tw'][162318] = {name = "公式：附魔武器 - 烈風打
 MultiLanguageItemData['tw'][162319] = {name = "公式：附魔武器 - 元素洪流", additional_info = "等級3\n拾取後綁定\n唯一\n使用:  教你學會更有效率地施展元素洪流附魔。\n永久性地為一把武器附魔，有機會觸發一道使元素法術傷害提高10%的效果。\n\n 大幅減少材料。\n需要 庫爾提拉斯附魔 (1)\n售價:"}
 MultiLanguageItemData['tw'][162320] = {name = "公式：附魔武器 - 多用途指引", additional_info = "等級3\n拾取後綁定\n唯一\n使用:  教你學會更有效率地施展多用途指引附魔。\n永久性地為一把武器附魔，偶爾能使臨機應變提高 1 點，持續30秒，最多可堆疊5層。達到5層時，會一次消耗所有層數，賦予你 9 點臨機應變，持續10秒。\n\n 可大幅減少所需材料。\n需要 庫爾提拉斯附魔 (1)\n需要燼火會\n- 崇敬\n售價:"}
 MultiLanguageItemData['tw'][162321] = {name = "結構圖：炙燃火藥", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作炙燃火藥。\n[q2]大幅減少製炙燃火藥所需材料。\n需要 庫爾提拉斯工程學 (1)\n售價: \n[q3]炙燃火藥\n[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標額外造成火焰傷害。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:\n需要 蒙那萊礦石 (12), 化學爆破雷管 (5), 絕緣導線 (5)"}
-MultiLanguageItemData['tw'][162322] = {name = "結構圖：霜覆火藥", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作霜覆火藥。\n[q2]大幅減少製作霜覆火藥所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要燼火會\n- 崇敬\n售價: \n[q3]霜覆火藥\n[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標造成少量冰霜傷害，並使其緩速 20 %，持續3秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:\n需要 蒙那萊礦石 (12), 化學爆破雷管 (5), 絕緣導線 (5)"}
+MultiLanguageItemData['tw'][162322] = {name = "結構圖：霜覆火藥", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作霜覆火藥。\n[q2]大幅減少製作霜覆火藥所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要燼火會\n- 崇敬\n售價: \n[q3]霜覆火藥\n[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標造成少量冰霜傷害，並使其緩速20%，持續3秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:\n需要 蒙那萊礦石 (12), 化學爆破雷管 (5), 絕緣導線 (5)"}
 MultiLanguageItemData['tw'][162323] = {name = "結構圖：AZ3-R1-T3合成瞄準鏡", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作AZ3-R1-T3合成瞄準鏡。\n[q2]減少製作AZ3-R1-T3合成瞄準鏡所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要第七軍團\n- 尊敬\n售價: \n[q4]AZ3-R1-T3合成瞄準鏡\n拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n裝備： 你的庫爾提拉斯或贊達拉工程學提高20點。\n需要 庫爾提拉斯工程學 (1)\n售價: \n需要 白金礦石 (18), 風暴白銀礦石 (48), 絕緣導線 (20), 驅質 (23), 水之核心 (2)"}
 MultiLanguageItemData['tw'][162324] = {name = "結構圖：AZ3-R1-T3合成瞄準鏡", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作AZ3-R1-T3合成瞄準鏡。\n[q2]大幅減少製作AZ3-R1-T3合成瞄準鏡所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要第七軍團\n- 崇敬\n售價: \n[q4]AZ3-R1-T3合成瞄準鏡\n拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n裝備： 你的庫爾提拉斯或贊達拉工程學提高20點。\n需要 庫爾提拉斯工程學 (1)\n售價: \n需要 白金礦石 (15), 風暴白銀礦石 (45), 絕緣導線 (20), 驅質 (20), 水之核心"}
 MultiLanguageItemData['tw'][162325] = {name = "結構圖：AZ3-R1-T3旋轉齒輪護目鏡", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作AZ3-R1-T3旋轉齒輪護目鏡。\n[q2]減少製作AZ3-R1-T3旋轉齒輪護目鏡所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要風暴守望\n- 尊敬\n售價: \n[q4]AZ3-R1-T3旋轉齒輪護目鏡\n拾取後綁定{頭部} {皮甲}\n7護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n裝備： 你的庫爾提拉斯或贊達拉工程學提高20點。\n需要 庫爾提拉斯工程學 (1)\n售價: \n需要 白金礦石 (18), 風暴白銀礦石 (48), 絕緣導線 (20), 驅質 (23), 水之核心 (2)"}
@@ -22557,7 +22557,7 @@ MultiLanguageItemData['tw'][162723] = {name = "公式：附魔武器 - 虹吸", 
 MultiLanguageItemData['tw'][162724] = {name = "公式：附魔武器 - 精湛指引", additional_info = "等級3\n拾取後綁定\n唯一\n使用:  教你學會更有效率地施展精湛指引附魔。\n永久性地為一把武器附魔，偶爾能使精通提高 1 點，持續30秒，最多可堆疊5層。達到5層時，會一次消耗所有層數，賦予你 9 點精通，持續10秒。\n\n 可大幅減少所需材料。\n需要 庫爾提拉斯附魔 (1)\n需要塔蘭姬的遠征隊\n- 崇敬\n售價:"}
 MultiLanguageItemData['tw'][162725] = {name = "公式：附魔武器 - 烈風打擊", additional_info = "等級3\n拾取後綁定\n唯一\n使用:  教你學會更有效率地施展烈風打擊附魔。\n永久性地為一把武器附魔，在使用近戰和遠程攻擊與技能時，有機會觸發一道使攻擊速度提高15%的效果，持續15秒 。\n\n 大幅減少材料。\n需要 庫爾提拉斯附魔 (1)\n需要沃魯敦人\n- 崇敬\n售價:"}
 MultiLanguageItemData['tw'][162726] = {name = "公式：附魔武器 - 多用途指引", additional_info = "等級3\n拾取後綁定\n唯一\n使用:  教你學會更有效率地施展多用途指引附魔。\n永久性地為一把武器附魔，偶爾能使臨機應變提高 1 點，持續30秒，最多可堆疊5層。達到5層時，會一次消耗所有層數，賦予你 9 點臨機應變，持續10秒。\n\n 可大幅減少所需材料。\n需要 庫爾提拉斯附魔 (1)\n需要沃魯敦人\n- 崇敬\n售價:"}
-MultiLanguageItemData['tw'][162727] = {name = "結構圖：霜覆火藥", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作霜覆火藥。\n[q2]大幅減少製作霜覆火藥所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要沃魯敦人\n- 崇敬\n售價: \n[q3]霜覆火藥\n[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標造成少量冰霜傷害，並使其緩速 20 %，持續3秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:\n需要 蒙那萊礦石 (12), 化學爆破雷管 (5), 絕緣導線 (5)"}
+MultiLanguageItemData['tw'][162727] = {name = "結構圖：霜覆火藥", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作霜覆火藥。\n[q2]大幅減少製作霜覆火藥所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要沃魯敦人\n- 崇敬\n售價: \n[q3]霜覆火藥\n[q2]使用: 永久性地升級遠程武器彈藥，在使用遠程攻擊造成傷害時，有時會為對你的目標造成少量冰霜傷害，並使其緩速20%，持續3秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:\n需要 蒙那萊礦石 (12), 化學爆破雷管 (5), 絕緣導線 (5)"}
 MultiLanguageItemData['tw'][162728] = {name = "結構圖：AZ3-R1-T3合成瞄準鏡", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作AZ3-R1-T3合成瞄準鏡。\n[q2]減少製作AZ3-R1-T3合成瞄準鏡所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要榮勛軍團\n- 尊敬\n售價: \n[q4]AZ3-R1-T3合成瞄準鏡\n拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n裝備： 你的庫爾提拉斯或贊達拉工程學提高20點。\n需要 庫爾提拉斯工程學 (1)\n售價: \n需要 白金礦石 (18), 風暴白銀礦石 (48), 絕緣導線 (20), 驅質 (23), 水之核心 (2)"}
 MultiLanguageItemData['tw'][162729] = {name = "結構圖：AZ3-R1-T3合成瞄準鏡", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作AZ3-R1-T3合成瞄準鏡。\n[q2]大幅減少製作AZ3-R1-T3合成瞄準鏡所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要榮勛軍團\n- 崇敬\n售價: \n[q4]AZ3-R1-T3合成瞄準鏡\n拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n裝備： 你的庫爾提拉斯或贊達拉工程學提高20點。\n需要 庫爾提拉斯工程學 (1)\n售價: \n需要 白金礦石 (15), 風暴白銀礦石 (45), 絕緣導線 (20), 驅質 (20), 水之核心"}
 MultiLanguageItemData['tw'][162730] = {name = "結構圖：AZ3-R1-T3旋轉齒輪護目鏡", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作AZ3-R1-T3旋轉齒輪護目鏡。\n[q2]減少製作AZ3-R1-T3旋轉齒輪護目鏡所需材料。\n需要 庫爾提拉斯工程學 (1)\n需要贊達拉帝國\n- 尊敬\n售價: \n[q4]AZ3-R1-T3旋轉齒輪護目鏡\n拾取後綁定{頭部} {皮甲}\n7護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n裝備： 你的庫爾提拉斯或贊達拉工程學提高20點。\n需要 庫爾提拉斯工程學 (1)\n售價: \n需要 白金礦石 (18), 風暴白銀礦石 (48), 絕緣導線 (20), 驅質 (23), 水之核心 (2)"}
@@ -23721,7 +23721,7 @@ MultiLanguageItemData['tw'][163967] = {name = "[q4]希塔夫的尺", additional_
 MultiLanguageItemData['tw'][163968] = {name = "[q4]楊的另一把反曲弓", additional_info = "裝備後綁定\n{遠程} {弓}\n{12-16點傷害} {速度 3.00}\n(每秒4.7點傷害)\n+6 敏捷\n+9 耐力\n[q2]+ 5 致命一擊\n[q2]+ 7 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][163969] = {name = "[q4]安密頓的射擊器", additional_info = "裝備後綁定\n{遠程} {槍}\n{14點傷害} {速度 3.00}\n(每秒4.7點傷害)\n+6 敏捷\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][163974] = {name = "[q3]桶殼", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n需要榮譽等級400。\n售價:"}
-MultiLanguageItemData['tw'][163975] = {name = "[q3]剪剪爵士", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n需要榮譽等級400。\n售價:"}
+MultiLanguageItemData['tw'][163975] = {name = "[q3]剪剪爵士", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n需要榮譽等級400。\n需要榮譽等級20。\n售價:"}
 MultiLanguageItemData['tw'][163981] = {name = "[q4]狂暴魔爪", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"燃燒軍團在不同野生動物上進行了腐化的實驗，就像是這種來自熔火之境的熾熱鳥類。\"\n成就：\n兩岸蹄聲園不住\n類別：\n坐騎"}
 MultiLanguageItemData['tw'][163982] = {name = "[q4]純心逐夢馬", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"長久以來，大家都知道這些逐夢馬的存在，但是牠們只會與願意為友誼犧牲奉獻的人為友。\"\n成就：\n100項聲望崇拜\n類別：\n聲望"}
 MultiLanguageItemData['tw'][163984] = {name = "[q4]部落戰爭披肩", additional_info = "拾取後綁定背部\n1護甲\n需要任何部落種族\n售價:"}
@@ -24795,17 +24795,17 @@ MultiLanguageItemData['tw'][165562] = {name = "[q4]脊板肩鎧", additional_inf
 MultiLanguageItemData['tw'][165563] = {name = "[q4]黑鐵劫掠者長靴", additional_info = "裝備後綁定\n{腳} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 3 臨機應變\n[q2]+ 7 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][165564] = {name = "[q4]破釜沉舟巨腰帶", additional_info = "裝備後綁定\n{腰部} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 4 加速\n[q2]+ 6 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][165565] = {name = "[q4]連星閃指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+5 耐力\n[q2]+ 5 致命一擊\n[q2]+ 12 臨機應變\n售價:"}
-MultiLanguageItemData['tw'][165566] = {name = "[q0]海軍總帥的璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+5 耐力\n[q2]+ 6 加速\n[q2]+ 12 精通\n[q]堅決指揮官的紀念品 (0/2)\n[q0]戴林‧普勞德摩爾的軍刀\n海軍總帥的璽戒\n{[q0](2) 組合 : 你的自動攻擊迴盪著大海節奏，對你的目標造成 82 點冰霜傷害}，並使他們的移動{速度降低 10 %，持續4秒。}\n售價:"}
+MultiLanguageItemData['tw'][165566] = {name = "[q0]海軍總帥的璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+5 耐力\n[q2]+ 6 加速\n[q2]+ 12 精通\n[q]堅決指揮官的紀念品 (0/2)\n[q0]戴林‧普勞德摩爾的軍刀\n海軍總帥的璽戒\n{[q0](2) 組合 : 你的自動攻擊迴盪著大海節奏，對你的目標造成 82 點冰霜傷害}，並使他們的移動{速度降低10%，持續4秒。}\n售價:"}
 MultiLanguageItemData['tw'][165567] = {name = "[q4]贊達拉帝國徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+5 耐力\n[q2]+ 10 加速\n[q2]+ 8 臨機應變\n[q]羅亞贈禮 (0/2)\n[q0]贊達拉帝國徽印\n羅亞狂信徒罩氅\n[q0](2) 組合 : 當你在祖達薩時，你的主要屬性提高 45 點。\n售價:"}
 MultiLanguageItemData['tw'][165568] = {name = "[q4]玉龍祈願", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]使用: 命令玉龍祈願攻擊目標，造成 191 點自然傷害並由目標附近的敵人分攤。攻擊多名目標時，造成的傷害提高。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][165569] = {name = "[q4]遮罩結界", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]使用: 在指定區域以共用護盾包覆5位盟友，吸收他們接下來10秒內受到的[ 458 * (1 + 臨機應變)]點傷害。在影響多位盟友時，提高吸收的傷害量。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][165570] = {name = "[q4]永凍船錨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n{[q2]裝備： 你的傷害性近戰技能會施加永凍，每3秒造成 1 點冰霜傷害}，並使其移動{速度降低 2 %，最多可堆疊10次。持續12秒。（750毫秒 冷卻）}\n售價:"}
+MultiLanguageItemData['tw'][165570] = {name = "[q4]永凍船錨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n{[q2]裝備： 你的傷害性近戰技能會施加永凍，每3秒造成 1 點冰霜傷害}，並使其移動{速度降低2%，最多可堆疊10次。持續12秒。（750毫秒 冷卻）}\n售價:"}
 MultiLanguageItemData['tw'][165571] = {name = "[q4]燦爛的裂片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 若在你附近5碼範圍內沒有盟友，你每2秒會獲得 1 點致命一擊。堆疊達10層時，你還會獲得 4 點精通。附近有盟友時，你會逐漸失去此效果；身上裝備此物品的盟友不會使你失去堆疊效果。\n售價:"}
-MultiLanguageItemData['tw'][165572] = {name = "[q4]可調幅十億伏特震盪反應爐", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]裝備： 你的致命一擊每2秒提高 3 點，最多提高至( 3 * 6 )點致命一擊，持續(2 * 3 )秒，然後逐漸降低並停止作用(2 * 3 )秒，每 32 秒循環一次。\n[q2]使用: 維持目前的振盪，持續6秒。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][165573] = {name = "[q4]鑲鑽折射稜鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 每10秒獲得一層吸收[ 82 * (1 + 臨機應變)]點傷害的護盾，最高可吸收[( 82 * (1 + 臨機應變)) * 5 ]點。\n售價:"}
+MultiLanguageItemData['tw'][165572] = {name = "[q4]可調幅十億伏特震盪反應爐", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]裝備： 你的致命一擊每2秒提高 3 點，最多提高至( 3 * 6)點致命一擊，持續6秒，然後逐漸降低並停止作用6秒，每32秒循環一次。\n[q2]使用: 維持目前的振盪，持續6秒。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][165573] = {name = "[q4]鑲鑽折射稜鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 每10秒獲得一層吸收[ 82 * (1 + 臨機應變)]點傷害的護盾，最高可吸收[( 82 * (1 + 臨機應變)) * 5]點。\n售價:"}
 MultiLanguageItemData['tw'][165574] = {name = "[q4]葛隆的原始狂怒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]使用: 進入原始狂怒狀態，在4秒內造成( 93 * 5)點物理傷害並由附近敵人分擔。在命中多個目標時，提高造成的傷害。在狂怒期間，你無法移動或是使用能力。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][165576] = {name = "[q4]潮風法典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]使用: 釋放 6 個潮汐元素衝向目標，每個元素會爆炸並造成 52 點冰霜傷害，由附近所有敵人分攤。攻擊多名目標時，提高造成的傷害。（1.5分鐘 冷卻） (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][165577] = {name = "[q4]伯昂撒姆第的交易", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 當攻擊會置你於死地時，最多吸收該次攻擊的 2236 點傷害。在這個效果發生時，你立即恢復 434 點生命力並且獲得伯昂撒姆第的交易，吸收治療量等同於該次吸收傷害的 60 %。只能每6分鐘觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][165576] = {name = "[q4]潮風法典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]使用: 釋放6個潮汐元素衝向目標，每個元素會爆炸並造成 52 點冰霜傷害，由附近所有敵人分攤。攻擊多名目標時，提高造成的傷害。（1.5分鐘 冷卻） (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][165577] = {name = "[q4]伯昂撒姆第的交易", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]裝備： 當攻擊會置你於死地時，最多吸收該次攻擊的 2236 點傷害。在這個效果發生時，你立即恢復 434 點生命力並且獲得伯昂撒姆第的交易，吸收治療量等同於該次吸收傷害的60%。只能每6分鐘觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][165578] = {name = "[q4]交纏天命之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]使用: 為目標回復 4580 點生命，但是對自己形成一道詛咒，吸收接下來獲得的 136 點治療效果。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][165579] = {name = "[q4]金布爾的鋒利之爪", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]裝備： 你的攻擊有一定機率撕抓目標，在6秒內造成 20 點物理傷害。從背後攻擊目標可汲取該次傷害量的50%。（6秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][165580] = {name = "[q4]高振幅十億伏特引擎", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]使用: 使你的加速提高 4 點、速度提高 1 點，最多可在10秒內堆疊15次。隨著引擎加速，堆疊速度會越來越快。引擎的運轉時間共計18秒。 (1分鐘，30秒 冷卻)\n售價:"}
@@ -24832,7 +24832,7 @@ MultiLanguageItemData['tw'][165600] = {name = "[q4]雙管破壞火炮", addition
 MultiLanguageItemData['tw'][165601] = {name = "[q4]風牙利斧", additional_info = "拾取後綁定{單手} {斧}\n{6-13點傷害} {速度 2.60}\n(每秒3.7點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][165602] = {name = "[q4]潮擊之斧", additional_info = "拾取後綁定{雙手} {斧}\n{11-23點傷害} {速度 3.60}\n(每秒4.7點傷害)\n+6 力量\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][165603] = {name = "[q4]海妖之歌", additional_info = "拾取後綁定{遠程} {魔杖}\n{2-4點冰霜傷害} {速度 2.00}\n(每秒1.5點傷害)\n+18 智力\n+5 耐力\n[q2]+ 3 加速\n[q2]+ 4 精通\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][165604] = {name = "[q4]戴林‧普勞德摩爾的軍刀", additional_info = "拾取後綁定{單手} {劍}\n{6-12點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 2 精通\n耐久: 110 / 110\n[q]堅決指揮官的紀念品 (0/2)\n[q0]戴林‧普勞德摩爾的軍刀\n海軍總帥的璽戒\n{[q0](2) 組合 : 你的自動攻擊迴盪著大海節奏，對你的目標造成 82 點冰霜傷害}，並使他們的移動{速度降低 10 %，持續4秒。}\n售價:"}
+MultiLanguageItemData['tw'][165604] = {name = "[q4]戴林‧普勞德摩爾的軍刀", additional_info = "拾取後綁定{單手} {劍}\n{6-12點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 2 精通\n耐久: 110 / 110\n[q]堅決指揮官的紀念品 (0/2)\n[q0]戴林‧普勞德摩爾的軍刀\n海軍總帥的璽戒\n{[q0](2) 組合 : 你的自動攻擊迴盪著大海節奏，對你的目標造成 82 點冰霜傷害}，並使他們的移動{速度降低10%，持續4秒。}\n售價:"}
 MultiLanguageItemData['tw'][165605] = {name = "艾薩拉勳章", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"一個華麗的金屬碟，上面滿是納沙塔爾文字銘刻。\""}
 MultiLanguageItemData['tw'][165606] = {name = "玩家經驗值", additional_info = "拾取後綁定\n[q2]提供玩家相當可觀的經驗值。對等級超過49的玩家沒有作用。"}
 MultiLanguageItemData['tw'][165608] = {name = "[q3]荒疫散佈者鉤斧", additional_info = "拾取後綁定{單手} {斧}\n{3-6點傷害} {速度 2.60}\n(每秒1.7點傷害)\n+18 智力\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 4 加速\n耐久: 110 / 110需要任何部落種族\n售價:"}
@@ -24970,7 +24970,7 @@ MultiLanguageItemData['tw'][165803] = {name = "任務報告", additional_info = 
 MultiLanguageItemData['tw'][165804] = {name = "哨站升級：狐狸人藏身處", additional_info = "拾取後綁定\n唯一\n[q2]使用: 獲得在沃魯敦升級狐狸人藏身處以使用速度極快的商隊坐騎的任務。\n需要榮勛軍團\n- 崇拜"}
 MultiLanguageItemData['tw'][165805] = {name = "哨站升級", additional_info = "拾取後綁定\n[q2]升級狐狸人藏身處的哨站，以使用速度快的商隊坐騎。"}
 MultiLanguageItemData['tw'][165806] = {name = "[q4]邪惡鬥士的毒咒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]使用: 對目標發射虛無能量，每2秒造成[ 29 * (1 + 臨機應變)]點暗影傷害，持續6秒。毒咒效果每次造成傷害時，會吸收目標接下來受到的[ 108 * (1 + 臨機應變)]點治療量，持續6秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][165807] = {name = "[q4]邪惡鬥士的安全守護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力降到 25 %時會獲得護盾，為你吸收[ 314 * (1 + 臨機應變)]點傷害，持續6秒。此效果每3分鐘可觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][165807] = {name = "[q4]邪惡鬥士的安全守護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力降到25%時會獲得護盾，為你吸收[ 314 * (1 + 臨機應變)]點傷害，持續6秒。此效果每3分鐘可觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][165815] = {name = "鎮定飛鏢", additional_info = "任務物品\n[q2]使用: 朝目標射出鎮定飛鏢，使其陷入酣甜的沉睡。"}
 MultiLanguageItemData['tw'][165818] = {name = "[q4]誘惑者之冠", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n[q2]使用: 從皇冠上撬下一枚寶石。\n售價:"}
 MultiLanguageItemData['tw'][165819] = {name = "[q4]潮母頭罩", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
@@ -25427,15 +25427,15 @@ MultiLanguageItemData['tw'][166736] = {name = "[q2]結構圖：不穩定的時�
 MultiLanguageItemData['tw'][166737] = {name = "[q2]一把玻璃蜘蛛眼球", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將一把玻璃蜘蛛眼球、鋼板蜘蛛外骨骼和機甲吐絲器組合起來，製造出一個強大的蜘蛛戰鬥機器人。"}
 MultiLanguageItemData['tw'][166738] = {name = "[q2]鋼板蜘蛛外骨骼", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將一把玻璃蜘蛛眼球、鋼板蜘蛛外骨骼和機甲吐絲器組合起來，製造出一個強大的蜘蛛戰鬥機器人。"}
 MultiLanguageItemData['tw'][166741] = {name = "[q2]糯米的雜貨箱", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][166742] = {name = "[q3]藍帶熊貓人辣醬", additional_info = "拾取後綁定\n[q2]使用: 擺設一道由牛排和馬鈴薯組成的大餐，讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命力和 5 %法力，持續20秒。如果進食時間超過10秒，你將因充分進食而獲得10%耐力，持續1小時。\n\n 只能在戰場中使用。\n售價:"}
+MultiLanguageItemData['tw'][166742] = {name = "[q3]藍帶熊貓人辣醬", additional_info = "拾取後綁定\n[q2]使用: 擺設一道由牛排和馬鈴薯組成的大餐，讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命力和5%法力，持續20秒。如果進食時間超過10秒，你將因充分進食而獲得10%耐力，持續1小時。\n\n 只能在戰場中使用。\n售價:"}
 MultiLanguageItemData['tw'][166743] = {name = "[q3]瘟疫炸彈投擲車", additional_info = "使用後綁定\n玩具\n[q2]使用: 召喚並控制你的瘟疫炸彈投擲車。 (30秒 冷卻)\n[q]\"瘟腥四溢！\"\n售價:"}
 MultiLanguageItemData['tw'][166744] = {name = "[q3]戰刃投擲器", additional_info = "使用後綁定\n玩具\n[q2]使用: 召喚並控制你的戰刃投擲器。 (30秒 冷卻)\n[q]\"保護大自然！\"\n售價:"}
 MultiLanguageItemData['tw'][166745] = {name = "[q4]翹翼信天翁", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"無盡之海各島嶼所見最稀有的鳥類之一，也是貿易商之間搶手的收藏品，若他們抓得到的話。\"\n商人：\n克萊瑞莎船長\n區域：\n提拉加德海灣\n花費：\n1000\n\n商人：\n贊塔嘉船長\n區域：\n祖達薩\n花費：\n1000"}
 MultiLanguageItemData['tw'][166746] = {name = "[q3]吞火者的爐石", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你傳送回爐石位置。與不同地區的旅店老闆談話可以改變你家所在的位置。\n[q]\"用最熱烈的方式回家！\""}
 MultiLanguageItemData['tw'][166747] = {name = "[q3]啤酒節狂歡者的爐石", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你傳送回爐石位置。與不同地區的旅店老闆談話可以改變你家所在的位置。\n[q]\"用最歡樂的方式回家！\""}
 MultiLanguageItemData['tw'][166749] = {name = "[q3]歌詞：海洋之歌", additional_info = "拾取後綁定\n唯一\n[q2]使用: 升級你的飛行管理員的哨子，以便在海嶼遠征中將飛行坐騎召回你的船隻。\n售價:"}
-MultiLanguageItemData['tw'][166750] = {name = "[q2]十方藥劑", additional_info = "[q7]戰隊綁定\n[q2]使用: 所有屬性提高 5 點，獲得的經驗值提高 10 %，持續1小時。 (3秒 冷卻)\n[q]\"由艾澤拉斯各地許多盟友提供的多種成分混製而成。\""}
-MultiLanguageItemData['tw'][166751] = {name = "[q2]十方藥劑", additional_info = "[q7]戰隊綁定\n[q2]使用: 所有屬性提高 5 點，獲得的經驗值提高 10 %，持續1小時。 (3秒 冷卻)\n[q]\"由艾澤拉斯各地許多盟友提供的多種成分混製而成。\""}
+MultiLanguageItemData['tw'][166750] = {name = "[q2]十方藥劑", additional_info = "[q7]戰隊綁定\n[q2]使用: 所有屬性提高 5 點，獲得的經驗值提高10%，持續1小時。 (3秒 冷卻)\n[q]\"由艾澤拉斯各地許多盟友提供的多種成分混製而成。\""}
+MultiLanguageItemData['tw'][166751] = {name = "[q2]十方藥劑", additional_info = "[q7]戰隊綁定\n[q2]使用: 所有屬性提高 5 點，獲得的經驗值提高10%，持續1小時。 (3秒 冷卻)\n[q]\"由艾澤拉斯各地許多盟友提供的多種成分混製而成。\""}
 MultiLanguageItemData['tw'][166752] = {name = "[q7]石衛士的利刃披風", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n背部\n6護甲\n+6 [敏捷 or 力量 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 6 臨機應變\n需要任何部落種族\n29 ( 29)\n[q]\"在戰時發給新兵的一般披風。\"\n\n[q]傳奇冒險者的戰衣 (0/7)\n[q0]傳家寶護軀\n傳家寶頭盔\n傳家寶護肩\n傳家寶披風\n傳家寶護腿\n傳家寶項鍊\n傳家寶戒指\n{[q0](2) 組合 : 消耗的休息經驗值降低30%。\n(3) 組合 : 提高你脫離戰鬥後，在戶外、普通地城及戰場的恢復{速度。\n(5) 組合 : 升級時可觸發博學墜飾，對附近敵人造成 1126 點神聖傷害}，並使你的主要屬性提高40%，持續2分鐘。擊敗敵人可延長此效果，最多額外延長2分鐘。\n(6) 組合 : 消耗的休息經驗值額外降低30%。}\n\n\n商人：\n補給官慕卡菈\n區域：\n祖達薩"}
 MultiLanguageItemData['tw'][166753] = {name = "[q7]獸人戰爭號角", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n+14 耐力\n需要任何部落種族\n[q2]使用: 使40碼範圍內所有隊伍成員的臨機應變提高 13 ，持續20秒。 (2分鐘 冷卻)\n29 ( 29)\n[q]\"新兵在戰場的常用配備。\"\n\n\n商人：\n補給官慕卡菈\n區域：\n祖達薩"}
 MultiLanguageItemData['tw'][166754] = {name = "[q7]薩拉斯頌歌秘典", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n僅可裝備一件\n飾品\n+10 智力\n需要任何部落種族\n[q2]使用: 使40碼範圍內所有隊伍成員的加速提高 13 ，持續20秒。 (2分鐘 冷卻)\n29 ( 29)\n[q]\"新兵在戰場的常用配備。\"\n\n\n商人：\n補給官慕卡菈\n區域：\n祖達薩"}
@@ -25790,7 +25790,7 @@ MultiLanguageItemData['tw'][167215] = {name = "[q3]蒂雅‧短袖的短袖襯�
 MultiLanguageItemData['tw'][167216] = {name = "回收的零件", additional_info = "任務物品\n[q]\"從軍情七處監聽設備回收的零件。\""}
 MultiLanguageItemData['tw'][167217] = {name = "[q4]無縛苦痛腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n18護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 6 加速\n耐久: 120 / 120\n[q2]裝備： 當你的生命力百分比大於目標，你的傷害技能有很高的機率會讓你犧牲 17 點生命力，對目標造成[ 34 * (1 + 臨機應變)]點暗影傷害。（500毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][167218] = {name = "[q4]札克沙吉的深海行者靴", additional_info = "拾取後綁定{腳} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 3 致命一擊\n[q2]+ 6 精通\n耐久: 80 / 80\n[q2]裝備： 你每損失20%生命力，速度提高200點，最多可提高600點速度。\n售價:"}
-MultiLanguageItemData['tw'][167219] = {name = "[q4]不死契約手套", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 加速\n[q2]+ 1 臨機應變\n耐久: 55 / 55\n[q2]使用: 最多可和20碼範圍內的 5 名盟友拴在一起。6秒後，你恢復相當於盟友所恢復的生命力的 25 %，最多可恢復 495 點生命力。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][167219] = {name = "[q4]不死契約手套", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 加速\n[q2]+ 1 臨機應變\n耐久: 55 / 55\n[q2]使用: 最多可和20碼範圍內的5名盟友拴在一起。6秒後，你恢復相當於盟友所恢復的生命力的25%，最多可恢復 495 點生命力。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167220] = {name = "[q3]提里奧針線", additional_info = "拾取後綁定\n唯一\n襯衣\n售價:"}
 MultiLanguageItemData['tw'][167221] = {name = "[q3]提里奧針線", additional_info = "拾取後綁定\n唯一\n襯衣"}
 MultiLanguageItemData['tw'][167222] = {name = "[q3]瑟莉思的絲襯衣", additional_info = "拾取後綁定\n唯一\n襯衣\n售價:"}
@@ -25954,7 +25954,7 @@ MultiLanguageItemData['tw'][167380] = {name = "[q4]凶霸鬥士徽章", addition
 MultiLanguageItemData['tw'][167381] = {name = "[q4]凶霸鬥士披風", additional_info = "決戰艾澤拉斯第3季\n拾取後綁定背部\n3護甲\n需要任何部落種族\n售價:"}
 MultiLanguageItemData['tw'][167382] = {name = "[q4]凶霸鬥士披風", additional_info = "決戰艾澤拉斯第3季\n拾取後綁定背部\n3護甲\n需要任何聯盟種族\n售價:"}
 MultiLanguageItemData['tw'][167383] = {name = "[q4]凶霸鬥士的毒咒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]使用: 對目標發射虛無能量，每2秒造成[ 29 * (1 + 臨機應變)]點暗影傷害，持續6秒。毒咒效果每次造成傷害時，會吸收目標接下來受到的[ 108 * (1 + 臨機應變)]點治療量，持續6秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][167384] = {name = "[q4]凶霸鬥士的安全守護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力降到 25 %時會獲得護盾，為你吸收[ 314 * (1 + 臨機應變)]點傷害，持續6秒。此效果每3分鐘可觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][167384] = {name = "[q4]凶霸鬥士的安全守護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力降到25%時會獲得護盾，為你吸收[ 314 * (1 + 臨機應變)]點傷害，持續6秒。此效果每3分鐘可觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][167385] = {name = "[q4]凶霸鬥士絲質頭盔", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n需要任何部落種族\n售價:"}
 MultiLanguageItemData['tw'][167386] = {name = "[q4]凶霸鬥士皮甲軟帽", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n需要任何部落種族\n售價:"}
 MultiLanguageItemData['tw'][167387] = {name = "[q4]凶霸鬥士鍊甲罩盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n需要任何部落種族\n售價:"}
@@ -26273,16 +26273,16 @@ MultiLanguageItemData['tw'][167829] = {name = "[q3]鬥陣腕鍊", additional_inf
 MultiLanguageItemData['tw'][167830] = {name = "[q6]石化黑鱗片", additional_info = "任務物品\n[q]\"這個聚合精華曾屬於一隻早在奈薩里奧之前就住在這裡的黑龍…\""}
 MultiLanguageItemData['tw'][167831] = {name = "翡翠裂片", additional_info = "任務物品\n唯一\n[q2]使用: 將翡翠裂片浸入，製作強大的物品。\n[q]\"綠龍軍團的聚合精華碎片。\""}
 MultiLanguageItemData['tw'][167832] = {name = "罐裝小鯉", additional_info = "拾取後綁定\n[q2]使用: 在20秒內恢復( 13200 / 5 * 20)點生命力和( 8000 / 5 * 20)點法力。進食時必須保持坐姿。 在機械岡內，如果進食時間超過10秒，你將因充分進食而獲得 46 點移動速度，持續1小時。\n售價:"}
-MultiLanguageItemData['tw'][167833] = {name = "[q4]深淵挖掘手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 2 臨機應變\n耐久: 55 / 55\n[q2]裝備： 消耗法力會獲得護盾，每消耗 10000 點法力可吸收[ 15 * (1 + 臨機應變)]點傷害，持續8秒，最多可吸收[ 147 * (1 + 臨機應變)]點傷害。\n售價:"}
+MultiLanguageItemData['tw'][167833] = {name = "[q4]深淵挖掘手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 2 臨機應變\n耐久: 55 / 55\n[q2]裝備： 消耗法力會獲得護盾，每消耗10000點法力可吸收[ 15 * (1 + 臨機應變)]點傷害，持續8秒，最多可吸收[ 147 * (1 + 臨機應變)]點傷害。\n售價:"}
 MultiLanguageItemData['tw'][167834] = {name = "[q4]風暴滑行步履", additional_info = "拾取後綁定{腳} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 臨機應變\n耐久: 80 / 80\n[q2]裝備： 你的自動攻擊產生飄然行蹤效果，持續15秒，最高可堆疊10層。飄然行蹤會賦予 1 點致命一擊。受到任何傷害會消除所有的飄然行蹤效果。\n售價:"}
 MultiLanguageItemData['tw'][167835] = {name = "[q4]畸形信使裹腿", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+6 智力\n+9 耐力\n[q2]+ 8 致命一擊\n耐久: 120 / 120\n[q2]使用: 在你腳下的虛無開啟一道裂縫，持續12秒，使你的加速提高 26 點。離開裂縫會使虛無坍塌，並對你造成 532 點暗影傷害。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167836] = {name = "[q3]藍圖：罐裝小鯉", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"經過妥善保存，永保腐臭怪味。\""}
-MultiLanguageItemData['tw'][167837] = {name = "[q4]反叛者的肅清腰鍊", additional_info = "拾取後綁定{腰部} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 3 加速\n[q2]+ 6 精通\n耐久: 55 / 55\n[q2]裝備： 每殺死一個怪物會激勵 4 名盟友，賦予盟友 3 點致命一擊，持續20秒。\n售價:"}
-MultiLanguageItemData['tw'][167838] = {name = "[q4]異常浪潮賢者護腿", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 精通\n耐久: 120 / 120\n[q2]裝備： 你的生命力大於 60 %時，你的攻擊有很低的機率噴射目標，造成[ 117 * (1 + 臨機應變)]點自然傷害。你的生命力小於 60 %時，你的攻擊有很低的機率在10秒內恢復[ 32 * 6 * (1 + 臨機應變)]點生命力。\n售價:"}
+MultiLanguageItemData['tw'][167837] = {name = "[q4]反叛者的肅清腰鍊", additional_info = "拾取後綁定{腰部} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 3 加速\n[q2]+ 6 精通\n耐久: 55 / 55\n[q2]裝備： 每殺死一個怪物會激勵4名盟友，賦予盟友 3 點致命一擊，持續20秒。\n售價:"}
+MultiLanguageItemData['tw'][167838] = {name = "[q4]異常浪潮賢者護腿", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 精通\n耐久: 120 / 120\n[q2]裝備： 你的生命力大於60%時，你的攻擊有很低的機率噴射目標，造成[ 117 * (1 + 臨機應變)]點自然傷害。你的生命力小於60%時，你的攻擊有很低的機率在10秒內恢復[ 32 * 6 * (1 + 臨機應變)]點生命力。\n售價:"}
 MultiLanguageItemData['tw'][167839] = {name = "[q4]被遺忘者理智之握", additional_info = "拾取後綁定{手} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n耐久: 55 / 55\n[q2]裝備： 你的生命力高於90%時，你的傷害技能有非常高的機率會對你和你的目標造成 24 點暗影傷害。\n售價:"}
-MultiLanguageItemData['tw'][167840] = {name = "[q4]心智竊賊的異法扣環", additional_info = "拾取後綁定{腰部} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 2 加速\n[q2]+ 5 精通\n耐久: 55 / 55\n[q2]裝備： 生命力低於 25 %時可立即恢復[ 495 * (1 + 臨機應變)]點生命力。之後你會在10秒內受到 495 點暗影傷害。此效果每3分鐘只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][167840] = {name = "[q4]心智竊賊的異法扣環", additional_info = "拾取後綁定{腰部} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 2 加速\n[q2]+ 5 精通\n耐久: 55 / 55\n[q2]裝備： 生命力低於25%時可立即恢復[ 495 * (1 + 臨機應變)]點生命力。之後你會在10秒內受到 495 點暗影傷害。此效果每3分鐘只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][167841] = {name = "[q4]深淵語者的護手", additional_info = "拾取後綁定{手} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n耐久: 55 / 55\n[q2]裝備： 你的技能有一定機率賦予你護盾，可吸收[ 442 * (1 + 臨機應變)]點傷害，持續1分鐘。護盾存在期間加速提高 11 點。\n售價:"}
-MultiLanguageItemData['tw'][167842] = {name = "[q4]法蘇爾的護腿", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 加速\n耐久: 120 / 120\n[q2]裝備： 你的生命力高於 90 %時，你的傷害技能有很高的機率會產生波浪衝擊目標，造成[ 39 * (1 + 臨機應變)]點冰霜傷害。你的生命力低於 90 %時，你的傷害技能有很高的機率恢復[ 59 * (1 + 臨機應變)]點生命力。\n售價:"}
+MultiLanguageItemData['tw'][167842] = {name = "[q4]法蘇爾的護腿", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 加速\n耐久: 120 / 120\n[q2]裝備： 你的生命力高於90%時，你的傷害技能有很高的機率會產生波浪衝擊目標，造成[ 39 * (1 + 臨機應變)]點冰霜傷害。你的生命力低於90%時，你的傷害技能有很高的機率恢復[ 59 * (1 + 臨機應變)]點生命力。\n售價:"}
 MultiLanguageItemData['tw'][167843] = {name = "[q3]藍圖：保險箱機器人鑰匙", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][167844] = {name = "[q3]藍圖：緊急修復包", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][167845] = {name = "[q3]藍圖：緊急動力包", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
@@ -26298,11 +26298,11 @@ MultiLanguageItemData['tw'][167860] = {name = "[q3]遠古牛頭人咒符", addit
 MultiLanguageItemData['tw'][167861] = {name = "聯盟滑翔工具組", additional_info = "[q2]使用: 降低你的掉落速度，持續2分鐘。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167862] = {name = "部落滑翔工具組", additional_info = "[q2]使用: 降低你的掉落速度，持續2分鐘。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167863] = {name = "[q4]淹沒秘教之杖", additional_info = "拾取後綁定{雙手} {法杖}\n{7-10點傷害} {速度 3.60}\n(每秒2.4點傷害)\n+28 智力\n+9 耐力\n耐久: 120 / 120\n[q2]使用: 在你的目標身上設置結界，持續1.5分鐘。當目標受到大於 325 點的單次傷害會消耗結界，並且恢復[ 325 * (1 + 臨機應變)]點生命力。 (30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][167864] = {name = "[q4]深海三叉戟", additional_info = "拾取後綁定{雙手} {長柄武器}\n{11-22點傷害} {速度 3.60}\n(每秒4.6點傷害)\n+9 耐力\n耐久: 120 / 120\n[q2]裝備： 受到傷害時有很低的機率會在你周圍形成一個保護泡泡，持續40秒，泡泡會吸收 25 %的傷害，最多可吸收[ 227 * (1 + 臨機應變)]點傷害。泡泡破掉後，你的主要屬性提高 3 點，持續1分鐘，最多可堆疊3次。\n售價:"}
+MultiLanguageItemData['tw'][167864] = {name = "[q4]深海三叉戟", additional_info = "拾取後綁定{雙手} {長柄武器}\n{11-22點傷害} {速度 3.60}\n(每秒4.6點傷害)\n+9 耐力\n耐久: 120 / 120\n[q2]裝備： 受到傷害時有很低的機率會在你周圍形成一個保護泡泡，持續40秒，泡泡會吸收25%的傷害，最多可吸收[ 227 * (1 + 臨機應變)]點傷害。泡泡破掉後，你的主要屬性提高 3 點，持續1分鐘，最多可堆疊3次。\n售價:"}
 MultiLanguageItemData['tw'][167865] = {name = "[q4]虛無石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]使用: 將友方目標包覆於黑暗之中，持續12秒，吸收接下來受到的[ 790 * (1 + 臨機應變)]點傷害或治療效果。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167866] = {name = "[q4]潛伏者的險譎之賜", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]使用: 接受恩若司之賜，使你的精通提高 43 點，持續30秒。每1秒獲得磨難，每層磨難會對你造成 3 點暗影傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167867] = {name = "[q4]使者的未知意念", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的傷害技能有一定機率朝目標發射寂滅之矛，造成 124 點暗影傷害。寂滅之矛擊中目標後會碎裂並朝你噴射。如果你被擊中會沉默1.5秒。\n售價:"}
-MultiLanguageItemData['tw'][167868] = {name = "[q4]無差別消耗塑像", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]使用: 啃食15碼範圍內七名玩家或敵人，每吞噬一個最多可為你恢復 47 點生命力。你造成的 250 %傷害會轉為治療。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][167868] = {name = "[q4]無差別消耗塑像", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]使用: 啃食15碼範圍內七名玩家或敵人，每吞噬一個最多可為你恢復 47 點生命力。你造成的250%傷害會轉為治療。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167869] = {name = "水果籃", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][167870] = {name = "G99.99型陸鯊", additional_info = "拾取後綁定\n[q2]使用: 釋放一隻地下鯊魚獵殺目標敵人。造成 30000 點物理傷害並使其沉默，持續3秒。只能在贊達拉和庫爾提拉斯使用。 (15秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][167871] = {name = "[q3]藍圖：G99.99型陸鯊", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
@@ -26645,7 +26645,7 @@ MultiLanguageItemData['tw'][168270] = {name = "生鏽的機械蛛", additional_i
 MultiLanguageItemData['tw'][168271] = {name = "[q2]被偷的蘭姆卡韓旌旗", additional_info = "拾取後綁定\n唯一\n[q2]使用: 在目標附近插下蘭姆卡韓戰旗，召喚3名蘭姆卡韓軍團士兵進行攻擊。只能在奧丹姆使用。\n售價:"}
 MultiLanguageItemData['tw'][168273] = {name = "[q4]顫慄毒液十字弓", additional_info = "拾取後綁定{遠程} {弩}\n{12-19點傷害} {速度 3.00}\n(每秒5.2點傷害)\n+7 敏捷\n+10 耐力\n[q2]+ 7 致命一擊\n耐久: 120 / 120\n{[q2]裝備： 你的傷害技能有一定機率造成[ 34 * (1 + 臨機應變)]點{自然傷害。若盟友對你的目標施加顫慄毒液，則額外造成[ 24 * (1 + 臨機應變)]點冰霜傷害}。}\n售價:"}
 MultiLanguageItemData['tw'][168274] = {name = "[q4]潮水脈動三叉戟", additional_info = "拾取後綁定{雙手} {長柄武器}\n{15-21點傷害} {速度 3.60}\n(每秒5.0點傷害)\n+7 敏捷\n+10 耐力\n[q2]+ 6 加速\n[q2]+ 8 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][168275] = {name = "[q4]阿努艾薩拉，永恆法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{7-11點傷害} {速度 3.60}\n(每秒2.5點傷害)\n+30 智力\n+10 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 120 / 120\n[q2]裝備： 你的法術有一定機率賦予你一層潛能。如果你的生命力或法力降至 10 %以下會釋放潛能，每層效果可對40碼範圍內的敵人造成[ 8 * (1 + 臨機應變)]點傷害，並且為40碼範圍內的盟友恢復[ 8 * (1 + 臨機應變)]點生命力。\n售價:"}
+MultiLanguageItemData['tw'][168275] = {name = "[q4]阿努艾薩拉，永恆法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{7-11點傷害} {速度 3.60}\n(每秒2.5點傷害)\n+30 智力\n+10 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 120 / 120\n[q2]裝備： 你的法術有一定機率賦予你一層潛能。如果你的生命力或法力降至10%以下會釋放潛能，每層效果可對40碼範圍內的敵人造成[ 8 * (1 + 臨機應變)]點傷害，並且為40碼範圍內的盟友恢復[ 8 * (1 + 臨機應變)]點生命力。\n售價:"}
 MultiLanguageItemData['tw'][168276] = {name = "[q4]巨大納迦之爪", additional_info = "拾取後綁定{單手} {拳套}\n{8-12點傷害} {速度 2.60}\n(每秒3.8點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168280] = {name = "遺失的血色育母鱗片", additional_info = "任務物品\n[q]\"神秘的鱗片散發出一抹朱紅光芒。\""}
 MultiLanguageItemData['tw'][168281] = {name = "機械蛛腿", additional_info = "任務物品"}
@@ -26764,7 +26764,7 @@ MultiLanguageItemData['tw'][168395] = {name = "[q4]一箱遭輻射汙染的各�
 MultiLanguageItemData['tw'][168396] = {name = "進攻計畫", additional_info = "任務物品\n[q]\"這些是由艾薩拉女王簽署，下令士兵進攻的計畫。\""}
 MultiLanguageItemData['tw'][168397] = {name = "[q4]巨鰻之牙", additional_info = "拾取後綁定{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+20 智力\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 5 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168398] = {name = "束縛秘典", additional_info = "任務物品\n[q]\"秘典中的古老文字記載著制伏元素的禁忌儀式。\""}
-MultiLanguageItemData['tw'][168399] = {name = "[q6]黑暗洞穴神像", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以生死血靈灌注你的艾澤拉斯之心。\n主要力量：\n 死亡血靈\n瞬發 2.5分鐘 冷卻 運用你自身的精力來灼燒敵人，對附近所有敵人造成相當於你生命力上限10%的火焰傷害，並且每擊中一名敵人，使你恢復你生命力上限的5%，最多恢復生命力上限的 25% 。 \n 次要力量：\n 生命血靈\n艾澤萊晶岩能量在你的血管裡流動，每5秒使生命力上限提高 244 點，最多可堆疊10次。\n\n 此效果會在你的生命力降至 35 %以下時消失。"}
+MultiLanguageItemData['tw'][168399] = {name = "[q6]黑暗洞穴神像", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以生死血靈灌注你的艾澤拉斯之心。\n主要力量：\n 死亡血靈\n瞬發 2.5分鐘 冷卻 運用你自身的精力來灼燒敵人，對附近所有敵人造成相當於你生命力上限10%的火焰傷害，並且每擊中一名敵人，使你恢復你生命力上限的5%，最多恢復生命力上限的 25% 。 \n 次要力量：\n 生命血靈\n艾澤萊晶岩能量在你的血管裡流動，每5秒使生命力上限提高 244 點，最多可堆疊10次。\n\n 此效果會在你的生命力降至35%以下時消失。"}
 MultiLanguageItemData['tw'][168400] = {name = "[q6]空無力場封存裝置", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以空無核心灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 強化的空無屏障\n瞬發 3分鐘 冷卻 獲得一道強化的空無屏障，吸收[ 11391 * (1 + 臨機應變)]點魔法傷害，持續10秒 。 \n 次要力量：\n 空無屏障\n每20秒獲得一層空無屏障，吸收[ 2268 * (1 + 臨機應變)]點魔法傷害，持續10秒。\n[q]\"看起來完全不含任何能量或物質，但是總重量明顯比封存裝置本身還要重。\""}
 MultiLanguageItemData['tw'][168404] = {name = "毒化之牙", additional_info = "任務物品\n唯一"}
 MultiLanguageItemData['tw'][168406] = {name = "被捕獲的朋友", additional_info = "任務物品\n[q]\"裡頭傳出快樂的嘎吱聲。\""}
@@ -26782,12 +26782,12 @@ MultiLanguageItemData['tw'][168427] = {name = "[q2]降落鞍", additional_info =
 MultiLanguageItemData['tw'][168430] = {name = "克羅伯巴特的火箭砲", additional_info = "任務物品\n[q2]使用: 對機械岡捕獲箱發射一束火箭。"}
 MultiLanguageItemData['tw'][168433] = {name = "透氣海藻嫩芽", additional_info = "任務物品\n唯一（10）\n\"可用於治療、烹飪、修補傷口、飲用…\""}
 MultiLanguageItemData['tw'][168435] = {name = "[q4]遠距迴路旁通器", additional_info = "藍色穿孔卡片\n拾取後綁定\n裝備：讓你可以駭入某些機械岡的生物以及傀儡。\n售價:"}
-MultiLanguageItemData['tw'][168436] = {name = "[q6]聚能星尖刺", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊3次。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][168439] = {name = "[q6]盤旋星塵", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。在光束內最多6名其他盟友每0.6秒恢復[ 145 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊5次。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][168440] = {name = "[q6]閃爍星裂片", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的萊加尼或奧丹姆協議者精華以解鎖此精華。\n需要和萊加尼的聲望達到崇敬。(如果已經學會則無法購買)\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。在光束內最多6名其他盟友每0.6秒恢復[ 145 * (1 + 臨機應變)]點生命力。\n\n 每次永存之魂對主要目標造成治療，獲得一層虔誠靈魂。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊5次。\n\n 每消耗一層虔誠靈魂，你在15秒內施放的下一個 迅速復原 造成致命一擊的機率提高20%。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][168442] = {name = "[q6]翻騰的敗亡之血", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n主要力量：\n 敵人之血\n瞬發 2分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高 25 %，持續10秒 。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤 。堆疊到40層時，你獲得 125 點加速，持續8秒。"}
-MultiLanguageItemData['tw'][168443] = {name = "[q6]猛烈的支配之血", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n需要「戰場尖兵」成就。(如果已經學會則無法購買。)\n主要力量：\n 敵人之血\n瞬發 1.5分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高 25 %，持續10秒。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤。堆疊到40層時，你獲得 125 點加速，持續8秒。\n\n 每一層鮮血浸潤可賦予 2 點致命一擊。"}
-MultiLanguageItemData['tw'][168444] = {name = "[q6]混濁的征服之血", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n需要「戰場戰術師」成就。(如果已經學會則無法購買。)\n在其他角色學會等級3的敵人之血、時之狡詐或鎮壓之球以解鎖此精華。\n主要力量：\n 敵人之血\n瞬發 1.5分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高 25 %，持續10秒，並讓你的致命一擊傷害提高25%，持續5秒。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤，使致命一擊提高 2 點。堆疊到40層時，你獲得 125 點加速，持續8秒。\n\n 鮮血浸潤有25%機率只消耗30層。"}
+MultiLanguageItemData['tw'][168436] = {name = "[q6]聚能星尖刺", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊3次。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][168439] = {name = "[q6]盤旋星塵", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。在光束內最多6名其他盟友每0.6秒恢復[ 145 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊5次。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][168440] = {name = "[q6]閃爍星裂片", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的萊加尼或奧丹姆協議者精華以解鎖此精華。\n需要和萊加尼的聲望達到崇敬。(如果已經學會則無法購買)\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。在光束內最多6名其他盟友每0.6秒恢復[ 145 * (1 + 臨機應變)]點生命力。\n\n 每次永存之魂對主要目標造成治療，獲得一層虔誠靈魂。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊5次。\n\n 每消耗一層虔誠靈魂，你在15秒內施放的下一個 迅速復原 造成致命一擊的機率提高20%。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][168442] = {name = "[q6]翻騰的敗亡之血", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n主要力量：\n 敵人之血\n瞬發 2分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高25%，持續10秒 。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤 。堆疊到40層時，你獲得 125 點加速，持續8秒。"}
+MultiLanguageItemData['tw'][168443] = {name = "[q6]猛烈的支配之血", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n需要「戰場尖兵」成就。(如果已經學會則無法購買。)\n主要力量：\n 敵人之血\n瞬發 1.5分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高25%，持續10秒。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤。堆疊到40層時，你獲得 125 點加速，持續8秒。\n\n 每一層鮮血浸潤可賦予 2 點致命一擊。"}
+MultiLanguageItemData['tw'][168444] = {name = "[q6]混濁的征服之血", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n需要「戰場戰術師」成就。(如果已經學會則無法購買。)\n在其他角色學會等級3的敵人之血、時之狡詐或鎮壓之球以解鎖此精華。\n主要力量：\n 敵人之血\n瞬發 1.5分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高25%，持續10秒，並讓你的致命一擊傷害提高25%，持續5秒。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤，使致命一擊提高 2 點。堆疊到40層時，你獲得 125 點加速，持續8秒。\n\n 鮮血浸潤有25%機率只消耗30層。"}
 MultiLanguageItemData['tw'][168445] = {name = "虛妄之杖", additional_info = "任務物品\n唯一\n[q2]使用: 在目標區域內產生一道洪水，撲滅任何火焰。"}
 MultiLanguageItemData['tw'][168446] = {name = "[q3]附魔戒指 - 致命一擊協議", additional_info = "使用: 永久性地為一枚戒指附魔，使其提高28點致命一擊。無法用在等級高於376的物品。\n售價:"}
 MultiLanguageItemData['tw'][168447] = {name = "[q3]附魔戒指 - 加速協議", additional_info = "使用: 永久性地為一枚戒指附魔，使其提高28點加速。無法用在等級高於376的物品。\n售價:"}
@@ -26847,15 +26847,15 @@ MultiLanguageItemData['tw'][168560] = {name = "[q6]鍍金墓穴神像", addition
 MultiLanguageItemData['tw'][168566] = {name = "[q6]空無力場冷卻裝置", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以空無核心灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 強化的空無屏障\n瞬發 2.25分鐘 冷卻 獲得一道強化的空無屏障，吸收[ 11391 * (1 + 臨機應變)]點魔法傷害，持續10秒。 \n 次要力量：\n 空無屏障\n每 15 秒獲得一道空無屏障，吸收你接下來承受的[ 2268 * (1 + 臨機應變)]點魔法傷害，持續10秒。"}
 MultiLanguageItemData['tw'][168568] = {name = "[q6]空無力場抵銷裝置", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以空無核心灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望崇敬。(如果已經學會則無法購買。)\n在其他角色學會任何等級3的鏽栓反抗軍精華以解鎖此精華。\n主要力量：\n 強化的空無屏障\n瞬發 2.25分鐘 冷卻 獲得一道強化的空無屏障，吸收[ 11391 * (1 + 臨機應變)]點魔法傷害，持續10秒，並立刻移除你身上所有傷害性的魔法、詛咒、中毒和疾病。 \n 次要力量：\n 空無屏障\n每 15 秒獲得一道空無屏障，吸收你接下來承受的[ 2268 * (1 + 臨機應變)]點魔法傷害，持續10秒。\n\n 當空無屏障結束時會爆炸，造成等同其吸收傷害量總和的自然傷害，由附近所有敵人平均分攤。"}
 MultiLanguageItemData['tw'][168569] = {name = "[q6]空無力場顯現裝置", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以空無核心灌注你的艾澤拉斯之心。\n主要力量：\n 強化的空無屏障\n瞬發 2.25分鐘 冷卻 獲得一道強化的空無屏障，吸收[ 11391 * (1 + 臨機應變)]點魔法傷害，持續10秒，並立刻移除你身上所有傷害性的魔法、詛咒、中毒和疾病。 \n 次要力量：\n 空無屏障\n每 15 秒獲得一道空無屏障，吸收你接下來承受的[ 2268 * (1 + 臨機應變)]點魔法傷害，持續10秒。\n\n 當空無屏障結束時會爆炸，造成等同其吸收傷害量總和的自然傷害，由附近所有敵人平均分攤。"}
-MultiLanguageItemData['tw'][168573] = {name = "[q6]不死之葉", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的20%，並使你受到的傷害降低85%，持續3秒。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於 35 %時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長 30 % 。此效果每1.5分鐘只能觸發一次。\n\n專屬特性： 腐化抗性提高 10 點。\n[q]\"隨風滋長。\""}
-MultiLanguageItemData['tw'][168574] = {name = "[q6]石化活體樹皮", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的40%，並使你受到的傷害降低85%，持續3秒。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於 35 %時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長 30 % 。此效果每60秒只能觸發一次。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][168575] = {name = "[q6]活力之環木枝", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的萊加尼或奧丹姆協議者精華以解鎖此精華。\n需要和萊加尼的聲望達到崇敬。(如果已經學會則無法購買)\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的40%，並使你受到的傷害降低85%，持續3秒。\n\n 避免死亡後，重置 盾牆 的冷卻時間。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於 35 %時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長( 30 + 20)% 。此效果每60秒只能觸發一次。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][168576] = {name = "[q6]綺麗復活之根", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的40%，並使你受到的傷害降低85%，持續3秒。\n\n 避免死亡後，重置 盾牆 的冷卻時間。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於 35 %時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長( 30 + 20)% 。此效果每60秒只能觸發一次。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][168573] = {name = "[q6]不死之葉", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的20%，並使你受到的傷害降低85%，持續3秒。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於35%時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長30% 。此效果每1.5分鐘只能觸發一次。\n\n專屬特性： 腐化抗性提高10點。\n[q]\"隨風滋長。\""}
+MultiLanguageItemData['tw'][168574] = {name = "[q6]石化活體樹皮", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的40%，並使你受到的傷害降低85%，持續3秒。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於35%時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長30% 。此效果每60秒只能觸發一次。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][168575] = {name = "[q6]活力之環木枝", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的萊加尼或奧丹姆協議者精華以解鎖此精華。\n需要和萊加尼的聲望達到崇敬。(如果已經學會則無法購買)\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的40%，並使你受到的傷害降低85%，持續3秒。\n\n 避免死亡後，重置 盾牆 的冷卻時間。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於35%時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長50% 。此效果每60秒只能觸發一次。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][168576] = {name = "[q6]綺麗復活之根", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以長青之觸灌注你的艾澤拉斯之心。\n主要力量：\n 長青之觸\n避免你下一次的死亡，且使你恢復生命力上限的40%，並使你受到的傷害降低85%，持續3秒。\n\n 避免死亡後，重置 盾牆 的冷卻時間。\n\n 此效果每10分鐘只能觸發一次。 \n 次要力量：\n 求生意志\n當你的生命力低於35%時，獲得 55 點迴避，持續15秒，並且你下一個 主動減傷技能 會 的持續時間延長50% 。此效果每60秒只能觸發一次。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][168577] = {name = "灌魔珍珠", additional_info = "任務物品\n[q]\"能量在裡面閃爍著。\""}
 MultiLanguageItemData['tw'][168578] = {name = "[q6]抑制力量之球", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以鎮壓之球灌注你的艾澤拉斯之心。\n主要力量：\n 鎮壓脈衝\n瞬發 1分鐘 冷卻 釋放一道沉重的壓制能量，使15碼範圍內所有敵人的移動速度降低70%，並使其攻擊速度降低25%，持續8秒。 \n 次要力量：\n 鎮壓之球\n無限範圍 當敵人對你近戰攻擊時，其移動速度降低30%，並且你獲得 64 點加速 ，持續5秒。"}
 MultiLanguageItemData['tw'][168579] = {name = "[q6]無縛怒火之球", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以鎮壓之球灌注你的艾澤拉斯之心。\n需要「戰場尖兵」成就。(如果已經學會則無法購買。)\n主要力量：\n 鎮壓脈衝\n瞬發 45秒 冷卻 釋放一道沉重的壓制能量，使15碼範圍內所有敵人的移動速度降低70%，並使其攻擊速度降低25%，持續8秒。 \n 次要力量：\n 鎮壓之球\n無限範圍 當敵人對你造成近戰攻擊時，其移動速度降低30%，並且你獲得 64 點加速 持續 7秒 。"}
-MultiLanguageItemData['tw'][168580] = {name = "[q6]汲取機動之球", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以鎮壓之球灌注你的艾澤拉斯之心。\n需要「戰場戰術師」成就。(如果已經學會則無法購買。)\n在其他角色學會等級3的敵人之血、時之狡詐或鎮壓之球以解鎖此精華。\n主要力量：\n 鎮壓脈衝\n瞬發 45秒 冷卻 釋放一陣沉重的壓制能量，使15範圍內所有敵人的移動速度降低70%，並使其攻擊速度降低25%，持續8秒。\n\n 若命中敵人，你的移動速度提高 50 %，持續8秒。 \n 次要力量：\n 鎮壓之球\n無限範圍 當敵人對你近戰攻擊時，其移動速度降低30%，並且你獲得 64 點加速和速度，持續 7秒 。"}
-MultiLanguageItemData['tw'][168581] = {name = "[q6]熾熱中和之球", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以鎮壓之球灌注你的艾澤拉斯之心。\n主要力量：\n 鎮壓脈衝\n瞬發 45秒 冷卻 釋放一陣沉重的壓制能量，使15範圍內所有敵人的移動速度降低70%，並使其攻擊速度降低25%，持續8秒。\n\n 若命中敵人，你的移動速度提高 50 %，持續8秒。 \n 次要力量：\n 鎮壓之球\n無限範圍 當敵人對你近戰攻擊時，其移動速度降低30%，並且你獲得 64 點加速和速度，持續 7秒 。"}
+MultiLanguageItemData['tw'][168580] = {name = "[q6]汲取機動之球", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以鎮壓之球灌注你的艾澤拉斯之心。\n需要「戰場戰術師」成就。(如果已經學會則無法購買。)\n在其他角色學會等級3的敵人之血、時之狡詐或鎮壓之球以解鎖此精華。\n主要力量：\n 鎮壓脈衝\n瞬發 45秒 冷卻 釋放一陣沉重的壓制能量，使15範圍內所有敵人的移動速度降低70%，並使其攻擊速度降低25%，持續8秒。\n\n 若命中敵人，你的移動速度提高50%，持續8秒。 \n 次要力量：\n 鎮壓之球\n無限範圍 當敵人對你近戰攻擊時，其移動速度降低30%，並且你獲得 64 點加速和速度，持續 7秒 。"}
+MultiLanguageItemData['tw'][168581] = {name = "[q6]熾熱中和之球", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以鎮壓之球灌注你的艾澤拉斯之心。\n主要力量：\n 鎮壓脈衝\n瞬發 45秒 冷卻 釋放一陣沉重的壓制能量，使15範圍內所有敵人的移動速度降低70%，並使其攻擊速度降低25%，持續8秒。\n\n 若命中敵人，你的移動速度提高50%，持續8秒。 \n 次要力量：\n 鎮壓之球\n無限範圍 當敵人對你近戰攻擊時，其移動速度降低30%，並且你獲得 64 點加速和速度，持續 7秒 。"}
 MultiLanguageItemData['tw'][168582] = {name = "生命樹汁", additional_info = "任務物品\n[q2]使用: 讓剛被砍下的殘幹重獲活力。 (5秒 冷卻)\n[q]\"諾達希爾最重要的生命泉源。\""}
 MultiLanguageItemData['tw'][168583] = {name = "寡婦花", additional_info = "制作材料\n\"由擁有草藥學技能的玩家收集。可在拍賣場進行買賣。\"\n售價:"}
 MultiLanguageItemData['tw'][168584] = {name = "REUSE ME [MTMM]", additional_info = "等級3\n拾取後綁定\n唯一\n需要 庫爾提拉斯附魔 (1)\n\"教你學會更有效率地施展織法者的絕望附魔。\"\n售價:"}
@@ -26871,8 +26871,8 @@ MultiLanguageItemData['tw'][168593] = {name = "[q3]附魔武器 - 機械工的�
 MultiLanguageItemData['tw'][168594] = {name = "[q3]REUSE ME [MTMM]", additional_info = "[q2]使用: 致命一擊提高 51 點。\n售價:"}
 MultiLanguageItemData['tw'][168595] = {name = "[q3]REUSE ME [MTMM]", additional_info = "使用: 永久性地為一把武器附魔，偶爾能使力量或敏捷提高 79 點，並且精通、加速或致命一擊提高 51 點，持續15秒。提高的該項屬性以你最高的屬性為準。無法用在等級高於376的物品。\n\n 減少材料。\n售價:"}
 MultiLanguageItemData['tw'][168596] = {name = "[q3]附魔武器 - 武力暴增", additional_info = "使用: 永久性地為一把武器附魔，偶爾能使力量或敏捷提高 79 點，並且精通、加速或致命一擊提高 51 點，持續15秒。提高的該項屬性以你最高的屬性為準。無法用在等級高於376的物品。\n售價:"}
-MultiLanguageItemData['tw'][168597] = {name = "[q3]REUSE ME [MTMM]", additional_info = "使用: 以納迦保護法術永久性地為一把武器附魔。每當你格擋、閃躲或招架，有一定機率使力量或敏捷提高 79 點，持續15秒。此外，持續時間內，你的皮膚受到厚鱗覆蓋，讓你吸收 1573 點傷害。無法用在等級高於376的物品。\n\n 減少材料。\n售價:"}
-MultiLanguageItemData['tw'][168598] = {name = "[q3]附魔武器 - 納迦皮革", additional_info = "使用: 以納迦保護法術永久性地為一把武器附魔。每當你格擋、閃躲或招架，有一定機率使力量或敏捷提高 79 點，持續15秒。此外，持續時間內，你的皮膚受到厚鱗覆蓋，讓你吸收 1573 點傷害。無法用在等級高於376的物品。\n售價:"}
+MultiLanguageItemData['tw'][168597] = {name = "[q3]REUSE ME [MTMM]", additional_info = "使用: 以納迦保護法術永久性地為一把武器附魔。每當你格擋、閃躲或招架，有一定機率使力量或敏捷提高 79 點，持續15秒。此外，持續時間內，你的皮膚受到厚鱗覆蓋，讓你吸收1573點傷害。無法用在等級高於376的物品。\n\n 減少材料。\n售價:"}
+MultiLanguageItemData['tw'][168598] = {name = "[q3]附魔武器 - 納迦皮革", additional_info = "使用: 以納迦保護法術永久性地為一把武器附魔。每當你格擋、閃躲或招架，有一定機率使力量或敏捷提高 79 點，持續15秒。此外，持續時間內，你的皮膚受到厚鱗覆蓋，讓你吸收1573點傷害。無法用在等級高於376的物品。\n售價:"}
 MultiLanguageItemData['tw'][168599] = {name = "結界石", additional_info = "任務物品\n[q]\"這顆石頭散發出一股能量，能夠解除附近的巨魔儀式。\""}
 MultiLanguageItemData['tw'][168600] = {name = "結界石", additional_info = "任務物品\n[q]\"這顆石頭散發出一股能量，能夠解除附近的巨魔儀式。\""}
 MultiLanguageItemData['tw'][168601] = {name = "結界石", additional_info = "任務物品\n[q]\"這顆石頭散發出一股能量，能夠解除附近的巨魔儀式。\""}
@@ -26883,14 +26883,14 @@ MultiLanguageItemData['tw'][168605] = {name = "刺棘蟹尖刺", additional_info
 MultiLanguageItemData['tw'][168607] = {name = "一瓶虛無酒", additional_info = "[q2]使用: 一般的酒精飲料。\n需要啤酒節\n[q]\"據說這什麼味道都沒有，卻什麼滋味都嘗得到。\"\n售價:"}
 MultiLanguageItemData['tw'][168608] = {name = "遭竊的油料", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][168610] = {name = "[q3]潮刃安寇恩外袍", additional_info = "拾取後綁定外袍\n需要任何聯盟種族\n需要潮刃安寇恩\n- 崇拜\n售價:"}
-MultiLanguageItemData['tw'][168611] = {name = "[q6]石化黑鱗片", additional_info = "等級1\n任務物品\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力 。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高 100 %。此加成在第三次施放時重置。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 3 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成( 351 * 5)點火焰傷害，或是使一名盟友在10秒內恢復( 351 * 5)點生命力 。\n[q]\"這個古老的鱗片經歷過黑色火焰的淬鍊，象徵著大地。\""}
-MultiLanguageItemData['tw'][168612] = {name = "[q6]夢光龍鱗", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力，然後在6秒內，對目標額外造成75%的傷害或治療量。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高 100 %。此加成在第三次施放時重置。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 1.25 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成[ 351 * 5 * (1.25)]點火焰傷害，或是使一名盟友在10秒內恢復[ 351 * 5 * (1.25)]點生命力。\n[q]\"被修復的鱗片散發著翡翠夢境和綠龍軍團精華的光芒。\""}
-MultiLanguageItemData['tw'][168613] = {name = "[q6]淬鍊血色育母鱗片", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n在其他角色學會等級3的火之爐缸以解鎖此精華。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力，然後在6秒內，對目標額外造成75%的傷害或治療量。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高 100 %。此加成在第三次施放時重置。\n最多累積 2 次。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 1.25 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成[ 351 * 5 * (1.25)]點火焰傷害，或是在10秒內為一名盟友恢復[ 351 * 5 * (1.25)]點生命力，最多可堆疊3次。\n[q]\"這個鱗片充滿生命的能量，生命守縛者的火焰在鱗片上搖曳閃動。\""}
-MultiLanguageItemData['tw'][168614] = {name = "[q6]充能守護藍龍鱗片", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力，然後在6秒內，對目標額外造成75%的傷害或治療量。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高 100 %。此加成在第三次施放時重置。\n最多累積 2 次。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 1.25 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成[ 351 * 5 * (1.25)]點火焰傷害，或是在10秒內為一名盟友恢復[ 351 * 5 * (1.25)]點生命力，最多可堆疊3次。\n[q]\"藍色魔法的火花在鱗片周圍劈啪作響，它曾屬於一隻強大的守護巨龍。\""}
-MultiLanguageItemData['tw'][168615] = {name = "[q6]易變世界之脈", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓2枚生命之血裂片從附近地面噴發，持續12秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近 8 碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每 18 - 25 秒，就有一枚生命之血裂片從附近地面爆出，持續12秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片( 8 * 1.5)碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"世界之脈的能量吸引著艾澤萊晶岩，並強化它的持有者。\""}
-MultiLanguageItemData['tw'][168616] = {name = "[q6]堅實世界之脈", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓3枚生命之血裂片從附近地面噴發，持續18秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近 8 碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每18-25秒，就有一枚生命之血裂片從附近地面爆出，持續18秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片 8 碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"這是一個結實的世界之脈，它似乎在強化周圍的艾澤萊晶岩。\""}
-MultiLanguageItemData['tw'][168617] = {name = "[q6]波動世界之脈", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n在其他角色學會等級3的世界之脈共鳴以解鎖此精華。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓3枚生命之血裂片從附近地面噴發，持續18秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近[ 8 * (1.5)]碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每1-25秒，就有一枚生命之血裂片從附近地面爆出，持續18秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片12碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"這個世界之脈的內部震動很快，能更頻繁地吸引艾澤萊晶岩裂片。\""}
-MultiLanguageItemData['tw'][168618] = {name = "[q6]光輝世界之脈", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓3枚生命之血裂片從附近地面噴發，持續18秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近[ 8 * (1.5)]碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每1-25秒，就有一枚生命之血裂片從附近地面爆出，持續18秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片12碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"這個世界之脈的光輝與強度真是令人讚嘆。\""}
+MultiLanguageItemData['tw'][168611] = {name = "[q6]石化黑鱗片", additional_info = "等級1\n任務物品\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力 。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高100%。此加成在第三次施放時重置。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 3 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成( 351 * 5)點火焰傷害，或是使一名盟友在10秒內恢復( 351 * 5)點生命力 。\n[q]\"這個古老的鱗片經歷過黑色火焰的淬鍊，象徵著大地。\""}
+MultiLanguageItemData['tw'][168612] = {name = "[q6]夢光龍鱗", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力，然後在6秒內，對目標額外造成75%的傷害或治療量。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高100%。此加成在第三次施放時重置。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 1.25 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成[ 351 * 5 * (1.25)]點火焰傷害，或是使一名盟友在10秒內恢復[ 351 * 5 * (1.25)]點生命力。\n[q]\"被修復的鱗片散發著翡翠夢境和綠龍軍團精華的光芒。\""}
+MultiLanguageItemData['tw'][168613] = {name = "[q6]淬鍊血色育母鱗片", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n在其他角色學會等級3的火之爐缸以解鎖此精華。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力，然後在6秒內，對目標額外造成75%的傷害或治療量。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高100%。此加成在第三次施放時重置。\n最多累積2次。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 1.25 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成[ 351 * 5 * (1.25)]點火焰傷害，或是在10秒內為一名盟友恢復[ 351 * 5 * (1.25)]點生命力，最多可堆疊3次。\n[q]\"這個鱗片充滿生命的能量，生命守縛者的火焰在鱗片上搖曳閃動。\""}
+MultiLanguageItemData['tw'][168614] = {name = "[q6]充能守護藍龍鱗片", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以火之爐缸灌注你的艾澤拉斯之心。\n主要力量：\n 集中烈焰\n40 碼範圍 瞬發 30秒 冷卻 1 次充能 將一枚集中的火球擲向目標，對一位敵人造成[ 824 * (1 + 臨機應變)]點火焰傷害，或是使一位盟友治療[ 824 * (1 + 臨機應變)]點生命力，然後在6秒內，對目標額外造成75%的傷害或治療量。\n\n 每次施放集中烈焰時，造成的傷害或治療效果提高100%。此加成在第三次施放時重置。\n最多累積2次。 \n 次要力量：\n 遠古之焰\n大概每分鐘觸發 1.25 次 你的法術和技能有一定機率燒灼你的目標，在10秒內造成[ 351 * 5 * (1.25)]點火焰傷害，或是在10秒內為一名盟友恢復[ 351 * 5 * (1.25)]點生命力，最多可堆疊3次。\n[q]\"藍色魔法的火花在鱗片周圍劈啪作響，它曾屬於一隻強大的守護巨龍。\""}
+MultiLanguageItemData['tw'][168615] = {name = "[q6]易變世界之脈", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓2枚生命之血裂片從附近地面噴發，持續12秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近8碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每18-25秒，就有一枚生命之血裂片從附近地面爆出，持續12秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片12碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"世界之脈的能量吸引著艾澤萊晶岩，並強化它的持有者。\""}
+MultiLanguageItemData['tw'][168616] = {name = "[q6]堅實世界之脈", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓3枚生命之血裂片從附近地面噴發，持續18秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近8碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每18-25秒，就有一枚生命之血裂片從附近地面爆出，持續18秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片8碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"這是一個結實的世界之脈，它似乎在強化周圍的艾澤萊晶岩。\""}
+MultiLanguageItemData['tw'][168617] = {name = "[q6]波動世界之脈", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n在其他角色學會等級3的世界之脈共鳴以解鎖此精華。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓3枚生命之血裂片從附近地面噴發，持續18秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近12碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每1-25秒，就有一枚生命之血裂片從附近地面爆出，持續18秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片12碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"這個世界之脈的內部震動很快，能更頻繁地吸引艾澤萊晶岩裂片。\""}
+MultiLanguageItemData['tw'][168618] = {name = "[q6]光輝世界之脈", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以世界之脈共鳴灌注你的艾澤拉斯之心。\n主要力量：\n 世界之脈共鳴\n瞬發 1分鐘 冷卻 將能量集中在艾澤拉斯之心上，讓3枚生命之血裂片從附近地面噴發，持續18秒，並使來自生命之血裂片的主要屬性提高300%，持續18秒。\n\n生命之血裂片\n 只要位在生命之血裂片附近12碼範圍內，就賦予使用世界之脈共鳴的你和任何其他盟友 13 點主要屬性。同一時間內，最多只能從4枚生命之血裂片獲得好處。 \n 次要力量：\n 生命之血\n每1-25秒，就有一枚生命之血裂片從附近地面爆出，持續18秒。\n\n生命之血裂片\n 你和其他使用世界之脈共鳴的盟友位於裂片12碼範圍內時，主要屬性提高 13 點。你最多只能同時獲得4枚生命之血裂片的效果。\n[q]\"這個世界之脈的光輝與強度真是令人讚嘆。\""}
 MultiLanguageItemData['tw'][168619] = {name = "[q3]鏽栓反抗軍外袍", additional_info = "拾取後綁定外袍\n需要鏽栓反抗軍\n- 崇拜\n售價:"}
 MultiLanguageItemData['tw'][168620] = {name = "[q6]匯流聚源虹膜透鏡", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以聚源虹膜精華灌注你的艾澤拉斯之心。\n主要力量：\n 聚焦艾澤萊光束\n2秒 施法時間 1.5分鐘 冷卻 將過量的艾澤萊晶岩能量聚焦於艾澤拉斯之心內，接著將該能量爆發出來，在3秒內對你面前的所有敵人造成( 757 * 10)點火焰傷害。 \n 次要力量：\n 能量匯聚\n你的傷害法術和技能會使你的加速提高 5 點，持續4秒，最多堆疊10次。停止對初始目標施放法術或技能時會失去此加速效果。 （500毫秒 冷卻）\n[q]\"這個古老透鏡上形成的艾澤萊晶岩，能夠強化它原本的聚焦功能，將魔法扭曲引導成熾熱的洪流。\""}
 MultiLanguageItemData['tw'][168621] = {name = "[q6]增流聚源虹膜透鏡", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以聚源虹膜精華灌注你的艾澤拉斯之心。\n主要力量：\n 聚焦艾澤萊光束\n1.333秒 施法時間 1.5分鐘 冷卻 將過量的艾澤萊晶岩能量聚焦於艾澤拉斯之心內，接著將該能量爆發出來，在3秒內對你面前的所有敵人造成( 891 * 10)點火焰傷害。 \n 次要力量：\n 能量匯聚\n你的傷害法術和技能會使你的加速提高[ 5 * (1.5)]點，持續4秒，最多堆疊10次。此加速會在你停止對初始目標施放法術或技能時消失。\n[q]\"這個古老透鏡上形成的艾澤萊晶岩，能夠強化它原本的聚焦功能，將魔法扭曲引導成熾熱的洪流。\""}
@@ -27067,7 +27067,7 @@ MultiLanguageItemData['tw'][168796] = {name = "[q0]回收的卷軸", additional_
 MultiLanguageItemData['tw'][168797] = {name = "[q0]一疊無法寄出的信", additional_info = "[q]\"上頭的地址都模糊不清了。這對你來說是好消息！\"\n售價:"}
 MultiLanguageItemData['tw'][168798] = {name = "[q4]軌跡分析", additional_info = "紅色穿孔卡片\n拾取後綁定\n裝備：承受物理傷害時可獲得 2 點閃躲，持續6秒。此效果會堆疊。\n售價:"}
 MultiLanguageItemData['tw'][168799] = {name = "鋼鐵巨劍", additional_info = "裝備後綁定\n{雙手} {劍}\n{1-3點傷害} {速度 3.20}\n(每秒0.6點傷害)\n售價:"}
-MultiLanguageItemData['tw'][168800] = {name = "[q4]子程式：重新校正", additional_info = "紅色穿孔卡片\n拾取後綁定\n裝備：每施放 12 道法術就會獲得 41 點加速，持續12秒，然後喪失 8 點加速，持續6秒。\n售價:"}
+MultiLanguageItemData['tw'][168800] = {name = "[q4]子程式：重新校正", additional_info = "紅色穿孔卡片\n拾取後綁定\n裝備：每施放12道法術就會獲得 41 點加速，持續12秒，然後喪失 8 點加速，持續6秒。\n售價:"}
 MultiLanguageItemData['tw'][168802] = {name = "[q2]納沙塔爾戰鬥表揚", additional_info = "拾取後綁定\n[q]\"可兌換參加決戰納沙塔爾的獎勵。\"\n售價:"}
 MultiLanguageItemData['tw'][168803] = {name = "緊急補給品", additional_info = "任務物品\n[q]\"這個箱子裡面有各式各樣的緊急補給品，有食物、水、繃帶和矮人釀造的酒，可以因應突發狀況。\""}
 MultiLanguageItemData['tw'][168804] = {name = "[q3]動力捕魚竿", additional_info = "拾取後綁定\n唯一\n釣魚工具 耐久: 65 / 65\n裝備： +15點釣魚技能。\n需要 釣魚 (1)\n售價:"}
@@ -27079,9 +27079,9 @@ MultiLanguageItemData['tw'][168810] = {name = "彩色珍珠", additional_info = 
 MultiLanguageItemData['tw'][168811] = {name = "吸收之杖", additional_info = "任務物品\n唯一\n[q2]使用: 吸收目標巨魔殘留的精華。對活著的生物無效。"}
 MultiLanguageItemData['tw'][168812] = {name = "空氣清新劑", additional_info = "[q]\"水仙金香味。\"\n售價:"}
 MultiLanguageItemData['tw'][168813] = {name = "機械記憶紀錄器", additional_info = "任務物品\n[q2]使用: 掃描10碼範圍內剛死去發條巨人的資料庫。 (4秒 冷卻)\n[q]\"掃描機械生物的記憶庫\""}
-MultiLanguageItemData['tw'][168814] = {name = "[q6]活化的滅亡之血", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n主要力量：\n 敵人之血\n瞬發 1.5分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高 25 %，持續10秒，並讓你的致命一擊傷害提高25%，持續5秒。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤，使致命一擊提高 2 點。堆疊到40層時，你獲得 125 點加速，持續8秒。\n\n 鮮血浸潤有25%機率只消耗30層。"}
+MultiLanguageItemData['tw'][168814] = {name = "[q6]活化的滅亡之血", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以敵人之血灌注你的艾澤拉斯之心。\n主要力量：\n 敵人之血\n瞬發 1.5分鐘 冷卻 艾澤拉斯之心猛然爆發，對12碼範圍內的敵人造成 1739 點暗影傷害。你對目標造成致命一擊的機率提高25%，持續10秒，並讓你的致命一擊傷害提高25%，持續5秒。 \n 次要力量：\n 鮮血浸潤\n你用法術和技能造成致命一擊時，獲得一層鮮血浸潤，使致命一擊提高 2 點。堆疊到40層時，你獲得 125 點加速，持續8秒。\n\n 鮮血浸潤有25%機率只消耗30層。"}
 MultiLanguageItemData['tw'][168815] = {name = "藻莓桶", additional_info = "任務物品\n唯一"}
-MultiLanguageItemData['tw'][168816] = {name = "[q6]派動星之心", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。在光束內最多6名其他盟友每0.6秒恢復[ 145 * (1 + 臨機應變)]點生命力。\n\n 每次永存之魂對主要目標造成治療，獲得一層虔誠靈魂。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊5次。\n\n 每消耗一層虔誠靈魂，你在15秒內施放的下一個 迅速復原 造成致命一擊的機率提高20%。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][168816] = {name = "[q6]派動星之心", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以永存之魂灌注你的艾澤拉斯之心。\n主要力量：\n 永存之魂\n40 碼範圍 瞄准 (3秒 施法時間) 1分鐘 冷卻 對一名盟友引導一道能量光束，在3秒內為其治療[( 1452 * (5) + 1452 ) * (1 + 臨機應變)]點生命力。在光束內最多6名其他盟友每0.6秒恢復[ 145 * (1 + 臨機應變)]點生命力。\n\n 每次永存之魂對主要目標造成治療，獲得一層虔誠靈魂。 \n 次要力量：\n 虔誠靈魂\n每隔5秒獲得虔誠靈魂，使你下一次的 迅速復原 額外治療 153 點生命力，最多可堆疊5次。\n\n 每消耗一層虔誠靈魂，你在15秒內施放的下一個 迅速復原 造成致命一擊的機率提高20%。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][168817] = {name = "[q2]虹吸水晶", additional_info = "任務物品\n唯一\n[q2]使用: 從附近的地脈蓄電池汲取魔法。"}
 MultiLanguageItemData['tw'][168818] = {name = "[q4]希瓦菈的滑刃", additional_info = "拾取後綁定{單手} {匕首}\n{5-9點傷害} {速度 1.80}\n(每秒3.9點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 4 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168821] = {name = "[q3]緊急火箭雞", additional_info = "拾取後綁定\n[q2]使用: 突然發生重力衝擊時，避免穩定裝置受損十分有用。抓緊了！ (3分鐘 冷卻)"}
@@ -27098,36 +27098,36 @@ MultiLanguageItemData['tw'][168832] = {name = "[q4]電流振動器", additional_
 MultiLanguageItemData['tw'][168833] = {name = "[q4]實驗性冒險者強化裝置", additional_info = "拾取後綁定\n唯一\n[q]\"為你的專精製造一個強力的戒指或飾品。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][168834] = {name = "未同步的電流刀刃", additional_info = "拾取後綁定\n本物品開啟一項任務\n需要任何部落種族"}
 MultiLanguageItemData['tw'][168835] = {name = "未同步的電流刀刃", additional_info = "拾取後綁定\n本物品開啟一項任務\n需要任何聯盟種族"}
-MultiLanguageItemData['tw'][168837] = {name = "[q6]深鑄禦岩", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n需要破縛者聲望友好。(如果已經學會則無法購買。)\n需要安寇恩聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 深淵神禦\n瞬發 1.5分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒 。 \n 次要力量：\n 堅守陣地\n在 10 碼範圍內的每一名敵人都會使你獲得 13 點臨機應變，最多可獲得( 13 * 10)點臨機應變。"}
-MultiLanguageItemData['tw'][168838] = {name = "[q6]深淵的堅固壁壘", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n需要破縛者聲望尊敬。(如果已經學會則無法購買。)\n需要安寇恩聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 深淵神禦\n瞬發 1.133分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒。 \n 次要力量：\n 堅守陣地\n在 10 碼範圍內的每一位敵人都會使你獲得 13 點臨機應變，最多獲得( 13 * 10)點臨機應變。生命力低於35%時，獲得的臨機應變加倍。"}
-MultiLanguageItemData['tw'][168839] = {name = "[q6]深淵的再生屏障", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的納沙塔爾聲望精華以解鎖此精華。\n需要破縛者聲望崇敬。(如果已經學會則無法購買。)\n需要安寇恩聲望崇敬。(如果已經學會則無法購買。)\n主要力量：\n 深淵神禦\n瞬發 1.133分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒，並且當深淵神禦消散時獲得 27 點迴避，持續6秒。 \n 次要力量：\n 堅守陣地\n附近 10 碼範圍內的每個敵人都會使你獲得 13 點臨機應變，最多獲得( 13 * 10)點臨機應變。生命力低於35%時，獲得的臨機應變加倍。\n\n 你身上的每層堅守陣地每4秒可讓你恢復 208 點生命力。"}
-MultiLanguageItemData['tw'][168840] = {name = "[q6]深淵的華麗堡壘", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n主要力量：\n 深淵神禦\n瞬發 1.133分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒，並且當深淵神禦消散時獲得 27 點迴避，持續6秒。 \n 次要力量：\n 堅守陣地\n附近 10 碼範圍內的每個敵人都會使你獲得 13 點臨機應變，最多獲得( 13 * 10)點臨機應變。生命力低於35%時，獲得的臨機應變加倍。\n\n 你身上的每層堅守陣地每4秒可讓你恢復 208 點生命力。"}
+MultiLanguageItemData['tw'][168837] = {name = "[q6]深鑄禦岩", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n需要破縛者聲望友好。(如果已經學會則無法購買。)\n需要安寇恩聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 深淵神禦\n瞬發 1.5分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒 。 \n 次要力量：\n 堅守陣地\n在10碼範圍內的每一名敵人都會使你獲得 13 點臨機應變，最多可獲得( 13 * 10)點臨機應變。"}
+MultiLanguageItemData['tw'][168838] = {name = "[q6]深淵的堅固壁壘", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n需要破縛者聲望尊敬。(如果已經學會則無法購買。)\n需要安寇恩聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 深淵神禦\n瞬發 1.133分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒。 \n 次要力量：\n 堅守陣地\n在10碼範圍內的每一位敵人都會使你獲得 13 點臨機應變，最多獲得( 13 * 10)點臨機應變。生命力低於35%時，獲得的臨機應變加倍。"}
+MultiLanguageItemData['tw'][168839] = {name = "[q6]深淵的再生屏障", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的納沙塔爾聲望精華以解鎖此精華。\n需要破縛者聲望崇敬。(如果已經學會則無法購買。)\n需要安寇恩聲望崇敬。(如果已經學會則無法購買。)\n主要力量：\n 深淵神禦\n瞬發 1.133分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒，並且當深淵神禦消散時獲得 27 點迴避，持續6秒。 \n 次要力量：\n 堅守陣地\n附近10碼範圍內的每個敵人都會使你獲得 13 點臨機應變，最多獲得( 13 * 10)點臨機應變。生命力低於35%時，獲得的臨機應變加倍。\n\n 你身上的每層堅守陣地每4秒可讓你恢復 208 點生命力。"}
+MultiLanguageItemData['tw'][168840] = {name = "[q6]深淵的華麗堡壘", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以深淵神禦灌注你的艾澤拉斯之心。\n主要力量：\n 深淵神禦\n瞬發 1.133分鐘 冷卻 元素會保護你，使你在每次攻擊下受到的傷害降低 395 點，持續15秒，並且當深淵神禦消散時獲得 27 點迴避，持續6秒。 \n 次要力量：\n 堅守陣地\n附近10碼範圍內的每個敵人都會使你獲得 13 點臨機應變，最多獲得( 13 * 10)點臨機應變。生命力低於35%時，獲得的臨機應變加倍。\n\n 你身上的每層堅守陣地每4秒可讓你恢復 208 點生命力。"}
 MultiLanguageItemData['tw'][168841] = {name = "希拉凱斯卷軸", additional_info = "任務物品\n唯一（8）\n[q]\"卷軸上寫滿了扭曲的黑暗咒文。\""}
 MultiLanguageItemData['tw'][168842] = {name = "[q6]完美機械引擎", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以完美視界灌注你的艾澤拉斯之心。\n主要力量：\n 完美視界\n你的法術和技能有一定機率 啟動 ，持續時間相當於基礎持續時間的25% \n 次要力量：\n 力求完美\n使 的冷卻時間縮短[(( 6849 + 3320) /- 100) ; Min 10, Max 25]% 。\n[q]\"由遠古泰坦裝置為基礎建立而成，這個引擎是地精精巧工藝的結晶，讓機械生物能夠以巔峰效能運作。\""}
 MultiLanguageItemData['tw'][168843] = {name = "[q6]完美計時差距", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以完美視界灌注你的艾澤拉斯之心。\n主要力量：\n 完美視界\n你的法術和技能有一定機率 啟動 ，持續時間相當於基礎持續時間的35% \n 次要力量：\n 力求完美\n的冷卻時間縮短 [(( 6849 + 3320) /- 100) ; Min 10, Max 25]%。\n\n 當你啟用 時，馬上治療生命力上限的5%。"}
-MultiLanguageItemData['tw'][168844] = {name = "[q6]完美強化工具箱", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以完美視界灌注你的艾澤拉斯之心。\n在其他角色學會等級3的完美視界以解鎖此精華。\n主要力量：\n 完美視界\n你的法術和技能有一定機率 啟動 ，持續時間相當於基礎持續時間的35%\n\n 當完美視界啟動時，你和最多其他 2 名附近的盟友獲得 24 點加速，持續10秒。 \n 次要力量：\n 力求完美\n使 的冷卻時間縮短[(( 6849 + 3320) /- 100) ; Min 10, Max 25]%，並使你的臨機應變提高 18 點。\n\n 當你啟用 時，馬上治療生命力上限的5%。"}
-MultiLanguageItemData['tw'][168845] = {name = "[q6]完美機械渦輪", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以完美視界灌注你的艾澤拉斯之心。\n主要力量：\n 完美視界\n你的法術和技能有一定機率 啟動 ，持續時間相當於基礎持續時間的35%\n\n 當完美視界啟動時，你和最多其他 2 名附近的盟友獲得 24 點加速，持續10秒。 \n 次要力量：\n 力求完美\n使 的冷卻時間縮短[(( 6849 + 3320) /- 100) ; Min 10, Max 25]%，並使你的臨機應變提高 18 點。\n\n 當你啟用 時，馬上治療生命力上限的5%。\n[q]\"由完美機械引擎改良而成，這台渦輪機能夠在瞬間釋放非常大量的泰坦能量。\""}
-MultiLanguageItemData['tw'][168846] = {name = "[q6]明晰之夢珍珠", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% ，持續12秒。 \n 次要力量：\n 明晰之夢\n你的法術和技能有 一定機率恢復 耗費的 50 % ，並為你治療[ 764 * (1 + 臨機應變)]點生命力 。"}
-MultiLanguageItemData['tw'][168847] = {name = "[q6]野心具現珍珠", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n需要「深度導覽」成就。(如果已經學會則無法購買。)\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% ，持續15秒。 \n 次要力量：\n 明晰之夢\n你的法術和技能有 一定機率恢復 耗費的 50 % ，並為你治療[ 764 * 1.5 * (1 + 臨機應變)]點生命力 。"}
-MultiLanguageItemData['tw'][168848] = {name = "[q6]清晰意象珍珠", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n在其他角色學會等級3的明晰之夢的記憶以解鎖此精華。\n需要「海上實戰訓練」成就。(如果已經學會則無法購買。)\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% 並且使你的汲取提高 66 點，持續15秒。 \n 次要力量：\n 明晰之夢\n你的法術和能力有 一定機率恢復其消耗掉的 50 % ，治療你 [ 764 * (1.5) * (1 + 臨機應變)]點，且讓你的臨機應變提高 74 點，持續 8秒。"}
-MultiLanguageItemData['tw'][168849] = {name = "[q6]光輝構思珍珠", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% 並且使你的汲取提高 66 點，持續15秒。 \n 次要力量：\n 明晰之夢\n你的法術和能力有 一定機率恢復其消耗掉的 50 % ，治療你 [ 764 * (1.5) * (1 + 臨機應變)]點，且讓你的臨機應變提高 74 點，持續 8秒。"}
-MultiLanguageItemData['tw'][168850] = {name = "[q6]時佚戰場紀念物", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。4秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害。 \n 次要力量：\n 現實轉移\n當你在 4 秒內移動超過 25 碼時，獲得 47 點 主要屬性 ，持續15秒。\n\n 此效果每30秒只能觸發一次。\n[q]\"過去的記憶擁有一種深刻的力量，能讓我們重回過往重要的時刻。\""}
-MultiLanguageItemData['tw'][168851] = {name = "[q6]恆久戰場紀念物", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n需要「兩面臨敵」成就。(如果已經學會則無法購買。)\n主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。2秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害。 \n 次要力量：\n 現實轉移\n當你在 4 秒內移動超過 25 碼時，獲得 47 點 主要屬性 ，持續[15 + ( 5000 / 1000)]秒。\n\n 此效果每30秒只能觸發一次。"}
-MultiLanguageItemData['tw'][168852] = {name = "[q6]堅決戰場紀念物", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n在其他角色學會等級3的空間漣漪以解鎖此精華。\n你的戰鬥的號角勛章不足，無法購買這件物品。\n{主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。2秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害}。\n\n 在轉移後的10秒內，你受到的傷害降低10%。 \n 次要力量：\n 現實轉移\n你的移動{速度提高5%，並且當你在 4 秒內移動超過 25 碼時，獲得 47 點 主要屬性 ，持續[15 + ( 5000 / 1000)]秒。\n\n 此效果每30秒只能觸發一次。}"}
-MultiLanguageItemData['tw'][168853] = {name = "[q6]閃爍戰場紀念物", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n{主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。2秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害}。\n\n 在轉移後的10秒內，你受到的傷害降低10%。 \n 次要力量：\n 現實轉移\n你的移動{速度提高5%，並且當你在 4 秒內移動超過 25 碼時，獲得 47 點 主要屬性 ，持續[15 + ( 5000 / 1000)]秒。\n\n 此效果每30秒只能觸發一次。}"}
+MultiLanguageItemData['tw'][168844] = {name = "[q6]完美強化工具箱", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以完美視界灌注你的艾澤拉斯之心。\n在其他角色學會等級3的完美視界以解鎖此精華。\n主要力量：\n 完美視界\n你的法術和技能有一定機率 啟動 ，持續時間相當於基礎持續時間的35%\n\n 當完美視界啟動時，你和最多其他2名附近的盟友獲得 24 點加速，持續10秒。 \n 次要力量：\n 力求完美\n使 的冷卻時間縮短[(( 6849 + 3320) /- 100) ; Min 10, Max 25]%，並使你的臨機應變提高 18 點。\n\n 當你啟用 時，馬上治療生命力上限的5%。"}
+MultiLanguageItemData['tw'][168845] = {name = "[q6]完美機械渦輪", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以完美視界灌注你的艾澤拉斯之心。\n主要力量：\n 完美視界\n你的法術和技能有一定機率 啟動 ，持續時間相當於基礎持續時間的35%\n\n 當完美視界啟動時，你和最多其他2名附近的盟友獲得 24 點加速，持續10秒。 \n 次要力量：\n 力求完美\n使 的冷卻時間縮短[(( 6849 + 3320) /- 100) ; Min 10, Max 25]%，並使你的臨機應變提高 18 點。\n\n 當你啟用 時，馬上治療生命力上限的5%。\n[q]\"由完美機械引擎改良而成，這台渦輪機能夠在瞬間釋放非常大量的泰坦能量。\""}
+MultiLanguageItemData['tw'][168846] = {name = "[q6]明晰之夢珍珠", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% ，持續12秒。 \n 次要力量：\n 明晰之夢\n你的法術和技能有 一定機率恢復 耗費的50% ，並為你治療[ 764 * (1 + 臨機應變)]點生命力 。"}
+MultiLanguageItemData['tw'][168847] = {name = "[q6]野心具現珍珠", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n需要「深度導覽」成就。(如果已經學會則無法購買。)\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% ，持續15秒。 \n 次要力量：\n 明晰之夢\n你的法術和技能有 一定機率恢復 耗費的50% ，並為你治療[ 764 * 1.5 * (1 + 臨機應變)]點生命力 。"}
+MultiLanguageItemData['tw'][168848] = {name = "[q6]清晰意象珍珠", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n在其他角色學會等級3的明晰之夢的記憶以解鎖此精華。\n需要「海上實戰訓練」成就。(如果已經學會則無法購買。)\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% 並且使你的汲取提高 66 點，持續15秒。 \n 次要力量：\n 明晰之夢\n你的法術和能力有 一定機率恢復其消耗掉的50% ，治療你 [ 764 * (1.5) * (1 + 臨機應變)]點，且讓你的臨機應變提高 74 點，持續 8秒。"}
+MultiLanguageItemData['tw'][168849] = {name = "[q6]光輝構思珍珠", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以明晰之夢的記憶灌注你的艾澤拉斯之心。\n主要力量：\n 明晰之夢的記憶\n瞬發 2分鐘 冷卻 清除你的雜念，與艾澤拉斯之心同調， 使你的 恢復速度提高100% 並且使你的汲取提高 66 點，持續15秒。 \n 次要力量：\n 明晰之夢\n你的法術和能力有 一定機率恢復其消耗掉的50% ，治療你 [ 764 * (1.5) * (1 + 臨機應變)]點，且讓你的臨機應變提高 74 點，持續 8秒。"}
+MultiLanguageItemData['tw'][168850] = {name = "[q6]時佚戰場紀念物", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。4秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害。 \n 次要力量：\n 現實轉移\n當你在4秒內移動超過25碼時，獲得 47 點 主要屬性 ，持續15秒。\n\n 此效果每30秒只能觸發一次。\n[q]\"過去的記憶擁有一種深刻的力量，能讓我們重回過往重要的時刻。\""}
+MultiLanguageItemData['tw'][168851] = {name = "[q6]恆久戰場紀念物", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n需要「兩面臨敵」成就。(如果已經學會則無法購買。)\n主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。2秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害。 \n 次要力量：\n 現實轉移\n當你在4秒內移動超過25碼時，獲得 47 點 主要屬性 ，持續20秒。\n\n 此效果每30秒只能觸發一次。"}
+MultiLanguageItemData['tw'][168852] = {name = "[q6]堅決戰場紀念物", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n在其他角色學會等級3的空間漣漪以解鎖此精華。\n你的戰鬥的號角勛章不足，無法購買這件物品。\n{主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。2秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害}。\n\n 在轉移後的10秒內，你受到的傷害降低10%。 \n 次要力量：\n 現實轉移\n你的移動{速度提高5%，並且當你在4秒內移動超過25碼時，獲得 47 點 主要屬性 ，持續20秒。\n\n 此效果每30秒只能觸發一次。}"}
+MultiLanguageItemData['tw'][168853] = {name = "[q6]閃爍戰場紀念物", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以空間漣漪灌注你的艾澤拉斯之心。\n{主要力量：\n 空間漣漪\n25 碼範圍 瞬發 1分鐘 冷卻 在目標位置產生艾澤萊晶岩信標。2秒後，艾澤拉斯之心會把你的所在位置轉移至這個信標處，並對附近所有敵人造成 1451 點火焰傷害}。\n\n 在轉移後的10秒內，你受到的傷害降低10%。 \n 次要力量：\n 現實轉移\n你的移動{速度提高5%，並且當你在4秒內移動超過25碼時，獲得 47 點 主要屬性 ，持續20秒。\n\n 此效果每30秒只能觸發一次。}"}
 MultiLanguageItemData['tw'][168854] = {name = "[q6]活化元素之心", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以凝結生命之力灌注你的艾澤拉斯之心。\n主要力量：\n 艾澤拉斯守護者\n瞬發 3分鐘 冷卻 呼喚艾澤拉斯以召喚一位艾澤拉斯守護者，持續30秒。守護者每2.5秒會以艾澤萊晶岩刺攻擊你的目標，造成[ 660 * (1 + 臨機應變)]點火焰傷害。 \n 次要力量：\n 凝結生命之力\n大概每分鐘觸發 2 次 你的法術和技能有很高的機率以艾澤萊晶岩刺貫穿目標，造成[ 660 * (1 + 臨機應變)]點火焰傷害。\n[q]\"即使最令人敬畏的元素領主也是從樸實的礦石之心誕生的。\""}
 MultiLanguageItemData['tw'][168855] = {name = "[q6]脈動元素之心", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以凝結生命之力灌注你的艾澤拉斯之心。\n主要力量：\n 艾澤拉斯守護者\n瞬發 3分鐘 冷卻 呼喚艾澤拉斯以召喚一位艾澤拉斯守護者，持續30秒。守護者每2.5秒會以艾澤萊晶岩刺攻擊你的目標，造成[ 660 * (1 + 臨機應變) * (1.25)]點火焰傷害。每8秒，守護者會朝目標發射一波艾澤萊晶岩刺，對附近所有敵人造成 670 點火焰傷害。 \n 次要力量：\n 凝結生命之力\n大概每分鐘觸發 2 次 你的法術和技能有很高的機率以艾澤萊晶岩刺貫穿目標，造成[ 660 * (1 + 臨機應變) * (1.25)]點火焰傷害。\n[q]\"即使最令人敬畏的元素領主也是從樸實的礦石之心誕生的。\""}
 MultiLanguageItemData['tw'][168856] = {name = "[q6]共鳴元素之心", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以凝結生命之力灌注你的艾澤拉斯之心。\n在其他角色學會等級3的凝結生命之力、活力導管或艾澤拉斯的不朽贈禮以解鎖此精華。\n主要力量：\n 艾澤拉斯守護者\n瞬發 3分鐘 冷卻 呼喚艾澤拉斯以召喚一位艾澤拉斯守護者，持續30秒。守護者每2.5秒會以艾澤萊晶岩刺攻擊你的目標，造成[ 660 * (1 + 臨機應變) * (1.25)]點火焰傷害。每8秒，守護者會朝目標發射一波艾澤萊晶岩刺，對附近所有敵人造成 670 點火焰傷害。\n\n 每當艾澤拉斯守護者施放法術時，你會獲得2%加速，最高可堆疊5次。此效果隨著艾澤拉斯守護者消失而終止。 \n 次要力量：\n 凝結生命之力\n大概每分鐘觸發 2 次 你的法術和技能有很高的機率以艾澤萊晶岩刺貫穿目標，造成[ 660 * (1 + 臨機應變) * (1.25)]點火焰傷害。\n\n 只要有一根艾澤萊晶岩刺造成傷害，你對該目標造成的所有傷害提高3%，持續6秒。\n[q]\"即使最令人敬畏的元素領主也是從樸實的礦石之心誕生的。\""}
 MultiLanguageItemData['tw'][168857] = {name = "[q6]閃亮元素之心", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以凝結生命之力灌注你的艾澤拉斯之心。\n主要力量：\n 艾澤拉斯守護者\n瞬發 3分鐘 冷卻 呼喚艾澤拉斯以召喚一位艾澤拉斯守護者，持續30秒。守護者每2.5秒會以艾澤萊晶岩刺攻擊你的目標，造成[ 660 * (1 + 臨機應變) * (1.25)]點火焰傷害。每8秒，守護者會朝目標發射一波艾澤萊晶岩刺，對附近所有敵人造成 670 點火焰傷害。\n\n 每當艾澤拉斯守護者施放法術時，你會獲得2%加速，最高可堆疊5次。此效果隨著艾澤拉斯守護者消失而終止。 \n 次要力量：\n 凝結生命之力\n大概每分鐘觸發 2 次 你的法術和技能有很高的機率以艾澤萊晶岩刺貫穿目標，造成[ 660 * (1 + 臨機應變) * (1.25)]點火焰傷害。\n\n 只要有一根艾澤萊晶岩刺造成傷害，你對該目標造成的所有傷害提高3%，持續6秒。\n[q]\"即使最令人敬畏的元素領主也是從樸實的礦石之心誕生的。\""}
-MultiLanguageItemData['tw'][168858] = {name = "[q6]泰坦淨化程序", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7 ]點火焰傷害。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1 + 臨機應變)]點火焰傷害 。\n\n 淨化程序對變異怪造成的傷害額外提高 50 %。\n[q]\"泰坦設定了安全程序以處理艾澤拉斯可能會面對的各種腐化。\""}
-MultiLanguageItemData['tw'][168859] = {name = "[q6]鎖定淨化程序", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7 ]點火焰傷害。有很小的機率立刻殲滅被母親大人認定沒有價值的任何樣本。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1 + 臨機應變)]點火焰傷害，並每隔2秒為你治療[ 255 * (1 + 臨機應變)]點生命力，持續8秒。\n\n 淨化程序對變異怪造成的傷害額外提高 50 %。\n[q]\"在要求極度精準的場合下使用。\""}
-MultiLanguageItemData['tw'][168860] = {name = "[q6]增強淨化程序", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望崇敬。(如果已經學會則無法購買。)\n在其他角色學會任何等級3的鏽栓反抗軍精華以解鎖此精華。\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7 ]點火焰傷害。有很小的機率立刻殲滅被母親大人認定沒有價值的任何樣本。\n\n 若有敵人死在光束範圍內，你的傷害提高10%，持續8秒。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1.25) * (1 + 臨機應變)]點火焰傷害，並每隔2秒為你治療[ 255 * (1 + 臨機應變)]點生命力，持續8秒。\n\n 淨化程序對變異怪造成的傷害額外提高 50 %。\n[q]\"當前置程序都無效時的進階程序。\""}
-MultiLanguageItemData['tw'][168861] = {name = "[q6]終極淨化程序", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7 ]點火焰傷害。有很小的機率立刻殲滅被母親大人認定沒有價值的任何樣本。\n\n 若有敵人死在光束範圍內，你的傷害提高10%，持續8秒。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1.25) * (1 + 臨機應變)]點火焰傷害，並每隔2秒為你治療[ 255 * (1 + 臨機應變)]點生命力，持續8秒。\n\n 淨化程序對變異怪造成的傷害額外提高 50 %。\n[q]\"當所有協定都無效時的終極手段。\""}
+MultiLanguageItemData['tw'][168858] = {name = "[q6]泰坦淨化程序", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7]點火焰傷害。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1 + 臨機應變)]點火焰傷害 。\n\n 淨化程序對變異怪造成的傷害額外提高50%。\n[q]\"泰坦設定了安全程序以處理艾澤拉斯可能會面對的各種腐化。\""}
+MultiLanguageItemData['tw'][168859] = {name = "[q6]鎖定淨化程序", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7]點火焰傷害。有很小的機率立刻殲滅被母親大人認定沒有價值的任何樣本。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1 + 臨機應變)]點火焰傷害，並每隔2秒為你治療[ 255 * (1 + 臨機應變)]點生命力，持續8秒。\n\n 淨化程序對變異怪造成的傷害額外提高50%。\n[q]\"在要求極度精準的場合下使用。\""}
+MultiLanguageItemData['tw'][168860] = {name = "[q6]增強淨化程序", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望崇敬。(如果已經學會則無法購買。)\n在其他角色學會任何等級3的鏽栓反抗軍精華以解鎖此精華。\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7]點火焰傷害。有很小的機率立刻殲滅被母親大人認定沒有價值的任何樣本。\n\n 若有敵人死在光束範圍內，你的傷害提高10%，持續8秒。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1.25) * (1 + 臨機應變)]點火焰傷害，並每隔2秒為你治療[ 255 * (1 + 臨機應變)]點生命力，持續8秒。\n\n 淨化程序對變異怪造成的傷害額外提高50%。\n[q]\"當前置程序都無效時的進階程序。\""}
+MultiLanguageItemData['tw'][168861] = {name = "[q6]終極淨化程序", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以淨化程序灌注你的艾澤拉斯之心。\n主要力量：\n 淨化衝擊\n40 碼範圍 瞬發 1分鐘 冷卻 呼叫一道淨化光束射擊目標區域，在6秒內造成[ 395 * (1 + 臨機應變) * 7]點火焰傷害。有很小的機率立刻殲滅被母親大人認定沒有價值的任何樣本。\n\n 若有敵人死在光束範圍內，你的傷害提高10%，持續8秒。\n\n 被光束擊中的任何變異怪都會陷入昏迷，持續3秒。 \n 次要力量：\n 淨化程序\n大概每分鐘觸發 2 次 母親大人在你的艾澤拉斯之心加入淨化程序，讓你的傷害性法術和技能可以釋放一波艾澤萊能量衝擊目標，對8碼內的任何敵人造成[ 563 * (1.25) * (1 + 臨機應變)]點火焰傷害，並每隔2秒為你治療[ 255 * (1 + 臨機應變)]點生命力，持續8秒。\n\n 淨化程序對變異怪造成的傷害額外提高50%。\n[q]\"當所有協定都無效時的終極手段。\""}
 MultiLanguageItemData['tw'][168862] = {name = "[q3]地精天兵追蹤信標", additional_info = "拾取後綁定\n唯一\n種族: 地精\n[q2]使用: 要求最近的飛行管理員來接你。\n\n 只能在已解鎖飛行哨子的區域中使用。\n售價:"}
 MultiLanguageItemData['tw'][168863] = {name = "[q6]無縛的艾澤萊晶岩白銀裂片", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n需要破縛者聲望友好。(如果已經學會則無法購買。)\n需要安寇恩聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 1分鐘 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高300%。 \n 次要力量：\n 無畏之力\n大概每分鐘觸發 20 次 每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高50%，持續4秒。"}
-MultiLanguageItemData['tw'][168864] = {name = "[q6]鋒利的艾澤萊晶岩白銀裂片", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n需要破縛者聲望尊敬。(如果已經學會則無法購買。)\n需要安寇恩聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 45秒 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高 300 %。 \n 次要力量：\n 無畏之力\n每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高70%，持續4秒。"}
-MultiLanguageItemData['tw'][168865] = {name = "[q6]極化的艾澤萊晶岩白銀裂片", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的納沙塔爾聲望精華以解鎖此精華。\n需要破縛者聲望崇敬。(如果已經學會則無法購買。)\n需要安寇恩聲望崇敬。(如果已經學會則無法購買。)\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 45秒 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高 300 %。\n\n 每次無縛之力造成致命一擊時，會立刻以一枚額外的艾澤萊晶岩裂片攻擊目標，最多5枚。 \n 次要力量：\n 無畏之力\n每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高70%，持續6秒。"}
-MultiLanguageItemData['tw'][168866] = {name = "[q6]燦爛的艾澤萊晶岩白銀裂片", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 45秒 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高 300 %。\n\n 每次無縛之力造成致命一擊時，會立刻以一枚額外的艾澤萊晶岩裂片攻擊目標，最多5枚。 \n 次要力量：\n 無畏之力\n每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高70%，持續6秒。"}
+MultiLanguageItemData['tw'][168864] = {name = "[q6]鋒利的艾澤萊晶岩白銀裂片", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n需要破縛者聲望尊敬。(如果已經學會則無法購買。)\n需要安寇恩聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 45秒 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高300%。 \n 次要力量：\n 無畏之力\n每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高70%，持續4秒。"}
+MultiLanguageItemData['tw'][168865] = {name = "[q6]極化的艾澤萊晶岩白銀裂片", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的納沙塔爾聲望精華以解鎖此精華。\n需要破縛者聲望崇敬。(如果已經學會則無法購買。)\n需要安寇恩聲望崇敬。(如果已經學會則無法購買。)\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 45秒 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高300%。\n\n 每次無縛之力造成致命一擊時，會立刻以一枚額外的艾澤萊晶岩裂片攻擊目標，最多5枚。 \n 次要力量：\n 無畏之力\n每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高70%，持續6秒。"}
+MultiLanguageItemData['tw'][168866] = {name = "[q6]燦爛的艾澤萊晶岩白銀裂片", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以無縛之力灌注你的艾澤拉斯之心。\n主要力量：\n 無縛之力\n40 碼範圍 瞬發 45秒 冷卻 釋放艾澤拉斯之心潛藏的力量，使艾澤萊晶岩裂片直擊目標，在2秒內造成[( 155 * (7.06061) + 155 )]點火焰傷害。如果造成致命一擊，傷害量會提高300%。\n\n 每次無縛之力造成致命一擊時，會立刻以一枚額外的艾澤萊晶岩裂片攻擊目標，最多5枚。 \n 次要力量：\n 無畏之力\n每當技能沒有造成致命一擊時，你有很高的機率獲得一層無畏之力。無畏之力堆疊20層後，你的致命一擊提高70%，持續6秒。"}
 MultiLanguageItemData['tw'][168867] = {name = "女王的命令", additional_info = "拾取後綁定\n唯一\n[q]\"卷軸上印著黑暗女王的徽記。羊皮紙散發著淡淡的玫瑰香味。\"\n[q2]<右鍵單擊閱讀>\n售價:"}
 MultiLanguageItemData['tw'][168868] = {name = "[q4]札奎爾肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n16護甲\n+10 [力量 or 智力]\n+11 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][168869] = {name = "[q4]永恆守護者巨腰帶", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 7 致命一擊\n[q2]+ 4 精通\n耐久: 55 / 55\n[q2]裝備： 每隔2分鐘吹起持續10秒的永恆風暴，對60碼範圍內一名隨機敵人造成[ 64 * (1 + 臨機應變)]點秘法傷害，持續3次。\n\n 所有永恆風暴的效果會同時發生。\n售價:"}
@@ -27152,7 +27152,7 @@ MultiLanguageItemData['tw'][168887] = {name = "[q4]無比美麗手套", addition
 MultiLanguageItemData['tw'][168888] = {name = "[q4]至高貴族手甲", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 5 精通\n耐久: 55 / 55\n[q2]裝備： 每隔2分鐘吹起持續10秒的永恆風暴，為60碼範圍內的一名盟友恢復[ 96 * (1 + 臨機應變)]點生命力，持續3次。\n\n 所有永恆風暴的效果會同時發生。\n售價:"}
 MultiLanguageItemData['tw'][168889] = {name = "[q4]波拉勒斯貴族徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 6 加速\n[q2]+ 13 精通\n售價:"}
 MultiLanguageItemData['tw'][168890] = {name = "[q4]精靈貴族侍臣之戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 12 致命一擊\n[q2]+ 7 精通\n售價:"}
-MultiLanguageItemData['tw'][168891] = {name = "[q4]詛咒情侶之戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 11 加速\n[q2]+ 8 臨機應變\n[q2]使用: 把你的戒指連結另一個詛咒情侶之戒，持續一整週。\n[q2]裝備： 若另一隻綁定戒指的穿戴者位在附近 20 碼範圍內，且傷勢比你嚴重，則每5秒犧牲 29 點生命力使其獲得等量的治療。\n售價:"}
+MultiLanguageItemData['tw'][168891] = {name = "[q4]詛咒情侶之戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 11 加速\n[q2]+ 8 臨機應變\n[q2]使用: 把你的戒指連結另一個詛咒情侶之戒，持續一整週。\n[q2]裝備： 若另一隻綁定戒指的穿戴者位在附近20碼範圍內，且傷勢比你嚴重，則每5秒犧牲 29 點生命力使其獲得等量的治療。\n售價:"}
 MultiLanguageItemData['tw'][168892] = {name = "[q4]廷衛判決匕首", additional_info = "拾取後綁定{單手} {匕首}\n{5-9點傷害} {速度 1.80}\n(每秒3.9點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 4 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168893] = {name = "[q4]孵化室刮鐵拳刃", additional_info = "拾取後綁定{單手} {拳套}\n{8-12點傷害} {速度 2.60}\n(每秒3.8點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168894] = {name = "[q4]烏賊獵殺者魚矛槍", additional_info = "拾取後綁定{遠程} {弩}\n{12-19點傷害} {速度 3.00}\n(每秒5.2點傷害)\n+7 敏捷\n+10 耐力\n[q2]+ 5 加速\n[q2]+ 8 精通\n耐久: 120 / 120\n售價:"}
@@ -27188,15 +27188,15 @@ MultiLanguageItemData['tw'][168928] = {name = "[q6]平衡浪潮石板", addition
 MultiLanguageItemData['tw'][168929] = {name = "[q6]無盡浪潮聖典", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以永升浪潮灌注你的艾澤拉斯之心。\n需要破縛者聲望尊敬。(如果已經學會則無法購買。)\n需要安寇恩聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 超載法力\n瞬發 30秒 冷卻 讓你的法力超載8秒，使你施放的每個法術都會讓你的治療量提高4%，此效果可以堆疊。\n\n 在超載期間內，你的法力不會自動恢復 。 \n 次要力量：\n 永升浪潮\n大概每分鐘觸發 1.75 次 你的治療有機率使你獲得[ 115 * (1.2)]點智力，持續10秒，或是獲得[ 477 * (1.2)]點法力。獲得法力的機率會隨著你法力損失的程度而提高。 [永升浪潮: 有20%機率同時獲得兩種效果。 ] （3.5秒 冷卻）"}
 MultiLanguageItemData['tw'][168930] = {name = "[q6]洶湧浪潮秘典", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以永升浪潮灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的納沙塔爾聲望精華以解鎖此精華。\n需要破縛者聲望崇敬。(如果已經學會則無法購買。)\n需要安寇恩聲望崇敬。(如果已經學會則無法購買。)\n主要力量：\n 超載法力\n瞬發 30秒 冷卻 讓你的法力超載8秒，使你施放的每個法術都會讓你的治療量提高4%，此效果可以堆疊。\n\n 在超載期間內，你的法力不會自動恢復，但加速提高10%。 \n 次要力量：\n 永升浪潮\n大概每分鐘觸發 1.75 次 你的治療有機率使你獲得[ 115 * (1.2)]點智力，持續10秒，或是獲得[ 477 * (1.2)]點法力。獲得法力的機率會隨著你法力損失的程度而提高。有20%機率同時獲得兩種效果。 （3.5秒 冷卻）"}
 MultiLanguageItemData['tw'][168931] = {name = "[q6]閃耀浪潮皮紙", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以永升浪潮灌注你的艾澤拉斯之心。\n主要力量：\n 超載法力\n瞬發 30秒 冷卻 讓你的法力超載8秒，使你施放的每個法術都會讓你的治療量提高4%，此效果可以堆疊。\n\n 在超載期間內，你的法力不會自動恢復，但加速提高10%。 \n 次要力量：\n 永升浪潮\n大概每分鐘觸發 1.75 次 你的治療有機率使你獲得[ 115 * (1.2)]點智力，持續10秒，或是獲得[ 477 * (1.2)]點法力。獲得法力的機率會隨著你法力損失的程度而提高。有20%機率同時獲得兩種效果。 （3.5秒 冷卻）"}
-MultiLanguageItemData['tw'][168932] = {name = "[q6]反動萬物電池", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅 20 %。 \n 次要力量：\n 萬物之井\n將過量治療的 15 %儲存在萬物之井裡面。當你治療生命力低於 40 %的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。"}
-MultiLanguageItemData['tw'][168933] = {name = "[q6]強化萬物電容器", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅50%。 \n 次要力量：\n 萬物之井\n將過量治療的 15 %儲存在萬物之井裡面。當你治療生命力低於50%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。"}
-MultiLanguageItemData['tw'][168934] = {name = "[q6]校準萬物計量器", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望崇敬。(如果已經學會則無法購買。)\n在其他角色學會任何等級3的鏽栓反抗軍精華以解鎖此精華。\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅50%。萬物之井釋放的治療量不會超過目標當前失去的生命力。 \n 次要力量：\n 萬物之井\n將過量治療的 15 %儲存在萬物之井裡面。當你治療生命力低於50%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。\n\n 當井內的治療量不足 1398 時，它吸收治療量的速度會加倍。"}
-MultiLanguageItemData['tw'][168935] = {name = "[q6]萬物活力顯示器", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅50%。萬物之井釋放的治療量不會超過目標當前失去的生命力。 \n 次要力量：\n 萬物之井\n將過量治療的 15 %儲存在萬物之井裡面。當你治療生命力低於50%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。\n\n 當井內的治療量不足 1398 時，它吸收治療量的速度會加倍。"}
-MultiLanguageItemData['tw'][168936] = {name = "[q6]堅定希望屏障", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變)]點。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][168937] = {name = "[q6]恩惠屏障", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。\n\n 你每放出一顆防護球體，就獲得一面可吸收相當於你生命力上限2%傷害的護盾。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變) * (1.2)]點。\n\n專屬特性： 腐化抗性提高 10 點。\n[q]\"己所不欲，勿…\""}
-MultiLanguageItemData['tw'][168938] = {name = "[q6]互助屏障", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n在其他角色學會任何來自恐怖幻象的等級3精華以解鎖此精華。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。\n\n 你每放出一顆防護球體，就獲得一面可吸收相當於你生命力上限2%傷害的護盾。\n\n 每當一名盟友獲得吸收護盾，你和該盟友就恢復[ 346 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變) * (1.2)]點。\n\n 受堅定屏障保護的目標，受到的傷害降低3%。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][168932] = {name = "[q6]反動萬物電池", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望友好。(如果已經學會則無法購買。)\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅 20 %。 \n 次要力量：\n 萬物之井\n將過量治療的15%儲存在萬物之井裡面。當你治療生命力低於40%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。"}
+MultiLanguageItemData['tw'][168933] = {name = "[q6]強化萬物電容器", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望尊敬。(如果已經學會則無法購買。)\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅50%。 \n 次要力量：\n 萬物之井\n將過量治療的15%儲存在萬物之井裡面。當你治療生命力低於50%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。"}
+MultiLanguageItemData['tw'][168934] = {name = "[q6]校準萬物計量器", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n需要鏽栓反抗軍聲望崇敬。(如果已經學會則無法購買。)\n在其他角色學會任何等級3的鏽栓反抗軍精華以解鎖此精華。\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅50%。萬物之井釋放的治療量不會超過目標當前失去的生命力。 \n 次要力量：\n 萬物之井\n將過量治療的15%儲存在萬物之井裡面。當你治療生命力低於50%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。\n\n 當井內的治療量不足 1398 時，它吸收治療量的速度會加倍。"}
+MultiLanguageItemData['tw'][168935] = {name = "[q6]萬物活力顯示器", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以萬物之井灌注你的艾澤拉斯之心。\n主要力量：\n 歸元\n100 碼範圍 瞬發 15秒 冷卻 將儲存在萬物之井中的所有治療量向一位盟友釋放。治療量會增幅50%。萬物之井釋放的治療量不會超過目標當前失去的生命力。 \n 次要力量：\n 萬物之井\n將過量治療的15%儲存在萬物之井裡面。當你治療生命力低於50%的目標時，萬物之井會以先前儲存的治療量為該目標恢復最多 547 點生命力。\n\n 當井內的治療量不足 1398 時，它吸收治療量的速度會加倍。"}
+MultiLanguageItemData['tw'][168936] = {name = "[q6]堅定希望屏障", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變)]點。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][168937] = {name = "[q6]恩惠屏障", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。\n\n 你每放出一顆防護球體，就獲得一面可吸收相當於你生命力上限2%傷害的護盾。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變) * (1.2)]點。\n\n專屬特性： 腐化抗性提高10點。\n[q]\"己所不欲，勿…\""}
+MultiLanguageItemData['tw'][168938] = {name = "[q6]互助屏障", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n在其他角色學會任何來自恐怖幻象的等級3精華以解鎖此精華。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。\n\n 你每放出一顆防護球體，就獲得一面可吸收相當於你生命力上限2%傷害的護盾。\n\n 每當一名盟友獲得吸收護盾，你和該盟友就恢復[ 346 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變) * (1.2)]點。\n\n 受堅定屏障保護的目標，受到的傷害降低3%。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][168939] = {name = "奧司曼裂片", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"許多無法使用的小塊奧司曼裂片。\""}
-MultiLanguageItemData['tw'][168940] = {name = "[q6]無盡光輝屏障", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。\n\n 你每放出一顆防護球體，就獲得一面可吸收相當於你生命力上限2%傷害的護盾。\n\n 每當一名盟友獲得吸收護盾，你和該盟友就恢復[ 346 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變) * (1.2)]點。\n\n 受堅定屏障保護的目標，受到的傷害降低3%。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][168940] = {name = "[q6]無盡光輝屏障", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以堅定屏障灌注你的艾澤拉斯之心。\n主要力量：\n 守護者屏障\n瞄准 (4秒 施法時間) 3分鐘 冷卻 在4秒內放出12顆防護球體，賦予第一名觸碰到的盟友一道可吸收 1840 點傷害的屏障，持續10秒。\n\n 你每放出一顆防護球體，就獲得一面可吸收相當於你生命力上限2%傷害的護盾。\n\n 每當一名盟友獲得吸收護盾，你和該盟友就恢復[ 346 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 堅定屏障\n在15碼範圍內的盟友每10秒獲得一面吸收[ 113 * (1 + 臨機應變)]點傷害的護盾，最多可堆疊[ 848 * (1 + 臨機應變) * (1.2)]點。\n\n 受堅定屏障保護的目標，受到的傷害降低3%。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][168941] = {name = "[q6]活力再生晶格", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以活力導管灌注你的艾澤拉斯之心。\n主要力量：\n 活力導管\n40 碼範圍 瞬發 1分鐘 冷卻 把活力導管轉向一名盟友。每0.5秒，持續6秒，他們會從30碼範圍內擁有最高生命力的盟友轉移 [ 958 * (1 + 臨機應變)] 點生命力。 \n 次要力量：\n 轉移\n大概每分鐘觸發 15 次 你所治療的目標有很高的機率從30碼範圍內擁有最高生命力的盟友轉移 [ 958 * (1 + 臨機應變)] 點生命力。"}
 MultiLanguageItemData['tw'][168942] = {name = "[q6]活力延展網絡", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以活力導管灌注你的艾澤拉斯之心。\n主要力量：\n 活力導管\n40 碼範圍 瞬發 45秒 冷卻 把活力導管轉向一名盟友。每0.5秒，持續6秒，他們會從30碼範圍內擁有最高生命力的盟友轉移[ 958 * 1.2 * (1 + 臨機應變)]點生命力。 \n 次要力量：\n 轉移\n大概每分鐘觸發 15 次 你所治療的目標有很高的機率從30碼範圍內擁有最高生命力的盟友轉移[ 958 * 1.2 * (1 + 臨機應變)]點生命力。"}
 MultiLanguageItemData['tw'][168943] = {name = "[q6]活力倍增格網", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以活力導管灌注你的艾澤拉斯之心。\n在其他角色學會等級3的凝結生命之力、活力導管或艾澤拉斯的不朽贈禮以解鎖此精華。\n主要力量：\n 活力導管\n40 碼範圍 瞬發 45秒 冷卻 把活力導管轉向一名盟友。每0.5秒，持續6秒，他們會從30碼範圍內擁有最高生命力的盟友轉移[ 958 * 1.2 * (1 + 臨機應變)]點生命力。\n\n 如果目標生命力全滿，在剩餘持續時間裡跳至附近生命力最低的目標。 \n 次要力量：\n 轉移\n大概每分鐘觸發 15 次 你所治療的目標有很高的機率從30碼範圍內擁有最高生命力的盟友轉移[ 958 * 1.2 * (1 + 臨機應變)]點生命力。\n\n 轉移生命力會在目標身上留下一道吸收 575 點傷害的護盾，持續5秒。"}
@@ -27216,9 +27216,9 @@ MultiLanguageItemData['tw'][168961] = {name = "發熱蒸發器線圈", additiona
 MultiLanguageItemData['tw'][168962] = {name = "[q4]尖刃穿孔器", additional_info = "拾取後綁定{單手} {匕首}\n{5-9點傷害} {速度 1.80}\n(每秒3.9點傷害)\n+4 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168963] = {name = "[q4]融合駭客", additional_info = "拾取後綁定{單手} {斧}\n{6-14點傷害} {速度 2.60}\n(每秒3.8點傷害)\n+4 力量\n+5 耐力\n耐久: 110 / 110\n[q2]裝備： 你的近戰攻擊有一定機率以融合火焰燃燒敵人，在4秒內造成( 7 * 4)點火焰傷害。\n售價:"}
 MultiLanguageItemData['tw'][168964] = {name = "[q4]超線長靴", additional_info = "拾取後綁定{腳} {布甲}\n4護甲\n+5 智力\n+8 耐力\n[q2]+ 4 致命一擊\n[q2]+ 7 加速\n耐久: 80 / 80\n售價:"}
-MultiLanguageItemData['tw'][168965] = {name = "[q4]白金鎧甲組件", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 獲得4層白金鎧甲，持續30秒，使你的護甲值提高 68 點。若單一物理傷害效果對你造成高於生命力 10 %的傷害，移除一層白金護甲。 (2分鐘 冷卻)\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
+MultiLanguageItemData['tw'][168965] = {name = "[q4]白金鎧甲組件", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 獲得4層白金鎧甲，持續30秒，使你的護甲值提高 68 點。若單一物理傷害效果對你造成高於生命力10%的傷害，移除一層白金護甲。 (2分鐘 冷卻)\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
 MultiLanguageItemData['tw'][168966] = {name = "[q4]重合金腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n21護甲\n+7 [力量 or 智力]\n+11 耐力\n[q2]+ 8 臨機應變\n[q2]+ 6 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][168967] = {name = "[q4]鍍金超導體", additional_info = "拾取後綁定{手腕} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+6 耐力\n耐久: 55 / 55\n[q2]裝備： 承受自然傷害可使你的致命一擊、加速、精通和臨機應變提高 3 點，持續 60 秒。\n售價:"}
+MultiLanguageItemData['tw'][168967] = {name = "[q4]鍍金超導體", additional_info = "拾取後綁定{手腕} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+6 耐力\n耐久: 55 / 55\n[q2]裝備： 承受自然傷害可使你的致命一擊、加速、精通和臨機應變提高 3 點，持續60秒。\n售價:"}
 MultiLanguageItemData['tw'][168968] = {name = "[q4]焰灼護腿", additional_info = "拾取後綁定{腿部} {皮甲}\n9護甲\n+7 [敏捷 or 智力]\n+11 耐力\n[q2]+ 6 加速\n[q2]+ 8 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][168969] = {name = "[q4]操作員手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+8 耐力\n[q2]+ 7 致命一擊\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][168970] = {name = "[q4]垃圾大師的披肩", additional_info = "拾取後綁定\n唯一\n背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+6 耐力\n[q2]+ 8 臨機應變\n[q2]裝備： 接受披起垃圾大師披肩的重責大任。\n售價:"}
@@ -27228,7 +27228,7 @@ MultiLanguageItemData['tw'][168973] = {name = "[q4]神經突觸強化器", addit
 MultiLanguageItemData['tw'][168974] = {name = "[q4]自我修復腿甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n14護甲\n+7 [敏捷 or 智力]\n+11 耐力\n[q2]+ 5 臨機應變\n[q2]+ 9 精通\n[q2]不滅\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][168975] = {name = "[q4]機械工的寶貴足靴", additional_info = "拾取後綁定{腳} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 5 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168976] = {name = "[q4]自動束腰裝置", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 6 精通\n耐久: 55 / 55\n[q]\"總是很合腳。\"\n售價:"}
-MultiLanguageItemData['tw'][168977] = {name = "[q4]重啟位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你最多為 5 位負傷的盟友治療 36 點生命。\n售價:"}
+MultiLanguageItemData['tw'][168977] = {name = "[q4]重啟位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你最多為5位負傷的盟友治療 36 點生命。\n售價:"}
 MultiLanguageItemData['tw'][168978] = {name = "[q4]電鍍折射器", additional_info = "拾取後綁定{手腕} {板甲}\n12護甲\n+4 [力量 or 智力]\n+6 耐力\n耐久: 55 / 55\n[q2]使用: 獲得 29 點招架和 21 點迴避，持續6秒，之後朝你面前放出一道衝擊波，造成 121 點物理傷害。 (30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][168979] = {name = "[q4]機械化鎧甲胸甲", additional_info = "拾取後綁定{胸部} {板甲}\n24護甲\n+14 [力量 or 智力]\n+16 耐力\n耐久: 165 / 165\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][168980] = {name = "[q4]絕對權威護手", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 55 / 55\n售價:"}
@@ -27259,19 +27259,19 @@ MultiLanguageItemData['tw'][169053] = {name = "[q4]粗糙的鎖甲長靴", addit
 MultiLanguageItemData['tw'][169054] = {name = "[q4]電激皮甲纏手", additional_info = "拾取後綁定{手} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 4 加速\n[q2]+ 7 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][169055] = {name = "[q4]抗酸蝕護脛", additional_info = "拾取後綁定{腳} {板甲}\n15護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 7 臨機應變\n[q2]+ 4 精通\n耐久: 80 / 80\n[q2]裝備： 機械岡的黏蟲和泥漿怪對你發動攻擊時，有10%的機率傷害會降低50%。\n售價:"}
 MultiLanguageItemData['tw'][169056] = {name = "[q4]火熱高筒靴", additional_info = "拾取後綁定{腳} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 臨機應變\n耐久: 80 / 80\n售價:"}
-MultiLanguageItemData['tw'][169057] = {name = "[q4]上好油的鎧甲束腰", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55\n售價:"}
+MultiLanguageItemData['tw'][169057] = {name = "[q4]上好油的鎧甲束腰", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 6 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][169058] = {name = "[q4]回收的生火工具", additional_info = "拾取後綁定{單手} {斧}\n{6-14點傷害} {速度 2.60}\n(每秒3.8點傷害)\n+4 敏捷\n+5 耐力\n耐久: 110 / 110\n[q2]裝備： 你的近戰攻擊有一定機率以融合火焰燃燒敵人，在4秒內造成( 7 * 4)點火焰傷害。\n售價:"}
-MultiLanguageItemData['tw'][169059] = {name = "[q4]光滑的戰術纏手", additional_info = "拾取後綁定{手} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 4 加速\n[q2]+ 6 精通\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][169060] = {name = "[q4]梅克吉爾的萬能腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n售價:"}
+MultiLanguageItemData['tw'][169059] = {name = "[q4]光滑的戰術纏手", additional_info = "拾取後綁定{手} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 4 加速\n[q2]+ 7 精通\n耐久: 55 / 55\n售價:"}
+MultiLanguageItemData['tw'][169060] = {name = "[q4]梅克吉爾的萬能腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 7 致命一擊\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][169061] = {name = "[q4]絕緣串線手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+8 耐力\n[q2]+ 5 臨機應變\n[q2]+ 6 精通\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][169062] = {name = "[q4]磨利的穴居怪大腿骨", additional_info = "拾取後綁定{單手} {劍}\n{3-7點傷害} {速度 2.60}\n(每秒1.9點傷害)\n+21 智力\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][169063] = {name = "[q4]高速護手", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 6 加速\n[q2]+ 5 精通\n[q2]+ 5 速度\n耐久: 55 / 55\n售價:"}
+MultiLanguageItemData['tw'][169062] = {name = "[q4]磨利的穴居怪大腿骨", additional_info = "拾取後綁定{單手} {劍}\n{3-7點傷害} {速度 2.60}\n(每秒1.9點傷害)\n+21 智力\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 110 / 110\n售價:"}
+MultiLanguageItemData['tw'][169063] = {name = "[q4]高速護手", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 6 加速\n[q2]+ 4 精通\n[q2]+ 5 速度\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][169064] = {name = "[q4]江湖郎中的多彩披風", additional_info = "拾取後綁定背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 加速\n[q2]使用: 一旦你休息時間過久，將你送回爐石位置。和不同地區的旅店老闆交談可以變更你的家。 (1天 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169065] = {name = "[q4]強化過的騎乘重腿甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n14護甲\n+7 [敏捷 or 智力]\n+11 耐力\n[q2]+ 8 臨機應變\n[q2]+ 6 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][169066] = {name = "[q4]崔克西的備用背囓者", additional_info = "拾取後綁定{單手} {匕首}\n{5-9點傷害} {速度 1.80}\n(每秒3.9點傷害)\n+4 敏捷\n+5 耐力\n[q2]+ 5 加速\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
+MultiLanguageItemData['tw'][169066] = {name = "[q4]崔克西的備用背囓者", additional_info = "拾取後綁定{單手} {匕首}\n{5-9點傷害} {速度 1.80}\n(每秒3.9點傷害)\n+4 敏捷\n+5 耐力\n[q2]+ 4 加速\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][169067] = {name = "[q4]絲質安全腰帶", additional_info = "拾取後綁定{腰部} {布甲}\n3護甲\n+5 智力\n+8 耐力\n[q2]+ 7 臨機應變\n[q2]+ 4 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][169068] = {name = "[q4]回收的機甲摩托車盾擋", additional_info = "拾取後綁定{副手} {盾}\n69護甲\n+4 力量\n+11 智力\n+5 耐力\n[q2]+ 4 精通\n耐久: 120 / 120\n[q2]裝備： 格擋攻擊時，有機率觸發超載，吸收下次受到的 127 點傷害，並在吸收持續期間，對攻擊者造成 18 點自然傷害。\n售價:"}
-MultiLanguageItemData['tw'][169069] = {name = "[q4]靜電裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n耐久: 55 / 55\n[q2]使用: 朝一名敵人發射鉛彈，只要你位在附近 20 碼範圍內，就會在8秒內對其造成 143 點自然傷害。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][169069] = {name = "[q4]靜電裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n耐久: 55 / 55\n[q2]使用: 朝一名敵人發射鉛彈，只要你位在附近20碼範圍內，就會在8秒內對其造成 143 點自然傷害。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169070] = {name = "[q4]隱跡掠食者的馬褲", additional_info = "拾取後綁定{腿部} {皮甲}\n9護甲\n+7 [敏捷 or 智力]\n+11 耐力\n[q2]+ 8 致命一擊\n[q2]+ 6 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][169071] = {name = "[q4]超載窄褲", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+7 智力\n+11 耐力\n[q2]+ 7 加速\n[q2]+ 8 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][169072] = {name = "[q4]爆燃武裝緊身上衣", additional_info = "拾取後綁定{胸部} {布甲}\n6護甲\n+14 智力\n+16 耐力\n耐久: 165 / 165\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
@@ -27322,9 +27322,9 @@ MultiLanguageItemData['tw'][169155] = {name = "[q3]廢料大師的焊槍", addit
 MultiLanguageItemData['tw'][169156] = {name = "[q4]協力邏輯之環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 15 致命一擊\n[q2]+ 5 加速\n[q2]裝備： 如果你治療一個目標時，對方的生命力低於50%…\n售價:"}
 MultiLanguageItemData['tw'][169157] = {name = "[q4]分界邏輯之環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 15 致命一擊\n[q2]+ 5 加速\n[q2]裝備： 如果從敵人背後對敵人造成傷害…\n售價:"}
 MultiLanguageItemData['tw'][169158] = {name = "[q4]循環邏輯之環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 15 致命一擊\n[q2]+ 5 加速\n[q2]裝備： 如果對同一個目標施放3個不同的法術或技能…\n售價:"}
-MultiLanguageItemData['tw'][169159] = {name = "[q4]極速運轉位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你獲得 7 點加速，持續 15 秒。\n售價:"}
+MultiLanguageItemData['tw'][169159] = {name = "[q4]極速運轉位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你獲得 7 點加速，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][169160] = {name = "[q4]短路位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你對附近一名敵人造成 47 點自然傷害。\n售價:"}
-MultiLanguageItemData['tw'][169161] = {name = "[q4]保護位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你在 15 秒內吸收後續 78 點魔法傷害。\n售價:"}
+MultiLanguageItemData['tw'][169161] = {name = "[q4]保護位元指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 16 加速\n[q2]+ 4 精通\n[q2]裝備： …接下來你在15秒內吸收後續 78 點魔法傷害。\n售價:"}
 MultiLanguageItemData['tw'][169162] = {name = "[q4]驚奇之翼2.0", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"別問第一個發生了什麼事 - 機械岡科技畢竟還是地精科技！\"\n成就：\n決戰艾澤拉斯探路者，第二部\n類別：\n決戰艾澤拉斯"}
 MultiLanguageItemData['tw'][169163] = {name = "[q4]無聲滑翔魟", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"此生物體內天然儲備的空氣，讓牠能在深海中存活。同樣的空氣也讓牠們得以輕易地在空中飄浮。\"\n掉落：\n無聲\n區域：\n納沙塔爾"}
 MultiLanguageItemData['tw'][169164] = {name = "[q3]父親的遺骸", additional_info = "任務物品\n[q]\"一個內有黃金、或許還有一根骨頭的箱子？\""}
@@ -27423,21 +27423,21 @@ MultiLanguageItemData['tw'][169301] = {name = "[q4]精靈貴族漩渦潮汐綱�
 MultiLanguageItemData['tw'][169302] = {name = "[q4]精靈貴族神秘壁壘綱要", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 當你受到傷害時，你有一定機率恢復 78 點生命力，並獲得 9 點護甲值，持續10秒，最多可堆疊( 9 * 4)點護甲值。\n售價:"}
 MultiLanguageItemData['tw'][169303] = {name = "[q3]決心護腕", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 展現力量，提高手臂強度，持續15分鐘。 (45分鐘 冷卻)\n[q]\"你的力量足以穿戴它們嗎？\"\n售價:"}
 MultiLanguageItemData['tw'][169304] = {name = "[q4]巨神海蛇之惑", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]裝備： 你的傷害技能有非常低的機率召喚巨神海蛇，對你的目標造成[ 165 * (1 + 臨機應變)]點物理傷害。\n\n 造成傷害也會在你目標身上培育發光的海藻，提高你的召喚機率。\n售價:"}
-MultiLanguageItemData['tw'][169305] = {name = "[q4]烈潮鸚鵡螺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 朝你的目標釋放會回到你原本位置的浪潮，在4秒內對路徑上的敵人造成[ 24 * (5) * (1 + 臨機應變)]點冰霜傷害。接住浪潮會使此技能的冷卻時間縮短 30 秒。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][169305] = {name = "[q4]烈潮鸚鵡螺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 朝你的目標釋放會回到你原本位置的浪潮，在4秒內對路徑上的敵人造成[ 24 * (5) * (1 + 臨機應變)]點冰霜傷害。接住浪潮會使此技能的冷卻時間縮短30秒。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169306] = {name = "[q4]札奎爾的傳送門鑰匙", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 加速\n[q2]裝備： 你的技能有很低的機率在附近產生一道虛無裂口，持續30秒。移至虛無裂口會開啟一道傳送門，持續10秒。站在傳送門內會使你獲得 28 點智力。\n售價:"}
 MultiLanguageItemData['tw'][169307] = {name = "[q4]滅亡幻象", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 向敵人揭露逼近的末日，使你的加速提高 30 點，持續10秒。目標每失去10%生命力，你額外獲得 4 點加速。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][169308] = {name = "[q4]受難鎖鍊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 把你所受傷害的 50 %轉移給25碼範圍內的一名盟友，持續25秒，最多可轉移 1644 點傷害。如果你的目標超出範圍，或是生命力低於 25 %，則效果會中止。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][169308] = {name = "[q4]受難鎖鍊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 把你所受傷害的50%轉移給25碼範圍內的一名盟友，持續25秒，最多可轉移 1644 點傷害。如果你的目標超出範圍，或是生命力低於25%，則效果會中止。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169309] = {name = "[q4]澤亞洛伊卵囊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]裝備： 施放單一目標治療時，有一定機率召喚一個澤亞洛伊到目標身邊，吸收[ 76 * (1 + 臨機應變)]點傷害，並賦予最多 11 點臨機應變，根據剩餘的吸收量而定。每消耗10%法力，你的澤亞洛伊就會受到滋養，使吸收量提高[ 8 * (1 + 臨機應變)]點，臨機應變提高 1 點。\n售價:"}
-MultiLanguageItemData['tw'][169310] = {name = "[q4]嗜血海膽", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 10 %受到的傷害會賦予你治療之血，最多[ 315 * (1 + 臨機應變)]點。每3秒，若你受到傷害，消耗[ 41 * (1 + 臨機應變)]點治療之血為你恢復生命力。\n售價:"}
+MultiLanguageItemData['tw'][169310] = {name = "[q4]嗜血海膽", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 10%受到的傷害會賦予你治療之血，最多[ 315 * (1 + 臨機應變)]點。每3秒，若你受到傷害，消耗[ 41 * (1 + 臨機應變)]點治療之血為你恢復生命力。\n售價:"}
 MultiLanguageItemData['tw'][169311] = {name = "[q4]艾胥凡的銳鋒珊瑚", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 造成[ 25 * (1 + 臨機應變)]點物理傷害並對你的目標施加銳鋒珊瑚，使你對目標的傷害技能有很高的機率造成[ 25 * (1 + 臨機應變)]點物理傷害，並疊加一層銳鋒珊瑚。\n\n 重新施放此技能會從你目標身上移除銳鋒珊瑚，每層使你獲得 3 點致命一擊，持續20秒。 (20秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][169312] = {name = "[q4]發光的膠凝草", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]裝備： 你的治療有一定機率賦予你附近 40 碼範圍內傷勢最重的盟友光暈。具有光暈的盟友受到的治療提高 10 %，受到的總治療最多提高[ 87 * (1 + 臨機應變)]點。\n售價:"}
+MultiLanguageItemData['tw'][169312] = {name = "[q4]發光的膠凝草", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]裝備： 你的治療有一定機率賦予你附近40碼範圍內傷勢最重的盟友光暈。具有光暈的盟友受到的治療提高10%，受到的總治療最多提高[ 87 * (1 + 臨機應變)]點。\n售價:"}
 MultiLanguageItemData['tw'][169313] = {name = "[q4]秘法暴雨之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 你的傷害技能有很低的機率以一道秘法暴雨包圍你，持續20秒，每2秒對附近敵人造成 5 點秘法傷害。每次暴風雨對落單的敵人造成傷害，其攻擊頻率會提高。\n售價:"}
-MultiLanguageItemData['tw'][169314] = {name = "[q4]艾薩拉的力量之泉", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 致命一擊\n[q2]使用: 引導潛藏的魔法，最多持續4秒，使你的主要屬性提高 30 點。每多花一秒引導，就會延長此效果的持續時間，最多延長 30 秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][169314] = {name = "[q4]艾薩拉的力量之泉", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 致命一擊\n[q2]使用: 引導潛藏的魔法，最多持續4秒，使你的主要屬性提高 30 點。每多花一秒引導，就會延長此效果的持續時間，最多延長30秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169315] = {name = "[q4]無信敕令", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 每40秒獲得吸收效果，可防止[ 262 * (1 + 臨機應變)]點 物理 傷害。若吸收量耗盡，你會獲得狂熱，使你後續的吸收效果額外避免10%傷害，最多可避免100%。\n[q2]使用: 頒布海巫諭令，使此技能改為吸收魔法傷害 ，並重置狂熱。 (40秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][169316] = {name = "[q4]延緩判決", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]裝備： 每3秒延緩[ 7 * (1 + 臨機應變)]點治療。移動可釋放延緩的治療，為 3 名受傷最重的盟友恢復生命力。\n售價:"}
+MultiLanguageItemData['tw'][169316] = {name = "[q4]延緩判決", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]裝備： 每3秒延緩[ 7 * (1 + 臨機應變)]點治療。移動可釋放延緩的治療，為3名受傷最重的盟友恢復生命力。\n售價:"}
 MultiLanguageItemData['tw'][169317] = {name = "[q4]咒縛師的束縛石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 臨機應變\n[q2]裝備： 你的法術有一定機率賦予你 15 點主要屬性，持續30秒。\n售價:"}
 MultiLanguageItemData['tw'][169318] = {name = "[q4]電噬者之牙", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量 or 智力]\n[q2]使用: 你的加速提高 23 點，持續30秒。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][169319] = {name = "[q4]滴液墨囊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 當你的傷害技能作用在生命力 30 %以上的敵人時，有很高的機率施加傳導墨水。當一位敵人的生命力掉到 30 %以下，傳導墨水每一層堆疊都會造成[ 26 * (1 + 臨機應變)]點自然傷害。\n售價:"}
+MultiLanguageItemData['tw'][169319] = {name = "[q4]滴液墨囊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 當你的傷害技能作用在生命力30%以上的敵人時，有很高的機率施加傳導墨水。當一位敵人的生命力掉到30%以下，傳導墨水每一層堆疊都會造成[ 26 * (1 + 臨機應變)]點自然傷害。\n售價:"}
 MultiLanguageItemData['tw'][169321] = {name = "[q4]精靈貴族裂地綱要", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率對敵人施加火山壓力，每2秒造成 3 點火焰傷害，持續10秒。火山壓力累積達6層時會爆發，對附近所有敵人造成 44 點火焰傷害。\n售價:"}
 MultiLanguageItemData['tw'][169322] = {name = "[q3]愛探險的小跳跳兔妖包", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚愛探險的小跳跳兔妖。\n[q2]右鍵點擊以召喚或解散你的愛探險的小跳跳兔妖。\n80 ( 80)\n售價:"}
 MultiLanguageItemData['tw'][169325] = {name = "[q6]石化黑鱗片", additional_info = "任務物品\n[q2]使用: 以石化黑鱗片灌注你的艾澤拉斯之心。\n[q]\"這塊古老鱗片象徵著大地，歷經黑色火焰的淬鍊。\""}
@@ -27457,7 +27457,7 @@ MultiLanguageItemData['tw'][169340] = {name = "[q4]棄捨艾澤萊晶岩頭盔",
 MultiLanguageItemData['tw'][169341] = {name = "[q4]棄捨艾澤萊晶岩護軀", additional_info = "拾取後綁定\n唯一\n[q] \"內含一件你的職業適用的決戰艾澤拉斯地城物品。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][169342] = {name = "[q4]棄捨艾澤萊晶岩護軀", additional_info = "拾取後綁定\n唯一\n[q] \"內含一件你的職業適用的決戰艾澤拉斯地城物品。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][169343] = {name = "[q4]棄捨艾澤萊晶岩護軀", additional_info = "拾取後綁定\n唯一\n[q] \"內含一件你的職業適用的決戰艾澤拉斯地城物品。\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][169344] = {name = "[q4]精巧法力電池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 進行引導，把(- 1 * 50429 )點法力儲存在精巧法力電池裡，最多 201716 點。 (1分鐘 冷卻)\n[q2]裝備： 法力值高於 50 %時，獲得 6 點臨機應變，透過儲存在電池中的法力，最高可提高100%。法力值低於 50 %時，每5秒從絕妙法力電池汲取 50429 點法力值至你的法力池。\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
+MultiLanguageItemData['tw'][169344] = {name = "[q4]精巧法力電池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 進行引導，把(- 1 * 50429 )點法力儲存在精巧法力電池裡，最多 201716 點。 (1分鐘 冷卻)\n[q2]裝備： 法力值高於50%時，獲得 6 點臨機應變，透過儲存在電池中的法力，最高可提高100%。法力值低於50%時，每5秒從絕妙法力電池汲取 50429 點法力值至你的法力池。\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
 MultiLanguageItemData['tw'][169346] = {name = "暮光雛龍的鱗片", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"出沒在格瑞姆巴托外的暮光雛龍鱗片。\""}
 MultiLanguageItemData['tw'][169347] = {name = "[q3]機械岡審判", additional_info = "拾取後綁定\n玩具\n[q2]使用: 生成機械岡國王的立體影像。 (1小時 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169348] = {name = "[q3]贊季爾刺矛手", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
@@ -28125,7 +28125,7 @@ MultiLanguageItemData['tw'][170107] = {name = "[q4]希拉凱斯束褲", addition
 MultiLanguageItemData['tw'][170108] = {name = "[q4]深海潛獵者馬褲", additional_info = "海底\n拾取後綁定{腿部} {皮甲}\n9護甲\n+7 [敏捷 or 智力]\n+10 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n耐久: 120 / 120\n[q2]裝備： 在納沙塔爾或永恆宮殿殺死一名納迦後，恢復 55 點生命力。\n售價:"}
 MultiLanguageItemData['tw'][170109] = {name = "[q4]艾薩利怒濤者溯行護腿", additional_info = "海底\n拾取後綁定{腿部} {鎖甲}\n13護甲\n+7 [敏捷 or 智力]\n+10 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n耐久: 120 / 120\n[q2]裝備： 在納沙塔爾或永恆宮殿殺死一名納迦後，恢復 55 點生命力。\n售價:"}
 MultiLanguageItemData['tw'][170110] = {name = "[q4]贊季爾鱗衛腿鎧", additional_info = "海底\n拾取後綁定{腿部} {板甲}\n19護甲\n+7 [力量 or 智力]\n+10 耐力\n[q2]+ 5 加速\n[q2]+ 8 精通\n耐久: 120 / 120\n[q2]裝備： 在納沙塔爾或永恆宮殿殺死一名納迦後，恢復 55 點生命力。\n售價:"}
-MultiLanguageItemData['tw'][170111] = {name = "[q4]贊季爾鱗衛纏腕", additional_info = "海底\n拾取後綁定{手腕} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速 15 %，持續5秒。\n售價:"}
+MultiLanguageItemData['tw'][170111] = {name = "[q4]贊季爾鱗衛纏腕", additional_info = "海底\n拾取後綁定{手腕} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速15%，持續5秒。\n售價:"}
 MultiLanguageItemData['tw'][170112] = {name = "[q2]破浪長柄武器", additional_info = "裝備後綁定\n{雙手} {長柄武器}\n{13-20點傷害} {速度 3.60}\n(每秒4.6點傷害)\n+6 力量\n+9 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][170114] = {name = "[q2]凸緣釘錘", additional_info = "裝備後綁定\n{單手} {權杖}\n{8-10點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 力量\n+5 耐力\n耐久: 75 / 75\n售價:"}
 MultiLanguageItemData['tw'][170115] = {name = "[q2]大型翠綠之爪", additional_info = "裝備後綁定\n{單手} {拳套}\n{7-11點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n耐久: 55 / 55\n售價:"}
@@ -28134,9 +28134,9 @@ MultiLanguageItemData['tw'][170117] = {name = "[q2]縛浪者魔棒", additional_
 MultiLanguageItemData['tw'][170118] = {name = "[q2]百夫長短劍", additional_info = "裝備後綁定\n{單手} {劍}\n{6-12點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 力量\n+5 耐力\n耐久: 75 / 75\n售價:"}
 MultiLanguageItemData['tw'][170119] = {name = "[q2]滑殼戰刃", additional_info = "裝備後綁定\n{單手} {戰刃}\n{7-11點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][170120] = {name = "[q2]女僕長杖", additional_info = "裝備後綁定\n{雙手} {法杖}\n{7-10點傷害} {速度 3.60}\n(每秒2.4點傷害)\n+28 智力\n+9 耐力\n耐久: 85 / 85\n售價:"}
-MultiLanguageItemData['tw'][170121] = {name = "[q4]艾薩利怒濤者裹臂", additional_info = "海底\n拾取後綁定{手腕} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 3 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速 15 %，持續5秒。\n售價:"}
-MultiLanguageItemData['tw'][170122] = {name = "[q4]深海潛獵者纏腕", additional_info = "海底\n拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速 15 %，持續5秒。\n售價:"}
-MultiLanguageItemData['tw'][170123] = {name = "[q4]希拉凱斯手鐲", additional_info = "海底\n拾取後綁定{手腕} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速 15 %，持續5秒。\n售價:"}
+MultiLanguageItemData['tw'][170121] = {name = "[q4]艾薩利怒濤者裹臂", additional_info = "海底\n拾取後綁定{手腕} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 3 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速15%，持續5秒。\n售價:"}
+MultiLanguageItemData['tw'][170122] = {name = "[q4]深海潛獵者纏腕", additional_info = "海底\n拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速15%，持續5秒。\n售價:"}
+MultiLanguageItemData['tw'][170123] = {name = "[q4]希拉凱斯手鐲", additional_info = "海底\n拾取後綁定{手腕} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n[q2]裝備： 在納沙塔爾或永恆宮殿受到傷害時，你有一定機率對攻擊者造成 12 點傷害，並使其緩速15%，持續5秒。\n售價:"}
 MultiLanguageItemData['tw'][170124] = {name = "[q4]鋒銳珊瑚巨劍", additional_info = "拾取後綁定{雙手} {劍}\n{12-21點傷害} {速度 3.60}\n(每秒4.6點傷害)\n+6 力量\n+9 耐力\n[q2]+ 5 加速\n[q2]+ 8 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][170125] = {name = "[q4]深海巨鰻爪", additional_info = "拾取後綁定{單手} {拳套}\n{7-11點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][170126] = {name = "[q4]火成岩長弓", additional_info = "拾取後綁定{遠程} {弓}\n{12-16點傷害} {速度 3.00}\n(每秒4.7點傷害)\n+6 敏捷\n+9 耐力\n[q2]+ 8 致命一擊\n[q2]+ 5 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -28223,7 +28223,7 @@ MultiLanguageItemData['tw'][170209] = {name = "[q2]配方：野性癒合藥水",
 MultiLanguageItemData['tw'][170210] = {name = "[q2]配方：深淵治療藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作深淵治療藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (170)\n售價: \n深淵治療藥水\n[q2]使用: 恢復 16000 點生命力。 (5分鐘 冷卻)\n售價:\n需要 辛葵 (2), 水晶瓶"}
 MultiLanguageItemData['tw'][170211] = {name = "[q2]食譜：超澎湃饗宴", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作超澎湃饗宴。\n[q2]烹調超澎湃饗宴時更有效率，並大幅減少所需的材料。\n需要 庫爾提拉斯烹飪 (175)\n售價: \n超澎湃饗宴\n[q2]使用: 擺出一頓超澎湃饗宴來招待最多35名隊伍或團隊成員！\n\n 在20秒內恢復總計 50769 點生命力和 30769 點法力。進食時必須保持坐姿。如果進食時間超過10秒，你將因充分進食而獲得 50 點屬性，持續1小時。\n售價: \n需要 毒牙魚 (15), 離子小鯉 (15), 叉燒腰肉 (15), 肥嫩後腿肉 (15), 新鮮馬鈴薯 (20), 備用零件箱"}
 MultiLanguageItemData['tw'][170212] = {name = "[q2]食譜：機械齒輪餅", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作機械齒輪餅。\n[q2]烹調機械齒輪餅。\n需要 庫爾提拉斯烹飪 (150)\n售價: \n機械齒輪餅\n[q2]使用: 吃我？\n[q]\"內含鋸齒O形鏽片！\"\n售價: \n需要 備用零件 (25)"}
-MultiLanguageItemData['tw'][170213] = {name = "[q3]公式：納迦皮革", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作納迦皮革。\n以納迦保護法術永久性地為一把武器附魔。每當你格擋、閃躲或招架，有一定機率使力量或敏捷提高 4 點，持續15秒。此外，持續時間內，你的皮膚受到厚鱗覆蓋，讓你吸收 1573 點傷害。無法用在等級高於376的物品。\n\n 大幅減少材料。\n需要 庫爾提拉斯附魔 (175)\n售價:"}
+MultiLanguageItemData['tw'][170213] = {name = "[q3]公式：納迦皮革", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作納迦皮革。\n以納迦保護法術永久性地為一把武器附魔。每當你格擋、閃躲或招架，有一定機率使力量或敏捷提高 4 點，持續15秒。此外，持續時間內，你的皮膚受到厚鱗覆蓋，讓你吸收1573點傷害。無法用在等級高於376的物品。\n\n 大幅減少材料。\n需要 庫爾提拉斯附魔 (175)\n售價:"}
 MultiLanguageItemData['tw'][170250] = {name = "[q4]榮勛軍團武器箱", additional_info = "拾取後綁定\n[q]\"獎勵一件適用於目前戰利品優先分配專精的武器。\""}
 MultiLanguageItemData['tw'][170251] = {name = "[q4]第七軍團武器箱", additional_info = "拾取後綁定\n[q]\"獎勵一件適用於目前戰利品優先分配專精的武器。\""}
 MultiLanguageItemData['tw'][170252] = {name = "壞疽孢子囊", additional_info = "[q7]戰隊綁定\n唯一\n[q2]使用: 對一名敵人投擲壞疽孢子，每3秒造成 3506 點自然傷害，持續15秒。\n\n 只能在海嶼遠征使用。 (2分鐘 冷卻)"}
@@ -29379,32 +29379,32 @@ MultiLanguageItemData['tw'][171743] = {name = "[q4]黑曜樹紋之握", addition
 MultiLanguageItemData['tw'][171744] = {name = "[q4]黑曜樹紋首盔", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 100 / 100 職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][171745] = {name = "[q4]黑曜樹紋腿甲", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 致命一擊\n[q2]+ 8 精通\n耐久: 120 / 120 職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][171746] = {name = "[q4]黑曜樹紋衣飾", additional_info = "拾取後綁定{胸部} {皮甲}\n9護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n耐久: 165 / 165 職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171747] = {name = "[q4]黑曜樹紋肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 精通\n職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171748] = {name = "[q4]黑曜樹紋裹手", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171747] = {name = "[q4]黑曜樹紋肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 精通\n耐久: 100 / 100 職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171748] = {name = "[q4]黑曜樹紋裹手", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 55 / 55 職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][171749] = {name = "[q4]黑曜樹紋頭盔", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 臨機應變\n[q2]+ 6 精通\n耐久: 100 / 100 職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][171750] = {name = "[q4]黑曜樹紋裹腿", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 臨機應變\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171751] = {name = "[q4]黑曜樹紋外套", additional_info = "拾取後綁定{胸部} {皮甲}\n9護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 臨機應變\n職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171752] = {name = "[q4]黑曜樹紋披肩", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 臨機應變\n職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171751] = {name = "[q4]黑曜樹紋外套", additional_info = "拾取後綁定{胸部} {皮甲}\n9護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 臨機應變\n耐久: 165 / 165 職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171752] = {name = "[q4]黑曜樹紋披肩", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 臨機應變\n耐久: 100 / 100 職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][171753] = {name = "[q4]黑曜樹紋手套", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 臨機應變\n耐久: 55 / 55 職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][171754] = {name = "[q4]黑曜樹紋頭罩", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n耐久: 100 / 100 職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171755] = {name = "[q4]黑曜樹紋護腿", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 臨機應變\n職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171756] = {name = "[q4]黑曜樹紋法衣", additional_info = "拾取後綁定{胸部} {皮甲}\n9護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171757] = {name = "[q4]黑曜樹紋裹肩", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 4 精通\n職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][171758] = {name = "[q4]熔火巨人肩衛", additional_info = "拾取後綁定{肩部} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 精通\n職業： 戰士\n售價:"}
+MultiLanguageItemData['tw'][171755] = {name = "[q4]黑曜樹紋護腿", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 臨機應變\n耐久: 120 / 120 職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171756] = {name = "[q4]黑曜樹紋法衣", additional_info = "拾取後綁定{胸部} {皮甲}\n9護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n耐久: 165 / 165 職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171757] = {name = "[q4]黑曜樹紋裹肩", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 4 精通\n耐久: 100 / 100 職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][171758] = {name = "[q4]熔火巨人肩衛", additional_info = "拾取後綁定{肩部} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 精通\n耐久: 100 / 100 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171759] = {name = "[q4]熔火巨人腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n18護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 戰士\n售價:"}
-MultiLanguageItemData['tw'][171760] = {name = "[q4]熔火巨人手甲", additional_info = "拾取後綁定{手} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n職業： 戰士\n售價:"}
+MultiLanguageItemData['tw'][171760] = {name = "[q4]熔火巨人手甲", additional_info = "拾取後綁定{手} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 55 / 55 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171761] = {name = "[q4]熔火巨人面甲", additional_info = "拾取後綁定{頭部} {板甲}\n16護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 4 致命一擊\n[q2]+ 8 加速\n耐久: 100 / 100 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171762] = {name = "[q4]熔火巨人護胸", additional_info = "拾取後綁定{胸部} {板甲}\n21護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 臨機應變\n[q2]+ 6 精通\n耐久: 165 / 165 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171763] = {name = "[q4]炎祭肩衛", additional_info = "拾取後綁定{肩部} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 精通\n耐久: 100 / 100 職業： 聖騎士\n售價:"}
-MultiLanguageItemData['tw'][171764] = {name = "[q4]炎祭腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n18護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n職業： 聖騎士\n售價:"}
+MultiLanguageItemData['tw'][171764] = {name = "[q4]炎祭腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n18護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 聖騎士\n售價:"}
 MultiLanguageItemData['tw'][171765] = {name = "[q4]炎祭面甲", additional_info = "拾取後綁定{頭部} {板甲}\n16護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 4 致命一擊\n[q2]+ 8 臨機應變\n耐久: 100 / 100 職業： 聖騎士\n售價:"}
 MultiLanguageItemData['tw'][171766] = {name = "[q4]炎祭手甲", additional_info = "拾取後綁定{手} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 臨機應變\n[q2]+ 5 精通\n耐久: 55 / 55 職業： 聖騎士\n售價:"}
 MultiLanguageItemData['tw'][171767] = {name = "[q4]炎祭護胸", additional_info = "拾取後綁定{胸部} {板甲}\n21護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 精通\n耐久: 165 / 165 職業： 聖騎士\n售價:"}
 MultiLanguageItemData['tw'][171768] = {name = "[q4]黑暗鳳凰外套", additional_info = "拾取後綁定{胸部} {皮甲}\n9護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 165 / 165 職業： 盜賊\n售價:"}
-MultiLanguageItemData['tw'][171769] = {name = "[q4]黑暗鳳凰手套", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 加速\n職業： 盜賊\n售價:"}
+MultiLanguageItemData['tw'][171769] = {name = "[q4]黑暗鳳凰手套", additional_info = "拾取後綁定{手} {皮甲}\n5護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 加速\n耐久: 55 / 55 職業： 盜賊\n售價:"}
 MultiLanguageItemData['tw'][171770] = {name = "[q4]黑暗鳳凰盔帽", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 100 / 100 職業： 盜賊\n售價:"}
-MultiLanguageItemData['tw'][171771] = {name = "[q4]黑暗鳳凰腿甲", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n職業： 盜賊\n售價:"}
-MultiLanguageItemData['tw'][171772] = {name = "[q4]黑暗鳳凰肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n職業： 盜賊\n售價:"}
+MultiLanguageItemData['tw'][171771] = {name = "[q4]黑暗鳳凰腿甲", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 120 / 120 職業： 盜賊\n售價:"}
+MultiLanguageItemData['tw'][171772] = {name = "[q4]黑暗鳳凰肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 100 / 100 職業： 盜賊\n售價:"}
 MultiLanguageItemData['tw'][171773] = {name = "[q4]喚焰者手套", additional_info = "拾取後綁定{手} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55 職業： 獵人\n售價:"}
 MultiLanguageItemData['tw'][171774] = {name = "[q4]喚焰者護盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n耐久: 100 / 100 職業： 獵人\n售價:"}
 MultiLanguageItemData['tw'][171775] = {name = "[q4]喚焰者腿甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n耐久: 120 / 120 職業： 獵人\n售價:"}
@@ -29415,7 +29415,7 @@ MultiLanguageItemData['tw'][171779] = {name = "[q4]炎祭護手", additional_inf
 MultiLanguageItemData['tw'][171780] = {name = "[q4]炎祭盔帽", additional_info = "拾取後綁定{頭部} {板甲}\n16護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n耐久: 100 / 100 職業： 聖騎士\n售價:"}
 MultiLanguageItemData['tw'][171781] = {name = "[q4]炎祭腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n18護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 精通\n耐久: 120 / 120 職業： 聖騎士\n售價:"}
 MultiLanguageItemData['tw'][171782] = {name = "[q4]炎祭肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100 職業： 聖騎士\n售價:"}
-MultiLanguageItemData['tw'][171783] = {name = "[q4]熔火巨人戰甲", additional_info = "拾取後綁定{胸部} {板甲}\n21護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n職業： 戰士\n售價:"}
+MultiLanguageItemData['tw'][171783] = {name = "[q4]熔火巨人戰甲", additional_info = "拾取後綁定{胸部} {板甲}\n21護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 加速\n耐久: 165 / 165 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171784] = {name = "[q4]熔火巨人護手", additional_info = "拾取後綁定{手} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 55 / 55 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171785] = {name = "[q4]熔火巨人盔帽", additional_info = "拾取後綁定{頭部} {板甲}\n16護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n耐久: 100 / 100 職業： 戰士\n售價:"}
 MultiLanguageItemData['tw'][171786] = {name = "[q4]熔火巨人腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n18護甲\n+6 [力量 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 120 / 120 職業： 戰士\n售價:"}
@@ -29438,24 +29438,24 @@ MultiLanguageItemData['tw'][171802] = {name = "[q4]烈焰淨化裹肩", addition
 MultiLanguageItemData['tw'][171803] = {name = "[q4]禍蛛裹手", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55 職業： 術士\n售價:"}
 MultiLanguageItemData['tw'][171804] = {name = "[q4]禍蛛兜帽", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+6 智力\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n耐久: 100 / 100 職業： 術士\n售價:"}
 MultiLanguageItemData['tw'][171805] = {name = "[q4]禍蛛護腿", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+6 智力\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 術士\n售價:"}
-MultiLanguageItemData['tw'][171806] = {name = "[q4]禍蛛長袍", additional_info = "拾取後綁定{胸部} {布甲}\n6護甲\n+6 智力\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n職業： 術士\n售價:"}
+MultiLanguageItemData['tw'][171806] = {name = "[q4]禍蛛長袍", additional_info = "拾取後綁定{胸部} {布甲}\n6護甲\n+6 智力\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 165 / 165 職業： 術士\n售價:"}
 MultiLanguageItemData['tw'][171807] = {name = "[q4]禍蛛披肩", additional_info = "拾取後綁定{肩部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100 職業： 術士\n售價:"}
-MultiLanguageItemData['tw'][171808] = {name = "[q4]火鷹手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 加速\n職業： 法師\n售價:"}
+MultiLanguageItemData['tw'][171808] = {name = "[q4]火鷹手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55 職業： 法師\n售價:"}
 MultiLanguageItemData['tw'][171809] = {name = "[q4]火鷹兜帽", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+6 智力\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n耐久: 100 / 100 職業： 法師\n售價:"}
 MultiLanguageItemData['tw'][171810] = {name = "[q4]火鷹護腿", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+6 智力\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 法師\n售價:"}
 MultiLanguageItemData['tw'][171811] = {name = "[q4]火鷹長袍", additional_info = "拾取後綁定{胸部} {布甲}\n6護甲\n+6 智力\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 165 / 165 職業： 法師\n售價:"}
 MultiLanguageItemData['tw'][171812] = {name = "[q4]火鷹披肩", additional_info = "拾取後綁定{肩部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100 職業： 法師\n售價:"}
-MultiLanguageItemData['tw'][171813] = {name = "[q4]火山爆發鍊衫", additional_info = "拾取後綁定{胸部} {鎖甲}\n14護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 6 精通\n職業： 薩滿\n售價:"}
+MultiLanguageItemData['tw'][171813] = {name = "[q4]火山爆發鍊衫", additional_info = "拾取後綁定{胸部} {鎖甲}\n14護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 6 精通\n耐久: 165 / 165 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171814] = {name = "[q4]火山爆發手套", additional_info = "拾取後綁定{手} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171815] = {name = "[q4]火山爆發首盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 致命一擊\n[q2]+ 8 加速\n耐久: 100 / 100 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171816] = {name = "[q4]火山爆發褶裙", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171817] = {name = "[q4]火山爆發裹肩", additional_info = "拾取後綁定{肩部} {鎖甲}\n10護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 臨機應變\n耐久: 100 / 100 職業： 薩滿\n售價:"}
-MultiLanguageItemData['tw'][171818] = {name = "[q4]火山爆發外套", additional_info = "拾取後綁定{胸部} {鎖甲}\n14護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 臨機應變\n職業： 薩滿\n售價:"}
-MultiLanguageItemData['tw'][171819] = {name = "[q4]火山爆發裹手", additional_info = "拾取後綁定{手} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 臨機應變\n職業： 薩滿\n售價:"}
+MultiLanguageItemData['tw'][171818] = {name = "[q4]火山爆發外套", additional_info = "拾取後綁定{胸部} {鎖甲}\n14護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 加速\n[q2]+ 7 臨機應變\n耐久: 165 / 165 職業： 薩滿\n售價:"}
+MultiLanguageItemData['tw'][171819] = {name = "[q4]火山爆發裹手", additional_info = "拾取後綁定{手} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 臨機應變\n耐久: 55 / 55 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171820] = {name = "[q4]火山爆發面甲", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 臨機應變\n耐久: 100 / 100 職業： 薩滿\n售價:"}
-MultiLanguageItemData['tw'][171821] = {name = "[q4]火山爆發裹腿", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 臨機應變\n[q2]+ 6 精通\n職業： 薩滿\n售價:"}
+MultiLanguageItemData['tw'][171821] = {name = "[q4]火山爆發裹腿", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 臨機應變\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171822] = {name = "[q4]火山爆發披肩", additional_info = "拾取後綁定{肩部} {鎖甲}\n10護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 臨機應變\n[q2]+ 5 精通\n耐久: 100 / 100 職業： 薩滿\n售價:"}
-MultiLanguageItemData['tw'][171823] = {name = "[q4]火山爆發背心甲", additional_info = "拾取後綁定{胸部} {鎖甲}\n14護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 精通\n職業： 薩滿\n售價:"}
+MultiLanguageItemData['tw'][171823] = {name = "[q4]火山爆發背心甲", additional_info = "拾取後綁定{胸部} {鎖甲}\n14護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 精通\n耐久: 165 / 165 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171824] = {name = "[q4]火山爆發之握", additional_info = "拾取後綁定{手} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 55 / 55 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171825] = {name = "[q4]火山爆發盔帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 7 加速\n[q2]+ 6 精通\n耐久: 100 / 100 職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][171826] = {name = "[q4]火山爆發腿甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 加速\n耐久: 120 / 120 職業： 薩滿\n售價:"}
@@ -30052,7 +30052,7 @@ MultiLanguageItemData['tw'][172669] = {name = "[q4]腐化鬥士徽章", addition
 MultiLanguageItemData['tw'][172670] = {name = "[q4]腐化鬥士披風", additional_info = "決戰艾澤拉斯第4季\n拾取後綁定背部\n3護甲\n需要任何部落種族\n售價:"}
 MultiLanguageItemData['tw'][172671] = {name = "[q4]腐化鬥士披風", additional_info = "決戰艾澤拉斯第4季\n拾取後綁定背部\n3護甲\n需要任何聯盟種族\n售價:"}
 MultiLanguageItemData['tw'][172672] = {name = "[q4]腐化鬥士的毒咒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]使用: 對目標發射虛無能量，每2秒造成[ 29 * (1 + 臨機應變)]點暗影傷害，持續6秒。毒咒效果每次造成傷害時，會吸收目標接下來受到的[ 108 * (1 + 臨機應變)]點治療量，持續6秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][172673] = {name = "[q4]腐化鬥士的安全守護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力降到 25 %時會獲得護盾，為你吸收[ 314 * (1 + 臨機應變)]點傷害，持續6秒。此效果每3分鐘可觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][172673] = {name = "[q4]腐化鬥士的安全守護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力降到25%時會獲得護盾，為你吸收[ 314 * (1 + 臨機應變)]點傷害，持續6秒。此效果每3分鐘可觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][172674] = {name = "[q4]腐化鬥士絲質頭盔", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n需要任何部落種族\n售價:"}
 MultiLanguageItemData['tw'][172675] = {name = "[q4]腐化鬥士皮甲軟帽", additional_info = "拾取後綁定{頭部} {皮甲}\n7護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n需要任何部落種族\n售價:"}
 MultiLanguageItemData['tw'][172676] = {name = "[q4]腐化鬥士鍊甲罩盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n10護甲\n+12 [敏捷 or 智力]\n+14 耐力\n耐久: 100 / 100\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n需要任何部落種族\n售價:"}
@@ -30520,17 +30520,17 @@ MultiLanguageItemData['tw'][173275] = {name = "[q4]火棘削心刃", additional_
 MultiLanguageItemData['tw'][173276] = {name = "[q4]勾腸匕", additional_info = "拾取後綁定{單手} {匕首}\n{4-8點傷害} {速度 1.80}\n(每秒3.3點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][173277] = {name = "[q4]阿弗爾的燃夷凶器", additional_info = "拾取後綁定{單手} {匕首}\n{4-8點傷害} {速度 1.80}\n(每秒3.3點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][173278] = {name = "[q4]碎顱裂骨錘", additional_info = "拾取後綁定{單手} {權杖}\n{8-10點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 加速\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][173280] = {name = "[q6]死亡之門象徵", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20% ，則冷卻時間縮短30秒。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害 。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173281] = {name = "[q6]死亡標記象徵", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20%或生命力高於80%，則冷卻時間縮短30秒。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害，並為你恢復該傷害50%的生命力。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173282] = {name = "[q6]死亡喜悅象徵", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的萊加尼或奧丹姆協議者精華以解鎖此精華。\n需要和奧丹姆協議者的聲望達到崇敬。(如果已經學會則無法購買)\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20%或生命力高於80%，則冷卻時間縮短30秒。\n\n 若以奪魂烈焰殺死敵人，冷卻時間會降低至5秒，並且使下一次使用所造成的傷害提高100%。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害，並為你恢復該傷害50%的生命力。\n\n 如果目標的生命力低於20%，造成額外傷害的機率提高400%。\n\n專屬特性： 腐化抗性提高 10 點。\n[q]\"它會低語著未來遭遇的事。\""}
-MultiLanguageItemData['tw'][173283] = {name = "[q6]死亡燦爛象徵", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20%或生命力高於80%，則冷卻時間縮短30秒。\n\n 若以奪魂烈焰殺死敵人，冷卻時間會降低至5秒，並且使下一次使用所造成的傷害提高100%。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害，並為你恢復該傷害50%的生命力。\n\n 如果目標的生命力低於20%，造成額外傷害的機率提高400%。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][173280] = {name = "[q6]死亡之門象徵", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20% ，則冷卻時間縮短30秒。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害 。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173281] = {name = "[q6]死亡標記象徵", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20%或生命力高於80%，則冷卻時間縮短30秒。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害，並為你恢復該傷害50%的生命力。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173282] = {name = "[q6]死亡喜悅象徵", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n在其他角色學會任何等級3的萊加尼或奧丹姆協議者精華以解鎖此精華。\n需要和奧丹姆協議者的聲望達到崇敬。(如果已經學會則無法購買)\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20%或生命力高於80%，則冷卻時間縮短30秒。\n\n 若以奪魂烈焰殺死敵人，冷卻時間會降低至5秒，並且使下一次使用所造成的傷害提高100%。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害，並為你恢復該傷害50%的生命力。\n\n 如果目標的生命力低於20%，造成額外傷害的機率提高400%。\n\n專屬特性： 腐化抗性提高10點。\n[q]\"它會低語著未來遭遇的事。\""}
+MultiLanguageItemData['tw'][173283] = {name = "[q6]死亡燦爛象徵", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以垂死之息灌注你的艾澤拉斯之心。\n主要力量：\n 奪魂烈焰\n40 碼範圍 瞬發 45秒 冷卻 用艾澤萊晶岩裂片燃燒目標，造成 3067 點火焰傷害。如果目標的生命力低於20%或生命力高於80%，則冷卻時間縮短30秒。\n\n 若以奪魂烈焰殺死敵人，冷卻時間會降低至5秒，並且使下一次使用所造成的傷害提高100%。 \n 次要力量：\n 致命打擊\n40 碼範圍\n 大概每分鐘觸發 10 次 你的法術和技能有一定機率攻擊你的目標，造成 1244 點火焰傷害，並為你恢復該傷害50%的生命力。\n\n 如果目標的生命力低於20%，造成額外傷害的機率提高400%。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][173285] = {name = "反叛的書信", additional_info = "任務物品\n[q]\"由艾爾摩家族的安德烈大人所寫。\"\n[q2]<右鍵單擊閱讀>"}
 MultiLanguageItemData['tw'][173286] = {name = "暮沼蘑菇", additional_info = "任務物品\n[q]\"氣味芬芳並且致命的蘑菇。\""}
 MultiLanguageItemData['tw'][173287] = {name = "慾望勳章", additional_info = "任務物品\n唯一\n[q]\"這個蘊藏力量的勳章曾經由女伯爵所配戴。\""}
-MultiLanguageItemData['tw'][173288] = {name = "[q6]滿溢的艾澤萊晶岩簇", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的10秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45% 。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 3 次 你的法術和技能有一定機率使 [你和其他2名盟友的][你的]加速提高 30 點，持續8秒，並使 [你和其他2名盟友][你]目前使用的主要精華的冷卻時間縮短( 10 / 10)秒。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173289] = {name = "[q6]脈動的艾澤萊晶岩簇", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的20秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45%。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 4 次 你的法術和技能有一定機率使你和其他 1 名盟友的加速提高 30 點，持續8秒，並使你和其他1名盟友目前使用的主要精華的冷卻時間縮短( 10 / 10)秒。\n\n獨特： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173290] = {name = "[q6]迅速的艾澤萊晶岩簇", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n在其他角色學會任何來自恐怖幻象的等級3精華以解鎖此精華。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的20秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45%，且使其速度提高 64 點。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 4 次 你的法術和技能有一定機率使你和其他 2 名盟友的加速提高 30 點，持續8秒，並使你和其他 2 名盟友目前使用的主要精華的冷卻時間縮短( 10 / 10)秒。\n\n獨特： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173291] = {name = "[q6]光亮的艾澤萊晶岩簇", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的20秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45%，且使其速度提高 64 點。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 4 次 你的法術和技能有一定機率使你和其他 2 名盟友的加速提高 30 點，持續8秒，並使你和其他 2 名盟友目前使用的主要精華的冷卻時間縮短( 10 / 10)秒。\n\n獨特： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][173288] = {name = "[q6]滿溢的艾澤萊晶岩簇", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的10秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45% 。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 3 次 你的法術和技能有一定機率使 [你和其他2名盟友的][你的]加速提高 30 點，持續8秒，並使 [你和其他2名盟友][你]目前使用的主要精華的冷卻時間縮短1.0秒。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173289] = {name = "[q6]脈動的艾澤萊晶岩簇", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的20秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45%。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 4 次 你的法術和技能有一定機率使你和其他1名盟友的加速提高 30 點，持續8秒，並使你和其他1名盟友目前使用的主要精華的冷卻時間縮短1.0秒。\n\n獨特： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173290] = {name = "[q6]迅速的艾澤萊晶岩簇", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n在其他角色學會任何來自恐怖幻象的等級3精華以解鎖此精華。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的20秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45%，且使其速度提高 64 點。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 4 次 你的法術和技能有一定機率使你和其他2名盟友的加速提高 30 點，持續8秒，並使你和其他2名盟友目前使用的主要精華的冷卻時間縮短1.0秒。\n\n獨特： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173291] = {name = "[q6]光亮的艾澤萊晶岩簇", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以激勵花火灌注你的艾澤拉斯之心。\n主要力量：\n 榮耀時刻\n40 碼範圍 1.5秒 施法時間 1分鐘 冷卻 從你的艾澤拉斯之心放出一波能量，在接下來的20秒內，使15碼範圍內所有隊伍成員使用艾澤萊精華所造成的傷害提高45%，且使其速度提高 64 點。 \n 次要力量：\n 合眾之力\n40 碼範圍\n 大概每分鐘觸發 4 次 你的法術和技能有一定機率使你和其他2名盟友的加速提高 30 點，持續8秒，並使你和其他2名盟友目前使用的主要精華的冷卻時間縮短1.0秒。\n\n獨特： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][173292] = {name = "捕夢網靈魄", additional_info = "任務物品\n唯一\n[q]\"靈魄粉末殘留在脆弱的絲線上。小心處理。\""}
 MultiLanguageItemData['tw'][173293] = {name = "[q2]自我保護藥水", additional_info = "扭曲之沙幻象\n[q2]使用: 犧牲10%生命力，恢復100點理智。 (5分鐘 冷卻)\n[q]\"付出一點代價，就能暫時抵抗那些低語。\""}
 MultiLanguageItemData['tw'][173296] = {name = "[q3]雷基的探險帽", additional_info = "[q2]使用:  教你學會如何召喚小狨猴雷基。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n售價:"}
@@ -30545,10 +30545,10 @@ MultiLanguageItemData['tw'][173304] = {name = "[q4]腐化鬥士步槍", addition
 MultiLanguageItemData['tw'][173305] = {name = "[q4]腐化鬥士法刃", additional_info = "拾取後綁定{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+18 智力\n+5 耐力\n[q2]+ 5 致命一擊\n[q2]+ 1 精通\n耐久: 80 / 80需要任何聯盟種族\n售價:"}
 MultiLanguageItemData['tw'][173306] = {name = "[q4]腐化鬥士步槍", additional_info = "拾取後綁定{遠程} {槍}\n{9-19點傷害} {速度 3.00}\n(每秒4.7點傷害)\n+6 敏捷\n+9 耐力\n[q2]+ 10 加速\n[q2]+ 3 臨機應變\n耐久: 120 / 120需要任何聯盟種族\n售價:"}
 MultiLanguageItemData['tw'][173307] = {name = "強化護甲", additional_info = "任務物品\n[q]\"適合芬連克斯使用的堅固備用裝甲。\""}
-MultiLanguageItemData['tw'][173308] = {name = "[q6]旺盛責任印記", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒 。 \n 次要力量：\n 耐力\n每2秒儲存 188 點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n專屬特性： 腐化抗性提高 10 點。\n[q]\"面對挑戰不應逃避，應正面迎戰。\""}
-MultiLanguageItemData['tw'][173309] = {name = "[q6]水舞者的技藝", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒，並使你的閃躲機率提高15%，持續6秒。 \n 次要力量：\n 耐力\n每2秒，儲存[ 158 * (1 + 臨機應變) * (1.25)]點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n專屬特性： 腐化抗性提高 10 點。\n[q]\"迅雷不及掩耳！\""}
-MultiLanguageItemData['tw'][173310] = {name = "[q6]失衡戰術手冊", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n在其他角色學會任何來自恐怖幻象的等級3精華以解鎖此精華。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒，並使你的閃躲機率提高15%，持續6秒。\n\n 你對受到你警戒的保衛者效果影響的目標，額外造成50%的傷害。 \n 次要力量：\n 耐力\n每2秒，儲存[ 158 * (1 + 臨機應變) * (1.25)]點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n 在你隊伍或團隊中的所有坦克專精玩家，生命力上限都提高3%，可堆疊。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173311] = {name = "[q6]璀璨的看守者徽章", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒，並使你的閃躲機率提高15%，持續6秒。\n\n 你對受到你警戒的保衛者效果影響的目標，額外造成50%的傷害。 \n 次要力量：\n 耐力\n每2秒，儲存[ 158 * (1 + 臨機應變) * (1.25)]點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n 在你隊伍或團隊中的所有坦克專精玩家，生命力上限都提高3%，可堆疊。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][173308] = {name = "[q6]旺盛責任印記", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒 。 \n 次要力量：\n 耐力\n每2秒儲存 188 點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n專屬特性： 腐化抗性提高10點。\n[q]\"面對挑戰不應逃避，應正面迎戰。\""}
+MultiLanguageItemData['tw'][173309] = {name = "[q6]水舞者的技藝", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒，並使你的閃躲機率提高15%，持續6秒。 \n 次要力量：\n 耐力\n每2秒，儲存[ 158 * (1 + 臨機應變) * (1.25)]點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n專屬特性： 腐化抗性提高10點。\n[q]\"迅雷不及掩耳！\""}
+MultiLanguageItemData['tw'][173310] = {name = "[q6]失衡戰術手冊", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n在其他角色學會任何來自恐怖幻象的等級3精華以解鎖此精華。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒，並使你的閃躲機率提高15%，持續6秒。\n\n 你對受到你警戒的保衛者效果影響的目標，額外造成50%的傷害。 \n 次要力量：\n 耐力\n每2秒，儲存[ 158 * (1 + 臨機應變) * (1.25)]點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n 在你隊伍或團隊中的所有坦克專精玩家，生命力上限都提高3%，可堆疊。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173311] = {name = "[q6]璀璨的看守者徽章", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以看守者之力灌注你的艾澤拉斯之心。\n主要力量：\n 警戒的保衛者\n瞬發 2分鐘 冷卻 嘲諷附近所有敵人，逼其攻擊你，持續6秒，並使你的閃躲機率提高15%，持續6秒。\n\n 你對受到你警戒的保衛者效果影響的目標，額外造成50%的傷害。 \n 次要力量：\n 耐力\n每2秒，儲存[ 158 * (1 + 臨機應變) * (1.25)]點生命力，最多儲存(總生命 * 0.1)點。每當你閃躲或是招架一次攻擊，就以儲存的所有生命力來治療你。\n\n 在你隊伍或團隊中的所有坦克專精玩家，生命力上限都提高3%，可堆疊。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][173312] = {name = "答答的鑰匙", additional_info = "任務物品\n僅可裝備一件\n[q]\"可以打開關著安西德的牢籠。\""}
 MultiLanguageItemData['tw'][173313] = {name = "沃帕斯的鑰匙", additional_info = "任務物品\n僅可裝備一件"}
 MultiLanguageItemData['tw'][173315] = {name = "[q2]審判志士頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n19護甲\n+8 [力量 or 智力]\n+11 耐力\n[q2]+ 8 致命一擊\n[q2]+ 7 臨機應變\n耐久: 70 / 70\n售價:"}
@@ -30647,7 +30647,7 @@ MultiLanguageItemData['tw'][173425] = {name = "[q3]黑暗帝國鎖甲護腕", ad
 MultiLanguageItemData['tw'][173428] = {name = "[q2]靈魂守衛者之柱", additional_info = "裝備後綁定\n{雙手} {法杖}\n{19-27點傷害} {速度 3.60}\n(每秒6.4點傷害)\n+9 敏捷\n+13 耐力\n[q2]+ 9 隨機數值1\n[q2]+ 9 隨機數值2\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][173430] = {name = "奧核傳送卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到北風凍原的奧核之心。\n1 次充能\n售價:"}
 MultiLanguageItemData['tw'][173431] = {name = "[q3]邪惡操縱者裹足", additional_info = "拾取後綁定{腳} {布甲}\n4護甲\n+5 智力\n+8 耐力\n[q2]+ 5 加速\n[q2]+ 6 精通\n耐久: 80 / 80\n售價:"}
-MultiLanguageItemData['tw'][173432] = {name = "[q3]邪惡操縱者裹手", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55\n售價:"}
+MultiLanguageItemData['tw'][173432] = {name = "[q3]邪惡操縱者裹手", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 5 加速\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][173433] = {name = "[q3]邪惡操縱者風帽", additional_info = "拾取後綁定{頭部} {布甲}\n5護甲\n+14 智力\n+16 耐力\n耐久: 85 / 85\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][173434] = {name = "[q3]邪惡操縱者護腿", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+7 智力\n+11 耐力\n[q2]+ 7 致命一擊\n[q2]+ 7 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][173435] = {name = "[q3]邪惡操縱者披肩", additional_info = "拾取後綁定{肩部} {布甲}\n4護甲\n+10 智力\n+12 耐力\n耐久: 85 / 85\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
@@ -30981,10 +30981,10 @@ MultiLanguageItemData['tw'][173879] = {name = "污化的百衛機兵組件", add
 MultiLanguageItemData['tw'][173880] = {name = "淨化金屬", additional_info = "任務物品\n[q]\"製作過程中似乎抹除掉所有棄誓者魔法的痕跡。\""}
 MultiLanguageItemData['tw'][173881] = {name = "淤泥幫浦", additional_info = "任務物品\n[q2]使用: 啟動淤泥幫浦，從附近的冒泡淤泥中汲取可回收的零件。 (30秒 冷卻)"}
 MultiLanguageItemData['tw'][173882] = {name = "魂鋼鉗", additional_info = "任務物品\n[q]\"這副特殊的鉗子是以魂鋼為核心製作而成，能夠承受相當大的力量。\""}
-MultiLanguageItemData['tw'][173883] = {name = "[q6]複製的虛無水滴", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級1。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多50%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n40 碼範圍 每當40碼範圍內有任何盟友使用艾澤萊精華，獲得 22 點主要屬性 ，持續20秒。\n\n專屬特性： 腐化抗性提高 10 點。\n[q]\"看似無奇，卻又極為強大。\""}
-MultiLanguageItemData['tw'][173884] = {name = "[q6]激增的虛無水滴", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級2。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多40%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n每當40碼範圍內有任何盟友使用艾澤萊精華，獲得[ 22 * (1.25)]點主要屬性，持續20秒。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173885] = {name = "[q6]劇烈的虛無水滴", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n在其他角色學會等級3的無形虛無以解鎖此精華。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級3。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多30%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n每當40碼範圍內有任何盟友使用艾澤萊精華，你的主要屬性提高[ 22 * (1.25)]點，加速提高 18 點，持續20秒。\n\n 使用艾澤萊精華的該盟友也會獲得 18 點加速，持續20秒。同一時間此加速效果只能作用於一名盟友。\n\n專屬特性： 腐化抗性提高 10 點。"}
-MultiLanguageItemData['tw'][173886] = {name = "[q6]爆發的虛無水滴", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級3。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多30%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n每當40碼範圍內有任何盟友使用艾澤萊精華，你的主要屬性提高[ 22 * (1.25)]點，加速提高 18 點，持續20秒。\n\n 使用艾澤萊精華的該盟友也會獲得 18 點加速，持續20秒。同一時間此加速效果只能作用於一名盟友。\n\n專屬特性： 腐化抗性提高 10 點。"}
+MultiLanguageItemData['tw'][173883] = {name = "[q6]複製的虛無水滴", additional_info = "等級1\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級1。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多50%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n40 碼範圍 每當40碼範圍內有任何盟友使用艾澤萊精華，獲得 22 點主要屬性 ，持續20秒。\n\n專屬特性： 腐化抗性提高10點。\n[q]\"看似無奇，卻又極為強大。\""}
+MultiLanguageItemData['tw'][173884] = {name = "[q6]激增的虛無水滴", additional_info = "等級2\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級2。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多40%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n每當40碼範圍內有任何盟友使用艾澤萊精華，獲得[ 22 * (1.25)]點主要屬性，持續20秒。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173885] = {name = "[q6]劇烈的虛無水滴", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n在其他角色學會等級3的無形虛無以解鎖此精華。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級3。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多30%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n每當40碼範圍內有任何盟友使用艾澤萊精華，你的主要屬性提高[ 22 * (1.25)]點，加速提高 18 點，持續20秒。\n\n 使用艾澤萊精華的該盟友也會獲得 18 點加速，持續20秒。同一時間此加速效果只能作用於一名盟友。\n\n專屬特性： 腐化抗性提高10點。"}
+MultiLanguageItemData['tw'][173886] = {name = "[q6]爆發的虛無水滴", additional_info = "等級4\n拾取後綁定\n唯一\n[q2]使用: 以無形虛無灌注你的艾澤拉斯之心。\n主要力量：\n 知識複製品\n40 碼範圍\n 1.5秒 施法時間 複製目標的艾澤拉斯之心當中的能量，在接下來的15秒內得以存取其目前所使用的主要精華，最高可存取至等級3。無形虛無的冷卻時間會比你所複製精華的基礎冷卻時間多30%。\n\n 對被動精華無效。 \n 次要力量：\n 共生存在\n每當40碼範圍內有任何盟友使用艾澤萊精華，你的主要屬性提高[ 22 * (1.25)]點，加速提高 18 點，持續20秒。\n\n 使用艾澤萊精華的該盟友也會獲得 18 點加速，持續20秒。同一時間此加速效果只能作用於一名盟友。\n\n專屬特性： 腐化抗性提高10點。"}
 MultiLanguageItemData['tw'][173887] = {name = "[q4]哈李的幼鳥", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"哈李的幼雛暢快地飛翔在潘達利亞的藍天，捕食毫無警覺的獵物。\"\n掉落：\n哈李\n區域：\n恆春谷"}
 MultiLanguageItemData['tw'][173888] = {name = "[q2]自我犧牲裂片", additional_info = "扭曲之沙幻象\n唯一（5）\n[q2]使用: 犧牲25點理智，使一名盟友造成的傷害提高10%，持續30秒。\n\n 此效果最多可堆疊5次。 (5秒 冷卻)\n[q]\"追蹤殘存的腐化。真誘人。\""}
 MultiLanguageItemData['tw'][173891] = {name = "[q2]瘟裔軟泥怪", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
@@ -31026,10 +31026,10 @@ MultiLanguageItemData['tw'][173935] = {name = "[q0]尼克尼克的滑滑尖刀",
 MultiLanguageItemData['tw'][173936] = {name = "[q0]臭死人便便長棍", additional_info = "裝備後綁定\n{主手} {法杖}\n{2-5點傷害} {速度 2.60}\n(每秒1.3點傷害)\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][173937] = {name = "扯下的眼珠", additional_info = "[q2]使用: 壓爛眼睛。\n[q]\"不論你從哪個角度看，這顆詭異的眼珠都會迎上你的視線。\"\n售價:"}
 MultiLanguageItemData['tw'][173939] = {name = "[q2]誘人的靈魄", additional_info = "拾取後綁定\n唯一\n[q2]使用: 強化世界邊緣火盆，吸引強大的吞噬者。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][173940] = {name = "[q4]守護符印", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 你的皮膚硬化，吸收[ 901 * (1 + 臨機應變)]點傷害，持續8秒。\n\n 受到魔法傷害時，剩餘的吸收量提高 113 點、持續時間延長 2 秒，最多提高[ 901 + ( 113 * 4 )]點傷害並延長[8 + ( 2 * 4 )]秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][173940] = {name = "[q4]守護符印", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 你的皮膚硬化，吸收[ 901 * (1 + 臨機應變)]點傷害，持續8秒。\n\n 受到魔法傷害時，剩餘的吸收量提高 113 點、持續時間延長2秒，最多提高[ 901 + ( 113 * 4)]點傷害並延長16秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][173941] = {name = "[q0]怪異顱骨", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][173942] = {name = "掘髓幼蟲", additional_info = "任務物品"}
-MultiLanguageItemData['tw'][173943] = {name = "[q4]瓶中磨難", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 攻擊時有機會釋放艾薩拉受到的痛苦，對附近所有敵人造成 1 點暗影傷害，同時賦予你釋放的痛苦，使此效果造成的傷害提高 100 %。釋放的痛苦堆疊達12層時，會全數釋放出來，對附近所有敵人造成 45 點暗影傷害。\n售價:"}
+MultiLanguageItemData['tw'][173943] = {name = "[q4]瓶中磨難", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]裝備： 攻擊時有機會釋放艾薩拉受到的痛苦，對附近所有敵人造成 1 點暗影傷害，同時賦予你釋放的痛苦，使此效果造成的傷害提高100%。釋放的痛苦堆疊達12層時，會全數釋放出來，對附近所有敵人造成 45 點暗影傷害。\n售價:"}
 MultiLanguageItemData['tw'][173944] = {name = "[q4]禁忌黑曜之爪", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 吸取目標的生命之力，在8.5秒內對敵人造成 130 點暗影傷害，並使自己恢復[ 21 * (10)]點法力。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][173945] = {name = "加入王子！", additional_info = "任務物品\n[q]\"字跡優雅。\"\n[q2]<右鍵單擊閱讀>"}
 MultiLanguageItemData['tw'][173946] = {name = "[q4]卓雷阿葛斯的扭動肉塊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量]\n[q2]使用: 引發可怕的尖脊爆發，攻擊附近所有敵人，造成 349 點物理傷害。 (1分鐘，20秒 冷卻)\n售價:"}
@@ -31174,7 +31174,7 @@ MultiLanguageItemData['tw'][174098] = {name = "死亡之蓮花粉", additional_i
 MultiLanguageItemData['tw'][174100] = {name = "碎石木槌", additional_info = "任務物品\n[q2]使用: 毀掉墓穴的門！\n[q]\"泥掘者用來擊碎石頭的木槌。\""}
 MultiLanguageItemData['tw'][174101] = {name = "有用的回收物", additional_info = "任務物品\n[q]\"又破又舊，但還是很好用。\""}
 MultiLanguageItemData['tw'][174102] = {name = "靈魄罐", additional_info = "任務物品\n[q]\"困在裡頭的靈魄掙扎著想逃脫。\""}
-MultiLanguageItemData['tw'][174103] = {name = "[q4]瘋狂宣言", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+8 智力\n[q2]使用: 你的致命一擊最多可提高 49 點，但 8 碼範圍內每有一名盟友，此增益效果就會降低( 49 * .08)點，持續10秒。此效果結束後，你附近 5 碼範圍內每有一名盟友，你的臨機應變提高 10 點，最多提高( 10 * 5)點，持續10秒。 (1分鐘，30秒 冷卻)\n[q2]裝備： 根據你的決心罩氅，艾夏卡瑪斯的強度，宣言第二半部的範圍會提高1碼。\n售價:"}
+MultiLanguageItemData['tw'][174103] = {name = "[q4]瘋狂宣言", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+8 智力\n[q2]使用: 你的致命一擊最多可提高 49 點，但8碼範圍內每有一名盟友，此增益效果就會降低( 49 * .08)點，持續10秒。此效果結束後，你附近5碼範圍內每有一名盟友，你的臨機應變提高 10 點，最多提高( 10 * 5)點，持續10秒。 (1分鐘，30秒 冷卻)\n[q2]裝備： 根據你的決心罩氅，艾夏卡瑪斯的強度，宣言第二半部的範圍會提高1碼。\n售價:"}
 MultiLanguageItemData['tw'][174104] = {name = "[q0]破碎的紀念物", additional_info = "售價:"}
 MultiLanguageItemData['tw'][174105] = {name = "[q4]謎瞬，暴君之刃", additional_info = "拾取後綁定{單手} {劍}\n{8-14點傷害} {速度 2.60}\n(每秒4.2點傷害)\n+4 敏捷\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 3 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][174106] = {name = "[q4]侉爾恩耶斯", additional_info = "拾取後綁定{雙手} {長柄武器}\n{17-24點傷害} {速度 3.60}\n(每秒5.7點傷害)\n+8 敏捷\n+11 耐力\n[q2]+ 9 加速\n[q2]+ 6 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -31283,7 +31283,7 @@ MultiLanguageItemData['tw'][174211] = {name = "瑪卓薩斯武器", additional_i
 MultiLanguageItemData['tw'][174212] = {name = "可疑的武器", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][174219] = {name = "被偷的紀念物", additional_info = "任務物品\n[q]\"遺失的所有物，掉落在死亡的林地中。\""}
 MultiLanguageItemData['tw'][174220] = {name = "[q3]琥珀巨杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n耐久: 100 / 100\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174221] = {name = "[q3]分崩王朝斬斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n耐久: 90 / 90\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174221] = {name = "[q3]分崩王朝斬斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174222] = {name = "[q3]無語放血之刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {匕首}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n耐久: 20 / 20\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174223] = {name = "[q3]軟泥灌注步槍", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {槍}\n{1-2點傷害} {速度 3.00}\n(每秒0.5點傷害)\n耐久: 100 / 100\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174224] = {name = "[q3]殘暴巨劍", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n耐久: 100 / 100\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -31313,7 +31313,7 @@ MultiLanguageItemData['tw'][174273] = {name = "結構圖：駭人戰鬥者心智
 MultiLanguageItemData['tw'][174274] = {name = "結構圖：駭人戰鬥者心智困惑器", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作駭人戰鬥者心智困惑器。\n[q2]大幅減少製作駭人戰鬥者心智困惑器所需材料。\n需要 庫爾提拉斯工程學 (1)\n售價: \n[q4]駭人戰鬥者心智困惑器\n裝備後綁定\n{單手} {權杖}\n{8-11點傷害} {速度 2.60}\n(每秒3.7點傷害)\n+3 敏捷\n+5 耐力\n耐久: 110 / 110\n售價: \n需要 奧司曼礦石 (15), 風暴白銀礦石 (5), 絕緣導線 (9), 驅質 (3)"}
 MultiLanguageItemData['tw'][174275] = {name = "掉落的普恩果", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][174276] = {name = "[q4]腐化鬥士的虛無穿透器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]使用: 駕馭敵方玩家的腐化能量開啟一道持續6秒的傳送門，讓此飾品的穿戴者得以進入虛無，最多持續6秒。進入虛無會使速度提高 40 點，並從其他玩家的視線中消失。\n\n 離開虛無會使你受到的傷害提高10%，持續6秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][174277] = {name = "[q4]殘留的心靈護殼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+8 [敏捷 or 力量]\n[q2]使用: 你受到的傷害降低 80 %，持續8秒，直到你的心靈護殼受到的總傷害達到 919 點。 (1分鐘 冷卻)\n[q2]裝備： 在奈奧羅薩時，視你的腐化抗性而定，你獲得的傷害減免會進一步降低，最多50%。\n售價:"}
+MultiLanguageItemData['tw'][174277] = {name = "[q4]殘留的心靈護殼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+8 [敏捷 or 力量]\n[q2]使用: 你受到的傷害降低80%，持續8秒，直到你的心靈護殼受到的總傷害達到 919 點。 (1分鐘 冷卻)\n[q2]裝備： 在奈奧羅薩時，視你的腐化抗性而定，你獲得的傷害減免會進一步降低，最多50%。\n售價:"}
 MultiLanguageItemData['tw'][174278] = {name = "稅務官的命令", additional_info = "任務物品\n唯一\n[q2]<右鍵單擊閱讀>"}
 MultiLanguageItemData['tw'][174279] = {name = "[q4]加密的奈奧羅薩文本", additional_info = "拾取後綁定\n[q2]使用: [ 結合30個加密的奈奧羅薩文本，製造 激增的虛無水滴 ，可用無形虛無來灌注你的艾澤拉斯之心。 ][ 結合15個加密的奈奧羅薩文本，製造 複製的虛無水滴 ，可用無形虛無來灌注你的艾澤拉斯之心。 ]"}
 MultiLanguageItemData['tw'][174280] = {name = "昇靈堡鍛造錘", additional_info = "鍛造工具"}
@@ -31422,7 +31422,7 @@ MultiLanguageItemData['tw'][174465] = {name = "污化的百衛機兵組件", add
 MultiLanguageItemData['tw'][174466] = {name = "米卡尼寇斯的工具箱", additional_info = "任務物品\n[q]\"裡面裝著米卡尼寇斯的珍貴工具。\""}
 MultiLanguageItemData['tw'][174467] = {name = "鼓鼓的消化囊", additional_info = "任務物品\n[q]\"裡面充滿綠色、味道刺鼻的液體。液體激烈地晃動。\""}
 MultiLanguageItemData['tw'][174469] = {name = "[q4]陰險沉思指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 12 臨機應變\n[q2]+ 9 精通\n售價:"}
-MultiLanguageItemData['tw'][174472] = {name = "[q4]腐化鬥士的忿恨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]使用: 朝目標位置投擲虛無能量，產生一池忿恨。位在池子內的敵人會緩速60%，並且受到的腐化提高 0 點。\n\n 池子每秒會造成忿恨不止效果，使目標的腐化提高 0 點。目標離開池子後，忿恨不止的效果會每秒遞減。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][174472] = {name = "[q4]腐化鬥士的忿恨", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]使用: 朝目標位置投擲虛無能量，產生一池忿恨。位在池子內的敵人會緩速60%，並且受到的腐化提高0點。\n\n 池子每秒會造成忿恨不止效果，使目標的腐化提高0點。目標離開池子後，忿恨不止的效果會每秒遞減。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][174473] = {name = "[q3]庫德利", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][174474] = {name = "[q3]腐化觸手", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][174475] = {name = "[q3]惡臭的袋子", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚腐息。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
@@ -32333,7 +32333,7 @@ MultiLanguageItemData['tw'][175880] = {name = "[q3]罪惡志士絲質裹腕", ad
 MultiLanguageItemData['tw'][175881] = {name = "[q3]罪惡志士鎧甲腕輪", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 7 致命一擊\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][175882] = {name = "[q3]罪惡志士鍊甲裹腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 10 臨機應變\n[q2]+ 8 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][175883] = {name = "[q3]罪惡志士皮甲裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 7 加速\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][175884] = {name = "[q3]罪惡志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][175884] = {name = "[q3]罪惡志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][175885] = {name = "[q3]罪惡志士項鍊", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 18 加速\n[q2]+ 28 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][175886] = {name = "暗色羊皮紙", additional_info = "制作材料\n[q]\"比一般的羊皮紙還要厚，可以請雕銘師輕輕地在上面刻字。\"\n售價:"}
 MultiLanguageItemData['tw'][175887] = {name = "[q4]罪惡鬥士鎧甲頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n74護甲\n+29 [力量 or 智力]\n+44 耐力\n[q2]+ 40 臨機應變\n[q2]+ 18 精通\n耐久: 100 / 100\n售價:"}
@@ -32370,7 +32370,7 @@ MultiLanguageItemData['tw'][175917] = {name = "[q4]罪惡鬥士絲質裹腕", ad
 MultiLanguageItemData['tw'][175918] = {name = "[q4]罪惡鬥士鎧甲腕甲", additional_info = "拾取後綁定{手腕} {板甲}\n49護甲\n+16 [力量 or 智力]\n+25 耐力\n[q2]+ 10 致命一擊\n[q2]+ 23 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][175919] = {name = "[q4]罪惡鬥士鍊甲腕甲", additional_info = "拾取後綁定{手腕} {鎖甲}\n33護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 21 臨機應變\n[q2]+ 12 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][175920] = {name = "[q4]罪惡鬥士皮甲裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n22護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 10 加速\n[q2]+ 23 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][175921] = {name = "[q4]罪惡鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][175921] = {name = "[q4]罪惡鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][175922] = {name = "[q4]罪惡鬥士項鍊", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 19 加速\n[q2]+ 63 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][175923] = {name = "亞登木", additional_info = "制作材料\n[q]\"這個顏色蒼白的木頭的表面柔和地一閃一閃著，好似它的塗料是星光一般。\"\n售價:"}
 MultiLanguageItemData['tw'][175924] = {name = "合約：不死軍團", additional_info = "[q2]使用: 和不死軍團簽下合約之後，每當你完成暗影之境的世界任務時，就可以提高與他們的聲望。\n需要不死軍團\n- 友善\n售價:"}
@@ -33078,7 +33078,6 @@ MultiLanguageItemData['tw'][177404] = {name = "[q2]光明飲者之劍", addition
 MultiLanguageItemData['tw'][177405] = {name = "[q2]溪語者憤怒披風", additional_info = "拾取後綁定背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][177406] = {name = "[q2]溪語者頸飾", additional_info = "拾取後綁定頸部\n+6 耐力\n[q2]+ 9 加速\n[q2]+ 10 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177407] = {name = "[q2]溪語者憤怒塑像", additional_info = "拾取後綁定飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]+ 9 加速\n職業： 薩滿"}
-MultiLanguageItemData['tw'][177408] = {name = "[q2]溪語者突襲指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 10 加速\n[q2]+ 9 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177409] = {name = "[q2]溪語者突襲之戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 9 致命一擊\n[q2]+ 10 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177410] = {name = "[q2]溪語者憤怒之石", additional_info = "拾取後綁定飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]+ 9 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177411] = {name = "[q2]溪語者勳章", additional_info = "拾取後綁定頸部\n+6 耐力\n[q2]+ 9 致命一擊\n[q2]+ 10 精通\n職業： 薩滿"}
@@ -33097,14 +33096,12 @@ MultiLanguageItemData['tw'][177423] = {name = "[q2]溪語者智慧指環", addit
 MultiLanguageItemData['tw'][177424] = {name = "[q2]溪語者智慧之石", additional_info = "拾取後綁定飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]+ 9 臨機應變\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177425] = {name = "[q2]溪語者毀滅披風", additional_info = "拾取後綁定背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][177427] = {name = "[q2]摧心脛甲", additional_info = "拾取後綁定{腳} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 死亡騎士\n售價:"}
-MultiLanguageItemData['tw'][177428] = {name = "[q2]摧心護手", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177430] = {name = "[q2]摧心腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n20護甲\n+7 [力量 or 智力]\n+10 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177432] = {name = "[q2]摧心束腰", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177433] = {name = "[q2]摧心護臂", additional_info = "拾取後綁定{手腕} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177435] = {name = "[q2]摧心護脛", additional_info = "拾取後綁定{腳} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177436] = {name = "[q2]摧心手甲", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177437] = {name = "[q2]摧心腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n20護甲\n+7 [力量 or 智力]\n+10 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 精通\n職業： 死亡騎士\n售價:"}
-MultiLanguageItemData['tw'][177439] = {name = "[q2]摧心腰環", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177440] = {name = "[q2]摧心臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177442] = {name = "[q2]春雨足靴", additional_info = "拾取後綁定{腳} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177443] = {name = "[q2]春雨之握", additional_info = "拾取後綁定{手} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n職業： 德魯伊\n售價:"}
@@ -33117,7 +33114,6 @@ MultiLanguageItemData['tw'][177453] = {name = "[q2]春雨腿甲", additional_inf
 MultiLanguageItemData['tw'][177455] = {name = "[q2]春雨之索", additional_info = "拾取後綁定{腰部} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177456] = {name = "[q2]春雨腕輪", additional_info = "拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177458] = {name = "[q2]春雨長靴", additional_info = "拾取後綁定{腳} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 德魯伊\n售價:"}
-MultiLanguageItemData['tw'][177459] = {name = "[q2]春雨手套", additional_info = "拾取後綁定{手} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177461] = {name = "[q2]春雨馬褲", additional_info = "拾取後綁定{腿部} {皮甲}\n9護甲\n+7 [敏捷 or 智力]\n+10 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 精通\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177463] = {name = "[q2]春雨腰環", additional_info = "拾取後綁定{腰部} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177464] = {name = "[q2]春雨束腕", additional_info = "拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n職業： 德魯伊\n售價:"}
@@ -33257,7 +33253,7 @@ MultiLanguageItemData['tw'][177653] = {name = "[q3]硬化戰靴", additional_inf
 MultiLanguageItemData['tw'][177654] = {name = "[q2]震擊鍊靴", additional_info = "拾取後綁定{腳} {鎖甲}\n11護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 加速\n[q2]+ 6 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][177655] = {name = "[q2]氣流薄靴", additional_info = "拾取後綁定{腳} {皮甲}\n7護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 5 致命一擊\n[q2]+ 6 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][177656] = {name = "[q2]遨翔足靴", additional_info = "拾取後綁定{腳} {布甲}\n4護甲\n+6 智力\n+9 耐力\n[q2]+ 5 加速\n[q2]+ 6 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][177657] = {name = "[q3]漫溢的燼火之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量 or 智力]\n[q2]使用: 獲得吸收護盾，吸收接下來12秒內對你造成的 20 %傷害，最多吸收 1921 點傷害。剩餘吸收量的 33 %會爆炸，傷害由附近8碼範圍內的所有敵人平均分攤。 (2分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][177657] = {name = "[q3]漫溢的燼火之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 [敏捷 or 力量 or 智力]\n[q2]使用: 獲得吸收護盾，吸收接下來12秒內對你造成的20%傷害，最多吸收 1921 點傷害。剩餘吸收量的33%會爆炸，傷害由附近8碼範圍內的所有敵人平均分攤。 (2分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][177659] = {name = "[q3]附魔胸甲 - 永恆衝突", additional_info = "使用: 永久性地為你的胸甲附魔，使你的力量或敏捷提高53點，並使你的自動攻擊和自動射擊有一定機率額外造成暗影傷害。無法用在等級高於376的物品。\n售價:"}
 MultiLanguageItemData['tw'][177660] = {name = "[q3]附魔披風 - 靈魂活力", additional_info = "使用: 永久性地為披風附魔，使你的耐力提高80點。無法用在等級低於10的物品。\n售價:"}
 MultiLanguageItemData['tw'][177661] = {name = "[q3]附魔靴子 - 靈行", additional_info = "使用: 永久性地為靴子附魔，使你的掉落傷害降低10%。無法用在等級低於10的物品。\n售價:"}
@@ -33734,7 +33730,7 @@ MultiLanguageItemData['tw'][178294] = {name = "[q3]罪惡志士絲質束腕", ad
 MultiLanguageItemData['tw'][178295] = {name = "[q3]罪惡志士鎧甲臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 8 加速\n[q2]+ 10 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178296] = {name = "[q3]罪惡志士鍊甲護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 9 加速\n[q2]+ 10 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178297] = {name = "[q3]罪惡志士皮甲臂甲", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 8 致命一擊\n[q2]+ 10 臨機應變\n售價:"}
-MultiLanguageItemData['tw'][178298] = {name = "[q3]罪惡志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][178298] = {name = "[q3]罪惡志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][178299] = {name = "[q3]罪惡志士頸飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 19 致命一擊\n[q2]+ 27 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178300] = {name = "[q3]罪惡志士鎧甲巨盔", additional_info = "拾取後綁定頭部\n+20 [力量 or 智力]\n+30 耐力\n[q2]+ 19 加速\n[q2]+ 21 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178301] = {name = "[q3]罪惡志士斗篷", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 9 臨機應變\n[q2]+ 9 精通\n售價:"}
@@ -33770,7 +33766,7 @@ MultiLanguageItemData['tw'][178330] = {name = "[q3]罪惡志士絲質臂環", ad
 MultiLanguageItemData['tw'][178331] = {name = "[q3]罪惡志士鎧甲腕鍊", additional_info = "拾取後綁定手腕\n+11 [力量 or 智力]\n+17 耐力\n[q2]+ 10 致命一擊\n[q2]+ 13 加速\n售價:"}
 MultiLanguageItemData['tw'][178332] = {name = "[q3]罪惡志士鍊甲纏帶", additional_info = "拾取後綁定手腕\n+11 [敏捷 or 智力]\n+17 耐力\n[q2]+ 12 致命一擊\n[q2]+ 11 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178333] = {name = "[q3]罪惡志士皮甲腕輪", additional_info = "拾取後綁定手腕\n+11 [敏捷 or 智力]\n+17 耐力\n[q2]+ 10 臨機應變\n[q2]+ 13 精通\n售價:"}
-MultiLanguageItemData['tw'][178334] = {name = "[q3]罪惡志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][178334] = {name = "[q3]罪惡志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][178335] = {name = "[q3]罪惡志士墜飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 20 精通\n售價:"}
 MultiLanguageItemData['tw'][178336] = {name = "[q4]曠野獵者外袍", additional_info = "拾取後綁定外袍\n需要曠野獵者\n- 崇拜\n售價:"}
 MultiLanguageItemData['tw'][178352] = {name = "[q4]罪惡鬥士鎧甲盔帽", additional_info = "拾取後綁定{頭部} {板甲}\n74護甲\n+29 [力量 or 智力]\n+44 耐力\n[q2]+ 18 致命一擊\n[q2]+ 40 臨機應變\n耐久: 100 / 100\n售價:"}
@@ -33807,7 +33803,7 @@ MultiLanguageItemData['tw'][178382] = {name = "[q4]罪惡鬥士絲質臂環", ad
 MultiLanguageItemData['tw'][178383] = {name = "[q4]罪惡鬥士鎧甲護臂", additional_info = "拾取後綁定{手腕} {板甲}\n49護甲\n+16 [力量 or 智力]\n+25 耐力\n[q2]+ 12 加速\n[q2]+ 21 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178384] = {name = "[q4]罪惡鬥士鍊甲護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n33護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 12 加速\n[q2]+ 21 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178385] = {name = "[q4]罪惡鬥士皮甲腕甲", additional_info = "拾取後綁定{手腕} {皮甲}\n22護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 12 致命一擊\n[q2]+ 21 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][178386] = {name = "[q4]罪惡鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][178386] = {name = "[q4]罪惡鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][178387] = {name = "[q4]罪惡鬥士墜飾", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 19 致命一擊\n[q2]+ 63 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178388] = {name = "[q4]罪惡鬥士手斧", additional_info = "拾取後綁定{單{手}\n+14 [敏捷 or 力量]\n+20 耐力\n[q2]+ 17 臨機應變\n[q2]+ 10 精通\n售價:"}
 MultiLanguageItemData['tw'][178389] = {name = "[q4]罪惡鬥士彎弓", additional_info = "拾取後綁定遠程\n+27 敏捷\n+41 耐力\n[q2]+ 22 致命一擊\n[q2]+ 32 臨機應變\n售價:"}
@@ -33820,7 +33816,7 @@ MultiLanguageItemData['tw'][178398] = {name = "[q4]罪惡鬥士法杯", addition
 MultiLanguageItemData['tw'][178399] = {name = "[q4]罪惡鬥士分割刃", additional_info = "拾取後綁定{單{手}\n+14 敏捷\n+20 耐力\n[q2]+ 12 致命一擊\n[q2]+ 15 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178414] = {name = "[q4]罪惡鬥士的披巾", additional_info = "拾取後綁定背部\n18護甲\n+16 [敏捷 or 力量 or 智力]\n+25 耐力\n[q2]+ 21 臨機應變\n[q2]+ 12 精通\n售價:"}
 MultiLanguageItemData['tw'][178442] = {name = "[q4]罪惡鬥士璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+25 耐力\n[q2]+ 56 臨機應變\n[q2]+ 26 精通\n售價:"}
-MultiLanguageItemData['tw'][178447] = {name = "[q4]罪惡鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][178447] = {name = "[q4]罪惡鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][178448] = {name = "[q4]罪惡鬥士護符", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 63 臨機應變\n[q2]+ 19 精通\n售價:"}
 MultiLanguageItemData['tw'][178463] = {name = "狂野題詞", additional_info = "任務物品\n[q]\"這個石板上的刻印散發不祥的氣味。\""}
 MultiLanguageItemData['tw'][178464] = {name = "[q2]被丟棄的豎琴", additional_info = "任務物品\n唯一\n[q2]使用: 彈奏豎琴，安撫附近的絲行者。"}
@@ -33997,7 +33993,7 @@ MultiLanguageItemData['tw'][178747] = {name = "夜百合", additional_info = "�
 MultiLanguageItemData['tw'][178748] = {name = "[q3]縫補師的血腥手套", additional_info = "拾取後綁定{手} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 8 致命一擊\n[q2]+ 16 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178749] = {name = "[q3]兇惡屠夫肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n37護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 8 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][178750] = {name = "[q3]硬殼頂蓋", additional_info = "拾取後綁定{副手} {盾}\n158護甲\n+8 力量\n+25 智力\n+12 耐力\n[q2]+ 9 致命一擊\n[q2]+ 7 臨機應變\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][178751] = {name = "[q3]備用的肉鉤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 力量\n[q2]使用: 鉤住一名8碼範圍內的敵人，使其每1秒因流血而受到( 1 * 135 )點物理傷害，同時使其移動速度降低 50 %。此效果會持續10秒，或直到敵人離開你超過 16 碼。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][178751] = {name = "[q3]備用的肉鉤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 力量\n[q2]使用: 鉤住一名8碼範圍內的敵人，使其每1秒因流血而受到( 1 * 135 )點物理傷害，同時使其移動速度降低50%。此效果會持續10秒，或直到敵人離開你超過16碼。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][178752] = {name = "[q3]精美的碎骨錘", additional_info = "拾取後綁定{單手} {權杖}\n{20-27點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 力量\n+12 耐力\n[q2]+ 6 加速\n[q2]+ 11 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][178753] = {name = "[q3]手術膿皰割刀", additional_info = "拾取後綁定{單手} {匕首}\n{6-10點傷害} {速度 1.80}\n(每秒4.4點傷害)\n+47 智力\n+12 耐力\n[q2]+ 10 致命一擊\n[q2]+ 6 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][178754] = {name = "[q3]帕克斯多姆，疫病長劍", additional_info = "拾取後綁定{單手} {劍}\n{17-30點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 10 加速\n[q2]+ 6 精通\n耐久: 110 / 110\n[q2]裝備： 你的攻擊有很高機率對附近敵人施加冒泡毒瘤，在6秒內造成 33 點自然傷害。\n[q]\"這把劍仍然依附著史特拉達瑪的陰謀詭計所留下的汙染。\"\n售價:"}
@@ -34014,7 +34010,7 @@ MultiLanguageItemData['tw'][178767] = {name = "[q3]受折磨的助手束腕", ad
 MultiLanguageItemData['tw'][178769] = {name = "[q3]無限分裂黏液", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 智力]\n[q2]裝備： 你的傷害性技能有一定機率召喚發泡膿瘡為你而戰，對你的目標造成( 57 * 5)點自然傷害。\n售價:"}
 MultiLanguageItemData['tw'][178770] = {name = "[q3]黏滑的結核病器官", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+23 耐力\n[q2]裝備： 受到傷害後，有很高的機率賦予你貪食效果，最多可堆疊9次。\n[q2]使用: 每堆疊一層貪食可吐出一個黏液凝塊。凝塊會立即試著向你移動，每一個會為你治療 124 點生命力。 (20秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][178771] = {name = "[q3]腐爛之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量]\n[q2]裝備： 每5秒，你的下一個近戰技能會施加液化軟泥，在30秒內造成[ 13 * (10) * (1 + 臨機應變)]點自然傷害。\n\n 液化軟泥最多可堆疊3次。堆疊層數時不會重置持續時間。\n售價:"}
-MultiLanguageItemData['tw'][178772] = {name = "[q3]一袋亂七八糟的手下", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的傷害法術有一定機率從袋中抽出一個手下，使其跑向你的目標並且爆炸造成 317 點暗影傷害，由附近所有敵人分攤。\n\n 每命中一個敵人可使傷害提高，最多 5 個敵人。\n售價:"}
+MultiLanguageItemData['tw'][178772] = {name = "[q3]一袋亂七八糟的手下", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的傷害法術有一定機率從袋中抽出一個手下，使其跑向你的目標並且爆炸造成 317 點暗影傷害，由附近所有敵人分攤。\n\n 每命中一個敵人可使傷害提高，最多5個敵人。\n售價:"}
 MultiLanguageItemData['tw'][178773] = {name = "[q3]瘟疫管理者巨盔", additional_info = "拾取後綁定{頭部} {板甲}\n41護甲\n+16 [力量 or 智力]\n+24 耐力\n[q2]+ 21 致命一擊\n[q2]+ 11 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][178774] = {name = "[q3]滾泥踏靴", additional_info = "拾取後綁定{腳} {板甲}\n34護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 9 致命一擊\n[q2]+ 15 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][178775] = {name = "[q3]血肉融合重擊手套", additional_info = "拾取後綁定{手} {板甲}\n30護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 10 加速\n[q2]+ 15 臨機應變\n耐久: 55 / 55\n售價:"}
@@ -34047,9 +34043,9 @@ MultiLanguageItemData['tw'][178804] = {name = "[q3]敗亡女皇之索", addition
 MultiLanguageItemData['tw'][178805] = {name = "[q3]繁夢碎盡束腰", additional_info = "拾取後綁定{腰部} {皮甲}\n14護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 10 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178806] = {name = "[q3]污染的薄紗裹腕", additional_info = "拾取後綁定{手腕} {布甲}\n7護甲\n+9 智力\n+14 耐力\n[q2]+ 11 致命一擊\n[q2]+ 7 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178807] = {name = "[q3]競技戰士的腕甲", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 11 臨機應變\n[q2]+ 7 精通\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][178808] = {name = "[q3]聚合仇恨臟器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 力量\n[q2]裝備： 你的技能有很高機率發動憎恨打擊，對一名敵人造成( 189 * 1 )點物理傷害，並且為你治療 7 點生命力。生命力低於 35 %時效果提高[( 2 * 100) - 100]%。\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
+MultiLanguageItemData['tw'][178808] = {name = "[q3]聚合仇恨臟器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 力量\n[q2]裝備： 你的技能有很高機率發動憎恨打擊，對一名敵人造成( 189 * 1 )點物理傷害，並且為你治療 7 點生命力。生命力低於35%時效果提高100%。\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
 MultiLanguageItemData['tw'][178809] = {name = "[q3]放魂紅寶石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]使用: 抽出目標的一塊靈魂，使其移動速度降低30%，直到靈魂觸及你為止。靈魂會立即為你治療 398 點生命力，並賦予你最多( 70 + 86 )點致命一擊，持續16秒。低生命力目標獲得的致命一擊較多。 (2分鐘 冷卻)\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
-MultiLanguageItemData['tw'][178810] = {name = "[q3]鬼靈精華之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]使用: 將鬼靈精華束縛在一名敵人身上，持續20秒，使盟友造成傷害時恢復相當於傷害量 30 %的生命力，最多總共可恢復 1345 點生命力。\n\n 精華效果結束或提早移除時，剩餘的治療量會爆發，為8碼範圍內最多 5 名盟友恢復生命力。 (1分鐘，30秒 冷卻)\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
+MultiLanguageItemData['tw'][178810] = {name = "[q3]鬼靈精華之瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]使用: 將鬼靈精華束縛在一名敵人身上，持續20秒，使盟友造成傷害時恢復相當於傷害量30%的生命力，最多總共可恢復 1345 點生命力。\n\n 精華效果結束或提早移除時，剩餘的治療量會爆發，為8碼範圍內最多5名盟友恢復生命力。 (1分鐘，30秒 冷卻)\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
 MultiLanguageItemData['tw'][178811] = {name = "[q3]陰森寶典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量]\n[q2]使用: 召喚幽靈之鐮，對目標造成 1033 點暗影傷害，並且對目標後方15碼錐形範圍的敵人造成 143 點暗影傷害。 (1分鐘，30秒 冷卻)\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
 MultiLanguageItemData['tw'][178812] = {name = "[q3]空軍指揮官頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n41護甲\n+16 [力量 or 智力]\n+24 耐力\n[q2]+ 13 加速\n[q2]+ 20 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][178813] = {name = "[q3]罪光罩氅", additional_info = "拾取後綁定{胸部} {布甲}\n14護甲\n+16 智力\n+24 耐力\n[q2]+ 21 致命一擊\n[q2]+ 11 加速\n耐久: 165 / 165\n售價:"}
@@ -34064,8 +34060,8 @@ MultiLanguageItemData['tw'][178821] = {name = "[q3]倏忽面容披肩", addition
 MultiLanguageItemData['tw'][178822] = {name = "[q3]暗言索帶", additional_info = "拾取後綁定{腰部} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178823] = {name = "[q3]黑暗奉獻腰索", additional_info = "拾取後綁定{腰部} {皮甲}\n14護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 10 臨機應變\n[q2]+ 14 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][178824] = {name = "[q3]虛假控罪者璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+14 耐力\n[q2]+ 14 加速\n[q2]+ 32 精通\n售價:"}
-MultiLanguageItemData['tw'][178825] = {name = "[q3]跳動的石心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量]\n[q2]使用: 使你的護甲值提高 137 點，每1秒恢復 167 點生命力，持續6秒，但你會緩速 50 %。 (1分鐘，15秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][178826] = {name = "[q3]日血水晶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 從目標身上剝離靈魄，造成 556 點暗影傷害，並在你的腳下形成能量之泉，使你站在其中的時候智力提高 31 點，持續15秒。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][178825] = {name = "[q3]跳動的石心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量]\n[q2]使用: 使你的護甲值提高 137 點，每1秒恢復 167 點生命力，持續6秒，但你會緩速50%。 (1分鐘，15秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][178826] = {name = "[q3]日血水晶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 從目標身上剝離靈魄，造成 3819 點暗影傷害，並在你的腳下形成能量之泉，使你站在其中的時候智力提高 35 點，持續15秒。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][178827] = {name = "[q3]罪污墜飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 33 加速\n[q2]+ 13 精通\n售價:"}
 MultiLanguageItemData['tw'][178828] = {name = "[q3]納撒亞聖龕", additional_info = "拾取後綁定副手物品\n+25 智力\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][178829] = {name = "[q3]納撒亞阿魏法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{18-25點傷害} {速度 3.60}\n(每秒6.0點傷害)\n+72 智力\n+24 耐力\n[q2]+ 13 致命一擊\n[q2]+ 19 加速\n耐久: 120 / 120\n售價:"}
@@ -34141,7 +34137,7 @@ MultiLanguageItemData['tw'][178898] = {name = "辛辣芽胞毒素", additional_i
 MultiLanguageItemData['tw'][178899] = {name = "[q4]樹穀", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 召喚小樹人與你並肩作戰，持續3分鐘。"}
 MultiLanguageItemData['tw'][178900] = {name = "死亡胡椒腐肉", additional_info = "[q2]使用: 在20秒內恢復( 9375 / 5 * 20)點生命力。進食時必須保持坐姿。\n[q]\"調味了、醃過了、煎燒了…還是依然會動！\"\n售價:"}
 MultiLanguageItemData['tw'][178901] = {name = "[q4]藤蔓種子", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 使附近一個敵人定身，同時在15秒內造成( 4183 * 15 / 3)點自然傷害。"}
-MultiLanguageItemData['tw'][178902] = {name = "[q4]活力嫩枝", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 在地面放置活力嫩枝，在18秒內提供( 3481 * 18 / 3)點生命力和( 4183 * 18 / 3)點法力，但如果離開 10 碼範圍會中斷。"}
+MultiLanguageItemData['tw'][178902] = {name = "[q4]活力嫩枝", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 在地面放置活力嫩枝，在18秒內提供( 3481 * 18 / 3)點生命力和( 4183 * 18 / 3)點法力，但如果離開10碼範圍會中斷。"}
 MultiLanguageItemData['tw'][178903] = {name = "木魈尺寸的武器", additional_info = "任務物品\n[q]\"就跟普通大小的武器一樣致命。\""}
 MultiLanguageItemData['tw'][178904] = {name = "鐐銬鑰匙", additional_info = "任務物品\n唯一\n[q]\"雖然暴露在元素之中，這把鑰匙看起來毫無損傷。\""}
 MultiLanguageItemData['tw'][178907] = {name = "木魈尺寸的魔杖", additional_info = "任務物品\n[q]\"就跟普通大小的武器一樣致命。\""}
@@ -34280,7 +34276,7 @@ MultiLanguageItemData['tw'][179327] = {name = "仲介硬幣", additional_info = 
 MultiLanguageItemData['tw'][179328] = {name = "[q3]濺血者", additional_info = "拾取後綁定{單手} {劍}\n{17-30點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 9 致命一擊\n[q2]+ 7 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][179329] = {name = "[q2]石像鬼戮心杖", additional_info = "裝備後綁定\n{雙手} {法杖}\n{19-27點傷害} {速度 3.60}\n(每秒6.4點傷害)\n+9 敏捷\n+13 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][179330] = {name = "[q3]辛卡斯，墮亡神靈之刃", additional_info = "拾取後綁定{雙手} {劍}\n{32-55點傷害} {速度 3.60}\n(每秒12.1點傷害)\n+16 力量\n+24 耐力\n[q2]+ 19 致命一擊\n[q2]+ 13 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][179331] = {name = "[q3]血濺鱗片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量]\n[q2]使用: 造成 529 點暗影傷害，由附近所有敵人分攤，並在你身上形成鮮血屏障。鮮血屏障能吸收[ 2213 * (1 + 臨機應變)]點傷害，且持續10秒。\n\n 每命中一個敵人可使傷害和吸收量增加，最多 5 個敵人。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][179331] = {name = "[q3]血濺鱗片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量]\n[q2]使用: 造成 529 點暗影傷害，由附近所有敵人分攤，並在你身上形成鮮血屏障。鮮血屏障能吸收[ 2213 * (1 + 臨機應變)]點傷害，且持續10秒。\n\n 每命中一個敵人可使傷害和吸收量增加，最多5個敵人。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][179332] = {name = "[q2]石哨兵長柄斧", additional_info = "裝備後綁定\n{雙手} {長柄武器}\n{16-30點傷害} {速度 3.60}\n(每秒6.4點傷害)\n+9 力量\n+13 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][179333] = {name = "[q2]審判官鬥棍", additional_info = "裝備後綁定\n{單手} {權杖}\n{5-7點傷害} {速度 2.60}\n(每秒2.3點傷害)\n+25 智力\n+6 耐力\n耐久: 75 / 75\n售價:"}
 MultiLanguageItemData['tw'][179334] = {name = "[q2]翼刀法杖", additional_info = "裝備後綁定\n{雙手} {法杖}\n{19-27點傷害} {速度 3.60}\n(每秒6.4點傷害)\n+9 力量\n+13 耐力\n耐久: 85 / 85\n售價:"}
@@ -34305,7 +34301,7 @@ MultiLanguageItemData['tw'][179352] = {name = "[q3]原初之魂的護踝", addit
 MultiLanguageItemData['tw'][179353] = {name = "[q3]扭曲意念背心", additional_info = "拾取後綁定{胸部} {鎖甲}\n36護甲\n+16 [敏捷 or 智力]\n+24 耐力\n[q2]+ 13 致命一擊\n[q2]+ 19 加速\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][179354] = {name = "[q3]真實碎裂護臂", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 11 致命一擊\n[q2]+ 8 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][179355] = {name = "[q3]死亡之神的璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+14 耐力\n[q2]+ 33 加速\n[q2]+ 13 精通\n售價:"}
-MultiLanguageItemData['tw'][179356] = {name = "[q3]暗影之握圖騰", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 敏捷\n[q2]使用: 在腳下放置暗影之握圖騰，持續15秒，可收割你的目標，每1秒造成 77 點暗影傷害。每當有目標在受到暗影之握圖騰影響期間死亡，你可恢復 252 點生命力，且其冷卻時間縮短 15 秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][179356] = {name = "[q3]暗影之握圖騰", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 敏捷\n[q2]使用: 在腳下放置暗影之握圖騰，持續15秒，可收割你的目標，每1秒造成 77 點暗影傷害。每當有目標在受到暗影之握圖騰影響期間死亡，你可恢復 252 點生命力，且其冷卻時間縮短15秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][179358] = {name = "[q6]雷莫尼亞", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"在這把活化刀刃中，有個黑暗存在正叫囂著想重獲自由。\""}
 MultiLanguageItemData['tw'][179359] = {name = "罪孽石碎片", additional_info = "任務物品\n[q2]使用: 將罪孽石交給受傷的棘禍家族汎希爾，看看他們是否被迫與你戰鬥。 (15秒 冷卻)"}
 MultiLanguageItemData['tw'][179360] = {name = "[q3]騰克的小弓箭", additional_info = "拾取後綁定{遠程} {弓}\n{4-6點傷害} {速度 3.00}\n(每秒1.7點傷害)\n+0 敏捷\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 加速\n耐久: 60 / 60\n[q]\"至少，對巨魔來說算小的吧。\"\n售價:"}
@@ -34328,7 +34324,7 @@ MultiLanguageItemData['tw'][179386] = {name = "[q2]浪潮賢者項鍊", addition
 MultiLanguageItemData['tw'][179388] = {name = "希望破滅者靈魂鎖鍊", additional_info = "任務物品\n[q]\"用來限制頑固的靈魂的動作。\""}
 MultiLanguageItemData['tw'][179389] = {name = "靈魄果", additional_info = "任務物品\n唯一（99）"}
 MultiLanguageItemData['tw'][179390] = {name = "[q0]大得誘人的黃金梅", additional_info = "拾取後綁定\n唯一\n[q]\"小心那些被貪念吞噬的人，黃金永遠滿足不了他們的靈魂。\"\n售價:"}
-MultiLanguageItemData['tw'][179392] = {name = "[q3]勃發野心之球", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 使你的主要屬性提高 27 點，但生命力上限降低(- 5 )%，持續1分鐘。最多可堆疊10次。只能在暗影之境的戶外使用。 (5秒 冷卻)\n20 充能\n[q]\"野心往往會蓋過謹慎。\"\n售價:"}
+MultiLanguageItemData['tw'][179392] = {name = "[q3]勃發野心之球", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 使你的主要屬性提高 27 點，但生命力上限降低5%，持續1分鐘。最多可堆疊10次。只能在暗影之境的戶外使用。 (5秒 冷卻)\n20 充能\n[q]\"野心往往會蓋過謹慎。\"\n售價:"}
 MultiLanguageItemData['tw'][179393] = {name = "[q3]忌妒之夢魔鏡", additional_info = "拾取後綁定\n唯一\n玩具\n[q2] 使用: 賦予你金光閃閃的效果，看起來就像從前的傑出<職業>。 (2小時 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][179394] = {name = "[q3]9.0 Covenant - Bastion - Mail - Base - Head", additional_info = "拾取後綁定頭部\n+37 耐力\n[q2]+ 15 致命一擊\n[q2]+ 15 精通\n售價:"}
 MultiLanguageItemData['tw'][179395] = {name = "[q3]9.0 Covenant - Bastion - Mail - Base - Chest", additional_info = "拾取後綁定胸部\n+15 [力量 or 智力]\n+22 耐力\n[q2]+ 15 加速\n[q2]+ 15 精通\n售價:"}
@@ -34451,7 +34447,7 @@ MultiLanguageItemData['tw'][179514] = {name = "[q3]裂藤軍刀", additional_inf
 MultiLanguageItemData['tw'][179515] = {name = "[q3]妖精誓約大刀", additional_info = "拾取後綁定{單手} {劍}\n{26-45點傷害} {速度 2.60}\n(每秒13.7點傷害)\n+12 力量\n+18 耐力\n[q2]+ 8 臨機應變\n[q2]+ 16 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][179516] = {name = "[q4]歌木法杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n耐久: 35 / 35\n獲得「無敵穿搭」成就即可購買這個武器外觀。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][179517] = {name = "[q3]暮色守衛權杖", additional_info = "拾取後綁定{雙手} {法杖}\n{16-22點傷害} {速度 3.60}\n(每秒5.3點傷害)\n+64 智力\n+21 耐力\n[q2]+ 15 加速\n[q2]+ 14 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][179518] = {name = "[q3]爍光法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{17-24點傷害} {速度 3.60}\n(每秒5.7點傷害)\n+69 智力\n+23 耐力\n[q2]+ 12 致命一擊\n[q2]+ 19 加速\n耐久: 120 / 120\n[q2]裝備： 生命力或法力低於 10 %時，釋放閃爍之光，對附近40碼範圍內的敵人造成 1517 點傷害，並為同範圍內的盟友治療同等的生命力。\n\n 此效果每10分鐘只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][179518] = {name = "[q3]爍光法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{17-24點傷害} {速度 3.60}\n(每秒5.7點傷害)\n+69 智力\n+23 耐力\n[q2]+ 12 致命一擊\n[q2]+ 19 加速\n耐久: 120 / 120\n[q2]裝備： 生命力或法力低於10%時，釋放閃爍之光，對附近40碼範圍內的敵人造成 1517 點傷害，並為同範圍內的盟友治療同等的生命力。\n\n 此效果每10分鐘只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][179519] = {name = "[q0]亞登曠野誓盟法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n售價:"}
 MultiLanguageItemData['tw'][179520] = {name = "[q0]亞登曠野誓盟法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n售價:"}
 MultiLanguageItemData['tw'][179521] = {name = "[q0]亞登曠野誓盟法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n售價:"}
@@ -34849,10 +34845,10 @@ MultiLanguageItemData['tw'][179923] = {name = "攻擊戰鬥號角", additional_i
 MultiLanguageItemData['tw'][179924] = {name = "[q3]聖光灌注夾克", additional_info = "拾取後綁定{胸部} {皮甲}\n11護甲\n+8 [敏捷 or 智力]\n+11 耐力\n耐久: 140 / 140\n[q2]使用: 獲得持續1小時的護盾，最多可吸收 482 點神聖傷害。\n3 充能\n售價:"}
 MultiLanguageItemData['tw'][179925] = {name = "[q3]聖光灌注胸甲", additional_info = "拾取後綁定{胸部} {板甲}\n25護甲\n+8 [力量 or 智力]\n+11 耐力\n耐久: 140 / 140\n[q2]使用: 獲得持續1小時的護盾，最多可吸收 482 點神聖傷害。\n3 充能\n售價:"}
 MultiLanguageItemData['tw'][179926] = {name = "[q3]聖光灌注外套", additional_info = "拾取後綁定{胸部} {布甲}\n7護甲\n+8 智力\n+11 耐力\n耐久: 140 / 140\n[q2]使用: 獲得持續1小時的護盾，最多可吸收 482 點神聖傷害。\n3 充能\n售價:"}
-MultiLanguageItemData['tw'][179927] = {name = "[q3]發亮的歿路沼澤毒刺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 5 精通\n[q2]裝備： 刺中生命力低於 20 %的目標時，在15秒內造成[ 15 * (5)]點暗影傷害，並向你返還相當於 100 %傷害量的治療效果。此效果每 15 秒只能觸發一次。（15秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][179927] = {name = "[q3]發亮的歿路沼澤毒刺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 5 精通\n[q2]裝備： 刺中生命力低於20%的目標時，在15秒內造成[ 15 * (5)]點暗影傷害，並向你返還相當於100%傷害量的治療效果。此效果每15秒只能觸發一次。（15秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][179928] = {name = "牢房鍊條拉桿", additional_info = nil}
 MultiLanguageItemData['tw'][179929] = {name = "傾樹之心", additional_info = "任務物品\n唯一\n[q2]使用: 與特那葛倫周圍的林木之心聖壇同調。"}
-MultiLanguageItemData['tw'][179937] = {name = "[q2]勃發野心稜片", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 使你的主要屬性提高 27 點，但生命力上限降低(- 5 )%，持續1分鐘。最多可堆疊10次。只能在暗影之境的戶外使用。\n5 充能\n[q]\"野心往往會蓋過謹慎。\"\n售價:"}
+MultiLanguageItemData['tw'][179937] = {name = "[q2]勃發野心稜片", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 使你的主要屬性提高 27 點，但生命力上限降低5%，持續1分鐘。最多可堆疊10次。只能在暗影之境的戶外使用。\n5 充能\n[q]\"野心往往會蓋過謹慎。\"\n售價:"}
 MultiLanguageItemData['tw'][179938] = {name = "[q2]崩塌自尊抽取器", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 抽取一名敵人的生命力，造成 3205 點暗影傷害，並使你每5秒恢復 7363 點生命力，持續20秒。只能在暗影之境戶外使用。 (1分鐘 冷卻)\n5 充能\n售價:"}
 MultiLanguageItemData['tw'][179939] = {name = "[q2]蠕動的蜘蛛卵囊", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 投擲蠕動的蜘蛛卵囊，看看有多少蜘蛛在目標身上彈跳！只能在暗影之境的戶外使用。 (2分鐘 冷卻)\n[q]\"喔！他們準備要孵化了！\"\n售價:"}
 MultiLanguageItemData['tw'][179940] = {name = "[q3]無私熔爐士外衣", additional_info = "拾取後綁定{胸部} {鎖甲}\n33護甲\n+15 [敏捷 or 智力]\n+22 耐力\n[q2]+ 9 致命一擊\n[q2]+ 20 精通\n耐久: 165 / 165\n完成你的誓盟戰役第8章\n\n[q]無私鍊甲 (0/9)\n[q0]無私熔爐士外衣\n無私熔爐士長靴\n無私熔爐士手套\n無私熔爐士頭盔\n無私熔爐士馬褲\n無私熔爐士肩甲\n無私熔爐士腰帶\n無私熔爐士裹腕\n無私熔爐士的披氅\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 寧靜之瓶使主要屬性提高70點，持續30秒。移除疾病、中毒、詛咒或流血效果後，可額外提高50%屬性值。\n(8) 組合 : 你的法術和技能有一定機率在你的目標身上產生使人睜不開眼的光芒，對其造成 577 點秘法傷害}，或使一名盟友恢復 709 點生命力。}\n售價:"}
@@ -34922,7 +34918,7 @@ MultiLanguageItemData['tw'][180004] = {name = "[q4]罪惡鬥士法杖", addition
 MultiLanguageItemData['tw'][180005] = {name = "[q4]曠野獵者法杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n耐久: 35 / 35\n完成你的誓盟戰役第9章\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][180006] = {name = "[q3]溫熱的啤酒節扭結麵包", additional_info = "持續時間：7天 (實時)\n[q2]使用: 在20秒內恢復( 2500 / 5 * 20)點生命力和( 8000 / 5 * 20)點法力。進食時必須保持坐姿。"}
 MultiLanguageItemData['tw'][180007] = {name = "[q2]啤酒節扭結麵包碗", additional_info = "唯一\n[q2]使用: 擺出裝著八個啤酒節扭結麵包的碗。 (30分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][180008] = {name = "[q3]共鳴靈魄核心", additional_info = "拾取後綁定\n唯一（20）\n持續時間：1小時 (實時)\n[q2]使用: 對半徑5碼範圍內的所有敵人造成 9684 點秘法傷害，並關閉附近的吞噬者裂隙。\n\n 如果長者之地的吞噬者被擊中，它的靈魄會變得不穩定，其造成的傷害降低 50 %，受到的傷害提高 200 %，持續1分鐘。 (10秒 冷卻)"}
+MultiLanguageItemData['tw'][180008] = {name = "[q3]共鳴靈魄核心", additional_info = "拾取後綁定\n唯一（20）\n持續時間：1小時 (實時)\n[q2]使用: 對半徑5碼範圍內的所有敵人造成 9684 點秘法傷害，並關閉附近的吞噬者裂隙。\n\n 如果長者之地的吞噬者被擊中，它的靈魄會變得不穩定，其造成的傷害降低50%，受到的傷害提高200%，持續1分鐘。 (10秒 冷卻)"}
 MultiLanguageItemData['tw'][180009] = {name = "[q2]共鳴靈魄微粒", additional_info = "拾取後綁定\n唯一（20）\n持續時間：1小時 (實時)\n[q2]使用: 把5個共鳴靈魄微粒結合成一個共鳴靈魄核心。"}
 MultiLanguageItemData['tw'][180010] = {name = "肥美的蟹肉", additional_info = "任務物品\n[q]\"一大塊肥美的蟹肉，又新鮮又飽足。\"\n售價:"}
 MultiLanguageItemData['tw'][180011] = {name = "[q2]乾硬的啤酒節扭結麵包", additional_info = "[q2]使用: 在20秒內恢復( 22500 / 5 * 20)點生命力和( 30000 / 5 * 20)點法力。進食時必須保持坐姿。"}
@@ -35004,7 +35000,7 @@ MultiLanguageItemData['tw'][180115] = {name = "[q3]蒼毒頸飾", additional_inf
 MultiLanguageItemData['tw'][180116] = {name = "[q3]超載的靈魄電池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 敏捷\n[q2]使用: 獲得 92 點加速和 29 點速度，持續16秒。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][180117] = {name = "[q3]蒼穹砲", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 精通\n[q2]使用: 對最多5名目標發射5發蒼穹砲。每發蒼穹砲會使目標在12秒內受到[ 61 * 6 * (1 + 臨機應變)]點秘法傷害。目標身上的蒼穹砲結束後會回歸，每發會賦予 16 點智力，持續15秒。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][180118] = {name = "[q3]靈魄力場發射器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 力量\n[q2]裝備： 你的攻擊有高機率在你的位置產生靈魄力場，持續8秒。站在力場範圍內時，你會獲得 67 點加速。\n售價:"}
-MultiLanguageItemData['tw'][180119] = {name = "[q3]御靈者的恩澤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的治療法術有低機率在你附近產生 4 塊生命碎片，持續10秒。盟友撿起生命碎片可恢復 92 點生命力，並且賦予你的隊伍 16 點臨機應變，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][180119] = {name = "[q3]御靈者的恩澤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的治療法術有低機率在你附近產生4塊生命碎片，持續10秒。盟友撿起生命碎片可恢復 92 點生命力，並且賦予你的隊伍 16 點臨機應變，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][180120] = {name = "收割鉤", additional_info = "任務物品\n[q2]使用: 從熟成池中拉出無用的靈魄體。\n[q]\"用來收割成熟血肉的鏈條和鉤子。\""}
 MultiLanguageItemData['tw'][180123] = {name = "[q3]扭曲忠誠披氅", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 7 致命一擊\n[q2]+ 12 加速\n售價:"}
 MultiLanguageItemData['tw'][180126] = {name = "乾枯的野性種子", additional_info = "任務物品\n[q]\"野性種子的靈魄幾近乾枯，但裡面的靈魂還在掙扎求生。\""}
@@ -35515,10 +35511,10 @@ MultiLanguageItemData['tw'][180685] = {name = "[q2]靈魂稜片", additional_inf
 MultiLanguageItemData['tw'][180686] = {name = "[q3]「借來的」靈魂石", additional_info = "拾取後綁定\n唯一\n售價:"}
 MultiLanguageItemData['tw'][180687] = {name = "[q2]靈魄殘渣", additional_info = "拾取後綁定\n唯一\n售價:"}
 MultiLanguageItemData['tw'][180688] = {name = "[q3]灌能聖光餘暉", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 對準一名敵人，對其造成 16025 點神聖傷害。只能在暗影之境戶外使用。 (20秒 冷卻)\n10 充能\n售價:"}
-MultiLanguageItemData['tw'][180689] = {name = "[q2]小塊餘燼", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 朝一名敵人投擲，在16秒內造成( 1911 * 5 )點傷害。只能在暗影之境的戶外使用。 (20秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][180689] = {name = "[q2]小塊餘燼", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 朝一名敵人投擲，在16秒內造成( 1911 * 5)點傷害。只能在暗影之境的戶外使用。 (20秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][180690] = {name = "[q3]瓶裝燼塵", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 躲在灰燼之中，擺脫敵人的視線，讓他們難以發現你，持續5秒。只能在暗影之境的戶外使用。 (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][180691] = {name = "[q3]晦暗燼塵", additional_info = "拾取後綁定\n唯一\n售價:"}
-MultiLanguageItemData['tw'][180692] = {name = "[q2]潛獵者陷阱箱", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n{[q2]使用: 在你附近15碼範圍內放置陷阱。踏過陷阱的敵人，其移動{速度會降低 30 %，並在20秒內受到( 131642 * 20 / 4)點暗影傷害}。只能在暗影之境的戶外使用。 (1分鐘 冷卻)}\n5 充能\n售價:"}
+MultiLanguageItemData['tw'][180692] = {name = "[q2]潛獵者陷阱箱", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n{[q2]使用: 在你附近15碼範圍內放置陷阱。踏過陷阱的敵人，其移動{速度會降低30%，並在20秒內受到( 131642 * 20 / 4)點暗影傷害}。只能在暗影之境的戶外使用。 (1分鐘 冷卻)}\n5 充能\n售價:"}
 MultiLanguageItemData['tw'][180693] = {name = "[q2]颶風編年史", additional_info = "拾取後綁定\n唯一\n售價:"}
 MultiLanguageItemData['tw'][180694] = {name = "[q3]力量之書", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 撕下書的一頁，製作能提供強大增益效果的卷軸。 (3秒 冷卻)\n8 充能\n售價:"}
 MultiLanguageItemData['tw'][180696] = {name = "[q2]軍團聯隊徽記", additional_info = "拾取後綁定\n唯一\n售價:"}
@@ -35708,45 +35704,45 @@ MultiLanguageItemData['tw'][180896] = {name = "[q2]安全守護", additional_inf
 MultiLanguageItemData['tw'][180897] = {name = "首生者之光", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][180898] = {name = "疾逝藥膏", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][180899] = {name = "騎乘鉤", additional_info = "任務物品\n[q2]使用: 使用鎖鍊和騎乘鉤，跳上指定的戰縫屍鵬。"}
-MultiLanguageItemData['tw'][180900] = {name = "[q4]恐懼哨衛烏黑頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n38護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 10 致命一擊\n[q2]+ 22 加速\n耐久: 100 / 100\n完成你的誓盟戰役第5章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180901] = {name = "[q4]破魂者烏黑法衣", additional_info = "拾取後綁定{胸部} {布甲}\n13護甲\n+16 智力\n+23 耐力\n[q2]+ 14 加速\n[q2]+ 18 精通\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180902] = {name = "[q4]恐懼哨衛烏黑胸鎧", additional_info = "拾取後綁定{胸部} {板甲}\n51護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 14 致命一擊\n[q2]+ 18 加速\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180903] = {name = "[q4]懼獵者烏黑鍊衫", additional_info = "拾取後綁定{胸部} {鎖甲}\n34護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 10 致命一擊\n[q2]+ 22 精通\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180904] = {name = "[q4]烏黑死亡帷罩外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n23護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 11 致命一擊\n[q2]+ 20 加速\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180905] = {name = "[q4]恐懼哨衛烏黑巨靴", additional_info = "拾取後綁定{腳} {板甲}\n32護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 精通\n耐久: 80 / 80\n完成你的誓盟戰役第6章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180906] = {name = "[q4]破魂者烏黑軟靴", additional_info = "拾取後綁定{腳} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 10 致命一擊\n[q2]+ 14 臨機應變\n耐久: 65 / 65\n完成你的誓盟戰役第6章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180907] = {name = "[q4]懼獵者烏黑脛甲", additional_info = "拾取後綁定{腳} {鎖甲}\n21護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 精通\n耐久: 65 / 65\n完成你的誓盟戰役第6章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180908] = {name = "[q4]烏黑死亡帷罩長靴", additional_info = "拾取後綁定{腳} {皮甲}\n14護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 13 致命一擊\n[q2]+ 11 精通\n耐久: 65 / 65\n完成你的誓盟戰役第6章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180909] = {name = "[q4]烏黑死亡帷罩手套", additional_info = "拾取後綁定{手} {皮甲}\n13護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 精通\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180910] = {name = "[q4]恐懼哨衛烏黑之握", additional_info = "拾取後綁定{手} {板甲}\n29護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 7 精通\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180911] = {name = "[q4]破魂者烏黑裹手", additional_info = "拾取後綁定{手} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 7 加速\n[q2]+ 16 精通\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180912] = {name = "[q4]懼獵者烏黑護手", additional_info = "拾取後綁定{手} {鎖甲}\n19護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 13 致命一擊\n[q2]+ 10 加速\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180913] = {name = "[q4]破魂者烏黑兜帽", additional_info = "拾取後綁定{頭部} {布甲}\n10護甲\n+16 智力\n+23 耐力\n[q2]+ 9 致命一擊\n[q2]+ 22 加速\n耐久: 100 / 100\n完成你的誓盟戰役第5章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180914] = {name = "[q4]懼獵者烏黑頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n26護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 22 加速\n[q2]+ 9 精通\n耐久: 85 / 85\n完成你的誓盟戰役第5章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180915] = {name = "[q4]烏黑死亡帷罩兜帽", additional_info = "拾取後綁定{頭部} {皮甲}\n17護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 19 加速\n[q2]+ 12 精通\n耐久: 85 / 85\n完成你的誓盟戰役第5章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180916] = {name = "[q4]恐懼哨衛烏黑腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n45護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 18 加速\n[q2]+ 14 精通\n耐久: 120 / 120\n完成你的誓盟戰役第4章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180917] = {name = "[q4]破魂者烏黑護腿", additional_info = "拾取後綁定{腿部} {布甲}\n12護甲\n+16 智力\n+23 耐力\n[q2]+ 14 致命一擊\n[q2]+ 18 加速\n耐久: 120 / 120\n完成你的誓盟戰役第4章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180918] = {name = "[q4]懼獵者烏黑護腿", additional_info = "拾取後綁定{腿部} {鎖甲}\n30護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 10 致命一擊\n[q2]+ 21 加速\n耐久: 120 / 120\n完成你的誓盟戰役第4章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180919] = {name = "[q4]烏黑死亡帷罩馬褲", additional_info = "拾取後綁定{腿部} {皮甲}\n20護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 20 致命一擊\n[q2]+ 12 加速\n耐久: 100 / 100\n完成你的誓盟戰役第4章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180920] = {name = "[q4]烏黑死亡帷罩肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n16護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 7 加速\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180921] = {name = "[q4]恐懼哨衛烏黑肩甲", additional_info = "拾取後綁定{肩部} {板甲}\n35護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 7 加速\n[q2]+ 16 精通\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180922] = {name = "[q4]破魂者烏黑披肩", additional_info = "拾取後綁定{肩部} {布甲}\n9護甲\n+12 智力\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 8 精通\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180923] = {name = "[q4]懼獵者烏黑護肩", additional_info = "拾取後綁定{肩部} {鎖甲}\n23護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 17 致命一擊\n[q2]+ 7 精通\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180924] = {name = "[q4]恐懼哨衛烏黑束腰", additional_info = "拾取後綁定{腰部} {板甲}\n29護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 14 加速\n[q2]+ 10 精通\n耐久: 55 / 55\n完成你的誓盟戰役第5章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180925] = {name = "[q4]破魂者烏黑束帶", additional_info = "拾取後綁定{腰部} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 8 加速\n耐久: 50 / 50\n完成你的誓盟戰役第5章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180926] = {name = "[q4]懼獵者烏黑腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n19護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 7 精通\n耐久: 50 / 50\n完成你的誓盟戰役第5章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180927] = {name = "[q4]烏黑死亡帷罩腰帶", additional_info = "拾取後綁定{腰部} {皮甲}\n13護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 9 致命一擊\n[q2]+ 15 臨機應變\n耐久: 50 / 50\n完成你的誓盟戰役第5章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180928] = {name = "[q0]破魂者烏黑裹腕", additional_info = "拾取後綁定{手腕} {布甲}\n7護甲\n+9 智力\n+13 耐力\n[q2]+ 10 致命一擊\n[q2]+ 8 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180929] = {name = "[q4]恐懼哨衛烏黑護臂", additional_info = "拾取後綁定{手腕} {板甲}\n26護甲\n+9 [力量 or 智力]\n+13 耐力\n[q2]+ 5 致命一擊\n[q2]+ 12 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180930] = {name = "[q4]懼獵者烏黑護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n17護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 10 加速\n[q2]+ 8 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180931] = {name = "[q4]烏黑死亡帷罩束腕", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 11 加速\n[q2]+ 7 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
+MultiLanguageItemData['tw'][180900] = {name = "[q4]恐懼哨衛烏黑頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n38護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 10 致命一擊\n[q2]+ 22 加速\n耐久: 100 / 100\n完成你的誓盟戰役第5章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180901] = {name = "[q4]破魂者烏黑法衣", additional_info = "拾取後綁定{胸部} {布甲}\n13護甲\n+16 智力\n+23 耐力\n[q2]+ 14 加速\n[q2]+ 18 精通\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180902] = {name = "[q4]恐懼哨衛烏黑胸鎧", additional_info = "拾取後綁定{胸部} {板甲}\n51護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 14 致命一擊\n[q2]+ 18 加速\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180903] = {name = "[q4]懼獵者烏黑鍊衫", additional_info = "拾取後綁定{胸部} {鎖甲}\n34護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 10 致命一擊\n[q2]+ 22 精通\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180904] = {name = "[q4]烏黑死亡帷罩外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n23護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 11 致命一擊\n[q2]+ 20 加速\n耐久: 165 / 165\n完成你的誓盟戰役第7章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180905] = {name = "[q4]恐懼哨衛烏黑巨靴", additional_info = "拾取後綁定{腳} {板甲}\n32護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 精通\n耐久: 80 / 80\n完成你的誓盟戰役第6章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180906] = {name = "[q4]破魂者烏黑軟靴", additional_info = "拾取後綁定{腳} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 10 致命一擊\n[q2]+ 14 臨機應變\n耐久: 65 / 65\n完成你的誓盟戰役第6章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180907] = {name = "[q4]懼獵者烏黑脛甲", additional_info = "拾取後綁定{腳} {鎖甲}\n21護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 精通\n耐久: 65 / 65\n完成你的誓盟戰役第6章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180908] = {name = "[q4]烏黑死亡帷罩長靴", additional_info = "拾取後綁定{腳} {皮甲}\n14護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 13 致命一擊\n[q2]+ 11 精通\n耐久: 65 / 65\n完成你的誓盟戰役第6章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180909] = {name = "[q4]烏黑死亡帷罩手套", additional_info = "拾取後綁定{手} {皮甲}\n13護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 9 精通\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180910] = {name = "[q4]恐懼哨衛烏黑之握", additional_info = "拾取後綁定{手} {板甲}\n29護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 7 精通\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180911] = {name = "[q4]破魂者烏黑裹手", additional_info = "拾取後綁定{手} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 7 加速\n[q2]+ 16 精通\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180912] = {name = "[q4]懼獵者烏黑護手", additional_info = "拾取後綁定{手} {鎖甲}\n19護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 13 致命一擊\n[q2]+ 10 加速\n耐久: 50 / 50\n完成你的誓盟戰役第1章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180913] = {name = "[q4]破魂者烏黑兜帽", additional_info = "拾取後綁定{頭部} {布甲}\n10護甲\n+16 智力\n+23 耐力\n[q2]+ 9 致命一擊\n[q2]+ 22 加速\n耐久: 100 / 100\n完成你的誓盟戰役第5章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180914] = {name = "[q4]懼獵者烏黑頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n26護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 22 加速\n[q2]+ 9 精通\n耐久: 85 / 85\n完成你的誓盟戰役第5章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180915] = {name = "[q4]烏黑死亡帷罩兜帽", additional_info = "拾取後綁定{頭部} {皮甲}\n17護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 19 加速\n[q2]+ 12 精通\n耐久: 85 / 85\n完成你的誓盟戰役第5章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180916] = {name = "[q4]恐懼哨衛烏黑腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n45護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 18 加速\n[q2]+ 14 精通\n耐久: 120 / 120\n完成你的誓盟戰役第4章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180917] = {name = "[q4]破魂者烏黑護腿", additional_info = "拾取後綁定{腿部} {布甲}\n12護甲\n+16 智力\n+23 耐力\n[q2]+ 14 致命一擊\n[q2]+ 18 加速\n耐久: 120 / 120\n完成你的誓盟戰役第4章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180918] = {name = "[q4]懼獵者烏黑護腿", additional_info = "拾取後綁定{腿部} {鎖甲}\n30護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 10 致命一擊\n[q2]+ 21 加速\n耐久: 120 / 120\n完成你的誓盟戰役第4章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180919] = {name = "[q4]烏黑死亡帷罩馬褲", additional_info = "拾取後綁定{腿部} {皮甲}\n20護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 20 致命一擊\n[q2]+ 12 加速\n耐久: 100 / 100\n完成你的誓盟戰役第4章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180920] = {name = "[q4]烏黑死亡帷罩肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n16護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 7 加速\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180921] = {name = "[q4]恐懼哨衛烏黑肩甲", additional_info = "拾取後綁定{肩部} {板甲}\n35護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 7 加速\n[q2]+ 16 精通\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180922] = {name = "[q4]破魂者烏黑披肩", additional_info = "拾取後綁定{肩部} {布甲}\n9護甲\n+12 智力\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 8 精通\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180923] = {name = "[q4]懼獵者烏黑護肩", additional_info = "拾取後綁定{肩部} {鎖甲}\n23護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 17 致命一擊\n[q2]+ 7 精通\n耐久: 100 / 100\n完成你的誓盟戰役第8章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180924] = {name = "[q4]恐懼哨衛烏黑束腰", additional_info = "拾取後綁定{腰部} {板甲}\n29護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 14 加速\n[q2]+ 10 精通\n耐久: 55 / 55\n完成你的誓盟戰役第5章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180925] = {name = "[q4]破魂者烏黑束帶", additional_info = "拾取後綁定{腰部} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 15 致命一擊\n[q2]+ 8 加速\n耐久: 50 / 50\n完成你的誓盟戰役第5章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180926] = {name = "[q4]懼獵者烏黑腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n19護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 16 致命一擊\n[q2]+ 7 精通\n耐久: 50 / 50\n完成你的誓盟戰役第5章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180927] = {name = "[q4]烏黑死亡帷罩腰帶", additional_info = "拾取後綁定{腰部} {皮甲}\n13護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 9 致命一擊\n[q2]+ 15 臨機應變\n耐久: 50 / 50\n完成你的誓盟戰役第5章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180928] = {name = "[q0]破魂者烏黑裹腕", additional_info = "拾取後綁定{手腕} {布甲}\n7護甲\n+9 智力\n+13 耐力\n[q2]+ 10 致命一擊\n[q2]+ 8 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180929] = {name = "[q4]恐懼哨衛烏黑護臂", additional_info = "拾取後綁定{手腕} {板甲}\n26護甲\n+9 [力量 or 智力]\n+13 耐力\n[q2]+ 5 致命一擊\n[q2]+ 12 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180930] = {name = "[q4]懼獵者烏黑護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n17護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 10 加速\n[q2]+ 8 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180931] = {name = "[q4]烏黑死亡帷罩束腕", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 11 加速\n[q2]+ 7 精通\n耐久: 50 / 50\n完成你的誓盟戰役第3章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
 MultiLanguageItemData['tw'][180932] = {name = "[q2]暴力催化", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][180933] = {name = "[q2]灰燼滅殺", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
-MultiLanguageItemData['tw'][180934] = {name = "[q4]破魂者烏黑披氅", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 7 臨機應變\n[q2]+ 10 精通\n完成你的誓盟戰役第6章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
+MultiLanguageItemData['tw'][180934] = {name = "[q4]破魂者烏黑披氅", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 7 臨機應變\n[q2]+ 10 精通\n完成你的誓盟戰役第6章\n\n[q]破魂者烏黑法衣 (0/9)\n[q0]破魂者烏黑披氅\n破魂者烏黑裹手\n破魂者烏黑兜帽\n破魂者烏黑護腿\n破魂者烏黑披肩\n破魂者烏黑束帶\n破魂者烏黑軟靴\n破魂者烏黑法衣\n破魂者烏黑裹腕\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
 MultiLanguageItemData['tw'][180935] = {name = "[q2]粉碎鐵壁", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
-MultiLanguageItemData['tw'][180936] = {name = "[q0]烏黑死亡帷罩披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 11 致命一擊\n[q2]+ 7 精通\n完成你的誓盟戰役第6章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180937] = {name = "[q0]懼獵者烏黑披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 12 加速\n[q2]+ 6 精通\n完成你的誓盟戰役第6章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
-MultiLanguageItemData['tw'][180938] = {name = "[q0]恐懼哨衛烏黑披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 6 致命一擊\n[q2]+ 11 臨機應變\n完成你的誓盟戰役第6章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高 80 點，暗影之門距離延長 5 碼。}\n售價:"}
+MultiLanguageItemData['tw'][180936] = {name = "[q0]烏黑死亡帷罩披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 11 致命一擊\n[q2]+ 7 精通\n完成你的誓盟戰役第6章\n\n[q]烏黑死亡帷罩護甲 (0/9)\n[q0]烏黑死亡帷罩外衣\n烏黑死亡帷罩長靴\n烏黑死亡帷罩手套\n烏黑死亡帷罩兜帽\n烏黑死亡帷罩馬褲\n烏黑死亡帷罩肩甲\n烏黑死亡帷罩腰帶\n烏黑死亡帷罩束腕\n烏黑死亡帷罩披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180937] = {name = "[q0]懼獵者烏黑披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 12 加速\n[q2]+ 6 精通\n完成你的誓盟戰役第6章\n\n[q]懼獵者烏黑戰裝 (0/9)\n[q0]懼獵者烏黑鍊衫\n懼獵者烏黑脛甲\n懼獵者烏黑護手\n懼獵者烏黑頭盔\n懼獵者烏黑護腿\n懼獵者烏黑護肩\n懼獵者烏黑腰帶\n懼獵者烏黑護腕\n懼獵者烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
+MultiLanguageItemData['tw'][180938] = {name = "[q0]恐懼哨衛烏黑披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 6 致命一擊\n[q2]+ 11 臨機應變\n完成你的誓盟戰役第6章\n\n[q]恐懼哨衛烏黑戰甲 (0/9)\n[q0]恐懼哨衛烏黑頭盔\n恐懼哨衛烏黑胸鎧\n恐懼哨衛烏黑巨靴\n恐懼哨衛烏黑之握\n恐懼哨衛烏黑腿甲\n恐懼哨衛烏黑肩甲\n恐懼哨衛烏黑束腰\n恐懼哨衛烏黑護臂\n恐懼哨衛烏黑披風\n{[q0](3) 組合 : 提高你在暗影之境戶外區域脫離戰鬥後的恢復{速度，此效果在誓盟根據地會進一步提高。\n(5) 組合 : 你的法術和技能有一定機率對目標產生悔罪烙印，在6秒內造成660點暗影傷害}，並且為你恢復等量的生命力。\n(8) 組合 : 在暗影之境的戶外區域，如果暗影之門結束冷卻，你的主要屬性提高80點，暗影之門距離延長5碼。}\n售價:"}
 MultiLanguageItemData['tw'][180939] = {name = "[q4]鍛造大師的黑刃披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][180940] = {name = "[q4]烏黑墓穴守衛者披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n需要誓復者\n- 崇敬\n你必須是汎希爾誓盟的成員。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][180941] = {name = "[q4]凱爾的黑暗罪孽石鍊", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -35956,7 +35952,7 @@ MultiLanguageItemData['tw'][181188] = {name = "[q3]暗翼叛軍鎖子甲", addit
 MultiLanguageItemData['tw'][181189] = {name = "[q3]暗翼叛軍行者靴", additional_info = "拾取後綁定{腳} {鎖甲}\n20護甲\n+11 [敏捷 or 智力]\n+16 耐力\n[q2]+ 12 致命一擊\n[q2]+ 10 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][181190] = {name = "[q3]泥掘者投擲手套", additional_info = "拾取後綁定{手} {鎖甲}\n18護甲\n+11 [敏捷 or 智力]\n+16 耐力\n[q2]+ 12 致命一擊\n[q2]+ 9 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][181191] = {name = "[q3]吞噬者訓獸師罩盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n24護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 15 致命一擊\n[q2]+ 14 加速\n耐久: 85 / 85\n售價:"}
-MultiLanguageItemData['tw'][181192] = {name = "[q3]信差護脛", additional_info = "拾取後綁定{腿部} {鎖甲}\n28護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 16 致命一擊\n[q2]+ 13 加速\n耐久: 120 / 120\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 462 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 4006 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][181192] = {name = "[q3]信差護脛", additional_info = "拾取後綁定{腿部} {鎖甲}\n28護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 16 致命一擊\n[q2]+ 13 加速\n耐久: 120 / 120\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 462 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 4006 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
 MultiLanguageItemData['tw'][181193] = {name = "[q3]暗翼叛軍肩衛", additional_info = "拾取後綁定{肩部} {鎖甲}\n22護甲\n+11 [敏捷 or 智力]\n+16 耐力\n[q2]+ 12 致命一擊\n[q2]+ 9 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][181194] = {name = "[q3]暗翼叛軍繫腰", additional_info = "拾取後綁定{腰部} {鎖甲}\n18護甲\n+11 [敏捷 or 智力]\n+16 耐力\n[q2]+ 12 致命一擊\n[q2]+ 10 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][181195] = {name = "[q3]暗翼叛軍護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n16護甲\n+8 [敏捷 or 智力]\n+12 耐力\n[q2]+ 9 致命一擊\n[q2]+ 7 精通\n耐久: 55 / 55\n售價:"}
@@ -36088,9 +36084,9 @@ MultiLanguageItemData['tw'][181329] = {name = "[q2]髓融巨刃劍", additional_
 MultiLanguageItemData['tw'][181330] = {name = "[q3]髓融戰刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {戰刃}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n耐久: 30 / 30\n獲得「無敵穿搭」成就即可購買這個武器外觀。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][181331] = {name = "[q3]髓融盾牌", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n耐久: 30 / 30\n獲得「無敵穿搭」成就即可購買這個武器外觀。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][181332] = {name = "[q3]罪孽石核", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 11 致命一擊\n售價:"}
-MultiLanguageItemData['tw'][181333] = {name = "[q4]罪惡鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][181334] = {name = "[q3]精華抽取器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 致命一擊\n[q2]裝備： 你的攻擊有一定機率從目標身上吸取 336 點生命力，使你恢復所吸取生命力的 50 %。\n售價:"}
-MultiLanguageItemData['tw'][181335] = {name = "[q4]罪惡鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][181333] = {name = "[q4]罪惡鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][181334] = {name = "[q3]精華抽取器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 致命一擊\n[q2]裝備： 你的攻擊有一定機率從目標身上吸取 336 點生命力，使你恢復所吸取生命力的50%。\n售價:"}
+MultiLanguageItemData['tw'][181335] = {name = "[q4]罪惡鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][181336] = {name = "會說話的罐中蛙", additional_info = "任務物品\n唯一\n[q]\"這隻青蛙一直問一些讓人感到不舒服的問題。\""}
 MultiLanguageItemData['tw'][181337] = {name = "[q3]石魔之翼", additional_info = "拾取後綁定\n唯一\n售價:"}
 MultiLanguageItemData['tw'][181338] = {name = "[q3]月莓女士", additional_info = "[q]\"喜歡：混亂、刺激、休閒\""}
@@ -36113,7 +36109,7 @@ MultiLanguageItemData['tw'][181355] = {name = "[q4]有缺陷的煙火", addition
 MultiLanguageItemData['tw'][181356] = {name = "葛林蘇真跡原畫", additional_info = "任務物品\n唯一\n[q]\"顏色賦予這幅畫作對比、深度、色澤、明度和色調。\""}
 MultiLanguageItemData['tw'][181357] = {name = "[q3]絕望石板", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 智力\n[q2]使用: 使目標在25秒內最多受到( 68 * 20.78125)點暗影傷害。絕望漸深造成的傷害會隨著持續時間提高。 (2分鐘 冷卻)\n[q]\"如果工具不小心落入壞人手中，是有可能變成武器的。\"\n售價:"}
 MultiLanguageItemData['tw'][181358] = {name = "[q3]決鬥者大師的字據", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率額外造成 232 點物理傷害。\n售價:"}
-MultiLanguageItemData['tw'][181359] = {name = "[q3]漫溢的燼火之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量 or 智力]\n[q2]使用: 獲得吸收護盾，吸收接下來12秒內對你造成的 20 %傷害，最多吸收 3635 點傷害。剩餘吸收量的 33 %會爆炸，傷害由附近8碼範圍內的所有敵人平均分攤。 (2分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][181359] = {name = "[q3]漫溢的燼火之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量 or 智力]\n[q2]使用: 獲得吸收護盾，吸收接下來12秒內對你造成的20%傷害，最多吸收 3635 點傷害。剩餘吸收量的33%會爆炸，傷害由附近8碼範圍內的所有敵人平均分攤。 (2分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][181360] = {name = "[q3]滿盈餘燼裂片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 臨機應變\n[q2]使用: 對一個友好目標引導，在6秒內恢復最多[ 4106 * (1 + 臨機應變)]點生命力，由光束附近40碼範圍內的所有盟友分攤。對一個敵方目標引導，在6秒內造成最多[ 3046 * (1 + 臨機應變)]點神聖傷害，由光束附近40碼範圍內的敵人分攤。每命中一名目標，就提高少許傷害與治療量。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][181361] = {name = "[q4]宴會八卦", additional_info = "餘燼宴會\n拾取後綁定\n[q2]使用: 散播會傳到附近人形生物耳裡的謠言。\n\n+刺激 ，依知情者人數計。\n[q]\"雷納瑟王子希望這種八卦的談話到此為止。( +放鬆 )\""}
 MultiLanguageItemData['tw'][181362] = {name = "[q4]軟泥團", additional_info = "餘燼宴會\n拾取後綁定\n[q2]使用: 釋放軟泥團( + 混亂 )\n[q]\"雷納瑟王子應該會想要遏止這種混亂的場面。( +整潔 )\""}
@@ -36167,7 +36163,7 @@ MultiLanguageItemData['tw'][181410] = {name = "[q3]果姆外殼之襲", addition
 MultiLanguageItemData['tw'][181411] = {name = "[q3]靈苔頭冠", additional_info = "拾取後綁定{頭部} {布甲}\n9護甲\n+14 智力\n+21 耐力\n[q2]+ 16 加速\n[q2]+ 12 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][181412] = {name = "[q3]果姆外殼兜帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n24護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 16 加速\n[q2]+ 13 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][181413] = {name = "[q3]符文看管者護盔", additional_info = "拾取後綁定{頭部} {皮甲}\n16護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 14 致命一擊\n[q2]+ 15 加速\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][181414] = {name = "[q3]液鋼腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n42護甲\n+14 [力量 or 智力]\n+21 耐力\n[q2]+ 16 加速\n[q2]+ 13 臨機應變\n耐久: 100 / 100\n售價:"}
+MultiLanguageItemData['tw'][181414] = {name = "[q3]液鋼腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n42護甲\n+14 [力量 or 智力]\n+21 耐力\n[q2]+ 16 加速\n[q2]+ 13 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][181415] = {name = "[q3]靈苔護腿", additional_info = "拾取後綁定{腿部} {布甲}\n11護甲\n+14 智力\n+21 耐力\n[q2]+ 16 加速\n[q2]+ 13 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][181416] = {name = "[q3]果姆外殼褶裙", additional_info = "拾取後綁定{腿部} {鎖甲}\n28護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 14 致命一擊\n[q2]+ 15 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][181417] = {name = "[q3]符文看管者束褲", additional_info = "拾取後綁定{腿部} {皮甲}\n19護甲\n+14 [敏捷 or 智力]\n+21 耐力\n[q2]+ 16 加速\n[q2]+ 12 精通\n耐久: 100 / 100\n售價:"}
@@ -36211,7 +36207,7 @@ MultiLanguageItemData['tw'][181454] = {name = "[q4]暮沼策略", additional_inf
 MultiLanguageItemData['tw'][181455] = {name = "[q2]冰寒推進", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][181456] = {name = "[q3]法多的鑰匙", additional_info = "拾取後綁定\n唯一\n[q]\"法多的紀念品箱鑰匙\""}
 MultiLanguageItemData['tw'][181457] = {name = "[q3]喚醒者蕨葉", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量 or 智力]\n[q2]使用: 使你的加速提高 161 點，持續12秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][181458] = {name = "[q3]女王近衛之護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量]\n[q2]裝備： 受到的攻擊有一定機率觸發報復打擊，造成 136 點自然傷害由附近所有敵人分攤，並使你恢復 475 點生命力。\n\n 每命中一名敵人可提高傷害和治療，最多 5 個敵人。\n售價:"}
+MultiLanguageItemData['tw'][181458] = {name = "[q3]女王近衛之護", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量]\n[q2]裝備： 受到的攻擊有一定機率觸發報復打擊，造成 136 點自然傷害由附近所有敵人分攤，並使你恢復 475 點生命力。\n\n 每命中一名敵人可提高傷害和治療，最多5個敵人。\n售價:"}
 MultiLanguageItemData['tw'][181459] = {name = "[q3]凋林裂片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的傷害性技能有一定機率額外造成 243 點暗影傷害。\n售價:"}
 MultiLanguageItemData['tw'][181460] = {name = "靈魂之鏡", additional_info = "任務物品\n[q2]使用: 引導晉升之路的捕捉目標，靈魂之鏡中含有一段他們的記憶，可用於訓練。"}
 MultiLanguageItemData['tw'][181461] = {name = "[q2]冰霜凍瘡", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
@@ -36526,7 +36522,7 @@ MultiLanguageItemData['tw'][181812] = {name = "[q3]9.0 Covenant - Revendreth - A
 MultiLanguageItemData['tw'][181813] = {name = "[q3]9.0 Covenant - Revendreth - Accessory - Special Back - 2 - Black", additional_info = "拾取後綁定背部\n售價:"}
 MultiLanguageItemData['tw'][181814] = {name = "[q3]9.0 Covenant - Revendreth - Accessory - Special Back - 3 - Red", additional_info = "拾取後綁定背部\n售價:"}
 MultiLanguageItemData['tw'][181815] = {name = "[q4]裝甲骨蹄牛獸", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"牛獸是天選者家族偏愛的坐騎，而且在戰鬥中，牠們會變得更加暴怒且凶殘。\"\n掉落：\n『劈骨者』薩蓓耶\n誓盟：\n死靈領主\n區域：\n瑪卓薩斯"}
-MultiLanguageItemData['tw'][181816] = {name = "[q4]罪惡鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][181816] = {name = "[q4]罪惡鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][181817] = {name = "[q4]死亡使者的殘翼獸", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術"}
 MultiLanguageItemData['tw'][181818] = {name = "[q4]有啃咬痕跡的稚嫩殘翼獸韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚稚嫩殘翼獸。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"對暗影之境的生命循環而言，殘翼獸是不可或缺的存在，在瑪卓薩斯嚴峻的環境中，牠既是獵物，也是獵食者。\"\n區域：\n瑪卓薩斯"}
 MultiLanguageItemData['tw'][181819] = {name = "[q4]髓牙的韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚髓牙。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"髓牙是骨牙的子嗣，其無窮無盡的食慾受到『收割者』亞瑪斯的尊敬。即使牠會打斷這位殘虐無道的指揮官的實驗，受到的寵愛也不曾衰減。\"\n掉落：\n『霜縛者』納爾索\n區域：\n死靈戰地(傳奇)\n\n掉落：\n挑戰者的儲物箱\n區域：\n死靈戰地"}
@@ -37125,11 +37121,11 @@ MultiLanguageItemData['tw'][182442] = {name = "[q2]精兵之名", additional_inf
 MultiLanguageItemData['tw'][182448] = {name = "[q2]神聖鎧具", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][182449] = {name = "[q2]堅定屏障", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][182450] = {name = "無瑕的亞登蛾翅鱗", additional_info = "任務物品\n[q]\"色彩斑斕，十分耀眼。\""}
-MultiLanguageItemData['tw'][182451] = {name = "[q3]閃光粉的春秋大夢", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]使用: 以微光之塵標記一名友方玩家，使其每3.0秒恢復[ 14 * (1 + 臨機應變)]點生命力，持續2分鐘。如果其生命力低於 35 %，就會消耗微光之塵，為其施加護盾，抵消[(1 + 臨機應變) * 1828 ]點傷害，持續15秒。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][182451] = {name = "[q3]閃光粉的春秋大夢", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]使用: 以微光之塵標記一名友方玩家，使其每3.0秒恢復[ 14 * (1 + 臨機應變)]點生命力，持續2分鐘。如果其生命力低於35%，就會消耗微光之塵，為其施加護盾，抵消[(1 + 臨機應變) * 1828 ]點傷害，持續15秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][182452] = {name = "[q3]永凍刺藤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的傷害技能會施加永凍刺藤，持續12秒，每3秒造成 3 點冰霜傷害，最多可堆疊10次。永凍刺藤堆疊10層時，目標會定身，持續2秒。（750毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][182453] = {name = "[q3]暮光花", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的治療法術有一定機率觸發暮光恢復光束，使你面前的所有盟友恢復 310 點生命力。\n售價:"}
 MultiLanguageItemData['tw'][182454] = {name = "[q3]暗處低語", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的技能有很低機率賦予夜幕降臨，使你的加速提高 178 點，持續12秒。夜幕降臨效果結束後，你的加速降低 44 點，持續8秒。（20秒 冷卻）\n售價:"}
-MultiLanguageItemData['tw'][182455] = {name = "[q3]夢旅者的癒療", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力低於 20 %時，你會陷入沉睡，持續2秒，並恢復 3016 點生命力。此效果每2分鐘只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][182455] = {name = "[q3]夢旅者的癒療", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 生命力低於20%時，你會陷入沉睡，持續2秒，並恢復 3016 點生命力。此效果每2分鐘只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][182456] = {name = "[q2]滅除邪惡", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][182457] = {name = "鏡子碎片", additional_info = "任務物品\n[q2]使用: 將3枚鏡子碎片組合成遠古教誨之鏡。"}
 MultiLanguageItemData['tw'][182458] = {name = "遠古教誨之鏡", additional_info = "任務物品"}
@@ -37304,7 +37300,7 @@ MultiLanguageItemData['tw'][182630] = {name = "[q5]血魔的統御的記憶", ad
 MultiLanguageItemData['tw'][182631] = {name = "[q5]吸血光環的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n吸血光環 符文銘刻之力\n血族之裔使你的汲取提高5%、持續時間延長3秒。你的血族之裔也會影響所有隊伍成員，效果為在你身上的50%。\n符文雕刻位置： 胸部，手指\n來源： 掉落：『譴罪之塔』托迦司，牢塔上層，第3區以上\n需要： 死亡騎士（血魄）"}
 MultiLanguageItemData['tw'][182632] = {name = "[q5]絕對零度的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n絕對零度 符文銘刻之力\n冰霜巨龍之怒的冷卻時間縮短50%，並且會凍結所有擊中的敵人3秒。\n符文雕刻位置： 頸部，手腕\n來源： 掉落：『譴罪之塔』托迦司，寒心之間，第3區以上\n需要： 死亡騎士（冰霜）"}
 MultiLanguageItemData['tw'][182633] = {name = "[q5]刺骨之寒的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n刺骨之寒 符文銘刻之力\n冷酷凜冬造成的傷害提高30%。冷酷凜冬對3名不同敵人第一次造成傷害時，你獲得凝霜。\n符文雕刻位置： 頭部，腰部\n來源： 地城掉落：『霜縛者』納爾索\n需要： 死亡騎士（冰霜）"}
-MultiLanguageItemData['tw'][182634] = {name = "[q5]冰封勇士的怒火的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n冰封勇士的怒火 符文銘刻之力\n滅寂觸發凝霜的機率提高15%，且在凝霜作用期間，凜風衝擊會產生6點符能。\n符文雕刻位置： 手腕，手，手指\n來源： 掉落：『譴罪之塔』托迦司，斯寇德斯刑牢，第3區以上\n需要： 死亡騎士（冰霜）"}
+MultiLanguageItemData['tw'][182634] = {name = "[q5]冰封勇士的怒火的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n冰封勇士的怒火 符文銘刻之力\n滅寂觸發凝霜的機率提高15%，且在凝霜作用期間，凜風衝擊會產生12點符能。\n符文雕刻位置： 手腕，手，手指\n來源： 掉落：『譴罪之塔』托迦司，斯寇德斯刑牢，第3區以上\n需要： 死亡騎士（冰霜）"}
 MultiLanguageItemData['tw'][182635] = {name = "[q5]寇爾提拉的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n寇爾提拉的恩寵 符文銘刻之力\n滅寂造成的傷害提高10%，且有12%的機率恢復2個符文。 （特效觸發機率：12%，700毫秒 冷卻）\n符文雕刻位置： 肩部，手指\n來源： 團隊掉落：泥拳\n需要： 死亡騎士（冰霜）"}
 MultiLanguageItemData['tw'][182636] = {name = "[q5]致死纏繞的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n致死纏繞 符文銘刻之力\n使死亡纏繞的符能消耗降低10，且死亡纏繞會使黑暗變身的持續時間延長1秒。\n符文雕刻位置： 胸部，背部\n來源： 團隊掉落：戴納瑟斯王\n需要： 死亡騎士（穢邪）"}
 MultiLanguageItemData['tw'][182637] = {name = "[q5]死亡的肯定的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n死亡的肯定 符文銘刻之力\n死亡打擊和死亡纏繞造成的傷害提高35%，並使 [ 褻瀆 ] 死亡凋零 剩餘的冷卻時間縮短2.0秒。\n符文雕刻位置： 頭部，頸部，手\n來源： 地城掉落：藩侯史特拉達瑪\n需要： 死亡騎士（穢邪）"}
@@ -37385,13 +37381,13 @@ MultiLanguageItemData['tw'][182715] = {name = "[q0]空木箱", additional_info =
 MultiLanguageItemData['tw'][182716] = {name = "[q2]信差的背袋", additional_info = "裝備後綁定\n僅可裝備一件\n30槽背包\n售價:"}
 MultiLanguageItemData['tw'][182717] = {name = "[q4]觸罪死亡行者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"以無數惡魔地城居民的罪孽鑄造而成。只有有能力征服它們的人才能駕馭它們。\"\n成就：\n暗影之境鑰石王：第一季\n類別：\n地城"}
 MultiLanguageItemData['tw'][182718] = {name = "[q0]石源魔信差整版郵票", additional_info = "[q]\"汎希爾名人的肖像讓頁面更有質感。\"\n售價:"}
-MultiLanguageItemData['tw'][182719] = {name = "[q3]信差跑鞋", additional_info = "裝備後綁定\n{腳} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+10 耐力\n[q2]+ 5 致命一擊\n[q2]+ 8 精通\n耐久: 80 / 80\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
-MultiLanguageItemData['tw'][182720] = {name = "[q3]信差外套", additional_info = "拾取後綁定{胸部} {鎖甲}\n19護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 6 加速\n[q2]+ 11 臨機應變\n耐久: 165 / 165\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
-MultiLanguageItemData['tw'][182721] = {name = "[q3]信差之握", additional_info = "拾取後綁定{手} {鎖甲}\n11護甲\n+6 [敏捷 or 智力]\n+10 耐力\n[q2]+ 5 臨機應變\n[q2]+ 8 精通\n耐久: 55 / 55\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
-MultiLanguageItemData['tw'][182722] = {name = "[q3]信差軟帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n14護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 6 加速\n[q2]+ 11 精通\n耐久: 100 / 100\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
-MultiLanguageItemData['tw'][182723] = {name = "[q3]信差肩衛", additional_info = "拾取後綁定{肩部} {鎖甲}\n13護甲\n+6 [敏捷 or 智力]\n+10 耐力\n[q2]+ 8 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
-MultiLanguageItemData['tw'][182724] = {name = "[q3]信差腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n18護甲\n+11 [敏捷 or 智力]\n+16 耐力\n[q2]+ 10 加速\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 462 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 4006 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
-MultiLanguageItemData['tw'][182725] = {name = "[q0]信差腕甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 6 加速\n[q2]+ 4 精通\n耐久: 40 / 40\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 166 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 1201 點上述類型的傷害。每 30 秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182719] = {name = "[q3]信差跑鞋", additional_info = "裝備後綁定\n{腳} {鎖甲}\n12護甲\n+6 [敏捷 or 智力]\n+10 耐力\n[q2]+ 5 致命一擊\n[q2]+ 8 精通\n耐久: 80 / 80\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182720] = {name = "[q3]信差外套", additional_info = "拾取後綁定{胸部} {鎖甲}\n19護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 6 加速\n[q2]+ 11 臨機應變\n耐久: 165 / 165\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182721] = {name = "[q3]信差之握", additional_info = "拾取後綁定{手} {鎖甲}\n11護甲\n+6 [敏捷 or 智力]\n+10 耐力\n[q2]+ 5 臨機應變\n[q2]+ 8 精通\n耐久: 55 / 55\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182722] = {name = "[q3]信差軟帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n14護甲\n+9 [敏捷 or 智力]\n+13 耐力\n[q2]+ 6 加速\n[q2]+ 11 精通\n耐久: 100 / 100\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182723] = {name = "[q3]信差肩衛", additional_info = "拾取後綁定{肩部} {鎖甲}\n13護甲\n+6 [敏捷 or 智力]\n+10 耐力\n[q2]+ 8 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 138 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 972 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182724] = {name = "[q3]信差腰帶", additional_info = "拾取後綁定{腰部} {鎖甲}\n18護甲\n+11 [敏捷 or 智力]\n+16 耐力\n[q2]+ 10 加速\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 462 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 4006 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
+MultiLanguageItemData['tw'][182725] = {name = "[q0]信差腕甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 6 加速\n[q2]+ 4 精通\n耐久: 40 / 40\n[q]信差 (0/8)\n[q0]信差護脛\n信差跑鞋\n信差外套\n信差之握\n信差軟帽\n信差肩衛\n信差腰帶\n信差腕甲\n{[q0](2) 組合 : 受到來自石獸或黑暗犬的傷害時，使你的護甲值提高 166 點，持續20秒。（20秒 冷卻）\n(3) 組合 : 受到冰霜、火焰或暗影傷害}時，可獲得護盾，持續20秒，最多可吸收 1201 點上述類型的傷害。每30秒最多觸發一次。\n(5) 組合 : 在暗影之境的戶外時，你的奔跑{速度提高3%。}\n售價:"}
 MultiLanguageItemData['tw'][182726] = {name = "[q2]娜迪亞的信", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"收件人：迪姆威多 - 暗隱村\""}
 MultiLanguageItemData['tw'][182727] = {name = "[q2]外露的包裹", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"收件人：塔楚 - 交易 - 深夜市集 - 瑞文崔斯 - 暗影之境 *易腐敗\""}
 MultiLanguageItemData['tw'][182728] = {name = "[q2]一箱鋅維爾礦石", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"收件人：吉波 - 舊城門 - 經常性\""}
@@ -37708,7 +37704,7 @@ MultiLanguageItemData['tw'][183240] = {name = "[q5]始祖之樹的記憶", addit
 MultiLanguageItemData['tw'][183241] = {name = "[q5]黑暗泰坦的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n黑暗泰坦之鑒 符文銘刻之力\n同一時間內生命之花能作用於兩個目標身上，但是生命之花的治療效果會降低10%。\n符文雕刻位置： 頸部，背部\n來源： 地城掉落：宮務大臣\n需要： 德魯伊（恢復）"}
 MultiLanguageItemData['tw'][183242] = {name = "[q5]伊歐娜的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n你必須達到曠野獵者聲望崇敬並解鎖符文雕刻才能購買這個記憶。\n\n\n伊歐娜的回音 符文銘刻之力 大概每分鐘觸發 1 次\n你的法術和技能有很低機率召喚一個靈魂魔寵到你身旁，會根據你的角色類型，使你的傷害提高10%、治療效果提高10%，或是傷害減免效果提高10%，持續10秒。此效果會根據盟友的角色類型，將50%效果複製到附近最多3名盟友身上。\n符文雕刻位置： 腰部，手腕，手指\n來源： 你必須達到曠野獵者聲望崇敬並解鎖符文雕刻才能購買這個記憶。"}
 MultiLanguageItemData['tw'][183243] = {name = "[q5]審斷者的審判的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n你必須達到晉升者聲望崇敬並解鎖符文雕刻才能購買這個記憶。\n\n\n審斷者的審判 等級 80 符文銘刻之力 大概每分鐘觸發 6 次\n造成傷害時，有很高機率釋放精神能量衝擊，造成 2003 點暗影傷害。如果你附近5-20碼範圍內有另一個受到審斷者的審判影響的盟友，此衝擊也會彈跳至該盟友身上，對彈跳範圍內的敵人造成 2003 點暗影傷害。\n符文雕刻位置： 手腕，手，手指\n來源： 你必須達到晉升者聲望崇敬並解鎖符文雕刻才能購買這個記憶。"}
-MultiLanguageItemData['tw'][183244] = {name = "[q5]淵喉騷動的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n你必須達到不死軍團聲望崇敬並解鎖符文雕刻才能購買這個記憶。\n\n\n淵喉騷動 等級 80 符文銘刻之力 大概每分鐘觸發 6 次\n在殺死敵人後，有很高機率在屍體的位置召喚爆炸淵喉污鼠。6秒後，淵喉污鼠會爆炸，對附近所有敵人造成 31747 點自然傷害，使其中毒，且其造成的傷害降低 5 %，持續10秒。\n符文雕刻位置： 腿部，腳，手\n來源： 你必須達到不死軍團聲望崇敬並解鎖符文雕刻才能購買這個記憶。"}
+MultiLanguageItemData['tw'][183244] = {name = "[q5]淵喉騷動的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n你必須達到不死軍團聲望崇敬並解鎖符文雕刻才能購買這個記憶。\n\n\n淵喉騷動 等級 80 符文銘刻之力 大概每分鐘觸發 6 次\n在殺死敵人後，有很高機率在屍體的位置召喚爆炸淵喉污鼠。6秒後，淵喉污鼠會爆炸，對附近所有敵人造成 31747 點自然傷害，使其中毒，且其造成的傷害降低5%，持續10秒。\n符文雕刻位置： 腿部，腳，手\n來源： 你必須達到不死軍團聲望崇敬並解鎖符文雕刻才能購買這個記憶。"}
 MultiLanguageItemData['tw'][183245] = {name = "[q5]諾甘農的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n你必須達到收割者廷衛聲望崇敬並解鎖符文雕刻才能購買這個記憶。\n\n\n諾甘農的睿智 符文銘刻之力\n施放法術可賦予睿智，最多堆疊10層。移動時，每層睿智可使你一邊移動一邊施法，持續0.5秒。 （100毫秒 冷卻）\n符文雕刻位置： 腿部，腳，背部\n來源： 你必須達到收割者廷衛聲望崇敬並解鎖符文雕刻才能購買這個記憶。"}
 MultiLanguageItemData['tw'][183246] = {name = "[q5]賽弗斯的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n用榮譽點數跟供應商佐庫爾購買。必須解鎖符文雕刻才能購買這個記憶。\n\n\n賽弗斯的宣言 等級 80 符文銘刻之力\n使控場效果的效力降低10%。成功對敵人施加失去角色控制的效果、中斷敵人施法或驅散任何目標的法術，都會使你的所有次要屬性提高 217 點，持續15秒。此效果每30秒只能觸發一次。 （30秒 冷卻）\n符文雕刻位置： 頸部，肩部，胸部\n來源： 用榮譽點數跟供應商佐庫爾購買。必須解鎖符文雕刻才能購買這個記憶。"}
 MultiLanguageItemData['tw'][183247] = {name = "[q5]穩定幻魄誘餌的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n穩定幻魄誘餌 符文銘刻之力 大概每分鐘觸發 4 次\n獲得的幻魄提高25%。從敵人身上獲得幻魄時，有一定機率召喚幻魄惡魔，現身後會隨機朝一個方向跑走。殺死它可使整個隊伍獲得的幻魄額外提高10%，持續1分鐘。\n符文雕刻位置： 頸部，手腕，背部\n來源： 掉落：『譴罪之塔』托迦司，第6區以上"}
@@ -37811,7 +37807,7 @@ MultiLanguageItemData['tw'][183343] = {name = "[q5]致命暗影的記憶", addit
 MultiLanguageItemData['tw'][183344] = {name = "[q5]終末的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n終末 符文銘刻之力\n剔骨、割裂及黑火藥使你下一個使用的終結技傷害提高25%。\n符文雕刻位置： 胸部，背部\n來源： 團隊掉落：戴納瑟斯王\n需要： 盜賊（敏銳）"}
 MultiLanguageItemData['tw'][183345] = {name = "[q5]腐滅者的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n腐滅者 符文銘刻之力\n啟動死亡徵兆後，你的下一個暗影打擊或 [ 幽暗刃 / 背刺]造成的傷害提高50%，並且額外產生4個連擊點數。\n符文雕刻位置： 腿部，背部\n來源： 地城掉落：多米娜‧毒刃\n需要： 盜賊（敏銳）"}
 MultiLanguageItemData['tw'][183346] = {name = "[q5]先祖的提醒的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n先祖的提醒 符文銘刻之力\n[ 英勇氣概 / 嗜血術]或任何類似效果在你身上的持續時間額外延長20.0秒，而且你從 [ 英勇氣概 / 嗜血術]類型的效果獲得的加速額外提高10%。\n符文雕刻位置： 手腕，手指\n來源： 團隊掉落：石源魔軍團將軍\n需要： 薩滿"}
-MultiLanguageItemData['tw'][183347] = {name = "[q5]毀滅鎖鍊的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n用榮譽點數跟供應商佐庫爾購買。必須解鎖符文雕刻才能購買這個記憶。\n\n\n毀滅鎖鍊 符文銘刻之力 瞬發\n施放治療鍊後，你的下一個閃電鏈將會成為瞬發法術[並且造成的傷害提高50%]。施放閃電鏈後，你的下一個治療鍊將會成為瞬發法術[並且不消耗法力]。\n符文雕刻位置： 頸部，胸部\n來源： 用榮譽點數跟供應商佐庫爾購買。必須解鎖符文雕刻才能購買這個記憶。\n需要： 薩滿"}
+MultiLanguageItemData['tw'][183347] = {name = "[q5]毀滅鎖鍊的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n用榮譽點數跟供應商佐庫爾購買。必須解鎖符文雕刻才能購買這個記憶。\n\n\n毀滅鎖鍊 符文銘刻之力 瞬發\n增強, 恢復\n 施放治療鍊後，你的下一個閃電鏈將會成為瞬發法術。施放閃電鏈後，你的下一個治療鍊將會成為瞬發法術。\n\n元素\n 施放治療鍊後，你的下一個閃電鏈將會成為瞬發法術並且造成的傷害提高50%。施放閃電鏈後，你的下一個治療鍊將會成為瞬發法術並且不消耗法力。\n符文雕刻位置： 頸部，胸部\n來源： 用榮譽點數跟供應商佐庫爾購買。必須解鎖符文雕刻才能購買這個記憶。\n需要： 薩滿"}
 MultiLanguageItemData['tw'][183348] = {name = "[q5]根深蒂固的元素的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n根深蒂固的元素 符文銘刻之力\n增強\n 使用有8%機率啟動卓越術，持續6.0 秒。\n\n恢復\n 施放激流有7%機率啟動卓越術，持續6.0 秒。\n\n元素\n 施放熔岩爆發有7%機率啟動卓越術，持續6.0 秒。\n符文雕刻位置： 頭部，肩部，手腕\n來源： 任務：寶庫\n需要： 薩滿"}
 MultiLanguageItemData['tw'][183349] = {name = "[q5]震慄之石的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n震慄之石 符文銘刻之力\n土元素會持續施放地震術。\n符文雕刻位置： 腰部，腳，手指\n來源： 地城掉落：艾可隆\n需要： 薩滿"}
 MultiLanguageItemData['tw'][183350] = {name = "[q5]大崩裂的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n大崩裂的回音 符文銘刻之力\n施放大地震擊後，你的下一個地震術會額外造成120%傷害。\n符文雕刻位置： 肩部，手\n來源： 地城掉落：繆薩拉\n需要： 薩滿（元素）"}
@@ -38420,22 +38416,22 @@ MultiLanguageItemData['tw'][183989] = {name = "[q3]泥掘者手推車競速手",
 MultiLanguageItemData['tw'][184013] = {name = "[q4]兇惡戰蛛", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"當身為所向披靡的部落成員還無法讓對手聞風喪膽的時候，再加上一隻大蜘蛛就行了。\"\nPvP：\n暗影之境：第1季\n積分競技場和積分戰場賽季獎勵"}
 MultiLanguageItemData['tw'][184014] = {name = "[q4]兇惡戰蛛", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"當身為英勇的聯盟成員還無法讓對手聞風喪膽的時候，再加上一隻大蜘蛛就行了。\"\nPvP：\n暗影之境：第1季\n積分競技場和積分戰場賽季獎勵"}
 MultiLanguageItemData['tw'][184015] = {name = "被偷的紀念物", additional_info = "任務物品\n[q]\"遺失的所有物，掉落在死亡的林地中。\""}
-MultiLanguageItemData['tw'][184016] = {name = "[q4]潛藏者的翅膀", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量]\n[q2]使用: 成為遊蕩的捕獵者，持續10秒，速度提高 69 點，並撲向下一個進入 8 碼範圍內的敵人，造成 3874 點物理傷害。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][184016] = {name = "[q4]潛藏者的翅膀", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量]\n[q2]使用: 成為遊蕩的捕獵者，持續10秒，速度提高 69 點，並撲向下一個進入8碼範圍內的敵人，造成 3874 點物理傷害。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184017] = {name = "[q4]巴加斯特的狗鍊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量]\n[q2]使用: 與目標盟友建立獵人之絆，持續30秒。你受到的25%傷害會導向與你建立羈絆的盟友，最多可轉移[ 11389 * (1 + 臨機應變)]點總傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184018] = {name = "[q4]破裂的歐爾心臟", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量]\n[q2]裝備： 受到致命攻擊時，最多吸收該次攻擊的 10234 點傷害。在這個效果發生時，立即爆發出一團烈焰，對附近的盟友和敵人造成[ 2433 * (1 + 臨機應變)]點火焰傷害，同時恢復[ 7025 * (1 + 臨機應變)]點生命力。\n\n 此效果每8分鐘只能觸發一次。\n售價:"}
-MultiLanguageItemData['tw'][184019] = {name = "[q4]燃魂之器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 智力\n[q2]使用: 啟動燃魂之器，在15秒內犧牲最多 2157 點生命力以強化熾炎奔騰。\n\n 重新啟動以施放熾炎奔騰，造成[ 1541 * (1 + 臨機應變)]點火焰傷害，此傷害由40碼錐形範圍內的敵人分攤，同時根據燃魂之器啟動時間的長短，額外造成最多 40 %傷害。\n\n 每命中一名敵人可使傷害提高，最多5個敵人。(冷卻時間：1分鐘)\n售價:"}
+MultiLanguageItemData['tw'][184019] = {name = "[q4]燃魂之器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 智力\n[q2]使用: 啟動燃魂之器，在15秒內犧牲最多 2157 點生命力以強化熾炎奔騰。\n\n 重新啟動以施放熾炎奔騰，造成[ 1541 * (1 + 臨機應變)]點火焰傷害，此傷害由40碼錐形範圍內的敵人分攤，同時根據燃魂之器啟動時間的長短，額外造成最多40%傷害。\n\n 每命中一名敵人可使傷害提高，最多5個敵人。(冷卻時間：1分鐘)\n售價:"}
 MultiLanguageItemData['tw'][184020] = {name = "[q4]一束冒著煙的鳥羽", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 智力\n[q2]使用: 以一束鳳凰羽毛加持你的盟友，使其在6秒後恢復[ 5199 * (1 + 臨機應變)]點生命力，根據目標失去的生命力，最多可提高25%。如果你的盟友受到致命傷害，此效果立即觸發。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][184021] = {name = "[q4]同化雕紋", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 智力\n[q2]使用: 在10秒內對一名敵人造成 1786 點秘法傷害。\n\n 如果你的目標在受到同化雕紋效果影響時死亡，你的精通提高 160 點，持續時間為雕紋效果剩餘時間的 2 倍。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][184021] = {name = "[q4]同化雕紋", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 智力\n[q2]使用: 在10秒內對一名敵人造成 1786 點秘法傷害。\n\n 如果你的目標在受到同化雕紋效果影響時死亡，你的精通提高 160 點，持續時間為雕紋效果剩餘時間的2倍。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184022] = {name = "[q4]消耗性注入物", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 智力\n[q2]裝備： 施放一道傷害法術，使你的下一個單體治療目標獲得 138 點汲取，持續10秒。此效果每30秒只會作用一次。\n售價:"}
-MultiLanguageItemData['tw'][184023] = {name = "[q4]貪食尖刺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 力量\n[q2]裝備： 你的傷害技能有高機率造成 116 點物理傷害，為自己恢復相當於傷害量( 3 * 100)%的生命力。如果此效果造成過量治療，會在15秒內造成[ 98 * 5 * (1 + 臨機應變)]點物理傷害，此傷害由附近敵人分攤，但是降低生命竊取效果。\n\n 每命中一名敵人可使傷害提高，最多 5 個敵人。\n售價:"}
+MultiLanguageItemData['tw'][184023] = {name = "[q4]貪食尖刺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 力量\n[q2]裝備： 你的傷害技能有高機率造成 116 點物理傷害，為自己恢復相當於傷害量300%的生命力。如果此效果造成過量治療，會在15秒內造成[ 98 * 5 * (1 + 臨機應變)]點物理傷害，此傷害由附近敵人分攤，但是降低生命竊取效果。\n\n 每命中一名敵人可使傷害提高，最多5個敵人。\n售價:"}
 MultiLanguageItemData['tw'][184024] = {name = "[q4]死亡之舞樂譜", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 四位舞伴以隨機隊形出現在你周圍。靠近每位舞伴，可使你提高 40 點加速和 23 點速度，持續20秒，可堆疊。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184025] = {name = "[q4]過往罪孽回憶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量]\n[q2]使用: 你接下來的5個傷害性技能可造成心靈崩潰，造成 651 點暗影傷害，並使目標受到的心靈崩潰傷害提高1%，持續5秒，最多可堆疊25層。（1.5秒 冷卻） (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184026] = {name = "[q4]仇恨鎖鍊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 敏捷\n[q2]裝備： 你的生命力百分比高於你的目標時，你的技能有極高機率造成[ 181 * (1 + 臨機應變)]點物理傷害。\n\n 你的生命力百分比低於你的目標時，你的技能有極高機率賦予[ 247 * (1 + 臨機應變)]點生命力。\n售價:"}
-MultiLanguageItemData['tw'][184027] = {name = "[q4]石源魔軍團徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 [敏捷 or 力量]\n[q2]裝備： 向石源魔軍團宣誓效忠，使你的臨機應變提高 43 點，你隊伍中的每位石源魔軍團士兵可使此效果提高 5 %。\n售價:"}
-MultiLanguageItemData['tw'][184028] = {name = "[q4]秘術師的詩集", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 智力\n[q2]裝備： 加入赤紅誦唱。每分鐘，你的致命一擊在30秒內提高( 43 * 3)點，直到重返正常為止。你隊伍中的每位赤紅誦唱成員可使此效果提高 5 %。\n售價:"}
-MultiLanguageItemData['tw'][184029] = {name = "[q4]法力束縛之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 智力\n[q2]裝備： 每消耗 3240 點法力，會在鏡子內儲存[ 277 * (1 + 臨機應變)]點治療量，最多可儲存[ 2307 * (1 + 臨機應變)]點，持續30秒。\n[q2]使用: 為你的目標額外治療鏡子裡儲存的[ 1586 * (1 + 臨機應變)]點治療量。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][184027] = {name = "[q4]石源魔軍團徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 [敏捷 or 力量]\n[q2]裝備： 向石源魔軍團宣誓效忠，使你的臨機應變提高 43 點，你隊伍中的每位石源魔軍團士兵可使此效果提高5%。\n售價:"}
+MultiLanguageItemData['tw'][184028] = {name = "[q4]秘術師的詩集", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 智力\n[q2]裝備： 加入赤紅誦唱。每分鐘，你的致命一擊在30秒內提高( 43 * 3)點，直到重返正常為止。你隊伍中的每位赤紅誦唱成員可使此效果提高5%。\n售價:"}
+MultiLanguageItemData['tw'][184029] = {name = "[q4]法力束縛之鏡", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 智力\n[q2]裝備： 每消耗3240點法力，會在鏡子內儲存[ 277 * (1 + 臨機應變)]點治療量，最多可儲存[ 2307 * (1 + 臨機應變)]點，持續30秒。\n[q2]使用: 為你的目標額外治療鏡子裡儲存的[ 1586 * (1 + 臨機應變)]點治療量。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184030] = {name = "[q4]恐懼烈焰容器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 [敏捷 or 力量 or 智力]\n[q2]使用: 朝目標釋放燃夷火焰，造成 2787 點火焰傷害。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][184031] = {name = "[q4]血紅葡萄酒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 [敏捷 or 力量]\n[q2]使用: 在6秒內最多吸收[ 4353 * (1 + 臨機應變)]點傷害，然後治療剩下護盾值( 2 * 100)%的生命力。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][184031] = {name = "[q4]血紅葡萄酒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+31 [敏捷 or 力量]\n[q2]使用: 在6秒內最多吸收[ 4353 * (1 + 臨機應變)]點傷害，然後治療剩下護盾值200%的生命力。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184033] = {name = "特大後背包", additional_info = "拾取後綁定\n30槽背包\n售價:"}
 MultiLanguageItemData['tw'][184036] = {name = "[q2]敦戴的帽子", additional_info = "憎惡縫合術\n拾取後綁定\n唯一\n你必須是死靈領主誓盟的成員。\n制作材料\n[q]\"用牛獸的皮製成的樸素帽子。\"\n售價:"}
 MultiLanguageItemData['tw'][184037] = {name = "[q2]瑪卓薩斯蠟燭", additional_info = "憎惡縫合術\n拾取後綁定\n唯一\n制作材料\n[q]\"絕無僅有的頂級蠟燭。\"\n售價:"}
@@ -38452,9 +38448,9 @@ MultiLanguageItemData['tw'][184048] = {name = "[q3]曠野獵者武器袋", addit
 MultiLanguageItemData['tw'][184049] = {name = "偽造的幸運星", additional_info = "[q]\"「寇迪不想要，不過說不定你想要？這個會發出很好笑的聲音。」-克萊德\"\n售價:"}
 MultiLanguageItemData['tw'][184050] = {name = "具有展延性的網子", additional_info = "[q]\"「我打算耍耍阿提克斯，不過他太聰明了。這個可以不讓黏液跑出來。」-克萊德\"\n售價:"}
 MultiLanguageItemData['tw'][184051] = {name = "縫製的巫妖人偶", additional_info = "[q]\"「我想成為巫妖，不過靈魂太弱了。所以我改做人偶！」-克萊德\"\n售價:"}
-MultiLanguageItemData['tw'][184052] = {name = "[q3]罪惡志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][184053] = {name = "[q3]罪惡志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][184054] = {name = "[q3]罪惡志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][184052] = {name = "[q3]罪惡志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][184053] = {name = "[q3]罪惡志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][184054] = {name = "[q3]罪惡志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][184055] = {name = "[q3]腐化鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+26 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n售價:"}
 MultiLanguageItemData['tw'][184056] = {name = "[q3]腐化鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+26 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n售價:"}
 MultiLanguageItemData['tw'][184057] = {name = "[q3]腐化鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+26 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n售價:"}
@@ -38659,8 +38655,8 @@ MultiLanguageItemData['tw'][184264] = {name = "[q4]克利瑟斯放血矛戟", ad
 MultiLanguageItemData['tw'][184265] = {name = "[q4]剖腹裂斧", additional_info = "拾取後綁定{單手} {斧}\n{19-40點傷害} {速度 2.60}\n(每秒11.3點傷害)\n+10 敏捷\n+15 耐力\n[q2]+ 14 臨機應變\n[q2]+ 6 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][184266] = {name = "[q4]血肉災禍鐮刀", additional_info = "拾取後綁定{單手} {匕首}\n{7-13點傷害} {速度 1.80}\n(每秒5.6點傷害)\n+58 智力\n+15 耐力\n[q2]+ 6 致命一擊\n[q2]+ 14 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][184267] = {name = "[q4]殘忍之徒的劈顱斬斧", additional_info = "拾取後綁定{單手} {斧}\n{19-40點傷害} {速度 2.60}\n(每秒11.3點傷害)\n+10 力量\n+15 耐力\n[q2]+ 14 加速\n[q2]+ 6 臨機應變\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][184268] = {name = "[q0]鬥士紋章", additional_info = "第14季\n拾取後綁定\n僅可裝備一件\n飾品\n需要任何部落種族\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][184269] = {name = "[q0]鬥士勳章", additional_info = "第14季\n拾取後綁定\n僅可裝備一件\n飾品\n需要任何部落種族\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][184268] = {name = "[q0]鬥士紋章", additional_info = "第14季\n拾取後綁定\n僅可裝備一件\n飾品\n需要任何部落種族\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][184269] = {name = "[q0]鬥士勳章", additional_info = "第14季\n拾取後綁定\n僅可裝備一件\n飾品\n需要任何部落種族\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][184270] = {name = "[q4]侍徒靜心短劍", additional_info = "拾取後綁定{單手} {匕首}\n{7-13點傷害} {速度 1.80}\n(每秒5.6點傷害)\n+58 智力\n+15 耐力\n[q2]+ 6 致命一擊\n[q2]+ 14 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][184271] = {name = "[q4]珊卓亞的勇氣曲刃劍", additional_info = "拾取後綁定{單手} {劍}\n{22-37點傷害} {速度 2.60}\n(每秒11.3點傷害)\n+10 力量\n+15 耐力\n[q2]+ 14 加速\n[q2]+ 6 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][184272] = {name = "[q4]晉升者榮耀步兵劍", additional_info = "拾取後綁定{單手} {劍}\n{22-37點傷害} {速度 2.60}\n(每秒11.3點傷害)\n+10 力量\n+15 耐力\n[q2]+ 13 致命一擊\n[q2]+ 7 精通\n耐久: 110 / 110\n售價:"}
@@ -39006,7 +39002,7 @@ MultiLanguageItemData['tw'][184661] = {name = "[q4]陰晦隨從護腕", addition
 MultiLanguageItemData['tw'][184662] = {name = "被徵用的靈魄能量球", additional_info = "『譴罪之塔』托迦司\n拾取後綁定\n[q2]使用: 顯現一個掠奪的靈魄能量球，使你和盟友可以選取額外的力量。\n[q]\"這種靈魄能量球會當成特殊交易品來使用。\""}
 MultiLanguageItemData['tw'][184663] = {name = "[q4]建築物：守衛室", additional_info = "餘燼宴會\n拾取後綁定\n唯一\n[q2]使用: 在餘燼宴會建造守衛室，讓你能為宴會雇用護衛。\n售價:"}
 MultiLanguageItemData['tw'][184664] = {name = "慣竊白骨手", additional_info = "拾取後綁定\n[q2]使用: 試圖開啟托迦司的某些區域或鎖住的地方。 (1分鐘 冷卻)\n4 充能\n維娜里對你的評價必須高於猶豫。\n[q]\"有個誤入歧途的盜賊喪失性命，現在你可以從中獲得好處。藉由極度細微冥魄活化的手，依然渴望打開各式各樣的鎖。\"\n售價:"}
-MultiLanguageItemData['tw'][184665] = {name = "[q5]失去回憶的記述", additional_info = "拾取後綁定\n唯一\n[q2] 使用: 搜尋失去回憶的記述，接受一個你尚未擁有的職業傳說能力的回憶。\n需要永久強化4個靈魄流\n需要博文者寶典的級別3研究。"}
+MultiLanguageItemData['tw'][184665] = {name = "[q5]失去回憶的記述", additional_info = "拾取後綁定\n唯一\n[q2] 使用: 搜尋失去回憶的記述，接受一個你尚未擁有的職業傳說能力的回憶。\n需要永久強化4個靈魄流\n已經學會\n需要博文者寶典的級別3研究。"}
 MultiLanguageItemData['tw'][184666] = {name = "[q4]武器庫：恐懼鬥士武器", additional_info = "決戰艾澤拉斯第1季\n拾取後綁定\n[q2]使用: 收集恐懼鬥士武器外觀。"}
 MultiLanguageItemData['tw'][184667] = {name = "[q4]武器庫：恐懼鬥士武器", additional_info = "決戰艾澤拉斯第1季\n拾取後綁定\n[q2]使用: 收集恐懼鬥士武器外觀。"}
 MultiLanguageItemData['tw'][184668] = {name = "[q4]武器庫：恐懼志士武器", additional_info = "決戰艾澤拉斯第1季\n拾取後綁定\n[q2]使用: 收集恐懼志士武器外觀。"}
@@ -39146,8 +39142,8 @@ MultiLanguageItemData['tw'][184835] = {name = "[q4]觀星者手套", additional_
 MultiLanguageItemData['tw'][184836] = {name = "[q4]觀星者護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][184837] = {name = "[q4]觀星者群星罩氅", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][184839] = {name = "[q3]壞掉的百衛控制器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 致命一擊\n[q2]裝備： 你的法術和技能有一定機率賦予你 38 點主要屬性，持續15秒。\n售價:"}
-MultiLanguageItemData['tw'][184840] = {name = "[q3]循道詩集", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 臨機應變\n[q2]裝備： 當你的生命力超過 50 %時，你的傷害技能有一定機率對目標造成 600 點神聖傷害。生命力低於 50 %時，則有機率為你治療 926 點生命力。\n售價:"}
-MultiLanguageItemData['tw'][184841] = {name = "[q3]神聖使命之琴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 智力\n[q2]使用: 賦予一名盟友 50 點速度，並在15秒內為其治療[ 213 * (5)]點生命力。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][184840] = {name = "[q3]循道詩集", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 臨機應變\n[q2]裝備： 當你的生命力超過50%時，你的傷害技能有一定機率對目標造成 600 點神聖傷害。生命力低於50%時，則有機率為你治療 926 點生命力。\n售價:"}
+MultiLanguageItemData['tw'][184841] = {name = "[q3]神聖使命之琴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 智力\n[q2]使用: 賦予一名盟友50點速度，並在15秒內為其治療[ 213 * (5)]點生命力。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184842] = {name = "[q3]講師的聖鐘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量 or 智力]\n[q2]使用: 使你的精通提高 97 點，持續15秒。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][184843] = {name = "[q3]回收的補給物資", additional_info = "拾取後綁定\n[q]\"內含縫合大師收集的製作材料。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][184845] = {name = "[q0]染血眼鏡", additional_info = "拾取後綁定\n售價:"}
@@ -39386,7 +39382,7 @@ MultiLanguageItemData['tw'][185157] = {name = "[q3]無束志士絲質裹腕", ad
 MultiLanguageItemData['tw'][185158] = {name = "[q3]無束志士鎧甲腕輪", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 7 致命一擊\n[q2]+ 11 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][185159] = {name = "[q3]無束志士鍊甲裹腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 10 臨機應變\n[q2]+ 8 精通\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][185160] = {name = "[q3]無束志士皮甲裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 7 加速\n[q2]+ 11 臨機應變\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][185161] = {name = "[q3]無束志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185161] = {name = "[q3]無束志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185162] = {name = "[q3]無束志士項鍊", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 18 加速\n[q2]+ 28 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][185163] = {name = "[q4]無束鬥士鎧甲頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n74護甲\n+29 [力量 or 智力]\n+44 耐力\n[q2]+ 40 臨機應變\n[q2]+ 18 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][185164] = {name = "[q4]無束鬥士披風", additional_info = "拾取後綁定背部\n18護甲\n+16 [敏捷 or 力量 or 智力]\n+25 耐力\n[q2]+ 10 致命一擊\n[q2]+ 23 臨機應變\n售價:"}
@@ -39422,7 +39418,7 @@ MultiLanguageItemData['tw'][185193] = {name = "[q4]無束鬥士絲質裹腕", ad
 MultiLanguageItemData['tw'][185194] = {name = "[q4]無束鬥士鎧甲腕甲", additional_info = "拾取後綁定{手腕} {板甲}\n49護甲\n+16 [力量 or 智力]\n+25 耐力\n[q2]+ 10 致命一擊\n[q2]+ 23 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][185195] = {name = "[q4]無束鬥士鍊甲腕甲", additional_info = "拾取後綁定{手腕} {鎖甲}\n33護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 21 臨機應變\n[q2]+ 12 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][185196] = {name = "[q4]無束鬥士皮甲裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n22護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 10 加速\n[q2]+ 23 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][185197] = {name = "[q4]無束鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185197] = {name = "[q4]無束鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185198] = {name = "[q4]無束鬥士項鍊", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 19 加速\n[q2]+ 63 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][185199] = {name = "[q4]無束鬥士步兵劍", additional_info = "拾取後綁定{單手} {劍}\n{32-54點傷害} {速度 2.60}\n(每秒16.5點傷害)\n+15 敏捷\n+22 耐力\n[q2]+ 9 加速\n[q2]+ 20 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][185200] = {name = "[q4]無束鬥士儀式劍", additional_info = "拾取後綁定{單手} {劍}\n{16-27點傷害} {速度 2.60}\n(每秒8.3點傷害)\n+85 智力\n+22 耐力\n[q2]+ 9 加速\n[q2]+ 20 臨機應變\n耐久: 110 / 110\n售價:"}
@@ -39463,11 +39459,11 @@ MultiLanguageItemData['tw'][185234] = {name = "[q3]無束志士絲質束腕", ad
 MultiLanguageItemData['tw'][185235] = {name = "[q3]無束志士鎧甲臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 8 加速\n[q2]+ 10 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][185236] = {name = "[q3]無束志士鍊甲護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 9 加速\n[q2]+ 10 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][185237] = {name = "[q3]無束志士皮甲臂甲", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 8 致命一擊\n[q2]+ 10 臨機應變\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][185238] = {name = "[q3]無束志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185238] = {name = "[q3]無束志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185239] = {name = "[q3]無束志士頸飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 19 致命一擊\n[q2]+ 27 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][185240] = {name = "[q3]無束志士斗篷", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 9 臨機應變\n[q2]+ 9 精通\n售價:"}
 MultiLanguageItemData['tw'][185241] = {name = "[q3]無束志士璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 21 精通\n售價:"}
-MultiLanguageItemData['tw'][185242] = {name = "[q3]無束志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185242] = {name = "[q3]無束志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185243] = {name = "[q3]無束志士墜飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 20 精通\n售價:"}
 MultiLanguageItemData['tw'][185244] = {name = "[q4]無束鬥士鎧甲頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n74護甲\n+29 [力量 or 智力]\n+44 耐力\n[q2]+ 18 致命一擊\n[q2]+ 40 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][185245] = {name = "[q4]無束鬥士披氅", additional_info = "拾取後綁定背部\n18護甲\n+16 [敏捷 or 力量 or 智力]\n+25 耐力\n[q2]+ 11 加速\n[q2]+ 22 臨機應變\n售價:"}
@@ -39503,11 +39499,11 @@ MultiLanguageItemData['tw'][185274] = {name = "[q4]無束鬥士絲質臂環", ad
 MultiLanguageItemData['tw'][185275] = {name = "[q4]無束鬥士鎧甲護臂", additional_info = "拾取後綁定{手腕} {板甲}\n49護甲\n+16 [力量 or 智力]\n+25 耐力\n[q2]+ 12 加速\n[q2]+ 21 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][185276] = {name = "[q4]無束鬥士鍊甲護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n33護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 12 加速\n[q2]+ 21 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][185277] = {name = "[q4]無束鬥士皮甲腕甲", additional_info = "拾取後綁定{手腕} {皮甲}\n22護甲\n+16 [敏捷 or 智力]\n+25 耐力\n[q2]+ 12 致命一擊\n[q2]+ 21 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][185278] = {name = "[q4]無束鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185278] = {name = "[q4]無束鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185279] = {name = "[q4]無束鬥士墜飾", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 19 致命一擊\n[q2]+ 63 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][185280] = {name = "[q4]無束鬥士披巾", additional_info = "拾取後綁定背部\n18護甲\n+16 [敏捷 or 力量 or 智力]\n+25 耐力\n[q2]+ 21 臨機應變\n[q2]+ 12 精通\n售價:"}
 MultiLanguageItemData['tw'][185281] = {name = "[q4]無束鬥士璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+25 耐力\n[q2]+ 56 臨機應變\n[q2]+ 26 精通\n售價:"}
-MultiLanguageItemData['tw'][185282] = {name = "[q4]無束鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185282] = {name = "[q4]無束鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185283] = {name = "[q4]無束鬥士護符", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 63 臨機應變\n[q2]+ 19 精通\n售價:"}
 MultiLanguageItemData['tw'][185284] = {name = "[q3]無束志士戰斧", additional_info = "拾取後綁定{單手} {斧}\n{15-32點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 力量\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][185285] = {name = "[q3]無束志士匕首", additional_info = "拾取後綁定{單手} {匕首}\n{12-21點傷害} {速度 1.80}\n(每秒9.2點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n耐久: 65 / 65\n售價:"}
@@ -39529,14 +39525,14 @@ MultiLanguageItemData['tw'][185300] = {name = "[q4]無束鬥士禱鐘", addition
 MultiLanguageItemData['tw'][185301] = {name = "[q4]無束鬥士巨斧", additional_info = "拾取後綁定{雙手} {斧}\n{51-107點傷害} {速度 3.60}\n(每秒21.9點傷害)\n+29 力量\n+44 耐力\n[q2]+ 38 臨機應變\n[q2]+ 21 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][185302] = {name = "[q4]無束鬥士威望披風", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 9 加速\n[q2]+ 9 精通\n售價:"}
 MultiLanguageItemData['tw'][185303] = {name = "[q4]無束鬥士外袍", additional_info = "暗影之境第2季\n拾取後綁定外袍"}
-MultiLanguageItemData['tw'][185304] = {name = "[q4]無束鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][185305] = {name = "[q4]無束鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][185306] = {name = "[q4]無束鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185304] = {name = "[q4]無束鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][185305] = {name = "[q4]無束鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][185306] = {name = "[q4]無束鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185307] = {name = "[q3]無束志士釘棒", additional_info = "拾取後綁定{單手} {權杖}\n{20-27點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 9 臨機應變\n[q2]+ 7 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][185308] = {name = "[q3]無束志士月牙刃", additional_info = "拾取後綁定{單手} {匕首}\n{6-10點傷害} {速度 1.80}\n(每秒4.4點傷害)\n+47 智力\n+12 耐力\n[q2]+ 8 致命一擊\n[q2]+ 9 臨機應變\n耐久: 65 / 65\n售價:"}
-MultiLanguageItemData['tw'][185309] = {name = "[q3]無束志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][185310] = {name = "[q3]無束志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][185311] = {name = "[q3]無束志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][185309] = {name = "[q3]無束志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][185310] = {name = "[q3]無束志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][185311] = {name = "[q3]無束志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][185312] = {name = "[q4]無束鬥士戰刃", additional_info = "拾取後綁定{單手} {戰刃}\n{33-53點傷害} {速度 2.60}\n(每秒16.5點傷害)\n+15 敏捷\n+22 耐力\n[q2]+ 21 臨機應變\n[q2]+ 8 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][185313] = {name = "[q4]無束鬥士巨披風", additional_info = "拾取後綁定背部\n18護甲\n+16 [敏捷 or 力量 or 智力]\n+25 耐力\n[q2]+ 11 致命一擊\n[q2]+ 22 精通\n售價:"}
 MultiLanguageItemData['tw'][185314] = {name = "[q4]無束鬥士劈斧", additional_info = "拾取後綁定{單手} {斧}\n{28-58點傷害} {速度 2.60}\n(每秒16.5點傷害)\n+15 力量\n+22 耐力\n[q2]+ 9 致命一擊\n[q2]+ 20 臨機應變\n耐久: 110 / 110\n售價:"}
@@ -39634,7 +39630,7 @@ MultiLanguageItemData['tw'][185782] = {name = "[q3]午夜交易長袍", addition
 MultiLanguageItemData['tw'][185783] = {name = "[q3]穿隙弩亞薩姆", additional_info = "拾取後綁定{遠程} {弩}\n{28-42點傷害} {速度 3.00}\n(每秒11.7點傷害)\n+16 敏捷\n+23 耐力\n[q2]+ 19 加速\n[q2]+ 12 臨機應變\n耐久: 120 / 120\n[q2]裝備： 你的傷害性致命一擊會賦予你一層超自然充能。堆疊至5層超自然充能後，你的下一次致命一擊會消耗所有的堆疊層數，並在目標附近開啟裂隙，造成 29 點秘法傷害。 （500毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][185784] = {name = "[q3]新星爆發戰鎧", additional_info = "拾取後綁定{胸部} {板甲}\n51護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 18 加速\n[q2]+ 13 臨機應變\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][185785] = {name = "[q3]文物奪取者之擁", additional_info = "拾取後綁定{胸部} {鎖甲}\n34護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 20 加速\n[q2]+ 11 精通\n耐久: 165 / 165\n售價:"}
-MultiLanguageItemData['tw'][185786] = {name = "[q3]索阿茲米的碎形外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n23護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 22 加速\n[q2]+ 10 精通\n耐久: 165 / 165\n售價:"}
+MultiLanguageItemData['tw'][185786] = {name = "[q3]索阿茲米的碎形外衣", additional_info = "拾取後綁定{胸部} {皮甲}\n23護甲\n+16 [敏捷 or 智力]\n+23 耐力\n[q2]+ 21 加速\n[q2]+ 10 精通\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][185787] = {name = "[q3]執拗抗天候足靴", additional_info = "拾取後綁定{腳} {板甲}\n32護甲\n+12 [力量 or 智力]\n+18 耐力\n[q2]+ 10 加速\n[q2]+ 13 精通\n耐久: 80 / 80\n[q]\"抗雪、抗雨、抗熱、抗半夜憂鬱。\"\n售價:"}
 MultiLanguageItemData['tw'][185788] = {name = "[q3]解碼師的狡詐便鞋", additional_info = "拾取後綁定{腳} {布甲}\n8護甲\n+12 智力\n+18 耐力\n[q2]+ 15 加速\n[q2]+ 8 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][185789] = {name = "[q3]時間計量脛甲", additional_info = "拾取後綁定{腳} {鎖甲}\n21護甲\n+12 [敏捷 or 智力]\n+18 耐力\n[q2]+ 9 臨機應變\n[q2]+ 14 精通\n耐久: 80 / 80\n售價:"}
@@ -39681,15 +39677,15 @@ MultiLanguageItemData['tw'][185831] = {name = "風暴斧", additional_info = "�
 MultiLanguageItemData['tw'][185832] = {name = "[q3]一批艾雷希礦石", additional_info = "拾取後綁定\n[q]\"內含20個艾雷希礦石。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][185833] = {name = "[q3]一批無光絲布", additional_info = "拾取後綁定\n[q]\"內含20個無光絲布。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][185834] = {name = "[q3]奧睿博瑞爾獎賞", additional_info = "拾取後綁定\n[q]\"內含5個榮譽獎章\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][185836] = {name = "[q3]首要技術聖典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+22 耐力\n[q2]裝備： 承受傷害時，你有一定機率發動首要技術，持續12秒，反彈受到的 10 %傷害，每次被攻擊最多可吸收[ 261 * (1 + 臨機應變)]點傷害。\n售價:"}
+MultiLanguageItemData['tw'][185836] = {name = "[q3]首要技術聖典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+22 耐力\n[q2]裝備： 承受傷害時，你有一定機率發動首要技術，持續12秒，反彈受到的10%傷害，最多可吸收[ 931 * (1 + 臨機應變)]點傷害。\n售價:"}
 MultiLanguageItemData['tw'][185839] = {name = "魂鋼餘燼", additional_info = "淵喉\n任務物品"}
 MultiLanguageItemData['tw'][185840] = {name = "[q3]全副武裝徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+13 耐力\n[q2]+ 15 臨機應變\n[q2]+ 29 精通\n售價:"}
 MultiLanguageItemData['tw'][185841] = {name = "[q3]時光扭曲者圖爾瓦", additional_info = "拾取後綁定{單手} {劍}\n{8-14點傷害} {速度 2.60}\n(每秒4.2點傷害)\n+45 智力\n+12 耐力\n[q2]+ 5 臨機應變\n[q2]+ 10 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][185842] = {name = "[q3]華麗雕琢增幅器", additional_info = "拾取後綁定頸部\n+13 耐力\n[q2]+ 25 致命一擊\n[q2]+ 19 加速\n售價:"}
 MultiLanguageItemData['tw'][185843] = {name = "[q3]複製披氅", additional_info = "拾取後綁定背部\n9護甲\n+9 [敏捷 or 力量 or 智力]\n+13 耐力\n[q2]+ 10 致命一擊\n[q2]+ 7 加速\n售價:"}
 MultiLanguageItemData['tw'][185844] = {name = "[q3]滴答作響的恐懼袋", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 22 精通\n[q2]裝備： 你的近戰攻擊與近戰技能有高機率把爆燃背袋放到目標身上。堆疊至3層或被移除後，爆燃背袋引爆並造成 1136 點火焰傷害。\n售價:"}
-MultiLanguageItemData['tw'][185845] = {name = "[q3]頂級治療配發器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的治療法術有一定機率提供 161 點爆發性治療，分攤給你的目標與附近盟友，並賦予你 18 點加速，持續9秒。同時治療多個盟友時，治療量提高。\n[q]\"放晴或下雨，都是治療好時機。\"\n售價:"}
-MultiLanguageItemData['tw'][185846] = {name = "[q3]信封裡的迷你郵件元素", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 22 加速\n[q2]裝備： 你的遠程攻擊和技能有一定機率召喚郵件元素，並朝目標投擲不穩定的貨物，造成 577 點秘法傷害。（3秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][185845] = {name = "[q3]頂級治療配發器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 智力\n[q2]裝備： 你的治療法術有一定機率提供 195 點爆發性治療，分攤給你的目標與附近盟友，並賦予你 19 點加速，持續9秒。同時治療多個盟友時，治療量提高。\n[q]\"放晴或下雨，都是治療好時機。\"\n售價:"}
+MultiLanguageItemData['tw'][185846] = {name = "[q3]信封裡的迷你郵件元素", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 22 加速\n[q2]裝備： 你的遠程攻擊和技能有一定機率召喚郵件元素，並朝目標投擲不穩定的貨物，造成( 1648 * 1 )點秘法傷害。（3秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][185847] = {name = "述命者的用具", additional_info = "任務物品\n唯一\n[q2]使用: 啟動述命者的用具，驅散述命者所施放的幻象。\n[q]\"這是一項強大的法器，述命者進行神聖儀式的時候會需要這項物品。\""}
 MultiLanguageItemData['tw'][185853] = {name = "污化的百衛機兵核心", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][185854] = {name = "[q3]岩蝕披巾", additional_info = "拾取後綁定背部\n9護甲\n+8 [敏捷 or 力量 or 智力]\n+12 耐力\n[q2]+ 9 致命一擊\n[q2]+ 7 臨機應變\n售價:"}
@@ -40061,7 +40057,7 @@ MultiLanguageItemData['tw'][186388] = {name = "[q4]十字爆脈者", additional_
 MultiLanguageItemData['tw'][186391] = {name = "[q4]影鋼喪志錘", additional_info = "拾取後綁定{單手} {權杖}\n{57-73點傷害} {速度 2.60}\n(每秒25.0點傷害)\n+22 力量\n+33 耐力\n[q2]+ 14 臨機應變\n[q2]+ 30 精通\n耐久: 110 / 110\n[q]\"繼續痛打。\"\n售價:"}
 MultiLanguageItemData['tw'][186392] = {name = "[q4]苛虐削心刃", additional_info = "拾取後綁定{單手} {劍}\n{24-41點傷害} {速度 2.60}\n(每秒12.5點傷害)\n+129 智力\n+33 耐力\n[q2]+ 26 加速\n[q2]+ 18 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][186393] = {name = "[q4]永恆知識火炬", additional_info = "拾取後綁定{單手} {權杖}\n{28-37點傷害} {速度 2.60}\n(每秒12.5點傷害)\n+129 智力\n+33 耐力\n[q2]+ 29 致命一擊\n[q2]+ 15 臨機應變\n耐久: 110 / 110\n[q]\"現在交給你了。\"\n售價:"}
-MultiLanguageItemData['tw'][186398] = {name = "[q4]夜之緣", additional_info = "拾取後綁定{單手} {匕首}\n{38-64點傷害} {速度 1.80}\n(每秒28.3點傷害)\n+25 敏捷\n+37 耐力\n耐久: 80 / 80\n[q2]裝備： 你的攻擊會施加女妖之疫，每個花費的連擊點數會使你的終結技有 3 %機率造成 570 點暗影傷害。女妖之疫最多可堆疊4層，目標受傷越重，堆疊層數越高。（500毫秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][186398] = {name = "[q4]夜之緣", additional_info = "拾取後綁定{單手} {匕首}\n{38-64點傷害} {速度 1.80}\n(每秒28.3點傷害)\n+25 敏捷\n+37 耐力\n耐久: 80 / 80\n[q2]裝備： 你的攻擊會施加女妖之疫，每個花費的連擊點數會使你的終結技有3%機率造成 570 點暗影傷害。女妖之疫最多可堆疊4層，目標受傷越重，堆疊層數越高。（500毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][186403] = {name = "[q4]道途冥魄長槍", additional_info = "拾取後綁定{雙手} {長柄武器}\n{83-156點傷害} {速度 3.60}\n(每秒33.2點傷害)\n+44 力量\n+66 耐力\n[q2]+ 25 臨機應變\n[q2]+ 63 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][186404] = {name = "[q4]卓頓蓋爾，命運之喚", additional_info = "拾取後綁定{雙手} {長柄武器}\n{83-156點傷害} {速度 3.60}\n(每秒33.2點傷害)\n+44 敏捷\n+66 耐力\n耐久: 120 / 120\n[q2]使用: 回應呼喚，加入華爾琪的行列。你的次要屬性提高 121 ，持續30秒。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][186405] = {name = "[q4]薩滿長老瘤木法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{50-69點傷害} {速度 3.60}\n(每秒16.5點傷害)\n+196 智力\n+66 耐力\n[q2]+ 61 加速\n[q2]+ 27 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -40079,22 +40075,22 @@ MultiLanguageItemData['tw'][186418] = {name = "[q4]加爾姆的遺失磨牙玩�
 MultiLanguageItemData['tw'][186419] = {name = "[q4]崩壞現實紀錄", additional_info = "拾取後綁定副手物品\n+68 智力\n+33 耐力\n[q2]+ 30 致命一擊\n[q2]+ 14 加速\n售價:"}
 MultiLanguageItemData['tw'][186421] = {name = "[q4]遭禁的死靈典籍", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 智力\n[q2]裝備： 你的傷害法術有一定機率使你的致命一擊提高 48 點，持續15秒，最多可堆疊3次。\n[q2]使用: 使一個死去盟友的屍骸復活成為骷髏戰士，持續30秒。 (10分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][186422] = {name = "[q4]巨大傀儡之書", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 研讀典籍，學習你所指定目標的弱點。你的傷害性技能有很高的機率對你所研究的敵人造成 229 點額外暗影傷害。\n\n 研究新的敵人會移除先前所有研究的加成效果。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][186423] = {name = "[q4]泰坦眼球腺體", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量 or 智力]\n[q2]裝備： 當你的生命力高於 50 %時，你會被視為夠格的人，使你的最高的次要屬性提高 73 點。當你的生命力低於 50 %時，你會被視為不夠格的人，使你的最高的次要屬性降低 73 點。\n[q]\"很久以前為了交換知識和力量所付出的代價。\"\n售價:"}
+MultiLanguageItemData['tw'][186423] = {name = "[q4]泰坦眼球腺體", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量 or 智力]\n[q2]裝備： 當你的生命力高於50%時，你會被視為夠格的人，使你的最高的次要屬性提高 73 點。當你的生命力低於50%時，你會被視為不夠格的人，使你的最高的次要屬性降低 73 點。\n[q]\"很久以前為了交換知識和力量所付出的代價。\"\n售價:"}
 MultiLanguageItemData['tw'][186424] = {name = "[q4]安海德禦盾碎片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]使用: 召喚安海德禦盾保護自己，降低前方敵人對你造成的 2015 點傷害，持續8秒。\n\n 如果禦盾吸收至少 7052 點傷害，則會超載並釋放凝聚的能量，在效果結束時對前方的所有敵人造成 1123 點神聖傷害。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][186425] = {name = "[q4]潦草的傳送之語", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 使你的 特定治療法術剩餘冷卻時間縮短 4 秒。\n\n僅適用於治療專精。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][186427] = {name = "[q4]低語力量裂片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 力量\n[q2]裝備： 有個聲音對你低語，週期性地驅使你遵循其指示。如果你遵循其指示，則你的最高次要屬性提高 210 點，持續20秒。\n售價:"}
 MultiLanguageItemData['tw'][186428] = {name = "[q4]折磨暗影球體", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 凝視球體，在2秒內承受( 1263 * 4)點暗影傷害，使你的精通提高 301 點，最多持續40秒。凝視的時間越久，你就會承受越多痛苦，但也會獲得更多啟發。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][186429] = {name = "[q4]無盡嚎叫酒瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 63 致命一擊\n[q2]裝備： 你的致命一擊有一定機率提高你的 力量或敏捷 162 點，持續15秒。如果觸發時你的生命力低於 50 %，你還會在6秒內恢復( 525 * 4)點生命力。\n售價:"}
+MultiLanguageItemData['tw'][186429] = {name = "[q4]無盡嚎叫酒瓶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 63 致命一擊\n[q2]裝備： 你的致命一擊有一定機率提高你的 力量或敏捷 162 點，持續15秒。如果觸發時你的生命力低於50%，你還會在6秒內恢復( 525 * 4)點生命力。\n售價:"}
 MultiLanguageItemData['tw'][186430] = {name = "[q4]折磨者的刑架碎片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 你的傷害法術和技能有一定機率在15秒內額外造成[ 218 * (4)]點暗影傷害。\n\n 如果目標在受到折磨者的刑架碎片影響時死亡，則會留下一個撕裂靈魂，拾取撕裂靈魂可使致命一擊提高 19 點，持續20秒。\n售價:"}
-MultiLanguageItemData['tw'][186431] = {name = "[q4]黑靈魂之鉗", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 詛咒一名敵人，每2秒造成 307 點暗影傷害，持續12秒。其持續時間會根據目標失去的生命力，最多延長 100 %。(1分30秒冷卻時間) (1分鐘，30秒 冷卻)\n[q2]裝備： 若目標死在黑靈魂之鉗的效果下，其會留下撕裂靈魂，可收集它以獲得 19 點致命一擊，持續20秒。\n售價:"}
+MultiLanguageItemData['tw'][186431] = {name = "[q4]黑靈魂之鉗", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 詛咒一名敵人，每2秒造成 307 點暗影傷害，持續12秒。其持續時間會根據目標失去的生命力，最多延長100%。(1分30秒冷卻時間) (1分鐘，30秒 冷卻)\n[q2]裝備： 若目標死在黑靈魂之鉗的效果下，其會留下撕裂靈魂，可收集它以獲得 19 點致命一擊，持續20秒。\n售價:"}
 MultiLanguageItemData['tw'][186432] = {name = "[q4]回收的融合增幅器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]使用: 強化你的武器，持續20秒。使你的攻擊有非常高的機率造成 507 點秘法傷害。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][186433] = {name = "[q4]反應防護力場", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 受到傷害時有一定機率觸發反應防護力場，將接下來 2293 點傷害反彈給攻擊者。\n\n 當你的生命力低於 20 %時，反應防護力場會自動觸發。此效果每 30 秒只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][186433] = {name = "[q4]反應防護力場", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 受到傷害時有一定機率觸發反應防護力場，將接下來 2293 點傷害反彈給攻擊者。\n\n 當你的生命力低於20%時，反應防護力場會自動觸發。此效果每30秒只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][186434] = {name = "[q4]扭轉命運織品", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 如果你因承受了低於 16413 點的傷害而死亡，你可使用扭轉命運織品反轉命運，使自己復活並恢復[ 16549 * (1 + 臨機應變)]點生命力。\n\n 此效果每8分鐘只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][186435] = {name = "[q4]雕刻象牙紀念品", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 你有一定機率預知盟友所受的傷害，並在盟友遭到攻擊時立刻為其治療 499 點生命力。\n售價:"}
 MultiLanguageItemData['tw'][186436] = {name = "[q4]共鳴銀鈴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 智力\n[q2]裝備： 當你治療生命力低於50%的盟友時，幽魂貓會灌注目標，額外恢復 2839 點生命力。幽魂貓會在30秒後重組。\n售價:"}
 MultiLanguageItemData['tw'][186437] = {name = "[q4]冰凍荒原古物", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 敏捷\n[q2]裝備： 你的攻擊有很高的機率造成 73 點冰霜傷害並對敵人施加冰霜之心。\n[q2]使用: 召喚奈幽蟲族伏擊一名敵人，穿刺敵人造成 2726 物理傷害。在奈幽蟲族路徑上的敵人，若其受到冰霜之心的影響，受到 229 點冰霜傷害。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][186438] = {name = "[q4]老戰士之魂", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 力量\n[q2]裝備： 在戰鬥中，你會累積怒火，每20秒使加速提高 25 點，最高可堆疊5次。\n[q2]裝備： 當附近有盟友的生命力低於 50 %時，犧牲 1177 點自身生命力，並治療該盟友等量的生命力。每分鐘只能觸發一次。\n售價:"}
-MultiLanguageItemData['tw'][186439] = {name = "[q4]黑暗遊俠箭袋", additional_info = "拾取後綁定背部\n30護甲\n+28 敏捷\n+42 耐力\n[q2]+ 37 致命一擊\n[q2]+ 19 加速\n職業： 獵人\n[q2]裝備： 每10次射擊，觸發凋萎射擊，最多擊中 5 個你前方的敵人，造成 156 點暗影傷害。\n售價:"}
+MultiLanguageItemData['tw'][186438] = {name = "[q4]老戰士之魂", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 力量\n[q2]裝備： 在戰鬥中，你會累積怒火，每20秒使加速提高 25 點，最高可堆疊5次。\n[q2]裝備： 當附近有盟友的生命力低於50%時，犧牲 1177 點自身生命力，並治療該盟友等量的生命力。每分鐘只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][186439] = {name = "[q4]黑暗遊俠箭袋", additional_info = "拾取後綁定背部\n30護甲\n+28 敏捷\n+42 耐力\n[q2]+ 37 致命一擊\n[q2]+ 19 加速\n職業： 獵人\n[q2]裝備： 每10次射擊，觸發凋萎射擊，最多擊中5個你前方的敵人，造成 156 點暗影傷害。\n售價:"}
 MultiLanguageItemData['tw'][186445] = {name = "米卡尼寇斯的恢復裝置", additional_info = "任務物品\n唯一\n[q2]使用: 恢復一名盟友的活力。\n[q]\"這個裝置由昇靈堡最有智慧的存在所打造，可以治療琪瑞安、石源魔、暗夜妖精和瑪卓薩斯居民。\""}
 MultiLanguageItemData['tw'][186448] = {name = "米卡尼寇斯的恢復裝置", additional_info = "任務物品\n唯一\n[q2]使用: 恢復一名盟友的活力。 (2秒 冷卻)\n[q]\"這個裝置由昇靈堡最有智慧的存在所打造，可以治療琪瑞安、石源魔、暗夜妖精和瑪卓薩斯居民。\""}
 MultiLanguageItemData['tw'][186449] = {name = "[q2]不朽之花釘刺蜂", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n售價:"}
@@ -40256,8 +40252,8 @@ MultiLanguageItemData['tw'][186635] = {name = "[q5]罪惡歡愉的記憶", addit
 MultiLanguageItemData['tw'][186636] = {name = "[q3]一籠淵喉污鼠", additional_info = "『譴罪之塔』托迦司\n[q2]使用: 釋出一群會聽從攻擊命令的淵喉污鼠。 (5分鐘 冷卻)\n[q]\"好幾隻淵喉污鼠隔著柵欄對你投以滿懷期待的目光。\""}
 MultiLanguageItemData['tw'][186637] = {name = "[q4]塔札維許滑行器", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"各地的仲介者都會使用滑行器，帶著貨物在塔札維許和附近的哨站中移動。\"\n成就：\n弄假成真\n類別：\n暗影之境地城"}
 MultiLanguageItemData['tw'][186638] = {name = "[q4]集團高層滑行器", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"只有最富有的集團首腦們，有能力購買打造集團高層滑行器所需的金屬。\"\n掉落：\n索利亞\n區域：\n『帷幕市集』塔札維許"}
-MultiLanguageItemData['tw'][186639] = {name = "[q4]失竊的滑行器", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術"}
-MultiLanguageItemData['tw'][186640] = {name = "[q4]銀色滑行器", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術"}
+MultiLanguageItemData['tw'][186639] = {name = "[q4]希商受託人滑行器", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"希商集團接受用各種貨幣進行貿易。但對其核心成員而言，沒有比忠誠更有價值的事物。\"\n來源：\n[機密]"}
+MultiLanguageItemData['tw'][186640] = {name = "[q4]野蠻人滑行器", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"一種較罕見的客製化滑行器，參與秘密集會的首選。極度安靜，幾乎不可能被人發現，是那些從事暗中行動的人員最愛的工具。\"\n陣營：\n法力熔爐破壞者\n名望等級：\n8\n位置：\n暗影點"}
 MultiLanguageItemData['tw'][186641] = {name = "[q4]馴服的錘擊者韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"要馴服吞噬者需要的只有一隻小動物、大量的耐性和很多罐治療藥水。\"\n掉落：\n博文者寶典補給品\n區域：\n科西亞"}
 MultiLanguageItemData['tw'][186642] = {name = "[q4]冤仇的韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"從阿薩斯奪走希瓦娜斯生命的那一天起，她就失去部分自我，而她心中的黑暗也逐漸膨脹好填補空虛。\"\n掉落：\n希瓦娜斯‧風行者女士\n區域：\n統御聖所\n難度：\n傳奇"}
 MultiLanguageItemData['tw'][186643] = {name = "[q4]漫遊者韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"充滿好奇心的雌鹿，她其實並不想要讓主人擔心，但她老是會受到外在的事物所吸引。特別是科西亞這邊充滿著她從來沒有見過的嶄新事物，這使她更容易陷入渾然忘我的狀態。\"\n區域：\n科西亞"}
@@ -40289,7 +40285,7 @@ MultiLanguageItemData['tw'][186669] = {name = "[q3]科西亞管理人裹帶", ad
 MultiLanguageItemData['tw'][186670] = {name = "[q3]科西亞管理人披肩", additional_info = "拾取後綁定{肩部} {布甲}\n18護甲\n+22 智力\n+33 耐力\n[q2]+ 23 加速\n[q2]+ 21 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][186671] = {name = "梵陀符文技藝：統御聖所", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作梵陀符文：統御聖所。\n需要 暗影之境銘文學 (100)\n售價: \n梵陀符文：統御聖所\n[q2]使用: 讓你自身與目標統御聖所團隊首領的能量同調，和這位首領對戰時，你的臨機應變將提高 1875 點。此效果持續一週。\n\n 你每週只能使用一枚梵陀符文。\n售價:\n需要 發光墨水 (10), 晦影墨水 (10), 靜謐墨水 , 暗色羊皮紙"}
 MultiLanguageItemData['tw'][186672] = {name = "疾逝羽翼", additional_info = "任務物品\n唯一\n[q2]使用: 利用疾逝羽翼向前躍進，在10秒內減緩落下速度。接著跳往指定地點。 (6秒 冷卻)"}
-MultiLanguageItemData['tw'][186673] = {name = "[q5]族裔親和的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n族裔親和 等級 80 符文銘刻之力 瞬發\n你和你的族裔魂靈皆根據魂靈所屬誓盟獲得一個額外的次要屬性。你的魂靈相連會使此加成減半，但是兩種加成會於連結受到強化時加倍。\n\n琪瑞安 ：精通提高 571 。\n暗夜妖精 ：加速提高 6 %。\n汎希爾 ：致命一擊機率提高 6 %。\n死靈領主 ：臨機應變提高 6 %。\n符文雕刻位置： 頸部，肩部\n來源： 與你的誓盟達到名望48時獲得。\n需要： 德魯伊"}
+MultiLanguageItemData['tw'][186673] = {name = "[q5]族裔親和的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n族裔親和 等級 80 符文銘刻之力 瞬發\n你和你的族裔魂靈皆根據魂靈所屬誓盟獲得一個額外的次要屬性。你的魂靈相連會使此加成減半，但是兩種加成會於連結受到強化時加倍。\n\n琪瑞安 ：精通提高 571 。\n暗夜妖精 ：加速提高6%。\n汎希爾 ：致命一擊機率提高6%。\n死靈領主 ：臨機應變提高6%。\n符文雕刻位置： 頸部，肩部\n來源： 與你的誓盟達到名望48時獲得。\n需要： 德魯伊"}
 MultiLanguageItemData['tw'][186676] = {name = "[q5]毒素猛襲的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n毒素猛襲 符文銘刻之力 瞬發\n當你目標身上的敗血症效果結束時， [ 刺殺 : 你會獲得能量刺激和暗影之刃 ] [ 暴徒 : 你會獲得暗影之刃並對你當前目標施加宿怨 ] [ 敏銳 : 你會獲得能量刺激並對你當前目標施加宿怨 ]，持續10秒。\n符文雕刻位置： 胸部，腿部，腳\n來源： 與你的誓盟達到名望48時獲得。\n需要： 盜賊"}
 MultiLanguageItemData['tw'][186677] = {name = "[q0]金屬插槽", additional_info = "售價:"}
 MultiLanguageItemData['tw'][186678] = {name = "[q3]淵鑄武器箱", additional_info = "『譴罪之塔』托迦司\n[q2]使用: 淵鑄武器在戰鬥中協助你，持續2分鐘。 (5分鐘 冷卻)\n[q]\"這些武器彷彿具有生命力。\""}
@@ -40468,12 +40464,12 @@ MultiLanguageItemData['tw'][186862] = {name = "[q4]宇宙鬥士粉碎之錘", ad
 MultiLanguageItemData['tw'][186863] = {name = "[q4]宇宙鬥士弩砲", additional_info = "拾取後綁定{遠程} {弩}\n{52-79點傷害} {速度 3.00}\n(每秒21.8點傷害)\n+29 敏捷\n+44 耐力\n[q2]+ 17 加速\n[q2]+ 42 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][186864] = {name = "[q4]宇宙鬥士鐮刀", additional_info = "拾取後綁定{雙手} {長柄武器}\n{55-103點傷害} {速度 3.60}\n(每秒21.9點傷害)\n+29 敏捷\n+44 耐力\n[q2]+ 18 加速\n[q2]+ 40 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][186865] = {name = "[q4]宇宙鬥士禱鐘", additional_info = "拾取後綁定{雙手} {法杖}\n{33-46點傷害} {速度 3.60}\n(每秒11.0點傷害)\n+130 智力\n+44 耐力\n[q2]+ 21 加速\n[q2]+ 37 臨機應變\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][186866] = {name = "[q4]宇宙鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186867] = {name = "[q4]宇宙鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186868] = {name = "[q4]宇宙鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186869] = {name = "[q4]宇宙鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186870] = {name = "[q4]宇宙鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186871] = {name = "[q4]宇宙鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][186866] = {name = "[q4]宇宙鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186867] = {name = "[q4]宇宙鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186868] = {name = "[q4]宇宙鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186869] = {name = "[q4]宇宙鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186870] = {name = "[q4]宇宙鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186871] = {name = "[q4]宇宙鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][186872] = {name = "[q3]宇宙志士鎧甲頭盔", additional_info = "拾取後綁定{頭部} {板甲}\n41護甲\n+16 [力量 or 智力]\n+24 耐力\n[q2]+ 19 臨機應變\n[q2]+ 13 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][186873] = {name = "[q3]宇宙志士披風", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 8 致命一擊\n[q2]+ 11 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][186874] = {name = "[q3]宇宙志士絲質外套", additional_info = "拾取後綁定{胸部} {布甲}\n14護甲\n+16 智力\n+24 耐力\n[q2]+ 13 加速\n[q2]+ 19 臨機應變\n耐久: 140 / 140\n售價:"}
@@ -40508,7 +40504,7 @@ MultiLanguageItemData['tw'][186902] = {name = "[q3]宇宙志士絲質裹腕", ad
 MultiLanguageItemData['tw'][186903] = {name = "[q3]宇宙志士鎧甲腕輪", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 7 致命一擊\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][186904] = {name = "[q3]宇宙志士鍊甲裹腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 10 臨機應變\n[q2]+ 8 精通\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][186905] = {name = "[q3]宇宙志士皮甲裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 7 加速\n[q2]+ 11 臨機應變\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][186906] = {name = "[q3]宇宙志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][186906] = {name = "[q3]宇宙志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][186907] = {name = "[q3]宇宙志士項鍊", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 18 加速\n[q2]+ 28 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][186908] = {name = "[q3]宇宙志士鎧甲護盔", additional_info = "拾取後綁定{頭部} {板甲}\n41護甲\n+16 [力量 or 智力]\n+24 耐力\n[q2]+ 13 致命一擊\n[q2]+ 19 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][186909] = {name = "[q3]宇宙志士披氅", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 8 加速\n[q2]+ 10 臨機應變\n售價:"}
@@ -40544,11 +40540,11 @@ MultiLanguageItemData['tw'][186938] = {name = "[q3]宇宙志士絲質束腕", ad
 MultiLanguageItemData['tw'][186939] = {name = "[q3]宇宙志士鎧甲臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 8 加速\n[q2]+ 10 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][186940] = {name = "[q3]宇宙志士鍊甲護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 9 加速\n[q2]+ 10 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][186941] = {name = "[q3]宇宙志士皮甲臂甲", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 8 致命一擊\n[q2]+ 10 臨機應變\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][186942] = {name = "[q3]宇宙志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][186942] = {name = "[q3]宇宙志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][186943] = {name = "[q3]宇宙志士頸飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 19 致命一擊\n[q2]+ 27 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][186944] = {name = "[q3]宇宙志士斗篷", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 9 臨機應變\n[q2]+ 9 精通\n售價:"}
 MultiLanguageItemData['tw'][186945] = {name = "[q3]宇宙志士璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 21 精通\n售價:"}
-MultiLanguageItemData['tw'][186946] = {name = "[q3]宇宙志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][186946] = {name = "[q3]宇宙志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][186947] = {name = "[q3]宇宙志士墜飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 20 精通\n售價:"}
 MultiLanguageItemData['tw'][186948] = {name = "[q3]宇宙志士戰斧", additional_info = "拾取後綁定{單手} {斧}\n{15-32點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 力量\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][186949] = {name = "[q3]宇宙志士匕首", additional_info = "拾取後綁定{單手} {匕首}\n{12-21點傷害} {速度 1.80}\n(每秒9.2點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n耐久: 65 / 65\n售價:"}
@@ -40568,9 +40564,9 @@ MultiLanguageItemData['tw'][186962] = {name = "[q3]宇宙志士長矛", addition
 MultiLanguageItemData['tw'][186963] = {name = "[q3]宇宙志士之刃", additional_info = "拾取後綁定{單手} {劍}\n{17-30點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 7 加速\n[q2]+ 10 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][186964] = {name = "[q3]宇宙志士釘棒", additional_info = "拾取後綁定{單手} {權杖}\n{20-27點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 9 臨機應變\n[q2]+ 7 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][186965] = {name = "[q3]宇宙志士月牙刃", additional_info = "拾取後綁定{單手} {匕首}\n{6-10點傷害} {速度 1.80}\n(每秒4.4點傷害)\n+47 智力\n+12 耐力\n[q2]+ 8 致命一擊\n[q2]+ 9 臨機應變\n耐久: 65 / 65\n售價:"}
-MultiLanguageItemData['tw'][186966] = {name = "[q3]宇宙志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186967] = {name = "[q3]宇宙志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][186968] = {name = "[q3]宇宙志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][186966] = {name = "[q3]宇宙志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186967] = {name = "[q3]宇宙志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][186968] = {name = "[q3]宇宙志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][186969] = {name = "[q3]崩陷裂隙石", additional_info = "拾取後綁定\n唯一（10）\n[q2]使用: 召喚不穩定的裂隙傳送門，讓你能夠短暫進入裂隙。 (30秒 冷卻)\n[q]\"這個弱化的古物使用次數有限。\""}
 MultiLanguageItemData['tw'][186970] = {name = "[q2]餵食者之手與鑰匙", additional_info = "拾取後綁定\n[q]\"是啊，她一口從手咬下去…\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][186971] = {name = "[q0]餵食者之手", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>\n售價:"}
@@ -40650,7 +40646,7 @@ MultiLanguageItemData['tw'][187052] = {name = "[q3]虛空之星", additional_inf
 MultiLanguageItemData['tw'][187054] = {name = "遺失的刃翼蛋", additional_info = "拾取後綁定\n[q]\"可能是被吞噬者從刃翼巢裡偷走或是從上方掉落的。把它帶回巢穴族母會非常感謝你。\""}
 MultiLanguageItemData['tw'][187055] = {name = "[q3]一袋符文字牌", additional_info = "科西亞文物\n拾取後綁定\n本物品開啟一項任務\n[q]\"一塊孤單寂寞的字牌，獨自在袋子裡發出響聲。\""}
 MultiLanguageItemData['tw'][187056] = {name = "[q4]冰冷吞噬", additional_info = "拾取後綁定{單手} {劍}\n{55-92點傷害} {速度 2.60}\n(每秒28.3點傷害)\n+25 力量\n+37 耐力\n[q2]+ 35 致命一擊\n[q2]+ 14 臨機應變\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][187057] = {name = "[q4]貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出 50 %以上時，你的傷害提高( 6046 / 100)%。\n售價:"}
+MultiLanguageItemData['tw'][187057] = {name = "[q4]貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出50%以上時，你的傷害提高( 6046 / 100)%。\n售價:"}
 MultiLanguageItemData['tw'][187059] = {name = "[q4]賈斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄賈斯裂片（1）\n在淵喉時，你所獲得的治療量提高( 302 / 10)%。你的生命力上限提高 44844 。\n售價:"}
 MultiLanguageItemData['tw'][187061] = {name = "[q4]雷夫裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄雷夫裂片（1）\n在淵喉時，你的汲取提高 1209 點。\n售價:"}
 MultiLanguageItemData['tw'][187063] = {name = "[q4]寇爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜寇爾裂片（1）\n在淵喉時，在你攻擊你尚未造成過傷害的敵人後，你的傷害提高( 6046 / 100)%，持續20秒。\n售價:"}
@@ -40660,7 +40656,7 @@ MultiLanguageItemData['tw'][187073] = {name = "[q4]迪茲裂片", additional_inf
 MultiLanguageItemData['tw'][187075] = {name = "[q3]喀響鎖鍊箱", additional_info = "拾取後綁定\n玩具\n[q2]使用: 釋放迷你古魯，對方會摧毀附近的玩具。 (30分鐘 冷卻)"}
 MultiLanguageItemData['tw'][187076] = {name = "[q4]歐斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪歐斯裂片（1）\n在淵喉時，你的速度提高 1209 點。\n售價:"}
 MultiLanguageItemData['tw'][187077] = {name = "[q7]裝箱的靈魂灰燼", additional_info = "[q7]戰隊綁定\n[q2]使用: 開啟以獲得250份靈魂灰燼。\n需要解鎖托迦司第9區。\n[q]\"經過打包，方便運輸。很大一部分的靈魂灰燼已經因為容易揮發的特性而消失了。\""}
-MultiLanguageItemData['tw'][187079] = {name = "[q4]杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每 2 秒從附近敵人身上吸取 24814 點生命力，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][187079] = {name = "[q4]杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每2秒從附近敵人身上吸取 24814 點生命力，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][187081] = {name = "[q4]黑焰骷髏新月", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187082] = {name = "[q4]鍍金骷髏新月", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187083] = {name = "[q4]鍍金之眼新月", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -40818,7 +40814,7 @@ MultiLanguageItemData['tw'][187280] = {name = "[q5]妖精之心的記憶", addit
 MultiLanguageItemData['tw'][187281] = {name = "[q3]荒野獸鞍具", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"你上次騎乘這頭逃脫的荒野獸時掉落的，你最好把它帶著。\""}
 MultiLanguageItemData['tw'][187282] = {name = "[q3]完好的阿奎隆核心", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"沒被吞噬者摧毀的核心，可以用來為你的阿奎隆供給能量。\""}
 MultiLanguageItemData['tw'][187283] = {name = "[q3]墓翼水晶", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n\"散發著能量。石鑄宗匠能用這東西來鍛造坐騎。\""}
-MultiLanguageItemData['tw'][187284] = {name = "[q4]不祥貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出 50 %以上時，你的傷害提高( 7577 / 100)%。\n售價:"}
+MultiLanguageItemData['tw'][187284] = {name = "[q4]不祥貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出50%以上時，你的傷害提高( 7577 / 100)%。\n售價:"}
 MultiLanguageItemData['tw'][187285] = {name = "[q4]不祥賈斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄賈斯裂片（1）\n在淵喉時，你所獲得的治療量提高( 378 / 10)%。你的生命力上限提高 56055 。\n售價:"}
 MultiLanguageItemData['tw'][187286] = {name = "[q4]不祥雷夫裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄雷夫裂片（1）\n在淵喉時，你的汲取提高 1491 點。\n售價:"}
 MultiLanguageItemData['tw'][187287] = {name = "[q4]不祥寇爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜寇爾裂片（1）\n在淵喉時，在你攻擊你尚未造成過傷害的敵人後，你的傷害提高( 7577 / 100)%，持續20秒。\n售價:"}
@@ -40826,8 +40822,8 @@ MultiLanguageItemData['tw'][187288] = {name = "[q4]不祥琪爾裂片", addition
 MultiLanguageItemData['tw'][187289] = {name = "[q4]不祥特爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜特爾裂片（1）\n在淵喉時，你的致命一擊會使一名附近盟友在6秒內吸收接下來所受到的( 31839 * (1 + 臨機應變))點傷害。\n售價:"}
 MultiLanguageItemData['tw'][187290] = {name = "[q4]不祥迪茲裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪迪茲裂片（1）\n在淵喉時，對目標造成傷害使你對該目標的造成傷害提高( 1249 / 100)%，持續4秒，最多可堆疊3次。\n售價:"}
 MultiLanguageItemData['tw'][187291] = {name = "[q4]不祥歐斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪歐斯裂片（1）\n在淵喉時，你的速度提高 1491 點。\n售價:"}
-MultiLanguageItemData['tw'][187292] = {name = "[q4]不祥杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每 2 秒從附近敵人身上吸取 31092 點生命力，持續10秒。\n售價:"}
-MultiLanguageItemData['tw'][187293] = {name = "[q4]荒寂貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出 50 %以上時，你的傷害提高( 9069 / 100)%。\n售價:"}
+MultiLanguageItemData['tw'][187292] = {name = "[q4]不祥杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每2秒從附近敵人身上吸取 31092 點生命力，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][187293] = {name = "[q4]荒寂貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出50%以上時，你的傷害提高( 9069 / 100)%。\n售價:"}
 MultiLanguageItemData['tw'][187294] = {name = "[q4]荒寂賈斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄賈斯裂片（1）\n在淵喉時，你所獲得的治療量提高( 453 / 10)%。你的生命力上限提高 67266 。\n售價:"}
 MultiLanguageItemData['tw'][187295] = {name = "[q4]荒寂雷夫裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄雷夫裂片（1）\n在淵喉時，你的汲取提高 1814 點。\n售價:"}
 MultiLanguageItemData['tw'][187296] = {name = "[q4]荒寂寇爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜寇爾裂片（1）\n在淵喉時，在你攻擊你尚未造成過傷害的敵人後，你的傷害提高( 9069 / 100)%，持續20秒。\n售價:"}
@@ -40835,8 +40831,8 @@ MultiLanguageItemData['tw'][187297] = {name = "[q4]荒寂琪爾裂片", addition
 MultiLanguageItemData['tw'][187298] = {name = "[q4]荒寂特爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜特爾裂片（1）\n在淵喉時，你的致命一擊會使一名附近盟友在6秒內吸收接下來所受到的( 38267 * (1 + 臨機應變))點傷害。\n售價:"}
 MultiLanguageItemData['tw'][187299] = {name = "[q4]荒寂迪茲裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪迪茲裂片（1）\n在淵喉時，對目標造成傷害使你對該目標的造成傷害提高( 1491 / 100)%，持續4秒，最多可堆疊3次。\n售價:"}
 MultiLanguageItemData['tw'][187300] = {name = "[q4]荒寂歐斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪歐斯裂片（1）\n在淵喉時，你的速度提高 1814 點。\n售價:"}
-MultiLanguageItemData['tw'][187301] = {name = "[q4]荒寂杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每 2 秒從附近敵人身上吸取 37370 點生命力，持續10秒。\n售價:"}
-MultiLanguageItemData['tw'][187302] = {name = "[q4]邪兆貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出 50 %以上時，你的傷害提高( 10600 / 100)%。\n售價:"}
+MultiLanguageItemData['tw'][187301] = {name = "[q4]荒寂杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每2秒從附近敵人身上吸取 37370 點生命力，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][187302] = {name = "[q4]邪兆貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出50%以上時，你的傷害提高( 10600 / 100)%。\n售價:"}
 MultiLanguageItemData['tw'][187303] = {name = "[q4]邪兆賈斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄賈斯裂片（1）\n在淵喉時，你所獲得的治療量提高( 529 / 10)%。你的生命力上限提高 78477 。\n售價:"}
 MultiLanguageItemData['tw'][187304] = {name = "[q4]邪兆雷夫裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄雷夫裂片（1）\n在淵喉時，你的汲取提高 2096 點。\n售價:"}
 MultiLanguageItemData['tw'][187305] = {name = "[q4]邪兆寇爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜寇爾裂片（1）\n在淵喉時，在你攻擊你尚未造成過傷害的敵人後，你的傷害提高( 10600 / 100)%，持續20秒。\n售價:"}
@@ -40844,9 +40840,9 @@ MultiLanguageItemData['tw'][187306] = {name = "[q4]邪兆琪爾裂片", addition
 MultiLanguageItemData['tw'][187307] = {name = "[q4]邪兆特爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜特爾裂片（1）\n在淵喉時，你的致命一擊會使一名附近盟友在6秒內吸收接下來所受到的( 44695 * (1 + 臨機應變))點傷害。\n售價:"}
 MultiLanguageItemData['tw'][187308] = {name = "[q4]邪兆迪茲裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪迪茲裂片（1）\n在淵喉時，對目標造成傷害使你對該目標的造成傷害提高( 1773 / 100)%，持續4秒，最多可堆疊3次。\n售價:"}
 MultiLanguageItemData['tw'][187309] = {name = "[q4]邪兆歐斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪歐斯裂片（1）\n在淵喉時，你的速度提高 2096 點。\n售價:"}
-MultiLanguageItemData['tw'][187310] = {name = "[q4]邪兆杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每 2 秒從附近敵人身上吸取 43648 點生命力，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][187310] = {name = "[q4]邪兆杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每2秒從附近敵人身上吸取 43648 點生命力，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][187311] = {name = "[q4]阿茲苟斯的殘破地圖", additional_info = "科西亞文物\n拾取後綁定\n[q2]使用: 將你的發現遞交給博文者羅述爾，可產生300份編目研究。\n[q]\"下方的註解寫著：由蛛眼家族取得。\"\n售價:"}
-MultiLanguageItemData['tw'][187312] = {name = "[q4]預兆貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出 50 %以上時，你的傷害提高( 12091 / 100)%。\n售價:"}
+MultiLanguageItemData['tw'][187312] = {name = "[q4]預兆貝克裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄貝克裂片（1）\n在淵喉時，當你的生命力相較於目標高出50%以上時，你的傷害提高( 12091 / 100)%。\n售價:"}
 MultiLanguageItemData['tw'][187313] = {name = "[q4]預兆賈斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄賈斯裂片（1）\n在淵喉時，你所獲得的治療量提高( 605 / 10)%。你的生命力上限提高 89688 。\n售價:"}
 MultiLanguageItemData['tw'][187314] = {name = "[q4]預兆雷夫裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：血魄雷夫裂片（1）\n在淵喉時，你的汲取提高 2418 點。\n售價:"}
 MultiLanguageItemData['tw'][187315] = {name = "[q4]預兆寇爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜寇爾裂片（1）\n在淵喉時，在你攻擊你尚未造成過傷害的敵人後，你的傷害提高( 12091 / 100)%，持續20秒。\n售價:"}
@@ -40854,7 +40850,7 @@ MultiLanguageItemData['tw'][187316] = {name = "[q4]預兆琪爾裂片", addition
 MultiLanguageItemData['tw'][187317] = {name = "[q4]預兆特爾裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：冰霜特爾裂片（1）\n在淵喉時，你的致命一擊會使一名附近盟友在6秒內吸收接下來所受到的( 51122 * (1 + 臨機應變))點傷害。\n售價:"}
 MultiLanguageItemData['tw'][187318] = {name = "[q4]預兆迪茲裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪迪茲裂片（1）\n在淵喉時，對目標造成傷害使你對該目標的造成傷害提高( 2015 / 100)%，持續4秒，最多可堆疊3次。\n售價:"}
 MultiLanguageItemData['tw'][187319] = {name = "[q4]預兆歐斯裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪歐斯裂片（1）\n在淵喉時，你的速度提高 2418 點。\n售價:"}
-MultiLanguageItemData['tw'][187320] = {name = "[q4]預兆杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每 2 秒從附近敵人身上吸取 49927 點生命力，持續10秒。\n售價:"}
+MultiLanguageItemData['tw'][187320] = {name = "[q4]預兆杰德裂片", additional_info = "統御裂片\n拾取後綁定\n僅可裝備一件：穢邪杰德裂片（1）\n在淵喉時，你的有益法術與技能有一定機率賦予你的目標穢邪光環，每2秒從附近敵人身上吸取 49927 點生命力，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][187321] = {name = "熱能摧毀器", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][187322] = {name = "[q2]碎裂的石板", additional_info = "科西亞文物\n拾取後綁定\n[q2]使用: 將你的發現遞交給博文者羅述爾，可產生8份編目研究。\n[q]\"有些符文還可以辨認。\"\n售價:"}
 MultiLanguageItemData['tw'][187323] = {name = "[q2]符文圖表", additional_info = "科西亞文物\n拾取後綁定\n[q2]使用: 將你的發現遞交給博文者羅述爾，可產生8份編目研究。\n[q]\"有點髒污，但還有辦法辨識。\"\n售價:"}
@@ -41367,7 +41363,7 @@ MultiLanguageItemData['tw'][187895] = {name = "[q7]偵察地圖：驚險德拉�
 MultiLanguageItemData['tw'][187896] = {name = "[q7]偵察地圖：風暴烈酒的潘達利亞指引", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現潘達利亞各處的飛行點並顯現出整張地圖。\n需要成就：潘達利亞探險家\n[q]\"一個莉莉遊遍潘達利亞的輕鬆冒險故事，還附有老陳叔叔的推薦美食。\""}
 MultiLanguageItemData['tw'][187897] = {name = "[q7]偵察地圖：大災變的後果", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現大災變時建立於各處的飛行點並顯現出整張地圖。\n需要成就：大災變探險家\n[q]\"一份相當難得的跨陣營報告，羅列著無數死亡之翼破壞艾澤拉斯後，所帶來的後果。\""}
 MultiLanguageItemData['tw'][187898] = {name = "[q7]偵察地圖：北裂境戰役的真實代價", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現北裂境各處的飛行點並顯現出整張地圖。\n需要成就：北裂境探險家\n[q]\"一份銀白十字軍的詳細報告，列出了對巫妖王展開的種種軍事行動。\""}
-MultiLanguageItemData['tw'][187899] = {name = "[q7]偵察地圖：多采多姿的外域", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現外域各處的飛行點並顯現出整張地圖。\n需要成就：外域探險家\n[q]\"一位充滿冒險精神的煉金師，記下了外域各種獨特且奇妙的動植物生態筆記。\""}
+MultiLanguageItemData['tw'][187899] = {name = "[q7]偵察地圖：多采多姿的外域", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現外域各處的飛行點並顯現出整張地圖。\n需要成就：外域探險家\n已經學會\n[q]\"一位充滿冒險精神的煉金師，記下了外域各種獨特且奇妙的動植物生態筆記。\""}
 MultiLanguageItemData['tw'][187900] = {name = "[q7]偵察地圖：庫爾提拉斯和贊達拉的奇觀", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 發現庫爾提拉斯與贊達拉各處的飛行點並顯現出整張地圖。\n需要成就：決戰艾澤拉斯探險家\n[q]\"一對哥布林和地精搭檔，記下了他們在這兩座島嶼上的許多發現。\""}
 MultiLanguageItemData['tw'][187901] = {name = "[q2]飛鷹靈魂", additional_info = "拾取後綁定\n本物品開啟一項任務\n在星湖劇場參與七場不同的演出。"}
 MultiLanguageItemData['tw'][187902] = {name = "[q2]孢子蝙蝠靈魂", additional_info = "拾取後綁定\n本物品開啟一項任務"}
@@ -41535,27 +41531,27 @@ MultiLanguageItemData['tw'][188243] = {name = "[q3]影縫巡靴", additional_inf
 MultiLanguageItemData['tw'][188244] = {name = "[q3]毒惡墳足靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][188248] = {name = "[q4]灼熱踏靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][188249] = {name = "[q4]冰凍護足", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][188252] = {name = "[q4]統御之鏈", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 [敏捷 or 力量]\n[q2]使用: 將尖刺刺入你的目標，造成 7116 點物理傷害，並且以鎖鍊連結你，持續20秒。鎖鍊存在期間內，儲存對目標造成傷害的 25 %，最多可累積 3019 點。\n\n 遠離目標會扯斷鎖鍊，對 8 碼內的所有敵人造成儲存的傷害，此傷害視同暗影傷害。 (3分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188252] = {name = "[q4]統御之鏈", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 [敏捷 or 力量]\n[q2]使用: 將尖刺刺入你的目標，造成 7116 點物理傷害，並且以鎖鍊連結你，持續20秒。鎖鍊存在期間內，儲存對目標造成傷害的25%，最多可累積 3019 點。\n\n 遠離目標會扯斷鎖鍊，對8碼內的所有敵人造成儲存的傷害，此傷害視同暗影傷害。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188253] = {name = "[q4]兄弟鬩牆之痕", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]裝備： 在自己身上附加一個統御符文，付出代價並獲得力量。\n[q2]使用: 再添加一個。 (30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188254] = {name = "[q4]嚴酷星蝕", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 智力\n[q2]使用: 生成一個星體圍繞你的目標，在7秒內對其造成 3622 點星宙傷害。\n\n 7秒後，星體開始穩定，產生事件視界，持續10秒，在效果範圍內可賦予你 319 點加速。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188255] = {name = "[q4]蟲群之心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 力量\n{[q2]使用: 召喚蟲群，無法施法或攻擊，但變形成一群飢渴的蝗蟲，{速度提高 71 點並獲得 354 點汲取，在3秒內造成( 3439 * 3)點暗影傷害}，由附近所有敵人分攤。\n\n 每命中一名敵人都會使傷害提高，最多可命中 5 名敵人。 (3分鐘 冷卻)}\n售價:"}
+MultiLanguageItemData['tw'][188255] = {name = "[q4]蟲群之心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 力量\n{[q2]使用: 召喚蟲群，無法施法或攻擊，但變形成一群飢渴的蝗蟲，{速度提高 71 點並獲得 354 點汲取，在3秒內造成( 3439 * 3)點暗影傷害}，由附近所有敵人分攤。\n\n 每命中一名敵人都會使傷害提高，最多可命中5名敵人。 (3分鐘 冷卻)}\n售價:"}
 MultiLanguageItemData['tw'][188256] = {name = "[q4]黑曜覺醒之翼", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][188257] = {name = "[q4]蒼藍覺醒之翼", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][188258] = {name = "[q4]青銅覺醒之翼", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][188259] = {name = "[q4]翡翠覺醒之翼", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][188260] = {name = "[q4]晶紅覺醒之翼", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][188261] = {name = "[q4]侵入性思想牢籠", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 [敏捷 or 力量]\n[q2]使用: 在目標的心智深處建立連結，使你的閃躲機率在6秒內提高 222 點，並且吸取[ 525 * (12)]點生命力。\n\n 如果效果結束後連結依然完好，目標的心智會粉碎，對其 8 碼範圍內的敵人造成 1091 點暗影傷害，並使其陷入恐懼，持續3秒。 (3分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188262] = {name = "[q4]雄獅之吼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n職業： 聖騎士 , 牧師 , 薩滿 , 武僧 , 德魯伊 , 喚能師\n[q2]使用: 引導聖光3秒，在周圍生成防護區域，替範圍內盟友吸收任何所受傷害的 30 %，最多吸收 27443 點傷害。\n\n 你的極效治療效果有機率使冷卻時間縮短6秒。\n\n僅適用於治療專精。 (10分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188263] = {name = "[q4]回收者強度核心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 當附近的自主機死亡時，你散發出元質，在30秒內替附近最多 5 個盟友恢復( 45 * 30)點生命力。\n[q2]使用: 召喚自主機醫護員，在持續時間結束前，在10秒內替你恢復( 14 * 10)點法力。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188261] = {name = "[q4]侵入性思想牢籠", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 [敏捷 or 力量]\n[q2]使用: 在目標的心智深處建立連結，使你的閃躲機率在6秒內提高 222 點，並且吸取[ 525 * (12)]點生命力。\n\n 如果效果結束後連結依然完好，目標的心智會粉碎，對其8碼範圍內的敵人造成 1091 點暗影傷害，並使其陷入恐懼，持續3秒。 (3分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188262] = {name = "[q4]雄獅之吼", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n職業： 聖騎士 , 牧師 , 薩滿 , 武僧 , 德魯伊 , 喚能師\n[q2]使用: 引導聖光3秒，在周圍生成防護區域，替範圍內盟友吸收任何所受傷害的30%，最多吸收 27443 點傷害。\n\n 你的極效治療效果有機率使冷卻時間縮短6秒。\n\n僅適用於治療專精。 (10分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188263] = {name = "[q4]回收者強度核心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 當附近的自主機死亡時，你散發出元質，在30秒內替附近最多5個盟友恢復( 45 * 30)點生命力。\n[q2]使用: 召喚自主機醫護員，在持續時間結束前，在10秒內替你恢復( 14 * 10)點法力。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188264] = {name = "[q4]裂地者衝擊", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]使用: 在你下方引發地震，12秒內造成 4445 點自然傷害，由附近所有敵人分攤。每命中一名目標可使傷害提高。\n\n 地震時，你能感應到附近地殼的弱點。在弱點上方移動可對附近所有敵人額外造成 635 點自然傷害。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188265] = {name = "[q4]搜羅萬寶密藏", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 敏捷\n[q2]裝備： 定期地翻找箱子，找一把新的遭竊的武器。\n[q2]使用: 從箱子裡拿出武器，獲得其增益效果。 (3分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188266] = {name = "[q4]脈動的裂隙碎片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]使用: 在你面前放置裂隙傳送門，充能1.5秒後爆炸，造成[ 1739 * (1 + 臨機應變)]點星宙傷害由直線路徑上的敵人共同分攤。傳送門竊取現實，賦予你護盾20秒，吸收受到的[ 4016 * (1 + 臨機應變)]點傷害。\n\n 每命中一名敵人可使傷害和吸收提高，最多 5 個敵人。 (1分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188267] = {name = "[q4]無盡饗宴之鐘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 你的傷害技能有很高的機率嗅出美味的靈魂能量，最多可堆疊 100 次。達最高層數時，一群吞噬者向前爆發，啃食你的目標，造成 5733 點物理傷害。\n\n 使你目標移動的效果可產生額外堆疊。\n售價:"}
-MultiLanguageItemData['tw'][188268] = {name = "[q4]設計者的精巧核心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 每當附近有自主機死亡時，你的冷卻速度加快 5 %，持續30秒。\n[q2]使用: 召喚侍從自主機，在8秒內對你的目標引導( 53 * 8)點星宙傷害，引導結束後消失。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188266] = {name = "[q4]脈動的裂隙碎片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]使用: 在你面前放置裂隙傳送門，充能1.5秒後爆炸，造成[ 1739 * (1 + 臨機應變)]點星宙傷害由直線路徑上的敵人共同分攤。傳送門竊取現實，賦予你護盾20秒，吸收受到的[ 4016 * (1 + 臨機應變)]點傷害。\n\n 每命中一名敵人可使傷害和吸收提高，最多5個敵人。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188267] = {name = "[q4]無盡饗宴之鐘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 你的傷害技能有很高的機率嗅出美味的靈魂能量，最多可堆疊100次。達最高層數時，一群吞噬者向前爆發，啃食你的目標，造成 5733 點物理傷害。\n\n 使你目標移動的效果可產生額外堆疊。\n售價:"}
+MultiLanguageItemData['tw'][188268] = {name = "[q4]設計者的精巧核心", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 每當附近有自主機死亡時，你的冷卻速度加快5%，持續30秒。\n[q2]使用: 召喚侍從自主機，在8秒內對你的目標引導( 53 * 8)點星宙傷害，引導結束後消失。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188269] = {name = "[q4]可攜式原靈熔爐", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量]\n[q2]裝備： 受到傷害時，可攜式原靈熔爐有機率產生一個盟友，干擾敵人的攻擊，協助你戰鬥並吸收 5858 點傷害。\n售價:"}
-MultiLanguageItemData['tw'][188270] = {name = "[q4]永恆輓歌", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量 or 智力]\n[q2]裝備： 為永恆悲嘆，獻上心力為其服務。\n\n 你最高的次要屬性提高 40 點，並且賦予隊伍中相同誓盟的成員此加成的 10 %。\n售價:"}
+MultiLanguageItemData['tw'][188270] = {name = "[q4]永恆輓歌", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量 or 智力]\n[q2]裝備： 為永恆悲嘆，獻上心力為其服務。\n\n 你最高的次要屬性提高 40 點，並且賦予隊伍中相同誓盟的成員此加成的10%。\n售價:"}
 MultiLanguageItemData['tw'][188271] = {name = "[q4]首創符印", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 [敏捷 or 力量 or 智力]\n[q2]使用: 獲得你誓盟主要技能的力量 ，並且獲得 645 點臨機應變，持續20秒。 (5分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188272] = {name = "[q4]鳴響蓄池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 朝你的目標發射共鳴箭，在該位置造成瓦解輝環，每2秒造成 189 點傷害，持續6秒。增強 3 次，直到從頂端取走為止。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188272] = {name = "[q4]鳴響蓄池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]使用: 朝你的目標發射共鳴箭，在該位置造成瓦解輝環，每2秒造成 189 點傷害，持續6秒。增強3次，直到從頂端取走為止。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188273] = {name = "[q4]輔助者鐘鈴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 你的治療法術和技能有機率啟動預製助手，每1秒賦予 259 點吸收量給附近受傷最嚴重的盟友，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][188274] = {name = "遭竊的文物", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][188276] = {name = "活力根", additional_info = "任務物品\n[q]\"有股奇怪的增長加速能量攀附著。\""}
@@ -42020,7 +42016,7 @@ MultiLanguageItemData['tw'][188761] = {name = "快樂趣味球體", additional_i
 MultiLanguageItemData['tw'][188762] = {name = "[q0]共鳴棒", additional_info = "[q]\"這個鑄塊閃閃發亮且經過雕琢，輕拍會發出嗡嗡聲，擦拭則會發出清脆的響聲。\"\n售價:"}
 MultiLanguageItemData['tw'][188765] = {name = "仲介者研究", additional_info = "任務物品\n[q]\"此裝置含有已故受啟迪的仲介者的研究集刊。\""}
 MultiLanguageItemData['tw'][188766] = {name = "[q4]宇宙鬥士共鳴器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 投擲宇宙共鳴器，在4秒後爆炸，造成 2039 點星宙傷害，分攤給附近的所有敵人。\n\n 每命中一名敵人都使傷害提高，最多可命中5名敵人。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][188775] = {name = "[q4]宇宙鬥士永恆禦盾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 啟動防禦機制，吸收受到的所有魔法傷害的 50 %，最多吸收[ 2339 * (1 + 臨機應變)]點傷害，持續15秒。可完全吸收星宙傷害。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][188775] = {name = "[q4]宇宙鬥士永恆禦盾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 啟動防禦機制，吸收受到的所有魔法傷害的50%，最多吸收[ 2339 * (1 + 臨機應變)]點傷害，持續15秒。可完全吸收星宙傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188778] = {name = "[q4]宇宙鬥士的吞噬詛咒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 臨機應變\n[q2]使用: 在3秒內對附近所有敵人吸取( 752 * 4)點吸收量，接著對前方20碼錐形範圍釋放吸取的能量，改成吸收敵人的治療量。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188779] = {name = "[q0]能量豐沛的號角", additional_info = "售價:"}
 MultiLanguageItemData['tw'][188787] = {name = "[q2]上鎖的仲介者行李", additional_info = "[q]\"某個仲介者的不幸成就了某凡人的小確幸！\"\n[q0]已鎖\n售價:"}
@@ -42265,7 +42261,7 @@ MultiLanguageItemData['tw'][189054] = {name = "[q2]10.0 End Game Template <Descr
 MultiLanguageItemData['tw'][189055] = {name = "[q3]甘地許的備用咒符", additional_info = "拾取後綁定{遠程} {魔杖}\n{145-146點自然傷害} {速度 2.00}\n(每秒72.8點傷害)\n+748 智力\n+208 耐力\n[q2]+ 135 致命一擊\n[q2]+ 104 臨機應變\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][189056] = {name = "[q2]10.0 End Game Template <Descriptor> Staff", additional_info = "拾取後綁定{雙手} {法杖}\n{295-400點傷害} {速度 3.60}\n(每秒96.5點傷害)\n+1,142 智力\n+416 耐力\n[q2]+ 249 致命一擊\n[q2]+ 229 加速\n售價:"}
 MultiLanguageItemData['tw'][189057] = {name = "[q2]10.0 End Game Template <Descriptor> Warglaive", additional_info = "拾取後綁定{單手} {戰刃}\n{294-465點傷害} {速度 2.60}\n(每秒146.0點傷害)\n+128 敏捷\n+208 耐力\n[q2]+ 109 加速\n[q2]+ 130 臨機應變\n售價:"}
-MultiLanguageItemData['tw'][189058] = {name = "[q2]10.0 End Game Template <Descriptor> Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 342 致命一擊\n[q2]裝備： 你的攻擊有一定機率從目標身上吸取 9399 點生命力，使你恢復所吸取生命力的 50 %。\n售價:"}
+MultiLanguageItemData['tw'][189058] = {name = "[q2]10.0 End Game Template <Descriptor> Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 342 致命一擊\n[q2]裝備： 你的攻擊有一定機率從目標身上吸取 9399 點生命力，使你恢復所吸取生命力的50%。\n售價:"}
 MultiLanguageItemData['tw'][189059] = {name = "[q2]10.0 End Game Template <Descriptor> Band", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+234 耐力\n[q2]+ 411 致命一擊\n[q2]+ 309 加速\n售價:"}
 MultiLanguageItemData['tw'][189060] = {name = "[q2]10.0 End Game Template <Descriptor> Belt", additional_info = "拾取後綁定{腰部} {鎖甲}\n312護甲\n+193 [敏捷 or 智力]\n+312 耐力\n[q2]+ 172 加速\n[q2]+ 187 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][189061] = {name = "[q2]10.0 End Game Template <Descriptor> Shawl", additional_info = "拾取後綁定背部\n150護甲\n+144 [敏捷 or 力量 or 智力]\n+234 耐力\n[q2]+ 152 致命一擊\n[q2]+ 117 臨機應變\n售價:"}
@@ -42563,15 +42559,15 @@ MultiLanguageItemData['tw'][189621] = {name = "[q4]10.0 Raid Template - Leather 
 MultiLanguageItemData['tw'][189622] = {name = "[q4]10.0 Raid Template - Generic - Cloak", additional_info = "拾取後綁定背部\n70護甲\n+66 [敏捷 or 力量 or 智力]\n+100 耐力\n[q2]+ 91 加速\n[q2]+ 42 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][189623] = {name = "[q4]10.0 Raid Template - Generic - Finger", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+100 耐力\n[q2]+ 242 臨機應變\n[q2]+ 90 精通\n售價:"}
 MultiLanguageItemData['tw'][189624] = {name = "[q4]10.0 Raid Template - Generic - Neck", additional_info = "拾取後綁定頸部\n+100 耐力\n[q2]+ 85 加速\n[q2]+ 246 精通\n[q2]使用: 在暗影之境的戶外蠱惑一隻野獸的心志。受到影響時，你的目標會為你而戰，持續5分鐘。 (1小時 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][189625] = {name = "[q4]10.0 Raid Template - Melee DPS - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 [敏捷 or 力量]\n[q2]使用: 成為遊蕩的捕獵者，持續10秒，速度提高 278 點，並撲向下一個進入 8 碼範圍內的敵人，造成 19822 點物理傷害。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][189625] = {name = "[q4]10.0 Raid Template - Melee DPS - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 [敏捷 or 力量]\n[q2]使用: 成為遊蕩的捕獵者，持續10秒，速度提高 278 點，並撲向下一個進入8碼範圍內的敵人，造成 19822 點物理傷害。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][189626] = {name = "[q4]10.0 Raid Template - Tank - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 [敏捷 or 力量]\n[q2]使用: 與目標盟友建立獵人之絆，持續30秒。你受到的25%傷害會導向與你建立羈絆的盟友，最多可轉移[ 58281 * (1 + 臨機應變)]點總傷害。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][189627] = {name = "[q4]10.0 Raid Template - Int DPS - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 智力\n[q2]使用: 啟動燃魂之器，在15秒內犧牲最多 11037 點生命力以強化熾炎奔騰。\n\n 重新啟動以施放熾炎奔騰，造成[ 7884 * (1 + 臨機應變)]點火焰傷害，此傷害由40碼錐形範圍內的敵人分攤，同時根據燃魂之器啟動時間的長短，額外造成最多 40 %傷害。\n\n 每命中一名敵人可使傷害提高，最多5個敵人。(冷卻時間：1分鐘)\n售價:"}
+MultiLanguageItemData['tw'][189627] = {name = "[q4]10.0 Raid Template - Int DPS - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 智力\n[q2]使用: 啟動燃魂之器，在15秒內犧牲最多 11037 點生命力以強化熾炎奔騰。\n\n 重新啟動以施放熾炎奔騰，造成[ 7884 * (1 + 臨機應變)]點火焰傷害，此傷害由40碼錐形範圍內的敵人分攤，同時根據燃魂之器啟動時間的長短，額外造成最多40%傷害。\n\n 每命中一名敵人可使傷害提高，最多5個敵人。(冷卻時間：1分鐘)\n售價:"}
 MultiLanguageItemData['tw'][189628] = {name = "[q4]10.0 Raid Template - Healer - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 智力\n[q2]使用: 以一束鳳凰羽毛加持你的盟友，使其在6秒後恢復[ 26603 * (1 + 臨機應變)]點生命力，根據目標失去的生命力，最多可提高25%。如果你的盟友受到致命傷害，此效果立即觸發。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][189629] = {name = "[q4]10.0 Raid Template - STR - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 力量\n[q2]裝備： 你的傷害技能有高機率造成 595 點物理傷害，為自己恢復相當於傷害量( 3 * 100)%的生命力。如果此效果造成過量治療，會在15秒內造成[ 501 * 5 * (1 + 臨機應變)]點物理傷害，此傷害由附近敵人分攤，但是降低生命竊取效果。\n\n 每命中一名敵人可使傷害提高，最多 5 個敵人。\n售價:"}
+MultiLanguageItemData['tw'][189629] = {name = "[q4]10.0 Raid Template - STR - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 力量\n[q2]裝備： 你的傷害技能有高機率造成 595 點物理傷害，為自己恢復相當於傷害量300%的生命力。如果此效果造成過量治療，會在15秒內造成[ 501 * 5 * (1 + 臨機應變)]點物理傷害，此傷害由附近敵人分攤，但是降低生命竊取效果。\n\n 每命中一名敵人可使傷害提高，最多5個敵人。\n售價:"}
 MultiLanguageItemData['tw'][189630] = {name = "[q4]10.0 Raid Template - Omni  - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 [敏捷 or 力量 or 智力]\n[q2]使用: 四位舞伴以隨機隊形出現在你周圍。靠近每位舞伴，可使你提高 163 點加速和 91 點速度，持續20秒，可堆疊。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][189631] = {name = "[q4]10.0 Raid Template - Physical DPS - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 [敏捷 or 力量]\n[q2]使用: 你接下來的5個傷害性技能可造成心靈崩潰，造成 3330 點暗影傷害，並使目標受到的心靈崩潰傷害提高1%，持續5秒，最多可堆疊25層。（1.5秒 冷卻） (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][189632] = {name = "[q4]10.0 Raid Template - AGI - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 敏捷\n[q2]裝備： 你的生命力百分比高於你的目標時，你的技能有極高機率造成[ 925 * (1 + 臨機應變)]點物理傷害。\n\n 你的生命力百分比低於你的目標時，你的技能有極高機率賦予[ 1263 * (1 + 臨機應變)]點生命力。\n售價:"}
-MultiLanguageItemData['tw'][189633] = {name = "[q4]10.0 Raid Template - INT - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 智力\n[q2]裝備： 加入赤紅誦唱。每分鐘，你的致命一擊在30秒內提高( 158 * 3)點，直到重返正常為止。你隊伍中的每位赤紅誦唱成員可使此效果提高 5 %。\n售價:"}
+MultiLanguageItemData['tw'][189633] = {name = "[q4]10.0 Raid Template - INT - Trinket", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+112 智力\n[q2]裝備： 加入赤紅誦唱。每分鐘，你的致命一擊在30秒內提高( 158 * 3)點，直到重返正常為止。你隊伍中的每位赤紅誦唱成員可使此效果提高5%。\n售價:"}
 MultiLanguageItemData['tw'][189634] = {name = "[q3]10.0 Dungeon Template - Plate - Feet", additional_info = "拾取後綁定{腳} {板甲}\n141護甲\n+50 [力量 or 智力]\n+75 耐力\n[q2]+ 54 加速\n[q2]+ 46 精通\n售價:"}
 MultiLanguageItemData['tw'][189635] = {name = "[q3]10.0 Dungeon Template - Cloth - Robe", additional_info = "拾取後綁定{胸部} {布甲}\n59護甲\n+67 智力\n+100 耐力\n[q2]+ 64 加速\n[q2]+ 70 精通\n售價:"}
 MultiLanguageItemData['tw'][189636] = {name = "[q3]10.0 Dungeon Template - Plate - Chest", additional_info = "拾取後綁定{胸部} {板甲}\n225護甲\n+67 [力量 or 智力]\n+100 耐力\n[q2]+ 70 加速\n[q2]+ 64 臨機應變\n售價:"}
@@ -42659,7 +42655,7 @@ MultiLanguageItemData['tw'][189724] = {name = "[q2]萃取水晶球體", addition
 MultiLanguageItemData['tw'][189725] = {name = "[q2]應變水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n臨機應變提高5%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189726] = {name = "[q2]專注水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n精通提高5%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189727] = {name = "[q2]強癒水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n每2秒替30碼內的團隊成員或隊伍成員恢復2%生命力上限。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
-MultiLanguageItemData['tw'][189728] = {name = "[q2]朦朧水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n迴避提高 10 %。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
+MultiLanguageItemData['tw'][189728] = {name = "[q2]朦朧水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n迴避提高10%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189729] = {name = "[q2]吸收水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n汲取提高5%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189730] = {name = "[q2]知覺水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n致命一擊機率提高5%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189731] = {name = "[q2]能力水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n主要屬性提高5%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
@@ -42668,7 +42664,7 @@ MultiLanguageItemData['tw'][189733] = {name = "[q2]堅實水晶球體", addition
 MultiLanguageItemData['tw'][189734] = {name = "[q2]極效水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n致命一擊傷害和極效治療效果提高20%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189735] = {name = "[q2]疾速水晶球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n速度提高10%，坐騎速度提高20%。\n[q2]使用: 消耗該水晶，暫時獲得其強化效果。此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n[q]\"能夠鑲嵌在暗語裝備上面。\"\n售價:"}
 MultiLanguageItemData['tw'][189736] = {name = "[q2]吸收流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 有10%機率吸收敵人的法術傷害。\n此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
-MultiLanguageItemData['tw'][189737] = {name = "[q2]朦朧流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 迴避提高 10 %。 此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
+MultiLanguageItemData['tw'][189737] = {name = "[q2]朦朧流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 迴避提高10%。 此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
 MultiLanguageItemData['tw'][189738] = {name = "[q2]知覺流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 致命一擊機率提高5%。\n此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
 MultiLanguageItemData['tw'][189739] = {name = "[q2]萃取流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 拾取戰利品獲得的金幣提高2%，完成任務獲得的金幣提高10%。\n此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
 MultiLanguageItemData['tw'][189740] = {name = "[q2]矯捷流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 加速提高5%。 此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
@@ -42768,9 +42764,9 @@ MultiLanguageItemData['tw'][189835] = {name = "[q4]安杜因的王爵法衣", ad
 MultiLanguageItemData['tw'][189836] = {name = "[q4]怪異之星腕帶", additional_info = "拾取後綁定{手腕} {皮甲}\n33護甲\n+25 [敏捷 or 智力]\n+37 耐力\n[q2]+ 34 加速\n[q2]+ 15 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][189837] = {name = "[q4]國王的狼心腰環", additional_info = "拾取後綁定{腰部} {鎖甲}\n54護甲\n+33 [敏捷 or 智力]\n+50 耐力\n[q2]+ 22 加速\n[q2]+ 45 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][189838] = {name = "[q4]暴風城之光", additional_info = "拾取後綁定頸部\n+37 耐力\n[q2]+ 99 致命一擊\n[q2]+ 25 精通\n售價:"}
-MultiLanguageItemData['tw'][189839] = {name = "[q4]扭魂烏瑞恩徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+37 耐力\n[q2]+ 93 加速\n[q2]+ 31 精通\n職業： 牧師\n[q2]裝備： 你的法術有一定機率賦予你希望，使你的智力提高 19 點，持續 12 秒。目標盟友或敵人生命力低落時，你有更高機率獲得希望。\n[q]\"我現在跟你一樣，相信和平是最崇高的理想。\"\n售價:"}
+MultiLanguageItemData['tw'][189839] = {name = "[q4]扭魂烏瑞恩徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+37 耐力\n[q2]+ 93 加速\n[q2]+ 31 精通\n職業： 牧師\n[q2]裝備： 你的法術有一定機率賦予你希望，使你的智力提高 19 點，持續12秒。目標盟友或敵人生命力低落時，你有更高機率獲得希望。\n[q]\"我現在跟你一樣，相信和平是最崇高的理想。\"\n售價:"}
 MultiLanguageItemData['tw'][189840] = {name = "[q4]殘魂之瀆災禍腰帶", additional_info = "拾取後綁定{腰部} {板甲}\n81護甲\n+33 [力量 or 智力]\n+50 耐力\n[q2]+ 46 臨機應變\n[q2]+ 20 精通\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][189841] = {name = "[q4]扭魂米奈希爾徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+37 耐力\n[q2]+ 31 加速\n[q2]+ 93 精通\n職業： 死亡騎士\n[q2]裝備： 你的傷害法術有機率對敵人造成絕望，使你的疾病效果提高 52 點，持續 12 秒。若命中生命力較高的敵人，有更高機率造成絕望。\n[q]\"沒有國王能永久統治，吾兒。\"\n售價:"}
+MultiLanguageItemData['tw'][189841] = {name = "[q4]扭魂米奈希爾徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+37 耐力\n[q2]+ 31 加速\n[q2]+ 93 精通\n職業： 死亡騎士\n[q2]裝備： 你的傷害法術有機率對敵人造成絕望，使你的疾病效果提高 52 點，持續12秒。若命中生命力較高的敵人，有更高機率造成絕望。\n[q]\"沒有國王能永久統治，吾兒。\"\n售價:"}
 MultiLanguageItemData['tw'][189842] = {name = "[q4]隱蔽指揮官腕輪", additional_info = "拾取後綁定{手腕} {布甲}\n22護甲\n+28 智力\n+42 耐力\n[q2]+ 19 加速\n[q2]+ 37 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][189843] = {name = "[q4]挾持命運之握", additional_info = "拾取後綁定{手} {皮甲}\n43護甲\n+37 [敏捷 or 智力]\n+56 耐力\n[q2]+ 22 致命一擊\n[q2]+ 52 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][189844] = {name = "[q4]無形訪客護手", additional_info = "拾取後綁定{手} {鎖甲}\n63護甲\n+37 [敏捷 or 智力]\n+56 耐力\n[q2]+ 25 致命一擊\n[q2]+ 49 臨機應變\n耐久: 55 / 55\n售價:"}
@@ -42781,7 +42777,7 @@ MultiLanguageItemData['tw'][189848] = {name = "[q4]泰坦珍奇足靴", addition
 MultiLanguageItemData['tw'][189849] = {name = "[q4]跨次元腕套", additional_info = "拾取後綁定{手腕} {鎖甲}\n56護甲\n+28 [敏捷 or 智力]\n+42 耐力\n[q2]+ 36 致命一擊\n[q2]+ 19 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][189850] = {name = "[q4]隱藏界域手甲", additional_info = "拾取後綁定{手} {板甲}\n94護甲\n+37 [力量 or 智力]\n+56 耐力\n[q2]+ 22 加速\n[q2]+ 52 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][189851] = {name = "[q4]毀滅世界裂片劍", additional_info = "拾取後綁定{單手} {劍}\n{55-92點傷害} {速度 2.60}\n(每秒28.3點傷害)\n+25 力量\n+37 耐力\n[q2]+ 35 致命一擊\n[q2]+ 15 加速\n耐久: 110 / 110\n[q]\"給拙劣世界的一個殘酷提醒。\"\n售價:"}
-MultiLanguageItemData['tw'][189852] = {name = "[q4]暗影刃，宇宙之影", additional_info = "拾取後綁定{單手} {匕首}\n{19-32點傷害} {速度 1.80}\n(每秒14.2點傷害)\n+145 智力\n+37 耐力\n耐久: 80 / 80\n[q2]裝備： 你的攻擊性法術可獲得奇異點層數，每層可提高 6 點臨機應變和速度，最多可提高 20 層。\n\n 達到 20 層時，加成效果會加倍，並且持續 20 秒。效果結束後，你失去所有堆疊層數， 40 秒後才能再次接近奇異點。（100毫秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][189852] = {name = "[q4]暗影刃，宇宙之影", additional_info = "拾取後綁定{單手} {匕首}\n{19-32點傷害} {速度 1.80}\n(每秒14.2點傷害)\n+145 智力\n+37 耐力\n耐久: 80 / 80\n[q2]裝備： 你的攻擊性法術可獲得奇異點層數，每層可提高 6 點臨機應變和速度，最多可提高20層。\n\n 達到20層時，加成效果會加倍，並且持續20秒。效果結束後，你失去所有堆疊層數，40秒後才能再次接近奇異點。（100毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][189853] = {name = "[q4]星界裁決", additional_info = "拾取後綁定{遠程} {槍}\n{78-146點傷害} {速度 3.00}\n(每秒37.3點傷害)\n+50 敏捷\n+75 耐力\n[q2]+ 69 致命一擊\n[q2]+ 30 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][189854] = {name = "[q4]雷吉隆的預言戒指", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+42 耐力\n[q2]+ 24 致命一擊\n[q2]+ 115 精通\n[q]\"迎接我的到來。\"\n售價:"}
 MultiLanguageItemData['tw'][189855] = {name = "[q4]監禁者之縛", additional_info = "拾取後綁定{手} {布甲}\n25護甲\n+37 智力\n+56 耐力\n[q2]+ 53 加速\n[q2]+ 21 精通\n耐久: 55 / 55\n售價:"}
@@ -43275,7 +43271,7 @@ MultiLanguageItemData['tw'][190540] = {name = "[q3]套裝：陷捕者軍需品",
 MultiLanguageItemData['tw'][190541] = {name = "[q2]流浪者蒼藍斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190542] = {name = "[q2]漫遊者蒼藍披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190543] = {name = "[q2]鍍銀戰爭披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"重現阿基巴德‧葛雷邁恩時代吉爾尼斯遊俠的標準裝束。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190544] = {name = "[q4]超基性岩石束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190544] = {name = "[q4]超基性岩石束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {鎖甲}\n2護甲\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190545] = {name = "[q2]原初猛擊者", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"這把錘子曾經用來馴服加瓦東。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190546] = {name = "[q2]拋光短劍", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"非常適合用來解決酒吧地窖中的超巨大老鼠。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190547] = {name = "[q2]維爾薩拉保衛者護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {板甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43370,7 +43366,7 @@ MultiLanguageItemData['tw'][190638] = {name = "[q4]折磨淵鋼巨劍", addition
 MultiLanguageItemData['tw'][190640] = {name = "[q4]瞬時能量之印", additional_info = "拾取後綁定\n唯一\n需要受啟迪者\n- 友善\n售價:"}
 MultiLanguageItemData['tw'][190641] = {name = "[q3]講師的聖鐘", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+14 [敏捷 or 力量 or 智力]\n[q2]使用: 使你的精通提高 97 點，持續15秒。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][190644] = {name = "[q4]深切潛力之瓶", additional_info = "拾取後綁定\n唯一\n售價:"}
-MultiLanguageItemData['tw'][190652] = {name = "[q3]滴答作響的恐懼袋", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 22 精通\n[q2]裝備： 你的近戰攻擊與近戰技能有高機率把爆燃背袋放到目標身上。堆疊至3層或被移除後，爆燃背袋引爆並造成 864 點火焰傷害。\n售價:"}
+MultiLanguageItemData['tw'][190652] = {name = "[q3]滴答作響的恐懼袋", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 22 精通\n[q2]裝備： 你的近戰攻擊與近戰技能有高機率把爆燃背袋放到目標身上。堆疊至3層或被移除後，爆燃背袋引爆並造成( 1 * 2134 )點火焰傷害。\n售價:"}
 MultiLanguageItemData['tw'][190654] = {name = "[q4]聖塚寶藏箱", additional_info = "拾取後綁定\n[q]\"獎勵一件適用於目前戰利品優先分配專精的裝備。\""}
 MultiLanguageItemData['tw'][190655] = {name = "[q4]聖塚寶藏箱", additional_info = "拾取後綁定\n[q]\"獎勵一件適用於目前戰利品優先分配專精的裝備。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][190656] = {name = "[q4]聖塚寶藏箱", additional_info = "英雄難度\n拾取後綁定\n[q]\"獎勵一件適用於目前戰利品優先分配專精的裝備。\"\n[q2]<右鍵單擊打開>"}
@@ -43421,7 +43417,7 @@ MultiLanguageItemData['tw'][190707] = {name = "[q2]虛無之縛外衣", addition
 MultiLanguageItemData['tw'][190708] = {name = "[q2]虛無之縛肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190709] = {name = "[q2]喚潮者肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190710] = {name = "[q2]看守者禁錮之眼", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"你曾經覺得有人在監視你嗎？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190711] = {name = "[q2]秘法師的尖刺短棒", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {魔杖}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190711] = {name = "[q2]秘法師的尖刺短棒", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {魔杖}\n{1點傷害} {速度 2.00}\n(每秒0.5點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190712] = {name = "[q3]先祖逐星圖騰", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n種族: 牛頭人 , 高嶺牛頭人\n[q]\"就算恐怖圖騰如此殘暴，逐星的象徵還是一直傳承了下來。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190713] = {name = "[q3]統治者之令", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190714] = {name = "[q3]戈利安粉碎之錘", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {權杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43581,7 +43577,7 @@ MultiLanguageItemData['tw'][190871] = {name = "[q2]蠻兵扣環", additional_inf
 MultiLanguageItemData['tw'][190872] = {name = "[q2]嚴正守望者背心甲", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190873] = {name = "[q3]狂妄戰錘", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {權杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"傲慢是凡人種族的原罪，為此，他們必須受到懲罰。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190874] = {name = "[q3]閃耀魔能裁決錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"在注滿魔能的劍柄上依稀可見「復仇者維哈里」這幾個字。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190875] = {name = "[q3]冰凍定罪之觸", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {魔杖}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q]\"死亡侍徒會以這些魔杖來審判囚犯。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190875] = {name = "[q3]冰凍定罪之觸", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {魔杖}\n{1點傷害} {速度 2.00}\n(每秒0.5點傷害)\n[q]\"死亡侍徒會以這些魔杖來審判囚犯。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190876] = {name = "[q3]鑲鈿獅喉", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q]\"被遺忘的羅德隆儀祭聖物，儘管看似華而不實，卻可提供極佳的保護。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190879] = {name = "[q2]虛無之縛面罩", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190880] = {name = "催化蘋果派", additional_info = "[q2]使用: 在20秒內恢復( 22500 / 5 * 20)點生命力和( 30000 / 5 * 20)點法力。進食時必須保持坐姿。\n[q]\"用在地蘋果製成的。\"\n售價:"}
@@ -43661,7 +43657,7 @@ MultiLanguageItemData['tw'][190953] = {name = "原基水果果肉", additional_i
 MultiLanguageItemData['tw'][190954] = {name = "[q2]賽若拜岩帶鎖箱", additional_info = "[q0]已鎖\n售價:"}
 MultiLanguageItemData['tw'][190955] = {name = "原質絲線", additional_info = "任務物品\n[q]\"變化多端，彷彿在找一個穩定的形態。\""}
 MultiLanguageItemData['tw'][190956] = {name = "[q4]未開發潛能之瓶", additional_info = "拾取後綁定\n唯一\n需要受啟迪者\n- 崇敬\n售價:"}
-MultiLanguageItemData['tw'][190958] = {name = "[q3]索利亞的秘訣", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 選擇隊伍或團隊中的一名玩家，賦予對方 3 點最高次要屬性，並賦予自身 20 點相同屬性，持續30分鐘。\n[q]\"以張開的手領導，而非握緊的拳頭。\"\n售價:"}
+MultiLanguageItemData['tw'][190958] = {name = "[q3]索利亞的秘訣", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 選擇隊伍或團隊中的一名玩家，賦予對方 3 點最高次要屬性，並賦予自身 20 點相同屬性，持續1小時。\n[q]\"以張開的手領導，而非握緊的拳頭。\"\n售價:"}
 MultiLanguageItemData['tw'][190959] = {name = "[q4]哀傷碎片", additional_info = "任務物品\n[q]\"在傳奇難度的首創者聖塚中，從安杜因的劍取下的碎片。\""}
 MultiLanguageItemData['tw'][190960] = {name = "鴨子尾羽", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][190964] = {name = "華麗的寶箱鑰匙", additional_info = "任務物品\n唯一"}
@@ -43892,10 +43888,10 @@ MultiLanguageItemData['tw'][191455] = {name = "[q3]配方：狂風藥水", addit
 MultiLanguageItemData['tw'][191456] = {name = "[q3]配方：驚揭露藥水", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作震驚揭露藥水。\n需要 巨龍群島鍊金術 (10)\n售價:"}
 MultiLanguageItemData['tw'][191463] = {name = "聖匣枕頭", additional_info = "任務物品\n[q]\"從標籤來看，這個枕頭是在銀月城出產的，材質包括羽絨，建議手洗。\""}
 MultiLanguageItemData['tw'][191473] = {name = "含水精華", additional_info = "任務物品\n[q]\"這個小藥水瓶發出閃閃亮光，閃爍著非自然的藍色，聞起來像是清新的海風。\""}
-MultiLanguageItemData['tw'][191491] = {name = "[q4]永續鍊金石", additional_info = "拾取後綁定\n僅可裝備一件：鍊金石（1）\n飾品\n[q2]+ 342 臨機應變\n[q2]裝備： 你的法術和技能有一定機率使你的主要屬性提高 687 點，持續10秒，並使作用中的藥瓶持續時間延長 60 秒。\n[q]\"能代替點金石用來轉化物品。\"\n售價:"}
+MultiLanguageItemData['tw'][191491] = {name = "[q4]永續鍊金石", additional_info = "拾取後綁定\n僅可裝備一件：鍊金石（1）\n飾品\n[q2]+ 342 臨機應變\n[q2]裝備： 你的法術和技能有一定機率使你的主要屬性提高 687 點，持續10秒，並使作用中的藥瓶持續時間延長60秒。\n[q]\"能代替點金石用來轉化物品。\"\n售價:"}
 MultiLanguageItemData['tw'][191492] = {name = "[q4]快捷鍊金石", additional_info = "拾取後綁定\n僅可裝備一件：鍊金石（1）\n飾品\n[q2]+ 342 加速\n[q2]裝備： 你的法術和技能有一定機率使你的主要屬性提高 573 點，持續10秒，並使你戰鬥藥劑的冷卻時間縮短10秒。\n[q]\"能代替點金石用來轉化物品。\"\n售價:"}
-MultiLanguageItemData['tw'][191526] = {name = "[q3]次級卓越洞見", additional_info = "拾取後綁定\n[q2]使用: 結合5個次級卓越洞見，製造完整卓越洞見。\n最後加工製造材料\n\n[q2]製造時：使$en1提高$ev1。\n[q]可使用： 巨龍群島的工藝配方，用於製作小型或簡單的物品。\n售價:"}
-MultiLanguageItemData['tw'][191529] = {name = "[q3]卓越洞見", additional_info = "拾取後綁定\n[q2]使用: 分解成5個次級卓越洞見。\n最後加工製造材料\n\n[q2]製造時：使$en1提高$ev1。\n[q]可使用： 極為精細，十分難以製造的巨龍群島配方。\n售價:"}
+MultiLanguageItemData['tw'][191526] = {name = "[q3]次級卓越洞見", additional_info = "拾取後綁定\n[q2]使用: 結合5個次級卓越洞見，製造完整卓越洞見。\n最後加工製造材料\n\n[q2]製造時：使技能提高30。\n[q]可使用： 巨龍群島的工藝配方，用於製作小型或簡單的物品。\n售價:"}
+MultiLanguageItemData['tw'][191529] = {name = "[q3]卓越洞見", additional_info = "拾取後綁定\n[q2]使用: 分解成5個次級卓越洞見。\n最後加工製造材料\n\n[q2]製造時：使技能提高30。\n[q]可使用： 極為精細，十分難以製造的巨龍群島配方。\n售價:"}
 MultiLanguageItemData['tw'][191538] = {name = "文物碎片", additional_info = "任務物品\n唯一（8）\n[q]\"顯然已經毀損，但時常會發出微小的能量脈衝，使你的手掌心感到溫暖。\""}
 MultiLanguageItemData['tw'][191539] = {name = "薩爾奈的項圈", additional_info = "任務物品\n70 ( 70)\n[q]\"薩爾奈的項圈用了她小時候的牙齒和第一次狩獵的骨頭做為裝飾，但現在只是個破碎又沾著血跡的紀念物。\""}
 MultiLanguageItemData['tw'][191540] = {name = "霸圖的項圈", additional_info = "任務物品\n70 ( 70)\n[q]\"曾經力量強大且身材壯碩的巴卡犬，如今只剩下這個破碎的項圈。好友安息。\""}
@@ -43943,7 +43939,7 @@ MultiLanguageItemData['tw'][191592] = {name = "[q3]配方：攀纏火油", addit
 MultiLanguageItemData['tw'][191593] = {name = "[q3]配方：強化激盪藥水", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作強化激盪藥水。\n需要 巨龍群島鍊金術 (50)\n需要工匠聯盟聲望達到敬重。\n需要工匠聯盟聲望敬重。\n售價:"}
 MultiLanguageItemData['tw'][191594] = {name = "[q3]配方：反應瓶裝飾", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作反應瓶裝飾。\n需要 巨龍群島鍊金術 (50)\n需要工匠聯盟聲望達到敬重。\n需要工匠聯盟聲望敬重。\n售價:"}
 MultiLanguageItemData['tw'][191595] = {name = "[q3]配方：提爾幽光", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作提爾幽光。\n需要 巨龍群島鍊金術 (25)\n售價:"}
-MultiLanguageItemData['tw'][191596] = {name = "[q3]配方：卓越洞見", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作卓越洞見。\n需要 巨龍群島鍊金術 (25)\n售價:\n[q3]卓越洞見\n拾取後綁定\n[q2]使用: 分解成5個次級卓越洞見。\n最後加工製造材料\n\n[q2]製造時：使$en1提高$ev1。\n[q]可使用： 極為精細，十分難以製造的巨龍群島配方。\n售價:\n需要 工匠精神 (50)"}
+MultiLanguageItemData['tw'][191596] = {name = "[q3]配方：卓越洞見", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作卓越洞見。\n需要 巨龍群島鍊金術 (25)\n售價:\n[q3]卓越洞見\n拾取後綁定\n[q2]使用: 分解成5個次級卓越洞見。\n最後加工製造材料\n\n[q2]製造時：使技能提高30。\n[q]可使用： 極為精細，十分難以製造的巨龍群島配方。\n售價:\n需要 工匠精神 (50)"}
 MultiLanguageItemData['tw'][191597] = {name = "[q3]配方：藥水吸收抑制劑", additional_info = "[q2]使用:  教你學會如何製作藥水吸收抑制劑。\n需要 巨龍群島鍊金術 (50)\n售價:"}
 MultiLanguageItemData['tw'][191599] = {name = "[q3]配方：基本藥水實驗", additional_info = "拾取後綁定\n[q2]使用:  教你學會拿基本藥水做實驗。\n[q2]你已經將藥水實驗的所有知識都研究透徹了。\n需要 巨龍群島鍊金術 (10)\n售價:\n[q2]基本藥水鍊金實驗\n[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥水配方。\"\n需要 工匠精神 (5), 龍之鍊金溶液 (2), 全能之龍"}
 MultiLanguageItemData['tw'][191600] = {name = "[q3]配方：進階藥水實驗", additional_info = "拾取後綁定\n[q2]使用:  教你學會拿進階藥水做實驗。\n[q2]你已經將藥水實驗的所有知識都研究透徹了。\n需要 巨龍群島鍊金術 (25)\n售價:\n[q3]進階藥水鍊金實驗\n[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥水配方。\"\n需要 工匠精神 (5), 龍之鍊金溶液 (2), 全能之龍"}
@@ -43977,7 +43973,7 @@ MultiLanguageItemData['tw'][191643] = {name = "[q5]團結的記憶", additional_
 MultiLanguageItemData['tw'][191644] = {name = "[q5]團結的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶："}
 MultiLanguageItemData['tw'][191645] = {name = "[q5]團結的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶："}
 MultiLanguageItemData['tw'][191646] = {name = "藍尾小鯉", additional_info = "任務物品\n[q]\"在庫瑞的釣場附近所發現的特別美味的魚。\""}
-MultiLanguageItemData['tw'][191647] = {name = "[q3]巨牙海民釣竿", additional_info = "拾取後綁定 {雙手} {釣魚竿} {3-5點傷害} {速度 3.00}\n(每秒1.3點傷害)\n需要 釣魚 (1)\n售價:"}
+MultiLanguageItemData['tw'][191647] = {name = "[q3]巨牙海民釣竿", additional_info = "拾取後綁定{雙{手}\n需要 釣魚 (1)\n售價:"}
 MultiLanguageItemData['tw'][191648] = {name = "[q3]黑暗遊俠風帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n2護甲\n職業： 獵人\n售價:"}
 MultiLanguageItemData['tw'][191649] = {name = "[q3]黑暗遊俠長靴", additional_info = "拾取後綁定{腳} {鎖甲}\n2護甲\n職業： 獵人\n售價:"}
 MultiLanguageItemData['tw'][191650] = {name = "[q3]黑暗遊俠外衣", additional_info = "拾取後綁定{胸部} {鎖甲}\n3護甲\n職業： 獵人\n售價:"}
@@ -44298,16 +44294,16 @@ MultiLanguageItemData['tw'][192291] = {name = "[q4]永恆鬥士粉碎之錘", ad
 MultiLanguageItemData['tw'][192292] = {name = "[q4]永恆鬥士弩砲", additional_info = "拾取後綁定{遠程} {弩}\n{52-79點傷害} {速度 3.00}\n(每秒21.8點傷害)\n+29 敏捷\n+44 耐力\n[q2]+ 17 加速\n[q2]+ 42 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][192293] = {name = "[q4]永恆鬥士鐮刀", additional_info = "拾取後綁定{雙手} {長柄武器}\n{55-103點傷害} {速度 3.60}\n(每秒21.9點傷害)\n+29 敏捷\n+44 耐力\n[q2]+ 18 加速\n[q2]+ 40 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][192294] = {name = "[q4]永恆鬥士禱鐘", additional_info = "拾取後綁定{雙手} {法杖}\n{33-46點傷害} {速度 3.60}\n(每秒11.0點傷害)\n+130 智力\n+44 耐力\n[q2]+ 21 加速\n[q2]+ 37 臨機應變\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][192295] = {name = "[q4]永恆鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192296] = {name = "[q4]永恆鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192297] = {name = "[q4]永恆鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192298] = {name = "[q4]永恆鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192299] = {name = "[q4]永恆鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192300] = {name = "[q4]永恆鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][192295] = {name = "[q4]永恆鬥士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 致命一擊\n[q2]使用: 主要屬性提高 74 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192296] = {name = "[q4]永恆鬥士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 62 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192297] = {name = "[q4]永恆鬥士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 2714 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192298] = {name = "[q4]永恆鬥士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192299] = {name = "[q4]永恆鬥士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192300] = {name = "[q4]永恆鬥士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][192301] = {name = "[q4]永恆鬥士的縝密決心", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 啟動仲介者防禦機制，保護你自己不受法術中斷效果和控場效果影響。這個防禦機制最多可抵擋2次效果，持續12秒。\n售價:"}
 MultiLanguageItemData['tw'][192302] = {name = "[q4]永恆鬥士的迴盪決心", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間延長25%。無法與類似效果堆疊。受到效果影響時，免於下一個控場效果的影響，持續12秒。（500毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][192303] = {name = "[q4]永恆鬥士共鳴器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 投擲宇宙共鳴器，在4秒後爆炸，造成 2039 點星宙傷害，分攤給附近的所有敵人。\n\n 每命中一名敵人都使傷害提高，最多可命中5名敵人。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][192304] = {name = "[q4]永恆鬥士永恆禦盾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 啟動防禦機制，吸收受到的所有魔法傷害的 50 %，最多吸收[ 2339 * (1 + 臨機應變)]點傷害，持續15秒。可完全吸收星宙傷害。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][192304] = {name = "[q4]永恆鬥士永恆禦盾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+28 [敏捷 or 力量 or 智力]\n[q2]使用: 啟動防禦機制，吸收受到的所有魔法傷害的50%，最多吸收[ 2339 * (1 + 臨機應變)]點傷害，持續15秒。可完全吸收星宙傷害。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][192305] = {name = "[q4]永恆鬥士的吞噬詛咒", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 42 臨機應變\n[q2]使用: 在3秒內對附近所有敵人吸取( 752 * 4)點吸收量，接著對前方20碼錐形範圍釋放吸取的能量，改成吸收敵人的治療量。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][192306] = {name = "[q4]永恆鬥士屏障", additional_info = "拾取後綁定{副手} {盾}\n289護甲\n+15 力量\n+45 智力\n+22 耐力\n[q2]+ 16 臨機應變\n[q2]+ 13 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][192307] = {name = "[q4]永恆鬥士步槍", additional_info = "拾取後綁定{遠程} {槍}\n{46-86點傷害} {速度 3.00}\n(每秒22.0點傷害)\n+29 敏捷\n+44 耐力\n[q2]+ 23 致命一擊\n[q2]+ 35 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -44351,7 +44347,7 @@ MultiLanguageItemData['tw'][192348] = {name = "[q3]永恆志士絲質裹腕", ad
 MultiLanguageItemData['tw'][192349] = {name = "[q3]永恆志士鎧甲腕輪", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 7 致命一擊\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][192350] = {name = "[q3]永恆志士鍊甲裹腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 10 臨機應變\n[q2]+ 8 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][192351] = {name = "[q3]永恆志士皮甲裹腕", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 7 加速\n[q2]+ 11 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][192352] = {name = "[q3]永恆志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][192352] = {name = "[q3]永恆志士兇猛徽章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]使用: 主要屬性提高 41 點，持續15秒。 (1分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][192353] = {name = "[q3]永恆志士項鍊", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 18 加速\n[q2]+ 28 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][192354] = {name = "[q3]永恆志士鎧甲護盔", additional_info = "拾取後綁定{頭部} {板甲}\n41護甲\n+16 [力量 or 智力]\n+24 耐力\n[q2]+ 13 致命一擊\n[q2]+ 19 臨機應變\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][192355] = {name = "[q3]永恆志士披氅", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 8 加速\n[q2]+ 10 臨機應變\n售價:"}
@@ -44387,11 +44383,11 @@ MultiLanguageItemData['tw'][192384] = {name = "[q3]永恆志士絲質束腕", ad
 MultiLanguageItemData['tw'][192385] = {name = "[q3]永恆志士鎧甲臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n27護甲\n+9 [力量 or 智力]\n+14 耐力\n[q2]+ 8 加速\n[q2]+ 10 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][192386] = {name = "[q3]永恆志士鍊甲護腕", additional_info = "拾取後綁定{手腕} {鎖甲}\n18護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 9 加速\n[q2]+ 10 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][192387] = {name = "[q3]永恆志士皮甲臂甲", additional_info = "拾取後綁定{手腕} {皮甲}\n12護甲\n+9 [敏捷 or 智力]\n+14 耐力\n[q2]+ 8 致命一擊\n[q2]+ 10 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][192388] = {name = "[q3]永恆志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][192388] = {name = "[q3]永恆志士矯捷徽記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 23 加速\n[q2]裝備： 你的法術和技能有一定機率賦予你 34 點主要屬性，持續20秒。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][192389] = {name = "[q3]永恆志士頸飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 19 致命一擊\n[q2]+ 27 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][192390] = {name = "[q3]永恆志士斗篷", additional_info = "拾取後綁定背部\n10護甲\n+9 [敏捷 or 力量 or 智力]\n+14 耐力\n[q2]+ 9 臨機應變\n[q2]+ 9 精通\n售價:"}
 MultiLanguageItemData['tw'][192391] = {name = "[q3]永恆志士璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 21 精通\n售價:"}
-MultiLanguageItemData['tw'][192392] = {name = "[q3]永恆志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][192392] = {name = "[q3]永恆志士紋章", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 生命力上限提高 1321 點，持續15秒。 (2分鐘 冷卻)\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][192393] = {name = "[q3]永恆志士墜飾", additional_info = "拾取後綁定頸部\n+14 耐力\n[q2]+ 25 臨機應變\n[q2]+ 20 精通\n售價:"}
 MultiLanguageItemData['tw'][192394] = {name = "[q3]永恆志士戰斧", additional_info = "拾取後綁定{單手} {斧}\n{15-32點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 力量\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][192395] = {name = "[q3]永恆志士匕首", additional_info = "拾取後綁定{單手} {匕首}\n{12-21點傷害} {速度 1.80}\n(每秒9.2點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 7 致命一擊\n[q2]+ 9 臨機應變\n耐久: 80 / 80\n售價:"}
@@ -44411,9 +44407,9 @@ MultiLanguageItemData['tw'][192408] = {name = "[q3]永恆志士長矛", addition
 MultiLanguageItemData['tw'][192409] = {name = "[q3]永恆志士之刃", additional_info = "拾取後綁定{單手} {劍}\n{17-30點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 7 加速\n[q2]+ 10 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][192410] = {name = "[q3]永恆志士釘棒", additional_info = "拾取後綁定{單手} {權杖}\n{20-27點傷害} {速度 2.60}\n(每秒9.0點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 9 臨機應變\n[q2]+ 7 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][192411] = {name = "[q3]永恆志士月牙刃", additional_info = "拾取後綁定{單手} {匕首}\n{6-10點傷害} {速度 1.80}\n(每秒4.4點傷害)\n+47 智力\n+12 耐力\n[q2]+ 8 致命一擊\n[q2]+ 9 臨機應變\n耐久: 65 / 65\n售價:"}
-MultiLanguageItemData['tw'][192412] = {name = "[q3]永恆志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192413] = {name = "[q3]永恆志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
-MultiLanguageItemData['tw'][192414] = {name = "[q3]永恆志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高10%。\n售價:"}
+MultiLanguageItemData['tw'][192412] = {name = "[q3]永恆志士勳章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192413] = {name = "[q3]永恆志士無情胸針", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 後續控場效果的持續時間縮短20%。無法與類似效果堆疊。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
+MultiLanguageItemData['tw'][192414] = {name = "[q3]永恆志士適應徽章", additional_info = "拾取後綁定\n僅可裝備一件：鬥士勳章（1）\n飾品\n+15 [敏捷 or 力量 or 智力]\n[q2]裝備： 解除任何使你失去角色控制，且持續時間5秒以上的效果。這個能力每1分鐘只能觸發一次。\n\n[q]鬥士的特質 (0/2)\n[q0]鬥士紋章\n鬥士勳章\n[q0](2) 組合 : 在競技場、戰場和戰爭模式中，你的主要屬性提高12%、耐力提高20%。\n售價:"}
 MultiLanguageItemData['tw'][192421] = {name = "瓶中任務提供者", additional_info = "拾取後綁定\n唯一\n[q]\"這個瓶子裡面滿滿都是有害物質，而且不斷冒出泡泡。\""}
 MultiLanguageItemData['tw'][192422] = {name = "[q4]簧風琴提燈", additional_info = "暗語裝備\n拾取後綁定副手物品\n+76 智力\n+37 耐力\n[q2]+ 18 致命一擊\n[q2]+ 31 加速\n售價:"}
 MultiLanguageItemData['tw'][192423] = {name = "[q4]頌曲重弩", additional_info = "暗語裝備\n拾取後綁定{遠程} {弩}\n{89-135點傷害} {速度 3.00}\n(每秒37.3點傷害)\n+50 敏捷\n+75 耐力\n[q2]+ 61 致命一擊\n[q2]+ 38 加速\n耐久: 120 / 120\n售價:"}
@@ -44652,7 +44648,7 @@ MultiLanguageItemData['tw'][192793] = {name = "[q4]PH Thunder Lizard Black", add
 MultiLanguageItemData['tw'][192794] = {name = "[q4]PH Thunder Lizard Blue", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術"}
 MultiLanguageItemData['tw'][192795] = {name = "活力藥劑", additional_info = "任務物品\n[q2]使用: 在蓋利奇爾瞰臺的下層露臺，激勵受傷的蓋利奇爾士兵。\n[q]\"瓶子裡裝滿了黏稠的稜彩液體。\""}
 MultiLanguageItemData['tw'][192796] = {name = "[q4]探險者的石皮馱獸", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"真正的探險家不會長久停留在一處。有強壯的背與堅實的腿的馱獸，旅行才有保障。\"\n商人：\n補給官亞歷絲塔\n區域：\n薩爪祖斯\n花費：\n20000"}
-MultiLanguageItemData['tw'][192797] = {name = "[q2]格拉爾的棄牙", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的傷害法術和技能有很高的機率召喚一個靈魂鯊魚，造成 4230 點冰霜傷害，由你的目標和附近敵人分攤。\n\n 每命中一名敵人都可使傷害提高，最多 5 名敵人。\n售價:"}
+MultiLanguageItemData['tw'][192797] = {name = "[q2]格拉爾的棄牙", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的傷害法術和技能有很高的機率召喚一個靈魂鯊魚，造成 4230 點冰霜傷害，由你的目標和附近敵人分攤。\n\n 每命中一名敵人都可使傷害提高，最多5名敵人。\n售價:"}
 MultiLanguageItemData['tw'][192799] = {name = "[q4]莉茲的韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚『雷脊踏地者』莉茲。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"什麼都阻止不了莉茲將世上全部果實吃光光的使命。\"\n任務：\n馴服雷脊蜥蜴\n區域：\n雍亞拉平原"}
 MultiLanguageItemData['tw'][192800] = {name = "[q4]天藍毛皮角行鳥", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在潛在的時間線中，洪荒使者風暴的不穩定性有時會導致生物意外吸收該風暴的能量。如果有能力面對時光異象的狂暴，便很容易得到這些生物的青睞。\"\n商人：\n布瑞恩多米\n費用：\n150\n3000"}
 MultiLanguageItemData['tw'][192801] = {name = "[q4]PH Primal Tallstrider White", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術"}
@@ -44673,12 +44669,12 @@ MultiLanguageItemData['tw'][192997] = {name = "[q2]赤紅戰鬥者的珠寶璽�
 MultiLanguageItemData['tw'][192998] = {name = "[q2]赤紅戰鬥者的珠寶護符", additional_info = "裝備後綁定\n頸部\n+182 耐力\n[q2]+ 287 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][192999] = {name = "[q4]泰坦洞察璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+234 耐力\n[q2]+ 360 隨機數值1\n[q2]+ 360 隨機數值2"}
 MultiLanguageItemData['tw'][193000] = {name = "[q4]戒環束縛沙漏", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+234 耐力\n[q2]+ 360 隨機數值1\n[q2]+ 360 隨機數值2\n[q2]使用: 前往一個你可能早已遺忘的地方。 (20小時 冷卻)"}
-MultiLanguageItemData['tw'][193001] = {name = "[q4]元素頸鍊", additional_info = "拾取後綁定頸部\n+234 耐力\n[q2]+ 360 隨機數值1\n[q2]+ 360 隨機數值2\n[q2]裝備： 你的法術和技能有一定機率強化你其中一個鑲嵌的元素寶石，使其相關屬性提高 313 點。持續 5 秒，每個元素寶石額外提高 1 秒。\n售價:"}
+MultiLanguageItemData['tw'][193001] = {name = "[q4]元素頸鍊", additional_info = "拾取後綁定頸部\n+234 耐力\n[q2]+ 360 隨機數值1\n[q2]+ 360 隨機數值2\n[q2]裝備： 你的法術和技能有一定機率強化你其中一個鑲嵌的元素寶石，使其相關屬性提高 313 點。持續5秒，每個元素寶石額外提高1秒。\n售價:"}
 MultiLanguageItemData['tw'][193002] = {name = "[q4]護盾頸飾", additional_info = "拾取後綁定頸部\n+234 耐力\n[q2]+ 360 隨機數值1\n[q2]+ 360 隨機數值2\n[q2]使用: 從你和你的寶石汲取元素能量，並且從寶石的每條相關屬性中犧牲 31 點來為你提供護盾，每鑲嵌一個寶石會提供 13907 點護盾，持續10秒。\n\n 護盾被擊破或效果結束後，這些屬性都會恢復原狀。 (3分鐘 冷卻)"}
-MultiLanguageItemData['tw'][193003] = {name = "[q4]生命守縛者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的雅立史紅晶，每裝備一顆賦予你 34 點致命一擊。堆疊達 18 層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"明天會為你帶來新的挑戰，你必須做好面對的準備。\"\n售價:"}
-MultiLanguageItemData['tw'][193004] = {name = "[q4]織法者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的瑪里藍鑽，每裝備一顆賦予你 34 點臨機應變。堆疊達 18 層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"我在我的時間裡失去太多了，凡人，真的太多了。\"\n售價:"}
-MultiLanguageItemData['tw'][193005] = {name = "[q4]夢旅者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的伊瑟翡翠，每裝備一顆賦予你 34 點加速。堆疊達 18 層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"無論發生什麼事，我知道你一定會拿出勇氣面對。\"\n售價:"}
-MultiLanguageItemData['tw'][193006] = {name = "[q4]大地守護者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的奈薩里黑晶，每裝備一顆賦予你 34 點精通。堆疊達 18 層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"完成了。所有應當付出的皆已付出。我將永遠封起巨龍之魂。\"\n售價:"}
+MultiLanguageItemData['tw'][193003] = {name = "[q4]生命守縛者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的雅立史紅晶，每裝備一顆賦予你 34 點致命一擊。堆疊達18層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"明天會為你帶來新的挑戰，你必須做好面對的準備。\"\n售價:"}
+MultiLanguageItemData['tw'][193004] = {name = "[q4]織法者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的瑪里藍鑽，每裝備一顆賦予你 34 點臨機應變。堆疊達18層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"我在我的時間裡失去太多了，凡人，真的太多了。\"\n售價:"}
+MultiLanguageItemData['tw'][193005] = {name = "[q4]夢旅者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的伊瑟翡翠，每裝備一顆賦予你 34 點加速。堆疊達18層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"無論發生什麼事，我知道你一定會拿出勇氣面對。\"\n售價:"}
+MultiLanguageItemData['tw'][193006] = {name = "[q4]大地守護者塑像", additional_info = "拾取後綁定\n僅可裝備一件：守護巨龍塑像（1）\n飾品\n+244 [敏捷 or 力量 or 智力]\n[q2]裝備： 你的法術和技能有一定機率根據你所裝備的奈薩里黑晶，每裝備一顆賦予你 34 點精通。堆疊達18層時，消耗所有層數，使你的次要屬性提高 573 點，平均分攤於15秒中。\n[q]\"完成了。所有應當付出的皆已付出。我將永遠封起巨龍之魂。\"\n售價:"}
 MultiLanguageItemData['tw'][193032] = {name = "[q3]鑲寶石的祭品", additional_info = "玩具\n[q2]使用: 謙虛地把你最珍貴的財產獻給你認為值得接受的人。 (1天 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193033] = {name = "[q3]聚合鏡", additional_info = "玩具\n使用: 把附魔稜鏡抓在手中，指引光束射向精確的位置。\n\n 此光束只有你的隊伍或團隊成員才看得到。 (5秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193035] = {name = "[q2]粗體雙焦鏡", additional_info = "裝備後綁定\n僅可裝備一件：頭部（1）\n銘文用具\n[q2]+ 18 複數製造\n售價:"}
@@ -44834,11 +44830,11 @@ MultiLanguageItemData['tw'][193462] = {name = "[q4]忿怒鍊盔保衛者", addit
 MultiLanguageItemData['tw'][193463] = {name = "[q4]風靈套索", additional_info = "拾取後綁定{腰部} {鎖甲}\n312護甲\n+193 [敏捷 or 智力]\n+312 耐力\n[q2]+ 150 加速\n[q2]+ 205 精通\n耐久: 55 / 55\n[q]地平線騎士的服飾 (0/3)\n[q0]風靈套索\n鱗片韁繩之握\n先祖露滴護肩\n[q0](2) 組合 : 造成致命一擊傷害和極效治療後，有一定機率激勵你，使加速提高，持續10秒。此效果最多可堆疊5層。\n售價:"}
 MultiLanguageItemData['tw'][193464] = {name = "[q4]桑索克可汗的同盟腿甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n485護甲\n+257 [敏捷 or 智力]\n+416 耐力\n[q2]+ 280 致命一擊\n[q2]+ 198 精通\n耐久: 120 / 120\n[q2]裝備： 你的法術和技能有一定機率讓你和30碼範圍內距離最近的4位盟友提振鬥志並邁向勝利，使你們的臨機應變提高 138 點，持續10秒。\n售價:"}
 MultiLanguageItemData['tw'][193465] = {name = "[q4]鱗片韁繩之握", additional_info = "拾取後綁定{手} {鎖甲}\n312護甲\n+193 [敏捷 or 智力]\n+312 耐力\n[q2]+ 150 致命一擊\n[q2]+ 205 加速\n耐久: 55 / 55\n[q]地平線騎士的服飾 (0/3)\n[q0]風靈套索\n鱗片韁繩之握\n先祖露滴護肩\n[q0](2) 組合 : 造成致命一擊傷害和極效治療後，有一定機率激勵你，使加速提高，持續10秒。此效果最多可堆疊5層。\n售價:"}
-MultiLanguageItemData['tw'][193466] = {name = "[q4]強酸冰雹足靴", additional_info = "拾取後綁定{腳} {鎖甲}\n346護甲\n+193 [敏捷 or 智力]\n+312 耐力\n[q2]+ 205 致命一擊\n[q2]+ 150 精通\n耐久: 80 / 80\n{[q2]裝備： 這雙靴子使你全身瀰漫劇寒，使你的法術和技能偶爾會額外造成 2674 點冰霜傷害}，但是會永久使你的移動{速度降低 10 %。\n\n 若你穿戴一件以毒化護甲片製作的物品，這些效果會提高100%。}\n售價:"}
+MultiLanguageItemData['tw'][193466] = {name = "[q4]強酸冰雹足靴", additional_info = "拾取後綁定{腳} {鎖甲}\n346護甲\n+193 [敏捷 or 智力]\n+312 耐力\n[q2]+ 205 致命一擊\n[q2]+ 150 精通\n耐久: 80 / 80\n{[q2]裝備： 這雙靴子使你全身瀰漫劇寒，使你的法術和技能偶爾會額外造成 2674 點冰霜傷害}，但是會永久使你的移動{速度降低10%。\n\n 若你穿戴一件以毒化護甲片製作的物品，這些效果會提高100%。}\n售價:"}
 MultiLanguageItemData['tw'][193470] = {name = "[q2]兇野皮鼓", additional_info = "[q2]使用: 使所有隊伍和團隊成員的加速提高15%，持續40秒。\n\n 獲得此效果的盟友會進入精疲力竭狀態，在10分鐘內無法再度獲得嗜血術、英勇氣概或類似的效果。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193475] = {name = "[q3]精工騎乘馬鞭", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n[q2]裝備： 提高10%坐騎速度。\n售價:"}
 MultiLanguageItemData['tw'][193476] = {name = "[q3]豺狼人帳篷", additional_info = "玩具\n[q2]使用: 放置豺狼人帳篷，用來休息並放鬆。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][193477] = {name = "[q2]戰痕纍纍的鱗片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+244 [敏捷 or 力量]\n[q2]裝備： 受到近戰攻擊時，有一定機率賦予你大地結界，對附近目標造成 1746 點物理傷害，由附近所有敵人分攤，並賦予你一道吸收 12926 點傷害的護盾，持續8秒。\n\n 每命中一名敵人，可使造成的傷害提高，最多至 5 點。（5秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][193477] = {name = "[q2]戰痕纍纍的鱗片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+244 [敏捷 or 力量]\n[q2]裝備： 受到近戰攻擊時，有一定機率賦予你大地結界，對附近目標造成 1746 點物理傷害，由附近所有敵人分攤，並賦予你一道吸收 12926 點傷害的護盾，持續8秒。\n\n 每命中一名敵人，可使造成的傷害提高，最多至5點。（5秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][193478] = {name = "[q3]巨牙海民懶骨頭", additional_info = "玩具\n[q2]使用: 放置懶骨頭，可以坐在上面，持續2分鐘。 (2分鐘 冷卻)\n[q]\"品質最好的巨牙海民休閒器材。\"\n售價:"}
 MultiLanguageItemData['tw'][193479] = {name = "[q2]花籃", additional_info = "裝備後綁定\n僅可裝備一件：背部（1）\n草藥學用具[q2]+ 44 技法\n售價:"}
 MultiLanguageItemData['tw'][193480] = {name = "[q2]耐用背包", additional_info = "裝備後綁定\n僅可裝備一件：背部（1）\n剝皮用具[q2]+ 44 技法\n售價:"}
@@ -44855,9 +44851,9 @@ MultiLanguageItemData['tw'][193490] = {name = "[q3]高級剝皮師的軟帽", ad
 MultiLanguageItemData['tw'][193491] = {name = "[q3]防震擊手套", additional_info = "拾取後綁定\n僅可裝備一件：手部（1）\n工程學用具[q2]+ 36 精明\n[q2]+ 36 製造速度\n裝備： +6點巨龍群島工程學技能\n售價:"}
 MultiLanguageItemData['tw'][193492] = {name = "[q3]精工罩衫", additional_info = "拾取後綁定\n僅可裝備一件：胸部（1）\n製皮用具[q2]+ 29 複數製造\n裝備： +6點巨龍群島製皮技能\n售價:"}
 MultiLanguageItemData['tw'][193493] = {name = "[q3]高級鍊金師之帽", additional_info = "拾取後綁定\n僅可裝備一件：頭部（1）\n鍊金術用具[q2]+ 29 複數製造\n裝備： +6點巨龍群島鍊金術技能\n售價:"}
-MultiLanguageItemData['tw'][193494] = {name = "[q4]熾燃風帽", additional_info = "拾取後綁定{頭部} {皮甲}\n282護甲\n+257 [敏捷 or 智力]\n+416 耐力\n[q2]+ 200 加速\n[q2]+ 273 精通\n耐久: 100 / 100\n[q2]裝備： 在戰鬥中，你會渾身散發出高溫、灼燒附近敵人，每3秒造成 944 點火焰傷害，由附近所有敵人分攤。\n\n 每擊中一個敵人，傷害就會提高，上限是 5 個敵人。\n售價:"}
+MultiLanguageItemData['tw'][193494] = {name = "[q4]熾燃風帽", additional_info = "拾取後綁定{頭部} {皮甲}\n282護甲\n+257 [敏捷 or 智力]\n+416 耐力\n[q2]+ 200 加速\n[q2]+ 273 精通\n耐久: 100 / 100\n[q2]裝備： 在戰鬥中，你會渾身散發出高溫、灼燒附近敵人，每3秒造成 944 點火焰傷害，由附近所有敵人分攤。\n\n 每擊中一個敵人，傷害就會提高，上限是5個敵人。\n售價:"}
 MultiLanguageItemData['tw'][193495] = {name = "[q4]野蠻的弓", additional_info = "拾取後綁定{遠程} {弓}\n{502-503點傷害} {速度 2.60}\n(每秒193.3點傷害)\n+257 敏捷\n+416 耐力\n[q2]+ 273 致命一擊\n[q2]+ 205 加速\n[q2]裝備： 你的寵物受到滿滿的兇蠻鼓舞，使其造成的傷害提高 6 %。\n售價:"}
-MultiLanguageItemData['tw'][193496] = {name = "[q4]凋腐之書", additional_info = "拾取後綁定副手物品\n+394 智力\n+208 耐力\n[q2]+ 120 隨機數值1\n[q2]+ 120 隨機數值2\n{[q2]裝備： 以法術和技能造成傷害後，有很小的機率對目標造成書蠹之腐，使其每2秒受到 1780 點自然傷害}，且移動{速度降低 30 %，持續10秒。}\n售價:"}
+MultiLanguageItemData['tw'][193496] = {name = "[q4]凋腐之書", additional_info = "拾取後綁定副手物品\n+394 智力\n+208 耐力\n[q2]+ 120 隨機數值1\n[q2]+ 120 隨機數值2\n{[q2]裝備： 以法術和技能造成傷害後，有很小的機率對目標造成書蠹之腐，使其每2秒受到 1780 點自然傷害}，且移動{速度降低30%，持續10秒。}\n售價:"}
 MultiLanguageItemData['tw'][193497] = {name = "[q3]勘測員布甲手環", additional_info = "裝備後綁定\n{手腕} {布甲}\n42護甲\n+55 智力\n+82 耐力\n[q2]+ 55 隨機數值1\n[q2]+ 55 隨機數值2\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][193498] = {name = "[q3]勘測員布甲足靴", additional_info = "裝備後綁定\n{腳} {布甲}\n52護甲\n+73 智力\n+109 耐力\n[q2]+ 73 隨機數值1\n[q2]+ 73 隨機數值2\n耐久: 65 / 65\n售價:"}
 MultiLanguageItemData['tw'][193499] = {name = "黑爪翅膀包", additional_info = "拾取後綁定\n唯一\n[q2]使用: 減緩你的降落速度，持續2分鐘。只能在巨龍群島使用。\n[q]\"總比墜落好。\"\n售價:"}
@@ -44960,7 +44956,7 @@ MultiLanguageItemData['tw'][193648] = {name = "[q3]蒼藍之刃工作手套", ad
 MultiLanguageItemData['tw'][193649] = {name = "[q3]幻象束腕", additional_info = "拾取後綁定{手腕} {皮甲}\n51護甲\n+38 [敏捷 or 智力]\n+57 耐力\n[q2]+ 28 加速\n[q2]+ 47 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][193650] = {name = "[q3]破幻者護腰", additional_info = "拾取後綁定{腰部} {板甲}\n127護甲\n+50 [力量 or 智力]\n+75 耐力\n[q2]+ 37 致命一擊\n[q2]+ 63 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][193651] = {name = "[q3]金翼節杖", additional_info = "拾取後綁定{雙手} {法杖}\n{154-209點傷害} {速度 3.60}\n(每秒50.4點傷害)\n+67 敏捷\n+100 耐力\n[q2]+ 53 臨機應變\n[q2]+ 81 精通\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][193652] = {name = "[q3]樹嘴的膿瘡烈片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 力量]\n[q2]使用: 用裂片刺穿自己，立刻受到 6087 點自然傷害，但使其黏液覆蓋全身。黏液會吸收你受到的 50 %傷害，最高可達 24348 點傷害，持續15秒。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][193652] = {name = "[q3]樹嘴的膿瘡烈片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 力量]\n[q2]使用: 用裂片刺穿自己，立刻受到 6087 點自然傷害，但使其黏液覆蓋全身。黏液會吸收你受到的50%傷害，最高可達 24348 點傷害，持續15秒。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193653] = {name = "[q3]不腐翠葉面具", additional_info = "拾取後綁定{頭部} {布甲}\n44護甲\n+67 智力\n+100 耐力\n[q2]+ 84 臨機應變\n[q2]+ 50 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][193654] = {name = "[q3]遠古腐爛步靴", additional_info = "拾取後綁定{腳} {皮甲}\n63護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 65 致命一擊\n[q2]+ 35 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][193655] = {name = "[q3]腐膿枝根護肩", additional_info = "拾取後綁定{肩部} {鎖甲}\n103護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 59 加速\n[q2]+ 42 臨機應變\n耐久: 85 / 85\n售價:"}
@@ -44968,7 +44964,7 @@ MultiLanguageItemData['tw'][193656] = {name = "[q3]腫脹樹皮扣環", addition
 MultiLanguageItemData['tw'][193657] = {name = "[q3]腐朽束腕", additional_info = "拾取後綁定{手腕} {板甲}\n113護甲\n+38 [力量 or 智力]\n+57 耐力\n[q2]+ 28 加速\n[q2]+ 47 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][193658] = {name = "[q3]墮落枝幹", additional_info = "拾取後綁定{雙手} {權杖}\n{158-204點傷害} {速度 3.60}\n(每秒50.3點傷害)\n+67 力量\n+100 耐力\n[q2]+ 55 致命一擊\n[q2]+ 78 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][193659] = {name = "[q3]無盡腐朽孢子", additional_info = "拾取後綁定\n制作材料\n售價:"}
-MultiLanguageItemData['tw'][193660] = {name = "[q3]純粹腐朽塑像", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 智力]\n{[q2]裝備： 你的遠程法術和技能有一定機率釋放一波純粹的腐敗能量，最多可造成( 1177 * 3 )點自然傷害}，由命中的敵人平均分攤，並使其移動{速度最多降低(10 * 3 )%，持續15秒。}\n售價:"}
+MultiLanguageItemData['tw'][193660] = {name = "[q3]純粹腐朽塑像", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 智力]\n{[q2]裝備： 你的遠程法術和技能有一定機率釋放一波純粹的腐敗能量，最多可造成( 1177 * 3)點自然傷害}，由命中的敵人平均分攤，並使其移動{速度最多降低30%，持續15秒。}\n售價:"}
 MultiLanguageItemData['tw'][193661] = {name = "[q3]荒疫編織者攫爪", additional_info = "拾取後綁定{手} {皮甲}\n57護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 61 致命一擊\n[q2]+ 39 加速\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][193662] = {name = "[q3]稠密黏液裙甲", additional_info = "拾取後綁定{腿部} {鎖甲}\n131護甲\n+67 [敏捷 or 智力]\n+100 耐力\n[q2]+ 50 臨機應變\n[q2]+ 84 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][193663] = {name = "[q3]腐朽之母的怒視", additional_info = "拾取後綁定{頭部} {板甲}\n169護甲\n+67 [力量 or 智力]\n+100 耐力\n[q2]+ 53 加速\n[q2]+ 81 臨機應變\n耐久: 85 / 85\n售價:"}
@@ -44986,7 +44982,7 @@ MultiLanguageItemData['tw'][193674] = {name = "[q3]先祖塑石者", additional_
 MultiLanguageItemData['tw'][193675] = {name = "[q3]卡魯耶克盜獵長矛", additional_info = "拾取後綁定{雙手} {長柄武器}\n{127-236點傷害} {速度 3.60}\n(每秒50.4點傷害)\n+67 敏捷\n+100 耐力\n[q2]+ 78 致命一擊\n[q2]+ 55 加速\n耐久: 120 / 120\n[q]\"就算經過水的侵蝕且破舊不堪，庫庫克的工藝依然保存了下來。\"\n售價:"}
 MultiLanguageItemData['tw'][193676] = {name = "[q3]烏克赫遠祖串珠", additional_info = "拾取後綁定頸部\n+57 耐力\n[q2]+ 59 加速\n[q2]+ 129 精通\n售價:"}
 MultiLanguageItemData['tw'][193677] = {name = "[q3]憤恨怒羽", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 智力\n[q2]裝備： 你的傷害性法術有一定機率朝目標發射狩魂箭，在20秒內造成[ 429 * (11) * (1 + 臨機應變)]點暗影傷害。如果該目標在效果作用期間死亡，你的下一個傷害性法術會再發射一發狩魂箭。\n售價:"}
-MultiLanguageItemData['tw'][193678] = {name = "[q3]迷你歌唱石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 智力\n[q2]使用: 釋放雍亞拉的聲音，以風包覆一名盟友，以護盾吸收 4301 點傷害，持續10秒。此效果結束後，風會消散，最多為附近的 4 名盟友施加護盾。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][193678] = {name = "[q3]迷你歌唱石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 智力\n[q2]使用: 釋放雍亞拉的聲音，以風包覆一名盟友，以護盾吸收 4301 點傷害，持續10秒。此效果結束後，風會消散，最多為附近的4名盟友施加護盾。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193679] = {name = "[q3]踏蹄塑像", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 力量\n[q2]裝備： 你的攻擊有一定機率呼喚半人馬來協助你，使你隊伍的速度提高 86 點，持續5秒。半人馬會向前衝鋒，踐踏直線路徑上的敵人，造成 5309 點物理傷害，由被擊中的敵人平均分攤。\n售價:"}
 MultiLanguageItemData['tw'][193680] = {name = "[q3]永恆狩獵外套", additional_info = "拾取後綁定{胸部} {皮甲}\n102護甲\n+67 [敏捷 or 智力]\n+100 耐力\n[q2]+ 55 致命一擊\n[q2]+ 78 加速\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][193681] = {name = "[q3]第一大可汗之弓", additional_info = "拾取後綁定{遠程} {弓}\n{128-174點傷害} {速度 3.00}\n(每秒50.3點傷害)\n+67 敏捷\n+100 耐力\n[q2]+ 55 致命一擊\n[q2]+ 78 加速\n耐久: 120 / 120\n售價:"}
@@ -45039,11 +45035,11 @@ MultiLanguageItemData['tw'][193728] = {name = "[q3]鱗衛堅實巨靴", addition
 MultiLanguageItemData['tw'][193729] = {name = "[q3]長舌劈斧", additional_info = "拾取後綁定{單手} {斧}\n{64-134點傷害} {速度 2.60}\n(每秒38.1點傷害)\n+33 力量\n+50 耐力\n[q2]+ 25 加速\n[q2]+ 42 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][193730] = {name = "[q3]蛙聲匕首", additional_info = "拾取後綁定{單手} {匕首}\n{51-86點傷害} {速度 1.80}\n(每秒38.1點傷害)\n+33 敏捷\n+50 耐力\n[q2]+ 28 致命一擊\n[q2]+ 39 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][193731] = {name = "[q3]霜升之環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+57 耐力\n[q2]+ 126 加速\n[q2]+ 62 臨機應變\n售價:"}
-MultiLanguageItemData['tw'][193732] = {name = "[q3]鋸齒冰球", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 敏捷\n[q2]裝備： 你的有害法術和技能有一定機率以鋸齒尖冰刺穿目標，最多可堆疊4層。\n{[q2]使用: 粉碎所有裂片，最多造成 3717 點冰霜傷害}，由附近敵人平均分攤，同時每層使其移動{速度最多降低 5 %，持續 10 秒。 (30秒 冷卻)}\n售價:"}
+MultiLanguageItemData['tw'][193732] = {name = "[q3]鋸齒冰球", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 敏捷\n[q2]裝備： 你的有害法術和技能有一定機率以鋸齒尖冰刺穿目標，最多可堆疊4層。\n{[q2]使用: 粉碎所有裂片，最多造成 3717 點冰霜傷害}，由附近敵人平均分攤，同時每層使其移動{速度最多降低5%，持續10秒。 (30秒 冷卻)}\n售價:"}
 MultiLanguageItemData['tw'][193733] = {name = "[q3]卡金的冰雹裹足", additional_info = "拾取後綁定{腳} {布甲}\n37護甲\n+50 智力\n+75 耐力\n[q2]+ 35 臨機應變\n[q2]+ 65 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][193734] = {name = "[q3]凍結熱情鍊衫", additional_info = "拾取後綁定{胸部} {鎖甲}\n150護甲\n+67 [敏捷 or 智力]\n+100 耐力\n[q2]+ 55 致命一擊\n[q2]+ 78 臨機應變\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][193735] = {name = "[q3]震地者鋼鐵面甲", additional_info = "拾取後綁定{頭部} {板甲}\n169護甲\n+67 [力量 or 智力]\n+100 耐力\n[q2]+ 50 臨機應變\n[q2]+ 84 精通\n耐久: 85 / 85\n售價:"}
-MultiLanguageItemData['tw'][193736] = {name = "[q3]水之跳動心臟", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 智力\n[q2]使用: 使一位盟友的護甲值最多提高 894 點，並在8秒內恢復最多[ 1815 * (2.66667)]點生命力。這些效果會根據目標當前生命力提高，目標生命力低於 20 %時，效果最佳。 (2分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][193736] = {name = "[q3]水之跳動心臟", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 智力\n[q2]使用: 使一位盟友的護甲值最多提高 894 點，並在8秒內恢復最多[ 1815 * (2.66667)]點生命力。這些效果會根據目標當前生命力提高，目標生命力低於20%時，效果最佳。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193737] = {name = "[q3]10.0 Dungeon - Optional Reagent", additional_info = "拾取後綁定\n制作材料\n售價:"}
 MultiLanguageItemData['tw'][193738] = {name = "[q3]躍入深淵長袍", additional_info = "拾取後綁定{胸部} {布甲}\n59護甲\n+67 智力\n+100 耐力\n[q2]+ 84 致命一擊\n[q2]+ 50 精通\n耐久: 140 / 140\n售價:"}
 MultiLanguageItemData['tw'][193739] = {name = "[q3]重拾秩序足靴", additional_info = "拾取後綁定{腳} {皮甲}\n63護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 65 加速\n[q2]+ 35 臨機應變\n耐久: 80 / 80\n售價:"}
@@ -45076,7 +45072,7 @@ MultiLanguageItemData['tw'][193765] = {name = "[q3]火縛副官頭盔", addition
 MultiLanguageItemData['tw'][193766] = {name = "[q3]可幾亞的燃盡節杖", additional_info = "拾取後綁定副手物品\n+103 智力\n+50 耐力\n[q2]+ 43 致命一擊\n[q2]+ 23 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][193767] = {name = "[q3]浩劫粉碎者", additional_info = "拾取後綁定{單手} {權杖}\n{86-111點傷害} {速度 2.60}\n(每秒37.9點傷害)\n+33 敏捷\n+50 耐力\n[q2]+ 42 致命一擊\n[q2]+ 25 加速\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][193768] = {name = "[q3]逆鱗璽戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+57 耐力\n[q2]+ 59 致命一擊\n[q2]+ 129 精通\n售價:"}
-MultiLanguageItemData['tw'][193769] = {name = "[q3]爆發長矛碎片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 智力]\n[q2]使用: 點燃碎片以投擲爆發長矛，造成 5598 點火焰傷害，由區域內所有敵人分擔。爆發的烈焰會回到你身旁，持續10秒，每擊中一名敵人皆使你的致命一擊提高 103 點，最多可堆疊 5 層。 (1分鐘，30秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][193769] = {name = "[q3]爆發長矛碎片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 智力]\n[q2]使用: 點燃碎片以投擲爆發長矛，造成 5598 點火焰傷害，由區域內所有敵人分擔。爆發的烈焰會回到你身旁，持續10秒，每擊中一名敵人皆使你的致命一擊提高 103 點，最多可堆疊5層。 (1分鐘，30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][193770] = {name = "[q3]小史瓦格踏靴", additional_info = "拾取後綁定{腳} {鎖甲}\n94護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 63 臨機應變\n[q2]+ 37 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][193771] = {name = "[q3]原始熔岩踏靴", additional_info = "拾取後綁定{腳} {板甲}\n141護甲\n+50 [力量 or 智力]\n+75 耐力\n[q2]+ 63 致命一擊\n[q2]+ 37 加速\n耐久: 80 / 80\n\"鍛造大師最精良且最受忽略的護甲。\"\n售價:"}
 MultiLanguageItemData['tw'][193772] = {name = "[q3]龍鱗撕裂者", additional_info = "拾取後綁定{單手} {拳套}\n{81-116點傷害} {速度 2.60}\n(每秒37.9點傷害)\n+33 敏捷\n+50 耐力\n[q2]+ 39 致命一擊\n[q2]+ 28 臨機應變\n耐久: 80 / 80\n售價:"}
@@ -45092,8 +45088,8 @@ MultiLanguageItemData['tw'][193781] = {name = "[q3]熔岩纏繞者裹腿", addit
 MultiLanguageItemData['tw'][193782] = {name = "[q3]餘燼守衛背心", additional_info = "拾取後綁定{胸部} {鎖甲}\n150護甲\n+67 [敏捷 or 智力]\n+100 耐力\n[q2]+ 81 加速\n[q2]+ 53 精通\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][193783] = {name = "[q3]鐵炬燃火者", additional_info = "拾取後綁定副手物品\n+103 智力\n+50 耐力\n[q2]+ 41 致命一擊\n[q2]+ 26 加速\n售價:"}
 MultiLanguageItemData['tw'][193784] = {name = "[q3]鍛造大師之握", additional_info = "拾取後綁定{手} {板甲}\n127護甲\n+50 [力量 or 智力]\n+75 耐力\n[q2]+ 59 加速\n[q2]+ 42 臨機應變\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][193785] = {name = "[q3]鍛造風暴", additional_info = "拾取後綁定\n僅可裝備一件\n{單手} {權杖}\n{86-111點傷害} {速度 2.60}\n(每秒37.9點傷害)\n+50 耐力\n[q2]+ 32 致命一擊\n[q2]+ 35 加速\n耐久: 110 / 110\n裝備： 你的攻擊有一定機率點燃鍛造風暴，持續12秒，使你的攻擊會爆炸造成 1627 點火焰傷害，由附近所有敵人分攤。\n\n 每命中一名敵人都會使傷害提高，最多 5 名敵人。\n售價:"}
-MultiLanguageItemData['tw'][193786] = {name = "[q3]突變熔岩猛瑪象鱗片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率使你的身體長出烈焰觸手，持續10秒。觸手每 2 秒會猛擊，造成 380 點火焰傷害，由你面前的敵人分攤。\n\n 每命中一名敵人都會使傷害提高，最多 5 名敵人。\n售價:"}
+MultiLanguageItemData['tw'][193785] = {name = "[q3]鍛造風暴", additional_info = "拾取後綁定\n僅可裝備一件\n{單手} {權杖}\n{86-111點傷害} {速度 2.60}\n(每秒37.9點傷害)\n+50 耐力\n[q2]+ 32 致命一擊\n[q2]+ 35 加速\n耐久: 110 / 110\n裝備： 你的攻擊有一定機率點燃鍛造風暴，持續12秒，使你的攻擊會爆炸造成 1627 點火焰傷害，由附近所有敵人分攤。\n\n 每命中一名敵人都會使傷害提高，最多5名敵人。\n售價:"}
+MultiLanguageItemData['tw'][193786] = {name = "[q3]突變熔岩猛瑪象鱗片", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+64 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率使你的身體長出烈焰觸手，持續10秒。觸手每2秒會猛擊，造成 380 點火焰傷害，由你面前的敵人分攤。\n\n 每命中一名敵人都會使傷害提高，最多5名敵人。\n售價:"}
 MultiLanguageItemData['tw'][193787] = {name = "[q3]猛瑪象訓練師披氅", additional_info = "拾取後綁定背部\n41護甲\n+38 [敏捷 or 力量 or 智力]\n+57 耐力\n[q2]+ 26 致命一擊\n[q2]+ 49 精通\n售價:"}
 MultiLanguageItemData['tw'][193788] = {name = "[q3]熔火岩漿披肩", additional_info = "拾取後綁定{肩部} {布甲}\n41護甲\n+50 智力\n+75 耐力\n[q2]+ 39 致命一擊\n[q2]+ 61 加速\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][193789] = {name = "[q3]富拉爾的熾炎腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n197護甲\n+67 [力量 or 智力]\n+100 耐力\n[q2]+ 53 加速\n[q2]+ 81 精通\n耐久: 100 / 100\n售價:"}
@@ -45104,7 +45100,7 @@ MultiLanguageItemData['tw'][193793] = {name = "[q3]凶猛土狼皮束腕", addit
 MultiLanguageItemData['tw'][193794] = {name = "[q3]守門者束腰", additional_info = "拾取後綁定{腰部} {鎖甲}\n84護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 65 致命一擊\n[q2]+ 35 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][193795] = {name = "[q3]守衛者鋼鐵之握", additional_info = "拾取後綁定{手} {板甲}\n127護甲\n+50 [力量 or 智力]\n+75 耐力\n[q2]+ 59 致命一擊\n[q2]+ 42 精通\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][193796] = {name = "[q3]密庫穿刺者", additional_info = "拾取後綁定{遠程} {槍}\n{105-197點傷害} {速度 3.00}\n(每秒50.3點傷害)\n+67 敏捷\n+100 耐力\n[q2]+ 81 加速\n[q2]+ 53 精通\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][193797] = {name = "[q3]破岩者", additional_info = "拾取後綁定{單手} {權杖}\n{86-111點傷害} {速度 2.60}\n(每秒37.9點傷害)\n+33 敏捷\n+50 耐力\n[q2]+ 43 臨機應變\n[q2]+ 23 精通\n耐久: 110 / 110\n售價:"}
+MultiLanguageItemData['tw'][193797] = {name = "[q3]破岩者", additional_info = "拾取後綁定{單手} {權杖}\n{86-111點傷害} {速度 2.60}\n(每秒37.9點傷害)\n+33 敏捷\n+50 耐力\n[q2]+ 43 臨機應變\n[q2]+ 23 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][193798] = {name = "[q3]遠古泰坦合金", additional_info = "拾取後綁定\n制作材料\n售價:"}
 MultiLanguageItemData['tw'][193799] = {name = "[q3]癲狂旅人裹腿", additional_info = "拾取後綁定{腿部} {布甲}\n52護甲\n+67 智力\n+100 耐力\n[q2]+ 84 加速\n[q2]+ 50 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][193800] = {name = "[q3]預示終結之視", additional_info = "拾取後綁定{頭部} {皮甲}\n76護甲\n+67 [敏捷 or 智力]\n+100 耐力\n[q2]+ 87 加速\n[q2]+ 47 精通\n耐久: 85 / 85\n售價:"}
@@ -45112,7 +45108,7 @@ MultiLanguageItemData['tw'][193801] = {name = "[q3]命縛鎖子甲", additional_
 MultiLanguageItemData['tw'][193802] = {name = "[q3]不變真理肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n155護甲\n+50 [力量 or 智力]\n+75 耐力\n[q2]+ 61 致命一擊\n[q2]+ 39 加速\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][193803] = {name = "[q3]恆龍尖杖", additional_info = "拾取後綁定{雙手} {法杖}\n{77-104點傷害} {速度 3.60}\n(每秒25.1點傷害)\n+298 智力\n+100 耐力\n[q2]+ 47 致命一擊\n[q2]+ 87 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][193804] = {name = "[q3]永恆哨兵戒指", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+57 耐力\n[q2]+ 132 致命一擊\n[q2]+ 56 加速\n售價:"}
-MultiLanguageItemData['tw'][193805] = {name = "[q3]無情共鳴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+96 耐力\n[q2]裝備： 生命力降至 50 %以下時，將會啟動防禦矩陣，持續12秒，矩陣有很高機率在你受到傷害時進行反擊，造成 851 點火焰傷害，並吸收你接下來受到的 3691 點傷害。\n\n 此效果每2分鐘只能觸發一次。\n售價:"}
+MultiLanguageItemData['tw'][193805] = {name = "[q3]無情共鳴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+96 耐力\n[q2]裝備： 生命力降至50%以下時，將會啟動防禦矩陣，持續12秒，矩陣有很高機率在你受到傷害時進行反擊，造成 851 點火焰傷害，並吸收你接下來受到的 3691 點傷害。\n\n 此效果每2分鐘只能觸發一次。\n售價:"}
 MultiLanguageItemData['tw'][193806] = {name = "[q3]遠古交纏便鞋", additional_info = "拾取後綁定{腳} {布甲}\n37護甲\n+50 智力\n+75 耐力\n[q2]+ 37 致命一擊\n[q2]+ 63 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][193807] = {name = "[q3]活化巨石護肩", additional_info = "拾取後綁定{肩部} {皮甲}\n70護甲\n+50 [敏捷 or 智力]\n+75 耐力\n[q2]+ 39 致命一擊\n[q2]+ 61 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][193808] = {name = "[q3]哨兵戰鬥長槍", additional_info = "拾取後綁定{雙手} {長柄武器}\n{127-236點傷害} {速度 3.60}\n(每秒50.4點傷害)\n+67 敏捷\n+100 耐力\n[q2]+ 81 臨機應變\n[q2]+ 53 精通\n耐久: 120 / 120\n售價:"}
@@ -45340,16 +45336,16 @@ MultiLanguageItemData['tw'][194296] = {name = "[q3]圖樣：把玩龍金裁剪�
 MultiLanguageItemData['tw'][194297] = {name = "[q3]圖樣：把玩卡茲格羅岩裁剪刀", additional_info = "拾取後綁定\n[q2]使用:  教你學會把玩卡茲格羅岩裁剪刀。\n[q2]你已精通這項技術，或許把玩你的工具就會激發你的靈感？唯一能保證的是它們的毀滅！\n需要 巨龍群島裁縫 (50)\n售價:\n把玩卡茲格羅岩裁剪刀\n[q]\"如果按住那裡並同時拉扯這裡會發生什麼事呢？\"\n需要 彈簧式卡茲格羅岩裁剪刀 , 龍金針線組"}
 MultiLanguageItemData['tw'][194298] = {name = "[q3]圖樣：悲戚喪禮蓋棺布", additional_info = "[q2]使用:  教你學會如何製作悲戚喪禮蓋棺布。\n需要 巨龍群島裁縫 (45)\n售價:"}
 MultiLanguageItemData['tw'][194299] = {name = "[q4]烈焰裝飾", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+351 [敏捷 or 力量]\n[q2]使用: 重踏地面，命令烈焰從你的位置放射出去，造成 30948 點火焰傷害由所有命中的敵人分攤，並賦予你一道 57788 點的護盾，持續30秒。短暫延遲後，烈焰會返回，造成一樣的傷害並重置護盾。\n\n 每命中一名敵人會使傷害和吸收量提高，最多5名敵人。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][194300] = {name = "[q4]魔法冰凍球", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+351 智力\n[q2]使用: 若你的法力高於 65 %，朝你的目標投擲冰凍球，造成 55707 點冰霜傷害。\n\n 若你的法力低於 65 %，改為飲用冰凍球，立刻恢復 4523 點法力。 (1分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][194300] = {name = "[q4]魔法冰凍球", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+351 智力\n[q2]使用: 若你的法力高於65%，朝你的目標投擲冰凍球，造成 55707 點冰霜傷害。\n\n 若你的法力低於65%，改為飲用冰凍球，立刻恢復 4523 點法力。 (1分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][194301] = {name = "[q4]低語化身印記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+371 [敏捷 or 力量 or 智力]\n[q2]裝備： 屈從於雕像的呢喃，因此體內充滿 冰霜 的力量，使你的 致命一擊 提高 478 點。\n\n 和體內同樣充滿 大地或火焰 力量的盟友並肩作戰，有一定機率賦予你灌注於該盟友的屬性 131 點，持續12秒。\n\n 灌注的力量類型會根據你的專精。（1.5秒 冷卻）\n售價:"}
-MultiLanguageItemData['tw'][194302] = {name = "[q4]噬風者的恩澤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+371 [敏捷 or 力量]\n[q2]使用: 接受風暴，成為洪荒風元素，並使你自己無法行動，持續10秒。\n\n 在此形態下，你身邊的風每秒對 10 碼範圍內的所有敵人造成 6309 點自然傷害，每秒提高 10 %，直到變形效果消退為止。 (3分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][194303] = {name = "[q4]震盪紅晶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+351 力量\n[q2]裝備： 你的攻擊會漸漸堆疊震盪之力，每層賦予 21 點攻擊強度。\n\n 堆疊10層時，你的下 3 次近戰技能會朝你面前釋放衝擊波，對直線路徑上的所有敵人額外造成 16542 點自然傷害。衝擊波會對生命力高的敵人造成更多傷害。（500毫秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][194302] = {name = "[q4]噬風者的恩澤", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+371 [敏捷 or 力量]\n[q2]使用: 接受風暴，成為洪荒風元素，並使你自己無法行動，持續10秒。\n\n 在此形態下，你身邊的風每秒對10碼範圍內的所有敵人造成 6309 點自然傷害，每秒提高10%，直到變形效果消退為止。 (3分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][194303] = {name = "[q4]震盪紅晶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+351 力量\n[q2]裝備： 你的攻擊會漸漸堆疊震盪之力，每層賦予 21 點攻擊強度。\n\n 堆疊10層時，你的下3次近戰技能會朝你面前釋放衝擊波，對直線路徑上的所有敵人額外造成 16542 點自然傷害。衝擊波會對生命力高的敵人造成更多傷害。（500毫秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][194304] = {name = "[q4]冰血死亡陷阱", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+351 智力\n[q2]使用: 對目標造成 40232 點冰霜傷害，將目標和附近所有敵人包在晶化絲網中，續15秒。被網住的敵人緩速15%，當網中的任何敵人被命中時，被網住的敵人也會受到 3185 點冰霜傷害。\n\n 每個被網住的敵人受到的傷害提高，最多影響5名敵人。超過5名敵人時，每個目標受到的傷害降低。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][194305] = {name = "[q4]電能掌控技巧", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+371 敏捷\n{[q2]裝備： 你的致命一擊有一定機率會堆疊靜電，每一層賦予你 2 %攻擊{速度。此效果每1秒觸發一次。\n\n 堆疊 10 層時，閃電會在你體內澎湃，使你的移動{速度提高 30 %，持續 12 秒。閃電澎湃時，你的自動攻擊會電擊你的目標和附近1名敵人，造成 6470 點自然傷害}。\n\n 此效果消退時，你會定身1分鐘，並且無法產生靜電。（1.5秒 冷卻）}\n售價:"}
+MultiLanguageItemData['tw'][194305] = {name = "[q4]電能掌控技巧", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+371 敏捷\n{[q2]裝備： 你的致命一擊有一定機率會堆疊靜電，每一層賦予你2%攻擊{速度。此效果每1秒觸發一次。\n\n 堆疊10層時，閃電會在你體內澎湃，使你的移動{速度提高30%，持續12秒。閃電澎湃時，你的自動攻擊會電擊你的目標和附近1名敵人，造成 6470 點自然傷害}。\n\n 此效果消退時，你會定身1分鐘，並且無法產生靜電。（1.5秒 冷卻）}\n售價:"}
 MultiLanguageItemData['tw'][194306] = {name = "[q4]大師的全圖騰", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+371 [敏捷 or 力量]\n[q2]裝備： 進入元素姿態。成功閃躲或招架攻擊後，對你面前的敵人施展強大的元素反擊，同時轉為下一個姿態。\n\n 此效果每30秒只能觸發一次。（30秒 冷卻）\n售價:"}
-MultiLanguageItemData['tw'][194307] = {name = "[q4]幼龍守衛者的保證", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 智力\n[q2]使用: 指定和另一名玩家連結，成為其守護者，持續1小時。\n\n 連結時，你和盟友獲得[ 94 * (1 - 20 / 100)]點臨機應變，且每秒恢復[ 964 * (1 - 40 / 100)]點生命力。若你們彼此相距15碼範圍內，加成效果會提高。\n\n僅適用於治療者專精。 (5秒 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][194307] = {name = "[q4]幼龍守衛者的保證", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 智力\n[q2]使用: 指定和另一名玩家連結，成為其守護者，持續1小時。\n\n 連結時，你和盟友獲得[ 94 * (0.8)]點臨機應變，且每秒恢復[ 964 * (0.6)]點生命力。若你們彼此相距15碼範圍內，加成效果會提高。\n\n僅適用於治療者專精。 (5秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][194308] = {name = "[q4]『狂躁』哀炬", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量]\n[q2]使用: 引導2秒，在你的目標周圍釋放一連串狂怒烈焰，對目標造成[ 20285 * (8) * (1 + 臨機應變)]點火焰傷害，並且有機率對附近敵人造成額外傷害。\n\n 每當一名盟友玩家死亡，此冷卻時間縮短90秒。 (2分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][194309] = {name = "[q4]惡意風暴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量 or 智力]\n[q2]裝備： 施放法術和技能會堆疊惡意層數。堆疊 5 層時，一支惡意風暴箭會射向你的當前目標，在3秒內造成[ 1828 * (6) * (1 + 臨機應變)]點自然傷害。\n\n 效果結束後箭會返回，需要的惡意會提高 1 層，並永久性提高惡意風暴箭對該目標造成的傷害，直到你們其中一方死亡。（1秒 冷卻）\n售價:"}
+MultiLanguageItemData['tw'][194309] = {name = "[q4]惡意風暴", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量 or 智力]\n[q2]裝備： 施放法術和技能會堆疊惡意層數。堆疊5層時，一支惡意風暴箭會射向你的當前目標，在3秒內造成[ 1828 * (6) * (1 + 臨機應變)]點自然傷害。\n\n 效果結束後箭會返回，需要的惡意會提高1層，並永久性提高惡意風暴箭對該目標造成的傷害，直到你們其中一方死亡。（1秒 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][194310] = {name = "[q4]絕望塑能師的寶典", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 智力\n[q2]裝備： 施放法術會獲得憎恨層數，使此飾品的冷卻時間永久性縮短1秒，直到戰鬥結束。此效果可堆疊180次。（1秒 冷卻）\n[q2]使用: 釋放一道危險的閃電電流，對你的目標造成 125328 點自然傷害，同時對你自己造成 665 點傷害。對自己的傷害會隨著你的憎恨層數而提高。 (4分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][194311] = {name = "[q3]圖樣：巨牙海民懶骨頭", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作巨牙海民懶骨頭。\n需要 巨龍群島製皮 (50)\n需要伊斯凱拉巨牙海民的名望等級23。\n已經學會\n售價:"}
 MultiLanguageItemData['tw'][194312] = {name = "[q3]圖樣：豺狼人帳篷", additional_info = "[q2]使用:  教你學會如何製作豺狼人帳篷。\n需要 巨龍群島製皮 (50)\n售價:"}
@@ -45860,7 +45856,7 @@ MultiLanguageItemData['tw'][195476] = {name = "[q4]伊拉諾格的華飾長盔",
 MultiLanguageItemData['tw'][195477] = {name = "[q4]熔火之力肩鎧", additional_info = "拾取後綁定{肩部} {板甲}\n850護甲\n+277 [力量 or 智力]\n+709 耐力\n[q2]+ 164 加速\n[q2]+ 318 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][195478] = {name = "[q4]沃卓肯保衛者叛徒", additional_info = "拾取後綁定{胸部} {皮甲}\n558護甲\n+369 [敏捷 or 智力]\n+946 耐力\n[q2]+ 209 加速\n[q2]+ 434 臨機應變\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][195479] = {name = "[q4]顧焰師裹腿", additional_info = "拾取後綁定{腿部} {布甲}\n284護甲\n+369 智力\n+946 耐力\n[q2]+ 422 致命一擊\n[q2]+ 221 加速\n耐久: 120 / 120\n售價:"}
-MultiLanguageItemData['tw'][195480] = {name = "[q4]戴恩娜之選的徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+587 耐力\n[q2]+ 312 致命一擊\n[q2]+ 943 臨機應變\n[q2]裝備： 造成火焰傷害後，有一定機率點燃你的敵人使其燃燒，每 2 秒內額外造成 3927 點傷害。\n售價:"}
+MultiLanguageItemData['tw'][195480] = {name = "[q4]戴恩娜之選的徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+587 耐力\n[q2]+ 312 致命一擊\n[q2]+ 943 臨機應變\n[q2]裝備： 造成火焰傷害後，有一定機率點燃你的敵人使其燃燒，每2秒內額外造成 3927 點傷害。\n售價:"}
 MultiLanguageItemData['tw'][195481] = {name = "[q4]嚴厲手段權杖", additional_info = "拾取後綁定{單手} {權杖}\n{252-325點傷害} {速度 2.60}\n(每秒111.0點傷害)\n+1,138 智力\n+522 耐力\n[q2]+ 223 加速\n[q2]+ 111 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][195482] = {name = "[q4]華麗指揮官燼火披風", additional_info = "拾取後綁定背部\n223護甲\n+208 [敏捷 or 力量 or 智力]\n+532 耐力\n[q2]+ 240 加速\n[q2]+ 122 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][195483] = {name = "[q4]瓦克曼尼，恐怖圖騰的遺產", additional_info = "拾取後綁定{雙手} {長柄武器}\n{741-1,376點傷害} {速度 3.60}\n(每秒294.0點傷害)\n+391 敏捷\n+1,044 耐力\n[q2]+ 441 加速\n[q2]+ 227 精通\n耐久: 120 / 120\n售價:"}
@@ -45906,7 +45902,7 @@ MultiLanguageItemData['tw'][195522] = {name = "[q4]塔拉賽克軍團裙甲", ad
 MultiLanguageItemData['tw'][195523] = {name = "[q4]護卵者的安全長手套", additional_info = "拾取後綁定{手} {布甲}\n191護甲\n+301 智力\n+821 耐力\n[q2]+ 355 致命一擊\n[q2]+ 155 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][195524] = {name = "[q4]族母的豐饒束腰", additional_info = "拾取後綁定{腰部} {板甲}\n727護甲\n+301 [力量 or 智力]\n+821 耐力\n[q2]+ 336 臨機應變\n[q2]+ 174 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][195525] = {name = "[q4]忠誠的顧焰師護腕", additional_info = "拾取後綁定{手腕} {皮甲}\n291護甲\n+226 [敏捷 or 智力]\n+616 耐力\n[q2]+ 255 致命一擊\n[q2]+ 128 精通\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][195526] = {name = "[q4]孝順徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+693 耐力\n[q2]+ 342 加速\n[q2]+ 1,032 精通\n[q2]裝備： 造成火焰傷害後，有一定機率激勵你，使你吸收 47021 點傷害，持續 6 秒。\n售價:"}
+MultiLanguageItemData['tw'][195526] = {name = "[q4]孝順徽印", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+693 耐力\n[q2]+ 342 加速\n[q2]+ 1,032 精通\n[q2]裝備： 造成火焰傷害後，有一定機率激勵你，使你吸收 47021 點傷害，持續6秒。\n售價:"}
 MultiLanguageItemData['tw'][195527] = {name = "[q4]奈特拉克斯，天空之敵", additional_info = "拾取後綁定{遠程} {弓}\n{823-1,114點傷害} {速度 3.00}\n(每秒322.8點傷害)\n+429 敏捷\n+1,233 耐力\n[q2]+ 500 致命一擊\n[q2]+ 211 加速\n耐久: 120 / 120\n[q2]裝備： 對一個敵人進行自動攻擊後，使你的自動攻擊傷害提高10%，最多可堆疊5層。對不同目標進行自動攻擊後，立刻重置此加成效果。\n售價:"}
 MultiLanguageItemData['tw'][195528] = {name = "[q4]洪荒化身天空裂斧", additional_info = "拾取後綁定{雙手} {斧}\n{707-1,470點傷害} {速度 3.60}\n(每秒302.4點傷害)\n+402 力量\n+1,095 耐力\n[q2]+ 477 致命一擊\n[q2]+ 204 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][195529] = {name = "[q4]風暴鞭笞的最終手段", additional_info = "拾取後綁定{單手} {匕首}\n{154-257點傷害} {速度 1.80}\n(每秒114.2點傷害)\n+1,170 智力\n+548 耐力\n[q2]+ 240 致命一擊\n[q2]+ 101 精通\n耐久: 80 / 80\n售價:"}
@@ -46286,8 +46282,8 @@ MultiLanguageItemData['tw'][197760] = {name = "鯖魚點心", additional_info = 
 MultiLanguageItemData['tw'][197761] = {name = "大概是蛋白質", additional_info = "[q2]使用: 在20秒內恢復( 101250 / 5 * 20)點生命力。進食時必須保持坐姿。\n售價:"}
 MultiLanguageItemData['tw'][197762] = {name = "酸甜蛤蜊濃湯", additional_info = "[q2]使用: 在20秒內恢復( 80357 / 5 * 20)點生命力和( 107143 / 5 * 20)點法力。進食時必須保持坐姿。\n售價:"}
 MultiLanguageItemData['tw'][197763] = {name = "龍族勇士早餐", additional_info = "[q2]使用: 在20秒內恢復( 80357 / 5 * 20)點生命力和( 107143 / 5 * 20)點法力。進食時必須保持坐姿。\n售價:"}
-MultiLanguageItemData['tw'][197764] = {name = "[q2]配菜沙拉", additional_info = "最後加工製造材料\n\n[q2]製造時：一道健康又有飽足感的沙拉，最後絕對會吃不完。這道菜獲得$ev1點$en1。\n[q]可使用： 巨龍群島一人份食物食譜。\n售價:"}
-MultiLanguageItemData['tw'][197765] = {name = "[q2]出奇鋒利的切割刀", additional_info = "最後加工製造材料\n\n[q2]製造時：完美精確的刀工，一點原料都不浪費。這個食譜獲得$ev1點$en1。\n[q]可使用： 巨龍群島一人份食物食譜。\n售價:"}
+MultiLanguageItemData['tw'][197764] = {name = "[q2]配菜沙拉", additional_info = "最後加工製造材料\n\n[q2]製造時：一道健康又有飽足感的沙拉，最後絕對會吃不完。這道菜獲得90點複數製造。\n[q]可使用： 巨龍群島一人份食物食譜。\n售價:"}
+MultiLanguageItemData['tw'][197765] = {name = "[q2]出奇鋒利的切割刀", additional_info = "最後加工製造材料\n\n[q2]製造時：完美精確的刀工，一點原料都不浪費。這個食譜獲得110點精明。\n[q]可使用： 巨龍群島一人份食物食譜。\n售價:"}
 MultiLanguageItemData['tw'][197766] = {name = "雪淇淋甜筒", additional_info = "[q2]使用: 好吃！\n售價:"}
 MultiLanguageItemData['tw'][197767] = {name = "胖胖馬芬", additional_info = "[q2]使用: 好吃…？\n售價:"}
 MultiLanguageItemData['tw'][197768] = {name = "慶祝蛋糕", additional_info = "[q2]使用: 端出讓人開心的蛋糕，慶祝重大時刻！ (2分鐘 冷卻)\n售價:"}
@@ -46359,26 +46355,26 @@ MultiLanguageItemData['tw'][197904] = {name = "[q3]席卡狩獵小刀", addition
 MultiLanguageItemData['tw'][197905] = {name = "[q2]薩曼瑟螈分割刃", additional_info = "拾取後綁定{單手} {匕首}\n{22-37點傷害} {速度 1.80}\n(每秒16.4點傷害)\n+15 敏捷\n+22 耐力\n[q2]+ 13 加速\n[q2]+ 16 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][197906] = {name = "[q2]蹄萊墜盒", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 43 致命一擊\n[q2]+ 39 精通\n售價:"}
 MultiLanguageItemData['tw'][197907] = {name = "[q2]雍伊爾墜飾", additional_info = "拾取後綁定頸部\n+25 耐力\n[q2]+ 38 加速\n[q2]+ 45 精通\n售價:"}
-MultiLanguageItemData['tw'][197910] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Shoulder", additional_info = "拾取後綁定{肩部} {板甲}\n888護甲\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
-MultiLanguageItemData['tw'][197911] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Legs", additional_info = "拾取後綁定{腿部} {板甲}\n1130護甲\n+402 [力量 or 智力]\n+1,095 耐力\n售價:"}
-MultiLanguageItemData['tw'][197912] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Chest", additional_info = "拾取後綁定{胸部} {板甲}\n1292護甲\n+402 [力量 or 智力]\n+1,095 耐力\n售價:"}
-MultiLanguageItemData['tw'][197913] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Helm", additional_info = "拾取後綁定{頭部} {板甲}\n969護甲\n+402 [力量 or 智力]\n+1,095 耐力\n售價:"}
-MultiLanguageItemData['tw'][197914] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Hands", additional_info = "拾取後綁定{手} {板甲}\n727護甲\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
-MultiLanguageItemData['tw'][197915] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Feet", additional_info = "拾取後綁定{腳} {板甲}\n807護甲\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
-MultiLanguageItemData['tw'][197916] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Belt", additional_info = "拾取後綁定{腰部} {板甲}\n727護甲\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
-MultiLanguageItemData['tw'][197917] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Wrist", additional_info = "拾取後綁定{手腕} {板甲}\n646護甲\n+226 [力量 or 智力]\n+616 耐力\n售價:"}
+MultiLanguageItemData['tw'][197910] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Shoulder", additional_info = "拾取後綁定肩部\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
+MultiLanguageItemData['tw'][197911] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Legs", additional_info = "拾取後綁定腿部\n+402 [力量 or 智力]\n+1,095 耐力\n售價:"}
+MultiLanguageItemData['tw'][197912] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Chest", additional_info = "拾取後綁定胸部\n+402 [力量 or 智力]\n+1,095 耐力\n售價:"}
+MultiLanguageItemData['tw'][197913] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Helm", additional_info = "拾取後綁定頭部\n+402 [力量 or 智力]\n+1,095 耐力\n售價:"}
+MultiLanguageItemData['tw'][197914] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Hands", additional_info = "拾取後綁定手\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
+MultiLanguageItemData['tw'][197915] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Feet", additional_info = "拾取後綁定腳\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
+MultiLanguageItemData['tw'][197916] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Belt", additional_info = "拾取後綁定腰部\n+301 [力量 or 智力]\n+821 耐力\n售價:"}
+MultiLanguageItemData['tw'][197917] = {name = "[q4]10.0 Raid - Vault of the Incarnates - DK Set - Armor - Plate Wrist", additional_info = "拾取後綁定手腕\n+226 [力量 or 智力]\n+616 耐力\n售價:"}
 MultiLanguageItemData['tw'][197921] = {name = "[q4]洪荒注能", additional_info = "拾取後綁定\n額外材料\n[q2]+30 配方難度\n[q]可使用： 以精妙火花製成的巨龍群島史詩裝備設計圖。\n[q]\"這個神祕物體蘊藏的元素能量使其滋滋作響。\"\n售價:"}
 MultiLanguageItemData['tw'][197922] = {name = "[q2]騎兵衝鋒長槍", additional_info = "拾取後綁定{雙手} {長柄武器}\n{487-905點傷害} {速度 3.60}\n(每秒193.3點傷害)\n+257 力量\n+416 耐力\n[q2]+ 260 致命一擊\n[q2]+ 219 臨機應變\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][197923] = {name = "[q2]血腥戰騎串刺", additional_info = "拾取後綁定{雙手} {長柄武器}\n{487-905點傷害} {速度 3.60}\n(每秒193.3點傷害)\n+257 敏捷\n+416 耐力\n[q2]+ 249 致命一擊\n[q2]+ 229 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][197924] = {name = "[q2]龍鰻盜獵者燼刃", additional_info = "拾取後綁定{單手} {劍}\n{142-237點傷害} {速度 2.60}\n(每秒72.9點傷害)\n+748 智力\n+208 耐力\n[q2]+ 109 致命一擊\n[q2]+ 130 精通\n耐久: 110 / 110\n售價:"}
-MultiLanguageItemData['tw'][197925] = {name = "[q2]攀牆手的燃燒棍棒", additional_info = "拾取後綁定{單手} {權杖}\n{332-427點傷害} {速度 2.60}\n(每秒146.0點傷害)\n+128 敏捷\n+208 耐力\n[q2]+ 130 致命一擊\n[q2]+ 109 加速\n耐久: 110 / 110\n售價:"}
+MultiLanguageItemData['tw'][197925] = {name = "[q2]攀牆手的燃燒棍棒", additional_info = "拾取後綁定{單手} {權杖}\n{332-427點傷害} {速度 2.60}\n(每秒146.0點傷害)\n+128 敏捷\n+208 耐力\n[q2]+ 130 致命一擊\n[q2]+ 109 加速\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][197926] = {name = "[q2]翻騰的熔岩投擲手鬥棍", additional_info = "拾取後綁定{單手} {權杖}\n{166-214點傷害} {速度 2.60}\n(每秒73.1點傷害)\n+748 智力\n+208 耐力\n[q2]+ 135 致命一擊\n[q2]+ 104 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][197927] = {name = "[q2]加拉登恫嚇錘", additional_info = "拾取後綁定{單手} {權杖}\n{332-427點傷害} {速度 2.60}\n(每秒146.0點傷害)\n+128 力量\n+208 耐力\n[q2]+ 125 致命一擊\n[q2]+ 114 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][197928] = {name = "迷人帽", additional_info = "任務物品\n唯一\n[q2]使用: 把帽子丟到崖滴洞穴的青蛙上，使牠們出名。\n[q]\"一頂帽子，就算是最無趣的生物戴上後也會變得更上相。\""}
 MultiLanguageItemData['tw'][197931] = {name = "[q2]甦醒海岸斬斧", additional_info = "拾取後綁定{單手} {斧}\n{246-512點傷害} {速度 2.60}\n(每秒145.8點傷害)\n+128 敏捷\n+208 耐力\n[q2]+ 104 致命一擊\n[q2]+ 135 加速\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][197932] = {name = "[q2]碎礁劈斧", additional_info = "拾取後綁定{單手} {斧}\n{123-256點傷害} {速度 2.60}\n(每秒72.9點傷害)\n+748 智力\n+208 耐力\n[q2]+ 109 致命一擊\n[q2]+ 130 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][197933] = {name = "[q3]魯托克的婚戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+57 耐力\n[q2]+ 70 臨機應變\n[q2]+ 118 精通\n售價:"}
-MultiLanguageItemData['tw'][197934] = {name = "[q2]先祖保衛者之石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量]\n[q2]裝備： 受到傷害有機率使你的臨機應變提高 1518 點，持續20秒。\n\n 10 碼範圍內的每個盟友都會使此效果提高，最多 4 個。\n售價:"}
+MultiLanguageItemData['tw'][197934] = {name = "[q2]先祖保衛者之石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量]\n[q2]裝備： 受到傷害有機率使你的臨機應變提高 1518 點，持續20秒。\n\n 10碼範圍內的每個盟友都會使此效果提高，最多4個。\n售價:"}
 MultiLanguageItemData['tw'][197935] = {name = "[q2]水手短斧", additional_info = "拾取後綁定{單手} {斧}\n{246-512點傷害} {速度 2.60}\n(每秒145.8點傷害)\n+128 力量\n+208 耐力\n[q2]+ 104 致命一擊\n[q2]+ 135 加速\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][197936] = {name = "[q2]鋸刃去骨小刀", additional_info = "拾取後綁定{單手} {匕首}\n{197-328點傷害} {速度 1.80}\n(每秒145.8點傷害)\n+128 敏捷\n+208 耐力\n[q2]+ 135 致命一擊\n[q2]+ 104 精通\n耐久: 65 / 65\n售價:"}
 MultiLanguageItemData['tw'][197937] = {name = "[q2]精緻刮鱗小刀", additional_info = "拾取後綁定{單手} {匕首}\n{98-164點傷害} {速度 1.80}\n(每秒72.8點傷害)\n+748 智力\n+208 耐力\n[q2]+ 125 致命一擊\n[q2]+ 114 精通\n耐久: 80 / 80\n售價:"}
@@ -46396,7 +46392,7 @@ MultiLanguageItemData['tw'][197948] = {name = "[q2]石頭哨兵巨劍", addition
 MultiLanguageItemData['tw'][197950] = {name = "[q3]深鑄硬幣", additional_info = "任務物品\n[q]\"在熔爐裡鑄造的遠古錢幣，被安放在堡壘的寶庫深處。\""}
 MultiLanguageItemData['tw'][197952] = {name = "泰坦圓盤", additional_info = "任務物品\n[q]\"毫無記號的圓盤相當古老，但似乎還能用。\""}
 MultiLanguageItemData['tw'][197953] = {name = "[q2]遠古保衛者寬劍", additional_info = "拾取後綁定{雙手} {劍}\n{261-435點傷害} {速度 3.60}\n(每秒96.7點傷害)\n+1,142 智力\n+416 耐力\n[q2]+ 270 致命一擊\n[q2]+ 208 加速\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][197954] = {name = "[q2]望石者圓盾", additional_info = "拾取後綁定{副手} {盾}\n2442護甲\n+128 力量\n+394 智力\n+208 耐力\n[q2]+ 125 致命一擊\n[q2]+ 114 加速\n耐久: 100 / 100\n售價:"}
+MultiLanguageItemData['tw'][197954] = {name = "[q2]望石者圓盾", additional_info = "拾取後綁定{副手} {盾}\n2442護甲\n+128 力量\n+394 智力\n+208 耐力\n[q2]+ 125 致命一擊\n[q2]+ 114 加速\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][197955] = {name = "[q2]永恆守衛之劍", additional_info = "拾取後綁定{單手} {劍}\n{284-474點傷害} {速度 2.60}\n(每秒145.8點傷害)\n+128 力量\n+208 耐力\n[q2]+ 135 致命一擊\n[q2]+ 104 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][197956] = {name = "[q2]強化洞察短劍", additional_info = "拾取後綁定{單手} {劍}\n{142-237點傷害} {速度 2.60}\n(每秒72.9點傷害)\n+748 智力\n+208 耐力\n[q2]+ 109 致命一擊\n[q2]+ 130 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][197957] = {name = "[q2]永恆看守者軍刀", additional_info = "拾取後綁定{單手} {劍}\n{284-474點傷害} {速度 2.60}\n(每秒145.8點傷害)\n+128 敏捷\n+208 耐力\n[q2]+ 130 致命一擊\n[q2]+ 109 臨機應變\n耐久: 90 / 90\n售價:"}
@@ -46708,7 +46704,7 @@ MultiLanguageItemData['tw'][198532] = {name = "[q2]製圖師的卡尺", addition
 MultiLanguageItemData['tw'][198533] = {name = "[q3]配方：快手氣泡瓶", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作快手氣泡瓶。\n需要 巨龍群島鍊金術 (10)\n需要工匠聯盟聲望達到尊敬。\n需要工匠聯盟聲望尊敬。\n售價:"}
 MultiLanguageItemData['tw'][198537] = {name = "[q3]泰溫的小喇叭", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將泰溫召喚到身邊。泰溫使附近人員的臨機應變提高 1 點。 (5分鐘 冷卻)\n[q]\"泰溫喜歡用阿戈利羊角製成的小喇叭發出的聲音。\""}
 MultiLanguageItemData['tw'][198538] = {name = "[q3]帶有魔法的訊息", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"神秘的羊皮紙緩慢散發出迷惑心智的紫色粉塵，並於片刻後煙消雲散。\""}
-MultiLanguageItemData['tw'][198539] = {name = "[q2]平原之息", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 智力\n[q2]裝備： 你的法術有一定機率使你的加速提高 1518 點，移動速度提高 5 %，持續20秒。\n售價:"}
+MultiLanguageItemData['tw'][198539] = {name = "[q2]平原之息", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 智力\n[q2]裝備： 你的法術有一定機率使你的加速提高 1518 點，移動速度提高5%，持續20秒。\n售價:"}
 MultiLanguageItemData['tw'][198540] = {name = "[q3]黃金爪", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"龍雕像上面的一隻堅硬金爪。\""}
 MultiLanguageItemData['tw'][198541] = {name = "[q0]耗盡的紫羅蘭煙霧", additional_info = "拾取後綁定\n唯一\n[q]\"感覺若有似無，彷彿有一股花香縈繞。\"\n售價:"}
 MultiLanguageItemData['tw'][198542] = {name = "[q2]席卡女獵手的箭頭", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率根據你當前獵物的實力提高你的精通，持續20秒。\n售價:"}

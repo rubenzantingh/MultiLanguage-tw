@@ -7116,7 +7116,7 @@ MultiLanguageNpcData['tw'][129318] = {name = "沙竄螃蟹", subname = nil}
 MultiLanguageNpcData['tw'][129319] = {name = "刃衛塔卡吉", subname = nil}
 MultiLanguageNpcData['tw'][129320] = {name = "Pearl Channel Chicken (Storm)", subname = nil}
 MultiLanguageNpcData['tw'][129321] = {name = "Pearl Channel Chicken (Current)", subname = nil}
-MultiLanguageNpcData['tw'][129322] = {name = "可攜式服裝重整裝置", subname = nil}
+MultiLanguageNpcData['tw'][129322] = {name = "可攜式服裝重整裝置", subname = "塑形師"}
 MultiLanguageNpcData['tw'][129323] = {name = "刀齒獸女皇", subname = nil}
 MultiLanguageNpcData['tw'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['tw'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}

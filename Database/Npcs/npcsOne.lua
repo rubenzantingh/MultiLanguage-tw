@@ -40699,7 +40699,7 @@ MultiLanguageNpcData['tw'][54439] = {name = "萊爾利斯的化身", subname = n
 MultiLanguageNpcData['tw'][54440] = {name = "夏諾克斯的化身", subname = nil}
 MultiLanguageNpcData['tw'][54441] = {name = "奇術師瓦須林", subname = "秘法重鑄師"}
 MultiLanguageNpcData['tw'][54442] = {name = "星移編織師哈尚", subname = "塑形師"}
-MultiLanguageNpcData['tw'][54443] = {name = "寶庫管理者雷利德", subname = "虛空倉庫"}
+MultiLanguageNpcData['tw'][54443] = {name = "寶庫管理者雷利德", subname = nil}
 MultiLanguageNpcData['tw'][54444] = {name = "暗月馬戲團豺狼人", subname = nil}
 MultiLanguageNpcData['tw'][54445] = {name = "珍娜的回音", subname = nil}
 MultiLanguageNpcData['tw'][54446] = {name = "光核餘燼", subname = nil}
@@ -40710,7 +40710,7 @@ MultiLanguageNpcData['tw'][54466] = {name = "暗月馬戲團豺狼人 - 寶寶",
 MultiLanguageNpcData['tw'][54467] = {name = "龍捲風", subname = nil}
 MultiLanguageNpcData['tw'][54470] = {name = "渴望虛構體", subname = nil}
 MultiLanguageNpcData['tw'][54471] = {name = "奇術師札杰", subname = "秘法重鑄師"}
-MultiLanguageNpcData['tw'][54472] = {name = "寶庫管理者杰拉", subname = "虛空倉庫"}
+MultiLanguageNpcData['tw'][54472] = {name = "寶庫管理者杰拉", subname = nil}
 MultiLanguageNpcData['tw'][54473] = {name = "星移編織師杜塞爾", subname = "塑形師"}
 MultiLanguageNpcData['tw'][54474] = {name = "時間之霧", subname = nil}
 MultiLanguageNpcData['tw'][54475] = {name = "螃蟹", subname = nil}
