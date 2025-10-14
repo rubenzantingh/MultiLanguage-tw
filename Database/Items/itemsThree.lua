@@ -256,7 +256,7 @@ MultiLanguageItemData['tw'][133800] = {name = "[q5]瑪翼夫之索，月之祭�
 MultiLanguageItemData['tw'][133801] = {name = "原型扳機", additional_info = "任務物品\n[q]\"只有輕微受損…\""}
 MultiLanguageItemData['tw'][133802] = {name = "活力符石", additional_info = "任務物品\n[q]\"一種古代聖物，有賦予無機物質生命的強大力量。\""}
 MultiLanguageItemData['tw'][133803] = {name = "[q2]普通的寶物袋", additional_info = "拾取後綁定\n[q]\"驚喜在裡面！\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][133804] = {name = "[q2]稀有的寶物袋", additional_info = "拾取後綁定\n[q]\"哇，好棒的戰利品！快打開我吧！\"\n[q2]<右鍵單擊打開>"}
+MultiLanguageItemData['tw'][133804] = {name = "[q0]消逝的寶物袋", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][133805] = {name = "[q3]喚雷者的腰鍊", additional_info = "拾取後綁定{腰部} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][133806] = {name = "秘法壓縮機", additional_info = "任務物品\n[q]\"一種機械裝置，可以限制大部份的爆炸威力。\""}
 MultiLanguageItemData['tw'][133807] = {name = "軍團紋章", additional_info = "任務物品\n[q]\"飾以魔魂惡魔護甲的燃燒軍團紋章。\""}
@@ -387,6 +387,7 @@ MultiLanguageItemData['tw'][133946] = {name = "電漿雷射砲", additional_info
 MultiLanguageItemData['tw'][133947] = {name = "未研磨的寶石", additional_info = "任務物品\n[q]\"這顆未研磨的寶石，對懂得運用的人來說，充滿了無窮的力量。\""}
 MultiLanguageItemData['tw'][133948] = {name = "[q6]蒼天之拳", additional_info = "奧拉德\n拾取後綁定\n唯一\n{副手} {拳套}\n{2-3點傷害} {速度 2.60}\n(每秒1.0點傷害)\n+1 敏捷\n+2 耐力\n[q2]+ 1 致命一擊\n[q2]+ 1 精通\n職業： 武僧\n[q]\"在一陣刺眼的閃光、一股呼嘯的氣流出現之後，儀式就完成了，伊爾莫特感覺到他的武器，奧柏克與奧拉德，散發著元素之力。\"\n售價:"}
 MultiLanguageItemData['tw'][133955] = {name = "BC水晶", additional_info = "任務物品"}
+MultiLanguageItemData['tw'][133956] = {name = "烈性法術集核", additional_info = "任務物品\n[q]\"因為能量而嗡嗡作響。\""}
 MultiLanguageItemData['tw'][133958] = {name = "[q6]虛無秘聞", additional_info = "拾取後綁定副手物品\n+3 智力\n+2 耐力\n[q2]+ 1 致命一擊\n[q2]+ 1 加速\n職業： 牧師\n[q]\"我摸到這把刃的那一刻，我的心中聽到了它的名字：薩拉塔斯。那時我就明白我不能摧毀這把匕首。還不能。有人可以摧毀自己無法了解的力量嗎？\"\n售價:"}
 MultiLanguageItemData['tw'][133959] = {name = "[q6]鳳凰之心", additional_info = "拾取後綁定副手物品\n+3 智力\n+2 耐力\n[q2]+ 1 致命一擊\n[q2]+ 1 加速\n職業： 法師\n[q]\"當戰鬥結束時，達斯雷瑪站在原地，全身濺滿惡魔鮮血。夜晚降臨時，我們都知道戰鬥會繼續下去，但只要有這位精靈和這把武器站在我們這邊，我們就有希望，最後的勝利終將掌握在我們手中。\"\n售價:"}
 MultiLanguageItemData['tw'][133960] = {name = "斧尾之眼", additional_info = "任務物品\n[q]\"這些眼球含有驚人的大量眼液。\""}
@@ -495,9 +496,9 @@ MultiLanguageItemData['tw'][134106] = {name = "富涵脈石的核心", additiona
 MultiLanguageItemData['tw'][134107] = {name = "富涵魔岩的核心", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][134108] = {name = "遠古精靈貴族神器", additional_info = "任務物品\n[q]\"似乎是某種裝置，但你無法看出它的用途。\""}
 MultiLanguageItemData['tw'][134109] = {name = "沙許塔爾貯物箱鑰匙", additional_info = "拾取後綁定\n唯一\n[q2]使用: 打開一個沙許塔爾貯物箱。"}
-MultiLanguageItemData['tw'][134110] = {name = "[q2]隱藏頭盔", additional_info = "造型\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][134110] = {name = "[q2]隱藏頭盔", additional_info = "造型\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][134111] = {name = "[q2]隱藏披風", additional_info = "造型\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][134112] = {name = "[q2]隱藏護肩", additional_info = "造型\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][134112] = {name = "[q2]隱藏護肩", additional_info = "造型\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][134114] = {name = "艾涅司寶石", additional_info = "任務物品\n[q]\"大博學者寶冠上其中一顆珠寶。\""}
 MultiLanguageItemData['tw'][134115] = {name = "掉落的神器殘片", additional_info = "任務物品\n[q]\"考慮到發生的爆炸，殘片狀況還算完好。\""}
 MultiLanguageItemData['tw'][134116] = {name = "殘破的精靈貴族卷軸", additional_info = "任務物品\n[q]\"關於希拉克斯寶珠可能及不可能座落位置的小線索。\""}
@@ -1176,13 +1177,13 @@ MultiLanguageItemData['tw'][135506] = {name = "一杯月井水", additional_info
 MultiLanguageItemData['tw'][135507] = {name = "寶石切割寶典", additional_info = "任務物品\n[q]\"裡頭有什麼雋永的設計呢？\""}
 MultiLanguageItemData['tw'][135508] = {name = "萊斯賓的胸針", additional_info = "任務物品\n[q]\"看起來跟新的一樣\""}
 MultiLanguageItemData['tw'][135509] = {name = "〈爪為你而響〉", additional_info = "任務物品\n[q]\"至少它作工精細。\""}
-MultiLanguageItemData['tw'][135510] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][135510] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][135511] = {name = "[q2]厚切培根", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][135512] = {name = "[q2]厚切培根", additional_info = "拾取後綁定"}
 MultiLanguageItemData['tw'][135513] = {name = "葡萄酒瓶", additional_info = "任務物品\n[q]\"14.9%ABV\""}
 MultiLanguageItemData['tw'][135514] = {name = "達拉然卡本內紅酒", additional_info = "任務物品\n[q]\"只用希爾斯布萊德原野出產的高品質葡萄釀造而成。\""}
 MultiLanguageItemData['tw'][135515] = {name = "法力刃豹的毛皮", additional_info = "任務物品\n[q]\"強韌、柔軟，而且非常蓬鬆。\""}
-MultiLanguageItemData['tw'][135522] = {name = "塑形UI胸部物品", additional_info = "造型\n裝備後綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][135522] = {name = "塑形UI胸部物品", additional_info = "造型\n裝備後綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][135525] = {name = "林德拉斯的鋸齒剪刀", additional_info = "任務物品\n[q]\"一把刀刃呈鋸齒狀的小剪刀。\""}
 MultiLanguageItemData['tw'][135526] = {name = "測量工具箱", additional_info = "任務物品\n[q]\"一箱用於製作圖樣的測量裝置。\""}
 MultiLanguageItemData['tw'][135527] = {name = "林德拉斯的縫衣針", additional_info = "任務物品\n[q]\"一袋尺寸齊全的縫衣針。\""}
@@ -1195,10 +1196,10 @@ MultiLanguageItemData['tw'][135543] = {name = "[q2]一箱對手的戰場物資",
 MultiLanguageItemData['tw'][135544] = {name = "[q2]Tranquil Crate of Helpful Goods - Reuse Me", additional_info = "拾取後綁定\n持續時間：3天\n[q]\"可能含有一件裝備。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][135545] = {name = "[q2]一箱野蠻的戰場物資", additional_info = "拾取後綁定\n持續時間：3天\n[q]\"可能含有一件裝備。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][135546] = {name = "[q2]一箱魔化戰場物資", additional_info = "拾取後綁定\n持續時間：3天\n[q]\"可能含有一件裝備。\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][135547] = {name = "塑形UI頭部物品", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][135548] = {name = "塑形UI腿部物品", additional_info = "造型\n裝備後綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][135549] = {name = "塑形UI手部物品", additional_info = "造型\n裝備後綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][135550] = {name = "塑形UI腳部物品", additional_info = "造型\n裝備後綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][135547] = {name = "塑形UI頭部物品", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][135548] = {name = "塑形UI腿部物品", additional_info = "造型\n裝備後綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][135549] = {name = "塑形UI手部物品", additional_info = "造型\n裝備後綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][135550] = {name = "塑形UI腳部物品", additional_info = "造型\n裝備後綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][135556] = {name = "紫羅蘭堡監牢鑰匙", additional_info = "任務物品\n[q]\"這把鑰匙可開啟紫羅蘭堡的監牢。\""}
 MultiLanguageItemData['tw'][135557] = {name = "煉獄咖哩蟹腳", additional_info = "[q2]使用: 在20秒內恢復總計( 10000 * 20 / 5)點生命力，進食時必須保持坐姿。\n[q]\"辣到極點。\"\n售價:"}
 MultiLanguageItemData['tw'][135563] = {name = "月井水瓶", additional_info = "任務物品\n[q]\"水中發出柔和的光芒。\""}
@@ -2796,8 +2797,8 @@ MultiLanguageItemData['tw'][137570] = {name = "[q4]血牙之繭", additional_inf
 MultiLanguageItemData['tw'][137571] = {name = "大法師瓦戈斯的日記", additional_info = "任務物品\n唯一\n[q]\"嶄新的日記，標題是：「夜裔靈魂石」\""}
 MultiLanguageItemData['tw'][137572] = {name = "佐雅格的頭", additional_info = "任務物品\n[q]\"除了多一組利牙，看起來和其他惡魔犬沒兩樣。\""}
 MultiLanguageItemData['tw'][137573] = {name = "[q4]洛席恩狡狐韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚洛席恩狡狐。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這些毛色光亮的狐狸雖然體型不小，但牠可以走過剛落下的枯葉堆而不發出任何聲響。\"\n任務：\n神出鬼沒的沃平\n區域：\n蘇拉瑪爾"}
-MultiLanguageItemData['tw'][137574] = {name = "[q4]生命煉獄核心", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚一個可騎乘的魔炎煉獄火。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"伊利達瑞可以讓這些熊熊燃燒的怪物屈服，在對付燃燒軍團時當作無堅不摧，無畏無懼的坐騎。\"\n掉落：\n古爾丹\n區域：\n暗夜堡"}
-MultiLanguageItemData['tw'][137575] = {name = "[q4]惡魔獄火核心", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚一個可騎乘的獄火煉獄火。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"有著純粹憎恨的怪物從虛空當中受召而出，它會把擋路的所有生命燒得一乾二淨。\"\n掉落：\n古爾丹(傳奇難度)\n區域：\n暗夜堡"}
+MultiLanguageItemData['tw'][137574] = {name = "[q4]生命煉獄核心", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚一個可騎乘的魔炎煉獄火。\n80 ( 80)\n需要 初級騎術\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n\n\n[q]\"伊利達瑞可以讓這些熊熊燃燒的怪物屈服，在對付燃燒軍團時當作無堅不摧，無畏無懼的坐騎。\"\n掉落：\n古爾丹\n區域：\n暗夜堡"}
+MultiLanguageItemData['tw'][137575] = {name = "[q4]惡魔獄火核心", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚一個可騎乘的獄火煉獄火。\n80 ( 80)\n需要 初級騎術\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n\n\n[q]\"有著純粹憎恨的怪物從虛空當中受召而出，它會把擋路的所有生命燒得一乾二淨。\"\n掉落：\n古爾丹(傳奇難度)\n區域：\n暗夜堡"}
 MultiLanguageItemData['tw'][137576] = {name = "[q4]暗淡冷焰核心", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚一個可騎乘的冷焰煉獄火。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這種奇怪的冰冷火焰，會讓你又流汗又發抖。\"\n貿易站"}
 MultiLanguageItemData['tw'][137577] = {name = "[q4]血腥掠食者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這些兇殘的雜食者食用大量的生紅莓，讓牠們的眼球呈現獨特的顏色。\"\n任務：\n嗜血家族團聚"}
 MultiLanguageItemData['tw'][137578] = {name = "[q4]雪羽狩獵者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"牠可以隱藏在濃霧中等待獵物接近，然後伸出爪子撲向獵物，將獵物開膛剖肚，一擊斃命。\"\n任務：\n雪羽家族團聚"}
@@ -3182,7 +3183,7 @@ MultiLanguageItemData['tw'][138098] = {name = "[q2]一箱鑄鐵的戰場物資",
 MultiLanguageItemData['tw'][138099] = {name = "天焰石", additional_info = "拾取後綁定\n唯一（5）\n持續時間：1小時 (實時)\n[q2]使用: 在目標地點召喚一枚魔化隕石，對10碼範圍內的敵人造成火焰傷害並將之擊昏。 (1分鐘 冷卻)"}
 MultiLanguageItemData['tw'][138100] = {name = "害蟲給我滾炸彈", additional_info = "拾取後綁定\n唯一（5）\n持續時間：1小時 (實時)\n{[q2]使用: 投出一枚害蟲給我滾炸彈，形成一道氣體雲每秒對身陷其中的敵人造成2點自然傷害}，且移動{速度降低50%。 (1分鐘 冷卻)}"}
 MultiLanguageItemData['tw'][138102] = {name = "加密訊息", additional_info = "任務物品\n[q2]使用: 使用邪教編碼器來解開訊息內容。 (30秒 冷卻)"}
-MultiLanguageItemData['tw'][138111] = {name = "風鑄爪鉤槍", additional_info = "拾取後綁定\n[q]\"使用爪鉤槍，協助你前往斯鐸海姆各地的爪鉤處。\""}
+MultiLanguageItemData['tw'][138111] = {name = "風鑄爪鉤槍", additional_info = "拾取後綁定\n玩具\n[q]\"使用爪鉤槍，協助你前往斯鐸海姆各地的爪鉤處。\""}
 MultiLanguageItemData['tw'][138112] = {name = "無辜者的頭骨", additional_info = "任務物品\n[q]\"要進行強大的惡魔儀式，通常需要純潔之人的完整頭骨。\""}
 MultiLanguageItemData['tw'][138113] = {name = "無辜者的鮮血", additional_info = "任務物品\n[q]\"只有最黑暗的魔法才會用到真正無辜之人的鮮血。\""}
 MultiLanguageItemData['tw'][138114] = {name = "薄暮狂魚", additional_info = "薄暮嶼\n拾取後綁定\n[q]\"一隻狂暴的白化怪獸，牙齒如剃刀般鋒利。在薄暮嶼周圍極為少見。\""}
@@ -3264,7 +3265,7 @@ MultiLanguageItemData['tw'][138197] = {name = "小型儀祭之鼓", additional_i
 MultiLanguageItemData['tw'][138198] = {name = "中型儀祭之鼓", additional_info = "任務物品\n唯一（4）"}
 MultiLanguageItemData['tw'][138199] = {name = "大型儀祭之鼓", additional_info = "任務物品\n唯一（4）"}
 MultiLanguageItemData['tw'][138200] = {name = "薩莉瑟拉的強化法術石", additional_info = "任務物品"}
-MultiLanguageItemData['tw'][138201] = {name = "[q4]深淵居者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"在無盡之海深處那些彷彿會吞食一切的裂隙裡，有著一群群的深淵居者，像張大地毯似的漂浮在黑暗之中，難以辨識。\"\n掉落：\n『永恆飢餓』克蘇摩"}
+MultiLanguageItemData['tw'][138201] = {name = "[q4]深淵居者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價:\n[q]\"在無盡之海深處那些彷彿會吞食一切的裂隙裡，有著一群群的深淵居者，像張大地毯似的漂浮在黑暗之中，難以辨識。\"\n掉落：\n『永恆飢餓』克蘇摩"}
 MultiLanguageItemData['tw'][138202] = {name = "[q3]特大號閃亮小馬", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 騎乘時跳躍可以讓一排煙火飛射而出，持續15秒。 (10分鐘 冷卻)\n[q]\"將煙火裝在我的馬?喔，那聽起來像是個絕佳的交易！\""}
 MultiLanguageItemData['tw'][138206] = {name = "脈能蟲內臟", additional_info = "任務物品\n[q]\"由未被消化的脈石微粒照亮。\""}
 MultiLanguageItemData['tw'][138211] = {name = "[q4]惡性脛甲", additional_info = "拾取後綁定{腳} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 2 加速\n耐久: 80 / 80\n售價:"}
@@ -3302,7 +3303,7 @@ MultiLanguageItemData['tw'][138250] = {name = "[q0]艾薩拉女王雕像", addit
 MultiLanguageItemData['tw'][138251] = {name = "[q0]石化的龍蛋", additional_info = "拾取後綁定\n[q]\"完全無法判斷這是數世紀前從巢穴偷來的龍蛋，或只是雕刻的複製品。\"\n售價:"}
 MultiLanguageItemData['tw'][138252] = {name = "撰史者艾麗安", additional_info = "[q] \"撰史者艾麗安來到你的職業大廳，賦予你研究職業大廳天賦樹的能力。\""}
 MultiLanguageItemData['tw'][138253] = {name = "脈能蟲誘餌", additional_info = "任務物品\n[q2]使用: 用佈滿魔法的內臟覆蓋你自己。\n[q]\"黏答答的一團東西，主要是脈能蟲內臟。\""}
-MultiLanguageItemData['tw'][138258] = {name = "[q4]被遺忘的角鷹獸韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"只有你還記得牠。\"\n地區：\n艾蘇納"}
+MultiLanguageItemData['tw'][138258] = {name = "[q4]被遺忘的角鷹獸韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"只有你還記得牠。\"\n地區：\n艾蘇納"}
 MultiLanguageItemData['tw'][138270] = {name = "夢魘橡木", additional_info = "任務物品\n唯一\n[q]\"這一小塊木頭扭曲裂開，它雖然看似脆弱，實際上卻頗為強韌。\""}
 MultiLanguageItemData['tw'][138271] = {name = "一瓶秘法聖水", additional_info = "任務物品\n唯一\n[q]\"秘法能量迴旋著，讓整瓶水都亮了起來。\""}
 MultiLanguageItemData['tw'][138272] = {name = "卡德加的瓶子", additional_info = "任務物品\n[q2]使用: 應該用艾薩拉之怒的屍體的水來填滿這個容器。\n[q]\"用來收集魔法之水。\""}
@@ -3700,7 +3701,7 @@ MultiLanguageItemData['tw'][138726] = {name = "[q2]強化裂片", additional_inf
 MultiLanguageItemData['tw'][138727] = {name = "[q3]挑戰藥水", additional_info = "[q2]使用: 使所有受到的傷害降低20%，持續12秒。只能在戰場使用。 (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][138728] = {name = "[q3]微量隱形藥水", additional_info = "[q2]使用: 隱形6秒。只能在戰場使用。 (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][138729] = {name = "[q3]感官提升藥水", additional_info = "[q2]使用: 提高你偵測隱形或潛行敵人的機率，持續30秒。只能在戰場使用。 (5分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][138730] = {name = "模擬醉眼護目鏡XL", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]裝備： 這付眼鏡模擬著酒精效果。只要拿下眼鏡就可以解除此效果。\n[q]\"警告：搭乘坐騎時請勿穿戴。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][138730] = {name = "模擬醉眼護目鏡XL", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]裝備： 這付眼鏡模擬著酒精效果。只要拿下眼鏡就可以解除此效果。\n[q]\"警告：搭乘坐騎時請勿穿戴。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][138731] = {name = "一籃蘋果", additional_info = "拾取後綁定\n[q2]使用: 擺設出一籃蘋果讓全隊或團隊的成員享用！\n\n 每秒恢復5%生命和5%法力，持續20秒。如果進食時間超過10秒，你將因充分進食而使召喚坐騎施法時間縮短50%，持續1小時。\n\n\n 只能在戰場中使用。\n售價:"}
 MultiLanguageItemData['tw'][138732] = {name = "[q0]神兵沿革", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][138733] = {name = "闇鱗操控裝置", additional_info = "任務物品\n[q2]使用: 將一隻闇鱗食蠅者包覆在時光異相中以馴服牠們，並將吸引向施法者，以供捕捉。 (6秒 冷卻)"}
@@ -4041,10 +4042,10 @@ MultiLanguageItemData['tw'][139127] = {name = "[q2]日霜長袍", additional_inf
 MultiLanguageItemData['tw'][139128] = {name = "[q2]日霜軟靴", additional_info = "拾取後綁定{腳} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 5 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][139129] = {name = "[q2]日霜披肩", additional_info = "拾取後綁定{肩部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 3 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][139130] = {name = "[q2]日霜裹腕", additional_info = "拾取後綁定{手腕} {布甲}\n2護甲\n+3 智力\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 4 加速\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][139133] = {name = "[q2]大巫女帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"屬於阿瑞雅。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139134] = {name = "[q2]二巫女帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"屬於黎安娜。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139135] = {name = "[q2]三巫女帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"屬於穆瑞爾。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139136] = {name = "[q2]小巫女帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"屬於羅瑞安。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139133] = {name = "[q2]大巫女帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"屬於阿瑞雅。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139134] = {name = "[q2]二巫女帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"屬於黎安娜。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139135] = {name = "[q2]三巫女帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"屬於穆瑞爾。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139136] = {name = "[q2]小巫女帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"屬於羅瑞安。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][139137] = {name = "巫婆的所有物", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][139138] = {name = "神射手", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
 MultiLanguageItemData['tw'][139139] = {name = "遊俠", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
@@ -4072,10 +4073,10 @@ MultiLanguageItemData['tw'][139163] = {name = "[q3]尼斯卡拉流星錘", addit
 MultiLanguageItemData['tw'][139164] = {name = "[q3]怒刃", additional_info = "拾取後綁定{雙手} {劍}\n{10-17點傷害} {速度 3.60}\n(每秒3.8點傷害)\n+5 [敏捷 or 力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][139165] = {name = "[q3]覓血者壁壘", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 2 臨機應變\n[q2]+ 2 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][139166] = {name = "[q3]竊魂者屏障", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 加速\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][139167] = {name = "[q4]套裝：魔鑄鎧甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔鑄鎧甲套裝外觀。"}
-MultiLanguageItemData['tw'][139168] = {name = "[q4]套裝：魔鍊鎖甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔鍊鎖甲套裝外觀。"}
-MultiLanguageItemData['tw'][139169] = {name = "[q4]套裝：魔蔽皮甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔蔽皮甲套裝外觀。"}
-MultiLanguageItemData['tw'][139170] = {name = "[q4]套裝：魔盈布甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔能灌注的布甲套裝外觀。"}
+MultiLanguageItemData['tw'][139167] = {name = "[q4]套裝：魔鑄鎧甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔鑄鎧甲套裝外觀。\n已經學會"}
+MultiLanguageItemData['tw'][139168] = {name = "[q4]套裝：魔鍊鎖甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔鍊鎖甲套裝外觀。\n已經學會"}
+MultiLanguageItemData['tw'][139169] = {name = "[q4]套裝：魔蔽皮甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔蔽皮甲套裝外觀。\n已經學會"}
+MultiLanguageItemData['tw'][139170] = {name = "[q4]套裝：魔盈布甲護甲", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集魔能灌注的布甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][139171] = {name = "[q3]聚合魔能", additional_info = "拾取後綁定"}
 MultiLanguageItemData['tw'][139172] = {name = "[q3]軍團士兵魔化墜飾", additional_info = "拾取後綁定頸部\n+4 耐力\n[q2]+ 5 加速\n[q2]+ 8 精通\n售價:"}
 MultiLanguageItemData['tw'][139173] = {name = "[q3]虛空扭曲指環", additional_info = "拾取後綁定\n僅可裝備一件：入侵者手環（1）\n手指\n+4 耐力\n[q2]+ 9 致命一擊\n[q2]+ 4 精通\n售價:"}
@@ -4192,19 +4193,19 @@ MultiLanguageItemData['tw'][139288] = {name = "凶暴獸欄雕紋", additional_i
 MultiLanguageItemData['tw'][139289] = {name = "小動物妖術雕紋", additional_info = "職業： 薩滿\n[q2]使用: 永久教會您此雕文\n\n你對小動物施展的妖術可以持續一天，而且可以用在許多隻小動物身上。\n售價:"}
 MultiLanguageItemData['tw'][139290] = {name = "鴉廷記錄簿", additional_info = "任務物品\n[q]\"這本古老的精靈典籍是一本貨物清單。其中泛黃的書頁記錄著每天各種物資的儲放與提領。\""}
 MultiLanguageItemData['tw'][139292] = {name = "[q3]部落先鋒裂斧", additional_info = "拾取後綁定{單手} {斧}\n{4-9點傷害} {速度 2.60}\n(每秒2.5點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n耐久: 90 / 90\n售價:"}
-MultiLanguageItemData['tw'][139293] = {name = "剪裁精良的紅色節日外衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139294] = {name = "剪裁精良的綠色節日外衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139295] = {name = "剪裁精良的紅色節日束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139296] = {name = "剪裁精良的綠色節日束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139297] = {name = "剪裁精良的紅色節日短褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139298] = {name = "剪裁精良的綠色節日短褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139299] = {name = "[q2]剪裁精良的紅色節日帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139300] = {name = "[q2]剪裁精良的綠色節日帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139301] = {name = "剪裁精良的紅色節日長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139293] = {name = "剪裁精良的紅色節日外衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139294] = {name = "剪裁精良的綠色節日外衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139295] = {name = "剪裁精良的紅色節日束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139296] = {name = "剪裁精良的綠色節日束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139297] = {name = "剪裁精良的紅色節日短褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139298] = {name = "剪裁精良的綠色節日短褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139299] = {name = "[q2]剪裁精良的紅色節日帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139300] = {name = "[q2]剪裁精良的綠色節日帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139301] = {name = "剪裁精良的紅色節日長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][139302] = {name = "鴉眼石板的拓印", additional_info = "唯一\n[q]\"關於鴉眼創世神話以及克塔羅斯‧黑羽如何塑造世界的一部分故事。\"\n[q2]<右鍵單擊閱讀>"}
-MultiLanguageItemData['tw'][139303] = {name = "剪裁精良的綠色節日長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139304] = {name = "剪裁精良的紅色節日腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][139305] = {name = "剪裁精良的綠色節日腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139303] = {name = "剪裁精良的綠色節日長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139304] = {name = "剪裁精良的紅色節日腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139305] = {name = "剪裁精良的綠色節日腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][139306] = {name = "迪菲亞強盜", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
 MultiLanguageItemData['tw'][139307] = {name = "海盜", additional_info = "[q]\"可陪伴追隨者進行任務以提高成功率的強大軍隊。\""}
 MultiLanguageItemData['tw'][139308] = {name = "勇士武裝", additional_info = nil}
@@ -4275,7 +4276,7 @@ MultiLanguageItemData['tw'][139387] = {name = "[q3]溺水勇士的護脛", addit
 MultiLanguageItemData['tw'][139388] = {name = "命令寶典", additional_info = "任務物品\n[q]\"這顆金屬珠子蝕刻數千細微魔化符文，包含燃燒軍團侵略破碎群島的詳細紀錄。\""}
 MultiLanguageItemData['tw'][139389] = {name = "焦黑墜盒", additional_info = "[q]\"內裡的銘文已不可讀。\"\n售價:"}
 MultiLanguageItemData['tw'][139390] = {name = "[q0]神兵武器研究筆記", additional_info = "拾取後綁定\n[q] \"職業組織開始共享資源後，這些知識的紀錄就過時了。\"\n售價:"}
-MultiLanguageItemData['tw'][139391] = {name = "[q2]艾蓮娜的帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][139391] = {name = "[q2]艾蓮娜的帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][139392] = {name = "[q2]萬鍊護脛", additional_info = "拾取後綁定{腿部} {鎖甲}\n10護甲\n+5 [敏捷 or 智力]\n+7 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][139393] = {name = "[q2]嘶嘶作響的羊毛護腿", additional_info = "拾取後綁定{腿部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][139394] = {name = "[q2]喇叭褲", additional_info = "拾取後綁定{腿部} {皮甲}\n7護甲\n+5 [敏捷 or 智力]\n+7 耐力\n耐久: 85 / 85\n售價:"}
@@ -4912,7 +4913,7 @@ MultiLanguageItemData['tw'][140155] = {name = "[q0]陳舊的白銀之手命令",
 MultiLanguageItemData['tw'][140156] = {name = "[q2]組織的祝福", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 指定一名勇士，提高下次執行任務的成功機率。\n[q]\"賜予祝福，提高一名勇士執行一項任務的成功率。\""}
 MultiLanguageItemData['tw'][140157] = {name = "[q0]裂開的戰爭號角", additional_info = "拾取後綁定\n唯一\n售價:"}
 MultiLanguageItemData['tw'][140158] = {name = "[q0]枯竭的裂隙核心", additional_info = "拾取後綁定\n唯一\n售價:"}
-MultiLanguageItemData['tw'][140160] = {name = "[q3]風鑄維酷人號角", additional_info = "拾取後綁定\n玩具\n[q2]使用: 吹響風鑄維酷人號角，變成風鑄維酷人，持續10分鐘。 (1小時 冷卻)"}
+MultiLanguageItemData['tw'][140160] = {name = "[q3]風鑄維酷人號角", additional_info = "拾取後綁定\n玩具\n[q2]使用: 吹響風鑄維酷人號角，變成風鑄維酷人，持續10分鐘。 (1小時 冷卻)\n已經學會"}
 MultiLanguageItemData['tw'][140161] = {name = "[q3]哈蓋爾最喜愛的飾品", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]使用: 你化身為勢不可擋的毀滅旋風，在6秒期間對8碼範圍內的所有敵人 [ 嗜血 : 同時以主、副手武器造成[7 * ( 25 + 25 )]點物理傷害 / 造成(7 * 25 )物理傷害]。\n\n 你對移動限制與喪失控制效果免疫，並且能使用防禦技能和閃避攻擊。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][140162] = {name = "亡者之槌", additional_info = "任務物品 職業： 死亡騎士\n[q]\"這把遠古戰錘受到無數陣亡維酷戰士靈魂灌注。\""}
 MultiLanguageItemData['tw'][140163] = {name = "[q3]腐化的月光林地之葉", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"這種東西根本不該受到嚴重腐化。\""}
@@ -5064,7 +5065,7 @@ MultiLanguageItemData['tw'][140320] = {name = "[q3]柯基聶流斯", additional_
 MultiLanguageItemData['tw'][140321] = {name = "[q0]神秘糖漿", additional_info = "售價:"}
 MultiLanguageItemData['tw'][140322] = {name = "[q0]訓練員的洞察", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][140323] = {name = "[q3]拉岡鰻", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n80 ( 80)\n售價:"}
-MultiLanguageItemData['tw'][140324] = {name = "[q3]行動傳送信標", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在戰場上設定一個信標以回到沙亞蘭。這枚信標是傳送學科技的尖瑞產物，可覆蓋蘇拉瑪爾85%的區域，而且只需要20小時就可充能完畢！ (20小時 冷卻)\n需要夜落精靈\n- 尊敬\n售價:"}
+MultiLanguageItemData['tw'][140324] = {name = "[q3]行動傳送信標", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在戰場上設定一個信標以回到沙亞蘭。這枚信標是傳送學科技的尖瑞產物，可覆蓋蘇拉瑪爾85%的區域，而且只需要20小時就可充能完畢！ (20小時 冷卻)\n需要夜落精靈\n- 尊敬\n已經學會\n售價:"}
 MultiLanguageItemData['tw'][140325] = {name = "[q3]自製派對面具", additional_info = "拾取後綁定\n玩具\n[q2]使用: 戴上「自製」夜裔派對面具。 (1小時 冷卻)\n需要夜落精靈\n- 崇敬\n售價:"}
 MultiLanguageItemData['tw'][140326] = {name = "[q3]附魔葬禮瓦罐", additional_info = "拾取後綁定\n唯一\n[q2]使用: 讓你能攜帶的上古法力上限提高100。\n[q]\"含有一種遠古力量。\""}
 MultiLanguageItemData['tw'][140327] = {name = "[q3]克托斯的研究筆記", additional_info = "拾取後綁定\n唯一\n[q2]使用: 讓你能攜帶的上古法力上限提高100。\n[q]\"記載他所精通各型式魔法的研究與雜記。\""}
@@ -5102,7 +5103,7 @@ MultiLanguageItemData['tw'][140359] = {name = "[q0]晦暗眼球", additional_inf
 MultiLanguageItemData['tw'][140360] = {name = "[q2]岩龍鉤刺", additional_info = "拾取後綁定\n[q2]使用: 提供角色相當可觀的經驗值。對等級超過49的玩家沒有作用。\n[q]\"雖然沒有鋒利得嚇人，可是依然威力十足，可以砍穿岩石。\"\n售價:"}
 MultiLanguageItemData['tw'][140361] = {name = "[q0]脈動符石", additional_info = "拾取後綁定\n[q]\"裡面沒有殘留任何魔法，可是嗡鳴聲依然相當清晰可聞。\"\n售價:"}
 MultiLanguageItemData['tw'][140362] = {name = "[q2]暗影之境粉塵", additional_info = "拾取後綁定\n[q2]使用: 提供角色相當可觀的經驗值。對等級超過49的玩家沒有作用。\n[q]\"這個粉塵雖然不具任何力量，卻給人超凡特異的感覺。\""}
-MultiLanguageItemData['tw'][140363] = {name = "[q3]可攜式魔能擴散水晶", additional_info = "玩具\n[q2]使用: 召喚一個小型的魔能擴散水晶，散播燃燒軍團的污染。 (30分鐘 冷卻)\n[q]\"最好不要放在口袋裡。\"\n售價:"}
+MultiLanguageItemData['tw'][140363] = {name = "[q3]可攜式魔能擴散水晶", additional_info = "玩具\n[q2]使用: 召喚一個小型的魔能擴散水晶，散播燃燒軍團的污染。 (30分鐘 冷卻)\n已經學會\n[q]\"最好不要放在口袋裡。\"\n售價:"}
 MultiLanguageItemData['tw'][140364] = {name = "[q0]冰霜巨龍骸骨碎片", additional_info = "拾取後綁定\n[q]\"骸骨碎片充滿能量，發出嗡鳴聲。這一定是當初在飛越冰冠城塞時斷落的碎片。\"\n售價:"}
 MultiLanguageItemData['tw'][140365] = {name = "[q0]乾燥的斯坦索姆梭百合", additional_info = "拾取後綁定\n[q]\"這種花曾在羅德隆片地盛開。有人對這種花喜愛有加，還在書本中保存幾片花瓣。\"\n售價:"}
 MultiLanguageItemData['tw'][140366] = {name = "[q0]血色詩歌集", additional_info = "拾取後綁定\n[q]\"血色十字軍收藏與編撰的聖光頌歌全集。\"\n售價:"}
@@ -5233,7 +5234,7 @@ MultiLanguageItemData['tw'][140491] = {name = "[q0]失竊的珍珠戒指", addit
 MultiLanguageItemData['tw'][140492] = {name = "[q0]微微發光的冰川卵石", additional_info = "拾取後綁定\n[q]\"隨著時光流轉，冰川把卵石磨得光滑圓潤。\"\n售價:"}
 MultiLanguageItemData['tw'][140493] = {name = "[q3]次元裂隙旅行老手指南", additional_info = "拾取後綁定\n[q2]使用: 傳送到同步過的破碎群島地脈節點。 (4小時 冷卻)\n[q]\"這本進階指南可前往破碎群島裡更為廣大的地脈。\"\n售價:"}
 MultiLanguageItemData['tw'][140494] = {name = "[q0]埃雷達爾尾袖", additional_info = "拾取後綁定\n[q]\"尾袖裝飾越是繁複，代表此人越有威望。\"\n售價:"}
-MultiLanguageItemData['tw'][140495] = {name = "[q3]撕毀的邀請函", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"顯然是夜裔貴族私人活動的邀請。\""}
+MultiLanguageItemData['tw'][140495] = {name = "[q3]撕毀的邀請函", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"顯然是夜裔貴族私人活動的邀請。\""}
 MultiLanguageItemData['tw'][140496] = {name = "獵狐邀請函", additional_info = "任務物品\n[q]\"案情逐漸明朗。\""}
 MultiLanguageItemData['tw'][140497] = {name = "[q0]一捆小小矛", additional_info = "拾取後綁定\n[q]\"如果單支攻擊，殺傷力不如縫衣針。成綑扔出卻能造成嚴重傷害。\"\n售價:"}
 MultiLanguageItemData['tw'][140498] = {name = "[q0]軍團仰慕者的筆記", additional_info = "拾取後綁定\n[q]\"有人暗中流傳這個筆記，表達他對軍團的仰慕。\"\n售價:"}
@@ -6130,7 +6131,7 @@ MultiLanguageItemData['tw'][141601] = {name = "[q3]獄怒長弓", additional_inf
 MultiLanguageItemData['tw'][141602] = {name = "[q3]埃雷達爾裂斧", additional_info = "拾取後綁定{單手} {斧}\n{4-9點傷害} {速度 2.60}\n(每秒2.5點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][141603] = {name = "[q3]惡魔領主的戰爭釘錘", additional_info = "拾取後綁定{雙手} {權杖}\n{10-14點傷害} {速度 3.60}\n(每秒3.3點傷害)\n+5 力量\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][141604] = {name = "[q3]墮落者長刀", additional_info = "[q7]戰隊綁定\n{單手} {戰刃}\n{5-8點傷害} {速度 2.60}\n(每秒2.5點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][141605] = {name = "[q3]飛行管理員的哨子", additional_info = "拾取後綁定\n[q2]使用: 要求最近的飛行管理員來接你。\n\n 只能在已解鎖飛行哨子的區域中使用。"}
+MultiLanguageItemData['tw'][141605] = {name = "[q3]飛行管理員的哨子", additional_info = "拾取後綁定\n玩具\n[q2]使用: 要求最近的飛行管理員來接你。\n\n 只能在已解鎖飛行哨子的區域中使用。"}
 MultiLanguageItemData['tw'][141606] = {name = "[q3]魔化劈斧", additional_info = "拾取後綁定{單手} {斧}\n{4-9點傷害} {速度 2.60}\n(每秒2.5點傷害)\n+2 力量\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][141607] = {name = "[q3]埃雷達爾戰鬥之刃", additional_info = "拾取後綁定{單手} {劍}\n{2-4點傷害} {速度 2.60}\n(每秒1.2點傷害)\n+13 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 加速\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][141609] = {name = "[q3]腐化的阿古斯裁決錘", additional_info = "拾取後綁定{單手} {權杖}\n{2-4點傷害} {速度 2.60}\n(每秒1.2點傷害)\n+13 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 加速\n耐久: 90 / 90\n售價:"}
@@ -6230,7 +6231,7 @@ MultiLanguageItemData['tw'][141858] = {name = "[q0]士兵的價值", additional_
 MultiLanguageItemData['tw'][141859] = {name = "[q0]士兵的光采", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][141860] = {name = "[q4]英格芮的謎題", additional_info = "拾取後綁定\n唯一\n[q2]使用: 解開謎題，以製造一件隨機的追隨者裝備。謎題箱不會因此消失。 (7天 冷卻)"}
 MultiLanguageItemData['tw'][141861] = {name = "[q4]虛空恩澤", additional_info = "拾取後綁定\n唯一\n使用: 永久性地為護肩施加虛空漂流附魔，讓穿戴者得以從敵人的屍體上獲得回收補給品。回收過程不會消耗附魔效果。無法用在等級高於320的物品。 (1小時 冷卻)"}
-MultiLanguageItemData['tw'][141862] = {name = "[q4]星光微粒", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 化為星光，持續5分鐘。 (30分鐘 冷卻)"}
+MultiLanguageItemData['tw'][141862] = {name = "[q4]星光微粒", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 化為星光，持續5分鐘。 (30分鐘 冷卻)\n已經學會"}
 MultiLanguageItemData['tw'][141863] = {name = "[q0]達格洛普的寶貝", additional_info = "拾取後綁定\n[q]\"對達格洛普來說，可以變成「主人」還是更重要一點。\"\n售價:"}
 MultiLanguageItemData['tw'][141865] = {name = "放逐球體", additional_info = "任務物品\n[q2]使用: 將一名敵方惡魔永遠放逐，驅使該惡魔回到扭曲虛空。 (5秒 冷卻)\n[q]\"把全新召喚的惡魔趕回扭曲虛空裡。\""}
 MultiLanguageItemData['tw'][141866] = {name = "[q3]瑞凡塔斯的絲質手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 2 臨機應變\n[q2]+ 5 精通\n耐久: 50 / 50\n[q]\"第二隻和第六隻手套狀態相當完美，真好運。\"\n售價:"}
@@ -6357,7 +6358,7 @@ MultiLanguageItemData['tw'][141995] = {name = "[q4]無人領取的黑市箱子",
 MultiLanguageItemData['tw'][141997] = {name = "榮譽值", additional_info = "[q]\"在競技場或戰場獲得榮譽值，解開PvP專屬獎勵。\""}
 MultiLanguageItemData['tw'][141998] = {name = "榮譽值", additional_info = "[q]\"在競技場或戰場獲得榮譽值，解開PvP專屬獎勵。\""}
 MultiLanguageItemData['tw'][141999] = {name = "[q0]鍛爐之錘", additional_info = "拾取後綁定{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n售價:"}
-MultiLanguageItemData['tw'][142000] = {name = "[q3]萊茵石太陽眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][142000] = {name = "[q3]萊茵石太陽眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][142001] = {name = "[q0]塞納留斯的角", additional_info = "拾取後綁定\n[q]\"織夢者會將這種半神身上蛻下的角視為貴重的物品。\"\n售價:"}
 MultiLanguageItemData['tw'][142002] = {name = "[q0]地護龍鱗", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][142003] = {name = "[q0]晉升者咒符", additional_info = "拾取後綁定\n[q]\"一旦獲得歐丁認可進入英靈殿，就能獲得這個咒符。所有維酷人都將其視為珍寶。\"\n售價:"}
@@ -6551,7 +6552,7 @@ MultiLanguageItemData['tw'][142232] = {name = "[q4]戰鬥領主嗜血戰龍鋼�
 MultiLanguageItemData['tw'][142233] = {name = "[q4]厄運憤怒戰馬陰暗韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚虛空領主厄運憤怒戰馬。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"暗影加火焰，絕對沒問題！\"\n掉落：\n赫爾努拉斯領主\n區域：\n破碎海岸"}
 MultiLanguageItemData['tw'][142234] = {name = "[q4]兇惡戰熊", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"部落的兇惡戰熊和牠相比一點也不兇惡。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
 MultiLanguageItemData['tw'][142235] = {name = "[q4]兇惡戰熊", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"聯盟的兇惡戰熊和牠相比一點也不兇惡。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
-MultiLanguageItemData['tw'][142236] = {name = "[q4]午夜的永恆韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚午夜。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"依然是卡拉贊馬廄中最凶悍的戰馬。\"\n掉落：\n獵人阿圖曼\n區域：\n重返卡拉贊"}
+MultiLanguageItemData['tw'][142236] = {name = "[q4]午夜的永恆韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚午夜。\n80 ( 80)\n需要 初級騎術\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n\n\n[q]\"依然是卡拉贊馬廄中最凶悍的戰馬。\"\n掉落：\n獵人阿圖曼\n區域：\n重返卡拉贊"}
 MultiLanguageItemData['tw'][142237] = {name = "[q4]兇惡戰獅", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"有許多侍從在訓練牠的過程中受傷。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
 MultiLanguageItemData['tw'][142238] = {name = "奇獸與牠們的棲息地", additional_info = "任務物品\n[q]\"幾乎每位艾澤拉斯法師的居所都藏有這本書。\""}
 MultiLanguageItemData['tw'][142239] = {name = "羽毛好朋友手冊", additional_info = "任務物品\n[q]\"封面上的小字寫著：「好朋友」三字僅為參考，作者不做任何相關承諾保證。\""}
@@ -6572,7 +6573,7 @@ MultiLanguageItemData['tw'][142261] = {name = "奧肯多爾果實", additional_i
 MultiLanguageItemData['tw'][142262] = {name = "電能鑰匙", additional_info = "[q2]使用: 啟動一隻尚未啟動的機械蜘蛛 (10秒 冷卻)\n[q]\"他把這東西放在口袋裡？\"\n售價:"}
 MultiLanguageItemData['tw'][142263] = {name = "[q2]機油", additional_info = "[q2]使用: 在你附近的寵物或戰寵身上塗滿機油，持續1小時。 (10秒 冷卻)\n[q]\"運作順暢，永保潤滑。\"\n售價:"}
 MultiLanguageItemData['tw'][142264] = {name = "[q2]苦力汁液", additional_info = "[q2]使用: 為你附近的寵物或戰鬥寵物注射苦力汁液，持續1小時。 (10秒 冷卻)\n[q]\"你確定要這樣做嗎？\"\n售價:"}
-MultiLanguageItemData['tw'][142265] = {name = "[q3]大紅光砲", additional_info = "使用後綁定\n玩具\n[q2]使用: 讓你附近的寵物和戰寵變得又大又紅！ (10分鐘 冷卻)\n[q]\"應該沒有危險吧。\"\n售價:"}
+MultiLanguageItemData['tw'][142265] = {name = "[q3]大紅光砲", additional_info = "使用後綁定\n玩具\n[q2]使用: 讓你附近的寵物和戰寵變得又大又紅！ (10分鐘 冷卻)\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n[q]\"應該沒有危險吧。\"\n售價:"}
 MultiLanguageItemData['tw'][142266] = {name = "一把小零件", additional_info = "制作材料\n[q]\"機械寵物最愛小零件了。\"\n售價:"}
 MultiLanguageItemData['tw'][142267] = {name = "緋紅石之核心", additional_info = "任務物品\n[q]\"濕鱗族長的心臟。\""}
 MultiLanguageItemData['tw'][142268] = {name = "緋紅熔岩核心", additional_info = "任務物品\n[q]\"從巫士加魯革取回的核心，能賦予岩石生命。\""}
@@ -6775,9 +6776,9 @@ MultiLanguageItemData['tw'][142521] = {name = "[q4]拙劣者披氅", additional_
 MultiLanguageItemData['tw'][142522] = {name = "[q3]無禮的信", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"以汗水封口，上面寫著你的名字。\""}
 MultiLanguageItemData['tw'][142526] = {name = "[q3]墮落者長刀", additional_info = "[q7]戰隊綁定\n{單手} {戰刃}\n{5-8點傷害} {速度 2.60}\n(每秒2.5點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][142527] = {name = "輸入卡", additional_info = "任務物品\n唯一\n[q]\"可能會派上用場。\""}
-MultiLanguageItemData['tw'][142528] = {name = "[q3]一箱浮標：蟲罐", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你的浮標換成一罐美味的蟲(至少對魚來說)，持續1小時。 (15分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][142529] = {name = "[q3]一箱浮標：貓頭", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你的浮標換成一顆玩具貓頭，持續1小時。 (15分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][142530] = {name = "[q3]一箱浮標：拖船", additional_info = "拾取後綁定\n玩具\n使用: 把你的釣魚浮標換成拖船，持續1小時。 (15分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][142528] = {name = "[q3]一箱浮標：蟲罐", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你的浮標換成一罐美味的蟲(至少對魚來說)，持續1小時。 (15分鐘 冷卻)\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n售價:"}
+MultiLanguageItemData['tw'][142529] = {name = "[q3]一箱浮標：貓頭", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你的浮標換成一顆玩具貓頭，持續1小時。 (15分鐘 冷卻)\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n售價:"}
+MultiLanguageItemData['tw'][142530] = {name = "[q3]一箱浮標：拖船", additional_info = "拾取後綁定\n玩具\n使用: 把你的釣魚浮標換成拖船，持續1小時。 (15分鐘 冷卻)\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][142531] = {name = "[q3]一箱浮標：黃色小鴨", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你的浮標換成一隻黃色小鴨，持續1小時。 (15分鐘 冷卻)\n需要咒術師瑪苟斯\n- 朋友\n售價:"}
 MultiLanguageItemData['tw'][142532] = {name = "[q3]一箱浮標：魚人頭", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你的浮標換成一顆可愛的魚人頭，持續1小時。 (15分鐘 冷卻)\n需要咒術師瑪苟斯\n- 朋友\n售價:"}
 MultiLanguageItemData['tw'][142533] = {name = "[q0]泰坦恩賜", additional_info = "拾取後綁定\n售價:"}
@@ -7661,11 +7662,11 @@ MultiLanguageItemData['tw'][143535] = {name = "魔石墜飾", additional_info = 
 MultiLanguageItemData['tw'][143536] = {name = "[q0]超載的占卜寶珠", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][143537] = {name = "魔力法器", additional_info = "任務物品\n唯一\n[q]\"穿過此物品的光線都會扭曲、轉向…\""}
 MultiLanguageItemData['tw'][143538] = {name = "[q0]糾纏的傳送之球", additional_info = "拾取後綁定\n[q]\"可能造成所有的傳送結果的裝置。理論上，它能在任何時候帶你到任何你想去的地方。實際上，似乎只有在找廁所的時候，才比較可靠。\"\n售價:"}
-MultiLanguageItemData['tw'][143539] = {name = "[q2]隱藏腰帶", additional_info = "造型\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][143539] = {name = "[q2]隱藏腰帶", additional_info = "造型\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][143540] = {name = "[q0]力量不足的調節水晶", additional_info = "拾取後綁定\n[q]\"別被騙了，雖然它不足以除掉地脈控制器，但還是具有強大的能量。\"\n售價:"}
 MultiLanguageItemData['tw'][143542] = {name = "[q2]王冠製藥「超級萬能解」藥劑", additional_info = "拾取後綁定\n[q2]使用: 「治好」所有中毒、疾病、詛咒、妖術、靈魂、魔符、禿頭和魔法等負面效果。 (1分鐘 冷卻)\n\"此藥劑未經鍊金術協會官方認證。飲用者必須自行承擔所有服用此藥劑的風險與責任。\"\n售價:"}
 MultiLanguageItemData['tw'][143543] = {name = "[q4]十二弦吉他", additional_info = "拾取後綁定\n玩具\n[q2]使用: 撥弦彈出攝人的旋律。 (1小時，6分鐘 冷卻)"}
-MultiLanguageItemData['tw'][143544] = {name = "[q3]腐化顱骨", additional_info = "拾取後綁定\n玩具\n職業： 惡魔獵人\n[q2]使用: 你沉思估量著這個惡魔顱骨所蘊含的力量。 (30秒 冷卻)\n[q]\"惡魔回到扭曲虛空時，仍會有力量殘留。\""}
+MultiLanguageItemData['tw'][143544] = {name = "[q3]腐化顱骨", additional_info = "拾取後綁定\n玩具\n職業： 惡魔獵人\n[q2]使用: 你沉思估量著這個惡魔顱骨所蘊含的力量。 (30秒 冷卻)\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n[q]\"惡魔回到扭曲虛空時，仍會有力量殘留。\""}
 MultiLanguageItemData['tw'][143545] = {name = "[q3]魔能聚焦水晶", additional_info = "拾取後綁定\n玩具\n職業： 惡魔獵人\n[q2]使用: 沉思估量著惡魔水晶中的力量。 (30秒 冷卻)\n[q]\"由強大的眼魔光束紋刻的水晶，能夠引導龐大的魔化能量。\""}
 MultiLanguageItemData['tw'][143548] = {name = "惡魔肌腱包", additional_info = "任務物品\n[q]\"由惡魔野獸的肌肉纖維編織而成，因此散發著惡魔能量的臭味。\""}
 MultiLanguageItemData['tw'][143549] = {name = "動力水晶空盒子", additional_info = "任務物品"}
@@ -7733,7 +7734,7 @@ MultiLanguageItemData['tw'][143639] = {name = "時光波動球", additional_info
 MultiLanguageItemData['tw'][143640] = {name = "火焰防護球", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 以護盾保護施法者，持續1分鐘，可吸收91點火焰傷害。\n\n 只能在破碎群島和掌控圓盤事件中使用。 (30秒 冷卻)"}
 MultiLanguageItemData['tw'][143641] = {name = "冰霜防護球", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 以護盾保護施法者，持續1分鐘，可吸收91點冰霜傷害。\n\n 只能在破碎群島和掌控圓盤事件中使用。 (30秒 冷卻)"}
 MultiLanguageItemData['tw'][143642] = {name = "秘法防護球", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 以護盾保護施法者，持續1分鐘，可吸收91點秘法傷害。\n\n 只能在破碎群島和掌控圓盤事件中使用。 (30秒 冷卻)"}
-MultiLanguageItemData['tw'][143643] = {name = "[q4]深淵蟲", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"陰影從鱗片中瀰漫出來，不像是這個世界的產物。你確定這生物來自艾澤拉斯的海底嗎？\"\n掉落：\n薩絲茵女士\n地點：\n薩格拉斯之墓"}
+MultiLanguageItemData['tw'][143643] = {name = "[q4]深淵蟲", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:\n[q]\"陰影從鱗片中瀰漫出來，不像是這個世界的產物。你確定這生物來自艾澤拉斯的海底嗎？\"\n掉落：\n薩絲茵女士\n地點：\n薩格拉斯之墓"}
 MultiLanguageItemData['tw'][143648] = {name = "[q4]兇惡戰龜", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"現在真的可以龜在旗旁邊了。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
 MultiLanguageItemData['tw'][143649] = {name = "[q4]兇惡戰龜", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"現在真的可以龜在旗旁邊了。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
 MultiLanguageItemData['tw'][143654] = {name = "被汙染的樣本", additional_info = "任務物品\n[q]\"注意：如果樣本接觸到皮膚，應立即清洗患處。\""}
@@ -7742,7 +7743,7 @@ MultiLanguageItemData['tw'][143657] = {name = "[q4]時光餘韻", additional_inf
 MultiLanguageItemData['tw'][143658] = {name = "[q4]時光餘韻", additional_info = "任務物品\n[q]\"過去、現世與未來的景象在寶石的表面閃爍不定。\""}
 MultiLanguageItemData['tw'][143660] = {name = "[q3]魚人號角", additional_info = "拾取後綁定\n玩具\n[q2]使用: 吹響魚人號角，號召魚人蝌蚪大軍。 (30分鐘 冷卻)"}
 MultiLanguageItemData['tw'][143661] = {name = "伊利達瑞的靈魂稜石", additional_info = "任務物品\n[q]\"用以捕捉強大的失落靈魂。\""}
-MultiLanguageItemData['tw'][143662] = {name = "[q3]一箱浮標：木製皮皮", additional_info = "拾取後綁定\n玩具\n使用: 用木製皮皮取代你的釣魚浮標，一定能把魚吸引過來，持續1小時。 (15分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][143662] = {name = "[q3]一箱浮標：木製皮皮", additional_info = "拾取後綁定\n玩具\n使用: 用木製皮皮取代你的釣魚浮標，一定能把魚吸引過來，持續1小時。 (15分鐘 冷卻)\n已經學會\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][143663] = {name = "[q3]黑暗遊俠的兜帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n7護甲\n+0 [敏捷 or 智力]\n耐久: 85 / 85\n[q]\"帶著淡淡的玫瑰花香…和腐臭。\"\n售價:"}
 MultiLanguageItemData['tw'][143664] = {name = "正常大小的老鼠", additional_info = "卡拉贊\n拾取後綁定\n持續時間：1天\n[q2]使用: 騎上一隻正常大小的老鼠。\n\n 只能在卡拉贊使用。\n售價:"}
 MultiLanguageItemData['tw'][143665] = {name = "[q0]破裂的叛節束腰", additional_info = "裝備後綁定\n{腰部} {皮甲}\n4護甲\n耐久: 40 / 40\n售價:"}
@@ -7792,7 +7793,7 @@ MultiLanguageItemData['tw'][143715] = {name = "[q0]鬥士的狂歡", additional_
 MultiLanguageItemData['tw'][143716] = {name = "[q0]士兵的傳承", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][143717] = {name = "[q0]有缺口的茶杯", additional_info = "[q2]使用: 喝一口！ (10秒 冷卻)\n[q]\"這個易碎的茶杯長年放置在玩具箱底部，竟然沒有被壓碎。\""}
 MultiLanguageItemData['tw'][143718] = {name = "屍骸收藏匣", additional_info = "任務物品\n[q2]使用: 可妥善收納束縛過的易毀屍骸。 (5秒 冷卻)\n[q]\"可安全收藏被感染的屍骸。\""}
-MultiLanguageItemData['tw'][143727] = {name = "[q3]勇士的英姿", additional_info = "拾取後綁定\n玩具\n[q2]使用: 擺出一個英雄般的姿勢，讓你身邊的人印象深刻。 (5分鐘 冷卻)"}
+MultiLanguageItemData['tw'][143727] = {name = "[q3]勇士的英姿", additional_info = "拾取後綁定\n玩具\n[q2]使用: 擺出一個英雄般的姿勢，讓你身邊的人印象深刻。 (5分鐘 冷卻)\n已經學會"}
 MultiLanguageItemData['tw'][143728] = {name = "[q5]萬用策略", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{肩部} {板甲}\n12護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 臨機應變\n[q2]+ 4 精通\n耐久: 120 / 120 職業： 戰士\n[q2]裝備： 英勇躍擊獲得2次額外使用次數。\n[q]\"只要沉著冷靜、像顆大鐵球一樣躍入戰場就行了。\"\n售價:"}
 MultiLanguageItemData['tw'][143731] = {name = "風暴蜜酒桶", additional_info = "任務物品\n[q]\"警告：飲用後果自負。\""}
 MultiLanguageItemData['tw'][143732] = {name = "[q5]語焉不詳的警示", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{頭部} {鎖甲}\n9護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 精通\n耐久: 120 / 120 職業： 薩滿\n[q2]裝備： [ 英勇氣概 / 嗜血術]效果在你身上的持續時間延長75%。\n[q]\"記住誰才是真正的敵人…\"\n售價:"}
@@ -7825,7 +7826,7 @@ MultiLanguageItemData['tw'][143760] = {name = "[q3]打鬥者藥水發放器", ad
 MultiLanguageItemData['tw'][143761] = {name = "[q3]浸血天使刻像", additional_info = "拾取後綁定\n[q]\"帶去畢茲摩鬥陣俱樂部交給莉迪亞‧佩頓，就能在鬥陣俱樂部裡頭設置墓地，持續30分鐘。\"\n售價:"}
 MultiLanguageItemData['tw'][143762] = {name = "[q3]賭豪合約", additional_info = "拾取後綁定\n[q]\"帶去畢茲摩鬥陣俱樂部交給哈洛德‧吉‧金鏈，就能開始進行賭局，持續30分鐘。\"\n售價:"}
 MultiLanguageItemData['tw'][143763] = {name = "[q3]一袋磨損的骰子", additional_info = "拾取後綁定\n[q]\"交給畢茲摩鬥陣俱樂部保鏢，就能開啟隨機鬥陣模式，持續30分鐘。\"\n售價:"}
-MultiLanguageItemData['tw'][143764] = {name = "[q4]脈織飛毯", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散脈織飛毯。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"絲線如此細緻，做工如此繁複，很難想像這是不靠魔法、純手工做出來的。\"\n掉落：\n夜落寶箱"}
+MultiLanguageItemData['tw'][143764] = {name = "[q4]脈織飛毯", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散脈織飛毯。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:\n[q]\"絲線如此細緻，做工如此繁複，很難想像這是不靠魔法、純手工做出來的。\"\n掉落：\n夜落寶箱"}
 MultiLanguageItemData['tw'][143772] = {name = "Challenge Card: Oolis", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰烏利斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][143773] = {name = "疫病抑制劑", additional_info = "任務物品\n唯一\n[q2]使用: 塗抹抑制劑可消除魔化疫病的效果。\n[q]\"艾薩萊斯特精心調製的產品。\""}
 MultiLanguageItemData['tw'][143776] = {name = "[q3]隱蔽時光扭曲硬幣", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
@@ -8315,7 +8316,7 @@ MultiLanguageItemData['tw'][144338] = {name = "結構圖：重型爆頭眼鏡", 
 MultiLanguageItemData['tw'][144339] = {name = "[q3]頑固的愛情傻瓜", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在目標地點召喚頑固的愛情傻瓜，持續5分鐘。頑固的愛情傻瓜在持續時間內可以當作假人來使用。 (30分鐘 冷卻)"}
 MultiLanguageItemData['tw'][144340] = {name = "[q5]仁的庇護所", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{胸部} {皮甲}\n8護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 臨機應變\n耐久: 200 / 200 職業： 武僧\n[q2]裝備： 回生迷霧的治療效果提高10%。\n[q2]裝備： 雪崙的贈禮也會為受到回生迷霧影響的盟友治療，效果相當於其所受的15%治療效果。\n[q]\"仁護佑我們，正如紹昊大帝以往護佑她，以及潘達利亞的子民們一樣。\"\n售價:"}
 MultiLanguageItemData['tw'][144341] = {name = "[q3]可充電式劫福斯電池", additional_info = "拾取後綁定\n唯一\n[q2]使用: 召喚劫福斯。 (30分鐘 冷卻)\n需要 軍團工程學 (1)\n售價:"}
-MultiLanguageItemData['tw'][144342] = {name = "[q0]哥布林萊茵石太陽眼鏡", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][144342] = {name = "[q0]哥布林萊茵石太陽眼鏡", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][144343] = {name = "結構圖：可充電式劫福斯電池", additional_info = "等級1\n拾取後綁定\n[q2]使用:  教你學會如何製作可充電式劫福斯電池。\n[q2]製作可充電式劫福斯電池。\n需要 軍團工程學 (1)\n\n\n[q3]可充電式劫福斯電池\n拾取後綁定\n唯一\n[q2]使用: 召喚劫福斯。 (30分鐘 冷卻)\n需要 軍團工程學 (1)\n售價: \n需要 劫福斯電池 , 脈石礦石 (75), 薩格拉斯之血 (15)"}
 MultiLanguageItemData['tw'][144344] = {name = "[q2]橘色寶石", additional_info = "[q]\"減少切割次數以獲得品質更好的寶石。\""}
 MultiLanguageItemData['tw'][144345] = {name = "[q2]一堆寵物用品", additional_info = "拾取後綁定\n\"裡面有來自破碎群島的寵物用品。可供擁有寵物師之助附魔的玩家拾取。\"\n[q2]<右鍵單擊打開>"}
@@ -10609,7 +10610,7 @@ MultiLanguageItemData['tw'][146949] = {name = "[q3]軍團之殞徽記", addition
 MultiLanguageItemData['tw'][146950] = {name = "[q3]軍團之殞徽記", additional_info = "[q7]戰隊綁定\n[q2]使用: 與軍團之殞部隊的聲望提高250點。 (2秒 冷卻)"}
 MultiLanguageItemData['tw'][146951] = {name = "防護師的知識卷軸", additional_info = "任務物品\n[q]\"整張羊皮紙都閃動著邪惡的能量。\""}
 MultiLanguageItemData['tw'][146952] = {name = "[q3]傳說級裁縫師材料", additional_info = "任務物品\n[q2]使用: 使用皇后之賜織布機將你收集到的布料和絲織縫在一塊。"}
-MultiLanguageItemData['tw'][146953] = {name = "[q3]骨渣", additional_info = "[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n售價:"}
+MultiLanguageItemData['tw'][146953] = {name = "[q3]骨渣", additional_info = "[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][146955] = {name = "[q4]有可能很珍貴的寶石", additional_info = "任務物品\n[q]\"似乎很有價值！\""}
 MultiLanguageItemData['tw'][146956] = {name = "[q4]希望無窮的藏寶鑰匙", additional_info = "任務物品\n[q]\"說不定能用來打開驚人的寶藏？\""}
 MultiLanguageItemData['tw'][146957] = {name = "[q4]神秘藥水", additional_info = "任務物品\n[q]\"說不定喝下它能獲得驚人的力量？\""}
@@ -11304,10 +11305,10 @@ MultiLanguageItemData['tw'][147798] = {name = "[q4]棄捨項鍊", additional_inf
 MultiLanguageItemData['tw'][147799] = {name = "[q4]棄捨之戒", additional_info = "拾取後綁定\n[q2]使用: 製造一件破碎群島物品，此物品符合你設定之戰利品優先分配專"}
 MultiLanguageItemData['tw'][147800] = {name = "[q4]棄捨肩甲", additional_info = "拾取後綁定\n[q2]使用: 製造一件破碎群島物品，此物品符合你設定之戰利品優先分配專"}
 MultiLanguageItemData['tw'][147801] = {name = "[q4]棄捨飾品", additional_info = "拾取後綁定\n[q2]使用: 製造一件破碎群島物品，此物品符合你設定之戰利品優先分配專"}
-MultiLanguageItemData['tw'][147804] = {name = "[q4]野生的逐夢馬", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"逐夢馬可以在現實與翡翠夢境之間自由穿梭，牠們的天性就是不受拘束。\"\n掉落：\n織夢者貯藏箱"}
-MultiLanguageItemData['tw'][147805] = {name = "[q4]華爾拉亞風暴之翼", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"拍動翅膀的聲音就像遠方傳來的悶雷一樣。\"\n掉落：\n華爾拉亞保險箱"}
-MultiLanguageItemData['tw'][147806] = {name = "[q4]雲翼角鷹獸", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"相較於一般的角鷹獸，艾蘇納的雲翼角鷹獸更喜歡把巢築在聳入雲霄的高山洞窟裡。\"\n掉落：\n法隆迪斯寶箱"}
-MultiLanguageItemData['tw'][147807] = {name = "[q4]高嶺領角鹿", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"高嶺獵人們最喜歡的坐騎。即便是載著一個高大的牛頭人，牠也可以輕鬆跳過松岩盆地的急流。\"\n掉落：\n高嶺補給品"}
+MultiLanguageItemData['tw'][147804] = {name = "[q4]野生的逐夢馬", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n售價:\n[q]\"逐夢馬可以在現實與翡翠夢境之間自由穿梭，牠們的天性就是不受拘束。\"\n掉落：\n織夢者貯藏箱"}
+MultiLanguageItemData['tw'][147805] = {name = "[q4]華爾拉亞風暴之翼", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n售價:\n[q]\"拍動翅膀的聲音就像遠方傳來的悶雷一樣。\"\n掉落：\n華爾拉亞保險箱"}
+MultiLanguageItemData['tw'][147806] = {name = "[q4]雲翼角鷹獸", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:\n[q]\"相較於一般的角鷹獸，艾蘇納的雲翼角鷹獸更喜歡把巢築在聳入雲霄的高山洞窟裡。\"\n掉落：\n法隆迪斯寶箱"}
+MultiLanguageItemData['tw'][147807] = {name = "[q4]高嶺領角鹿", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:\n[q]\"高嶺獵人們最喜歡的坐騎。即便是載著一個高大的牛頭人，牠也可以輕鬆跳過松岩盆地的急流。\"\n掉落：\n高嶺補給品"}
 MultiLanguageItemData['tw'][147808] = {name = "[q0]精兵的次級戰利品", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][147809] = {name = "[q0]精兵的戰利品", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][147810] = {name = "[q0]精兵的特級戰利品", additional_info = "拾取後綁定\n售價:"}
@@ -11322,9 +11323,9 @@ MultiLanguageItemData['tw'][147835] = {name = "[q4]謎人鑽心蟲", additional_
 MultiLanguageItemData['tw'][147836] = {name = "[q3]鹽鑄甲殼", additional_info = "拾取後綁定\n唯一\n[q2]使用: 擲出甲殼，把目標從坐騎上擊落。對49級以上的目標無效。 (10分鐘 冷卻)\n[q]\"這絕對不公平。\"\n售價:"}
 MultiLanguageItemData['tw'][147837] = {name = "[q4]棄捨聖物", additional_info = "拾取後綁定\n[q2]使用: 製造一件破碎群島聖物，此物品符合你設定之戰利品優先分配專"}
 MultiLanguageItemData['tw'][147838] = {name = "[q3]阿卡贊札拉克的備用帽子", additional_info = "拾取後綁定\n玩具\n[q2]使用: 從帽子裡抓出兔子！ (1小時 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][147841] = {name = "[q3]魔蝠孤兒", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n售價:"}
+MultiLanguageItemData['tw'][147841] = {name = "[q3]魔蝠孤兒", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][147842] = {name = "[q0]團結之力", additional_info = "拾取後綁定\n售價:"}
-MultiLanguageItemData['tw'][147843] = {name = "[q4]西拉的額外披風", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 偽裝成看守者。 (2小時 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][147843] = {name = "[q4]西拉的額外披風", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 偽裝成看守者。 (2小時 冷卻)\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][147852] = {name = "[q0]神兵武器研究摘要：第一冊至第五冊", additional_info = "拾取後綁定\n[q] \"職業組織開始共享資源後，這些知識的紀錄就過時了。\"\n售價:"}
 MultiLanguageItemData['tw'][147853] = {name = "[q0]神兵武器研究摘要：第一冊至第六冊", additional_info = "拾取後綁定\n[q] \"職業組織開始共享資源後，這些知識的紀錄就過時了。\"\n售價:"}
 MultiLanguageItemData['tw'][147854] = {name = "[q0]神兵武器研究摘要：第一冊至第七冊", additional_info = "拾取後綁定\n[q] \"職業組織開始共享資源後，這些知識的紀錄就過時了。\"\n售價:"}
@@ -11332,7 +11333,7 @@ MultiLanguageItemData['tw'][147855] = {name = "[q0]神兵武器研究摘要：�
 MultiLanguageItemData['tw'][147856] = {name = "[q0]神兵武器研究摘要：第一冊至第九冊", additional_info = "拾取後綁定\n[q] \"職業組織開始共享資源後，這些知識的紀錄就過時了。\"\n售價:"}
 MultiLanguageItemData['tw'][147860] = {name = "[q0]強化精靈秘典", additional_info = "拾取後綁定\n[q] \"職業組織開始共享資源後，這些知識的紀錄就過時了。\"\n售價:"}
 MultiLanguageItemData['tw'][147864] = {name = "[q3]軍團之殞旌旗", additional_info = "拾取後綁定\n[q2]使用: 在地面上放置一支軍團之殞旌旗。如果置於破碎群島，此旌旗會使30碼範圍內玩家受到的傷害降低5%。 (1小時 冷卻)\n需要軍團之殞部隊\n- 尊敬\n售價:"}
-MultiLanguageItemData['tw'][147867] = {name = "[q3]失竊的掃地機", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在地上放置失竊的掃地機。這個掃地機的能量所剩無幾，沒辦法撐太久。 (5分鐘 冷卻)\n[q]\"讓蟲舌魔在蘇拉瑪爾華麗的大街上亂跑不是什麼好事。不過他們覺得這樣還不錯。\"\n售價:"}
+MultiLanguageItemData['tw'][147867] = {name = "[q3]失竊的掃地機", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在地上放置失竊的掃地機。這個掃地機的能量所剩無幾，沒辦法撐太久。 (5分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n[q]\"讓蟲舌魔在蘇拉瑪爾華麗的大街上亂跑不是什麼好事。不過他們覺得這樣還不錯。\"\n售價:"}
 MultiLanguageItemData['tw'][147868] = {name = "最強屠魔藥劑", additional_info = "[q2]使用: 對惡魔的攻擊強度提高200點。只能在破碎群島戶外使用，持續15分鐘。作戰藥劑。 (3秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][147869] = {name = "[q2]魔化隕石", additional_info = "[q2]使用: 將使用者變為魔化隕石射向遠方。只能在阿古斯和破碎群島上使用。\n[q]\"這可能是煉獄火的一部分，而且還溫溫的。\"\n售價:"}
 MultiLanguageItemData['tw'][147870] = {name = "[q2]奇怪的次元裂片", additional_info = "[q2]使用: 讓你傳送數次。\n\n 只能在阿古斯和破碎群島上使用。 (3秒 冷卻)\n售價:"}
@@ -11346,7 +11347,7 @@ MultiLanguageItemData['tw'][147881] = {name = "稍微急迫一點的時光行者
 MultiLanguageItemData['tw'][147882] = {name = "慶祝魔杖 - 穴居怪", additional_info = "[q7]戰隊綁定\n[q2]使用: 為目標隊伍成員穿上穴居怪裝束。\n5 充能"}
 MultiLanguageItemData['tw'][147883] = {name = "慶祝魔杖 - 野豬人", additional_info = "[q7]戰隊綁定\n[q2]使用: 為目標隊伍成員穿上野豬人裝束。\n5 充能"}
 MultiLanguageItemData['tw'][147884] = {name = "[q2]平靜機械雪人裝束", additional_info = "[q7]戰隊綁定\n[q2]使用: 打扮成雪人的樣子。 (10秒 冷卻)\n3 充能"}
-MultiLanguageItemData['tw'][147885] = {name = "[q3]青銅色太陽眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][147885] = {name = "[q3]青銅色太陽眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][147886] = {name = "戰鬥代幣", additional_info = "魔法物品\n[q2]使用: 對另一位玩家投出代幣。如果他們的物品欄裡有足夠空間，他們就會接住。\n[q]\"由戰爭前線的士兵使用，可在前線獲得優勢。\""}
 MultiLanguageItemData['tw'][147887] = {name = "[q4]戰爭集結", additional_info = "[q2]使用: 讓附近所有盟友的狀態提高10%，持續30分鐘。 (1小時 冷卻)"}
 MultiLanguageItemData['tw'][147888] = {name = "[q3]傳送門：前線指揮營地", additional_info = "[q2]使用: 製造一個可供盟友使用，通往前線指揮營地的傳送門。 (10分鐘 冷卻)"}
@@ -14526,10 +14527,10 @@ MultiLanguageItemData['tw'][151348] = {name = "[q3]玩具武器組", additional_
 MultiLanguageItemData['tw'][151349] = {name = "[q3]玩具武器組", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 裝備玩具武器。\n 冬幕節期間冷卻時間縮短。\n[q]\"內含一把木劍和一面木製盾牌。只要自己加點想像力就行了！\"\n售價:"}
 MultiLanguageItemData['tw'][151350] = {name = "冬幕節禮物", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][151351] = {name = "[q4]發光的禮物", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+4 [敏捷 or 力量 or 智力]\n[q2]使用: 使致命一擊、加速、精通，和臨機應變提高 4 點，持續20秒。 (2分鐘 冷卻)\n[q]\"最好別搖晃。\"\n售價:"}
-MultiLanguageItemData['tw'][151352] = {name = "[q2]幸運之冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"戴上以後可在一年裡帶來幸運的花朵頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151353] = {name = "[q2]暗花之冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"由不祥的花朵組成的黑暗頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151354] = {name = "[q2]豐饒之冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"戴上以後可在一年裡帶來豐饒的花朵頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151355] = {name = "[q2]勇氣之冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"戴上以後可在一年裡帶來勇氣的花朵頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151352] = {name = "[q2]幸運之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"戴上以後可在一年裡帶來幸運的花朵頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151353] = {name = "[q2]暗花之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"由不祥的花朵組成的黑暗頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151354] = {name = "[q2]豐饒之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"戴上以後可在一年裡帶來豐饒的花朵頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151355] = {name = "[q2]勇氣之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"戴上以後可在一年裡帶來勇氣的花朵頭環。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][151363] = {name = "提克爾的火箭發射器", additional_info = "任務物品\n[q2]使用: 在納薩格爾時，對邪鱗巨獸射出一枚燃夷火箭。"}
 MultiLanguageItemData['tw'][151364] = {name = "手繪戰士面具", additional_info = "任務物品\n唯一\n[q]\"從薩卡拉占的寶庫中搜刮而來。\""}
 MultiLanguageItemData['tw'][151366] = {name = "部分消化的秘法", additional_info = "任務物品\n唯一（30）"}
@@ -14559,7 +14560,7 @@ MultiLanguageItemData['tw'][151393] = {name = "[q0]後臺通行證", additional_
 MultiLanguageItemData['tw'][151394] = {name = "[q0]被拋棄的赤紅酒杯", additional_info = "售價:"}
 MultiLanguageItemData['tw'][151395] = {name = "[q3]魯維羅什的束腰", additional_info = "拾取後綁定{腰部} {板甲}\n7護甲\n+2 [力量 or 智力]\n+3 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 臨機應變\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][151396] = {name = "[q3]艾瑞克的高效能臂環", additional_info = "拾取後綁定{手腕} {布甲}\n2護甲\n+2 智力\n+3 耐力\n[q2]+ 1 加速\n[q2]+ 2 臨機應變\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][151397] = {name = "[q0]汗濕的腕環", additional_info = "造型\n裝備後綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151397] = {name = "[q0]汗濕的腕環", additional_info = "造型\n裝備後綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][151398] = {name = "[q3]閒暇建築師兜帽", additional_info = "拾取後綁定{頭部} {皮甲}\n4護甲\n+3 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 臨機應變\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][151399] = {name = "[q3]破碎的黑曜岩裂片", additional_info = "拾取後綁定頸部\n+3 耐力\n[q2]+ 6 致命一擊\n[q2]+ 3 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][151400] = {name = "[q3]沙洗足靴", additional_info = "拾取後綁定{腳} {布甲}\n2護甲\n+2 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 臨機應變\n耐久: 65 / 65\n售價:"}
@@ -14680,7 +14681,7 @@ MultiLanguageItemData['tw'][151520] = {name = "[q4]亡者傳說", additional_inf
 MultiLanguageItemData['tw'][151521] = {name = "[q4]風雨飄搖", additional_info = "軍臨天下第4季\n拾取後綁定\n風暴神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][151522] = {name = "[q4]雷霆衝擊", additional_info = "軍臨天下第4季\n拾取後綁定\n風暴神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][151523] = {name = "[q4]群眾之喚", additional_info = "軍臨天下第4季\n拾取後綁定\n風暴神器遺物\n+\n售價:"}
-MultiLanguageItemData['tw'][151524] = {name = "[q4]戒守之錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{6-8點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 2 加速\n[q2]+ 3 精通\n耐久: 110 / 110\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151524] = {name = "[q4]戒守之錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n耐久: 110 / 110\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][151525] = {name = "偷來的神器", additional_info = "任務物品\n[q]\"金布爾神廟中的古代遺物。\""}
 MultiLanguageItemData['tw'][151526] = {name = "枯竭的裂隙石", additional_info = "拾取後綁定\n[q]\"讓使用者進入小裂隙。\""}
 MultiLanguageItemData['tw'][151527] = {name = "牢房看守者的鑰匙", additional_info = "任務物品"}
@@ -14893,15 +14894,15 @@ MultiLanguageItemData['tw'][151760] = {name = "[q0]黛芙琳‧史提斯的魔�
 MultiLanguageItemData['tw'][151761] = {name = "[q0]草寫囈語", additional_info = "拾取後綁定\n[q]\"卷軸上的字跡狂亂而潦草，卻出奇地熟悉。\"\n[q2]<右鍵單擊閱讀>\n售價:"}
 MultiLanguageItemData['tw'][151762] = {name = "艾胥凡制服", additional_info = "任務物品\n[q2]使用: 結合5件艾胥凡裝束製造偽裝。\n\n 只能在沃魯敦的艾胥凡佔領區內使用。 (15秒 冷卻)"}
 MultiLanguageItemData['tw'][151763] = {name = "螃蟹陷阱", additional_info = "任務物品\n[q2]使用: 對著鉗爪螯蟹投擲陷阱來捕捉牠。"}
-MultiLanguageItemData['tw'][151764] = {name = "[q2]紫色晚宴套裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151765] = {name = "[q2]藍色晚宴套裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151766] = {name = "[q2]紅色晚宴套裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151767] = {name = "[q2]可愛的紫色裙裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151768] = {name = "[q2]可愛的藍色裙裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151769] = {name = "[q2]可愛的紅色裙裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151770] = {name = "[q2]可愛的黑色裙裝", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151771] = {name = "[q2]節慶長裙", additional_info = "造型\n裝備後綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][151772] = {name = "[q2]節慶衣服", additional_info = "造型\n裝備後綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151764] = {name = "[q2]紫色晚宴套裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151765] = {name = "[q2]藍色晚宴套裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151766] = {name = "[q2]紅色晚宴套裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151767] = {name = "[q2]可愛的紫色裙裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151768] = {name = "[q2]可愛的藍色裙裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151769] = {name = "[q2]可愛的紅色裙裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151770] = {name = "[q2]可愛的黑色裙裝", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151771] = {name = "[q2]節慶長裙", additional_info = "造型\n裝備後綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151772] = {name = "[q2]節慶衣服", additional_info = "造型\n裝備後綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][151774] = {name = "蒸餾虛無調和劑", additional_info = "[q2]使用: 酒精含量較高的飲料。\n[q]\"永遠冰冷。\"\n售價:"}
 MultiLanguageItemData['tw'][151775] = {name = "濃縮營養品", additional_info = "[q2]使用: 在20秒內恢復總計( 10000 * 20 / 5)點生命力，進食時必須保持坐姿。\n[q]\"富含營養，僅此而已。\"\n售價:"}
 MultiLanguageItemData['tw'][151776] = {name = "箱裝豬肉製品", additional_info = "任務物品\n[q]\"有點可疑的豬肉加工製品。\""}
@@ -14915,9 +14916,9 @@ MultiLanguageItemData['tw'][151786] = {name = "[q5]心靈之輝", additional_inf
 MultiLanguageItemData['tw'][151787] = {name = "[q5]蒼白仕女", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{頭部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 120 / 120 職業： 牧師\n[q2]裝備： 癒合禱言有15%的機率賦予你神化，持續8秒。\n[q]\"當星辰放下聖槍，淚水洗遍天堂。她看見自己所造，是否綻放微笑？\"\n售價:"}
 MultiLanguageItemData['tw'][151788] = {name = "[q5]風暴烈酒的最後喘息", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{肩部} {皮甲}\n6護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 120 / 120 職業： 武僧\n[q2]裝備： 酒罈破額外獲得1次使用次數，並且造成的傷害提高25%。\n[q]\"我族因何而戰？保衛家園護親人…守護平衡創和諧。\"\n售價:"}
 MultiLanguageItemData['tw'][151789] = {name = "[q0]防衛傀儡識別碼", additional_info = "拾取後綁定\n[q]\"持有者可不受消滅程序影響。\"\n售價:"}
-MultiLanguageItemData['tw'][151790] = {name = "[q2]紅色冬裝", additional_info = "造型\n裝備後綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]冬季服裝 (0/3)\n[q0]綠色冬裝\n綠色冬帽\n紅色冬裝\n紅色冬帽\n冬靴\n[q0](3) 組合 : 全套冬季服裝\n售價:"}
-MultiLanguageItemData['tw'][151791] = {name = "[q0]冬靴", additional_info = "造型\n裝備後綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]冬季服裝 (0/3)\n[q0]綠色冬裝\n綠色冬帽\n紅色冬裝\n紅色冬帽\n冬靴\n[q0](3) 組合 : 全套冬季服裝\n售價:"}
-MultiLanguageItemData['tw'][151792] = {name = "[q2]綠色冬裝", additional_info = "造型\n裝備後綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]冬季服裝 (0/3)\n[q0]綠色冬裝\n綠色冬帽\n紅色冬裝\n紅色冬帽\n冬靴\n[q0](3) 組合 : 全套冬季服裝\n售價:"}
+MultiLanguageItemData['tw'][151790] = {name = "[q2]紅色冬裝", additional_info = "造型\n裝備後綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]冬季服裝 (0/3)\n[q0]綠色冬裝\n綠色冬帽\n紅色冬裝\n紅色冬帽\n冬靴\n[q0](3) 組合 : 全套冬季服裝\n售價:"}
+MultiLanguageItemData['tw'][151791] = {name = "[q0]冬靴", additional_info = "造型\n裝備後綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]冬季服裝 (0/3)\n[q0]綠色冬裝\n綠色冬帽\n紅色冬裝\n紅色冬帽\n冬靴\n[q0](3) 組合 : 全套冬季服裝\n售價:"}
+MultiLanguageItemData['tw'][151792] = {name = "[q2]綠色冬裝", additional_info = "造型\n裝備後綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]冬季服裝 (0/3)\n[q0]綠色冬裝\n綠色冬帽\n紅色冬裝\n紅色冬帽\n冬靴\n[q0](3) 組合 : 全套冬季服裝\n售價:"}
 MultiLanguageItemData['tw'][151793] = {name = "豬魔像", additional_info = "任務物品\n唯一\n[q]\"散發出一股黑暗又油膩的魔法，聞起來像燒焦的培根。\""}
 MultiLanguageItemData['tw'][151795] = {name = "[q5]奪魂者之蝕", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{胸部} {板甲}\n18護甲\n+5 力量\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 200 / 200 職業： 死亡騎士\n[q2]裝備： 血魄瘟疫造成的傷害和治療效果提高100%。\n[q]\"奪魂者從何而來，無人知曉。連泰坦的紀錄中都毫無線索。\"\n售價:"}
 MultiLanguageItemData['tw'][151796] = {name = "[q5]冰冷之心", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{胸部} {板甲}\n18護甲\n+5 力量\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 200 / 200 職業： 死亡騎士\n[q2]裝備： 每2秒獲得一層冰冷之心效果，使你下一個冰鍊術造成(攻擊強度 21%)點暗霜傷害。最多可堆疊20次。\n\n 如果在冰冷之心堆疊20層時使用冰鍊術，可同時使目標被冰塊包覆，昏迷4秒。\n[q]\"凍結之心的跳動從遙遠的距離外就能聽到，提醒著所有活物最後都將死亡。\"\n售價:"}
@@ -14927,9 +14928,9 @@ MultiLanguageItemData['tw'][151800] = {name = "[q5]璀璨月光", additional_inf
 MultiLanguageItemData['tw'][151801] = {name = "[q5]巨獸頭飾", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{頭部} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n耐久: 120 / 120 職業： 德魯伊\n[q2]裝備： 你的終結技每消耗一個連擊點數，就可以讓猛虎之怒的持續時間延長0.5秒。（100毫秒 冷卻）\n[q]\"千萬別打擾老虎睡覺。\"\n售價:"}
 MultiLanguageItemData['tw'][151802] = {name = "[q5]自然之怒", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n背部\n3護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n職業： 德魯伊\n[q2]裝備： 在熊形態時，你造成的自然與秘法傷害提高30%，並且造成自然與秘法傷害時，會為你治療等同傷害量30%的生命力。\n[q]\"自然與超自然力量之間的和諧很難達成，但卻是通往偉大成就的道路。\"\n售價:"}
 MultiLanguageItemData['tw'][151803] = {name = "[q5]風行者之敏", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n背部\n3護甲\n+3 敏捷\n+4 耐力\n[q2]+ 3 加速\n[q2]+ 3 精通\n職業： 獵人\n[q2]裝備： 加速提高3%。\n[q2]裝備： 風爆會賦予你15%加速，持續6秒。\n[q]\"你的心如利箭，在風中筆直地飛翔，我的姊姊。你是我們軍隊中最聰慧的勇士，也是我們族人中最受敬愛的領袖。-希瓦娜斯，致艾蘭里亞。\"\n售價:"}
-MultiLanguageItemData['tw'][151804] = {name = "[q2]黑色禮服束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]春日禮服 (0/2)\n[q0]黑色禮服束褲\n白色禮服襯衣\n[q0](2) 組合 : 春日禮服\n售價:"}
+MultiLanguageItemData['tw'][151804] = {name = "[q2]黑色禮服束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n\n[q]春日禮服 (0/2)\n[q0]黑色禮服束褲\n白色禮服襯衣\n[q0](2) 組合 : 春日禮服\n售價:"}
 MultiLanguageItemData['tw'][151805] = {name = "[q5]爬蛇之語", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{胸部} {鎖甲}\n12護甲\n+5 敏捷\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n耐久: 200 / 200 職業： 獵人\n[q2]裝備： 眼鏡蛇射擊使你與寵物造成的傷害提高1%，並且使你的汲取提高2%，持續8秒，最多可堆疊4次。（500毫秒 冷卻）\n[q]\"通常只有天生與龍、蛇類合得來的人才擁有的稀有能力。\"\n售價:"}
-MultiLanguageItemData['tw'][151806] = {name = "[q2]端莊的晚禮服", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][151806] = {name = "[q2]端莊的晚禮服", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][151807] = {name = "[q5]隱匿劫掠者披肩", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n背部\n3護甲\n+3 敏捷\n+4 耐力\n[q2]+ 3 加速\n[q2]+ 3 精通\n職業： 獵人\n[q2]裝備： 造成的所有傷害提高3%。\n[q2]裝備： 如果敵人因為你的爆炸陷阱而燃燒，你對其造成致命一擊的機率提高10%。\n[q]\"就算是最強大的敵人也會有弱點。\"\n售價:"}
 MultiLanguageItemData['tw'][151808] = {name = "[q5]祈倫托創始披肩", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{肩部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 加速\n耐久: 120 / 120 職業： 法師\n[q2]裝備： 秘法彈幕每消耗一層秘法充能，就有10%機率朝你前方發射秘法光球。\n[q]\"奎爾薩拉斯的高等精靈在數千年前把秘法知識傳授給人類。這些人類後來成立祈倫托，成為達拉然的統治者。\"\n售價:"}
 MultiLanguageItemData['tw'][151809] = {name = "[q5]受縛的煉獄火之核", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{肩部} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 加速\n耐久: 120 / 120 職業： 法師\n[q2]裝備： 施放30次火球術或炎爆術會朝你的目標召喚一顆隕石。\n[q]\"煉獄火之核會不時爆發出火焰，熱度足以融化最堅硬的材料。\"\n售價:"}
@@ -14949,9 +14950,9 @@ MultiLanguageItemData['tw'][151823] = {name = "[q5]宏偉風暴之眼", addition
 MultiLanguageItemData['tw'][151824] = {name = "[q5]華爾拉亞之狂", additional_info = "拾取後綁定\n僅可裝備一件：軍團傳說級物品（1）\n{腿部} {板甲}\n16護甲\n+5 力量\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 加速\n耐久: 145 / 145 職業： 戰士\n[q2]裝備： 暴怒對主要目標造成致命一擊時會產生6點怒氣。\n[q]\"他們可不玩什麼策略心機。\"\n售價:"}
 MultiLanguageItemData['tw'][151825] = {name = "[q2]哈圖恩之角", additional_info = "任務物品\n唯一\n[q2]使用: 從附近的陰影中號召克庫山脊行者協助你進行戰鬥。 (30秒 冷卻)\n[q]\"讓戰場的號角響起，我們會並肩作戰！\""}
 MultiLanguageItemData['tw'][151826] = {name = "靈魂面具", additional_info = "任務物品\n[q2]使用: 使用靈魂面具，進入靈魂的國度。"}
-MultiLanguageItemData['tw'][151828] = {name = "[q3]不朽青銅龍", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散你的元龍幼龍。\n80 ( 80)\n售價:"}
-MultiLanguageItemData['tw'][151829] = {name = "[q3]青銅元龍幼龍", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散你的元龍幼龍。\n80 ( 80)\n售價:"}
-MultiLanguageItemData['tw'][151830] = {name = "[q3]聖光審判", additional_info = "[q2]使用: 呼喚梵迪卡爾釋放出一道聖光轟擊敵人，對15碼範圍內的敵人造成392點神聖傷害，並使其昏迷5秒。\n\n 只能在阿古斯使用。 (2分鐘 冷卻)"}
+MultiLanguageItemData['tw'][151828] = {name = "[q3]不朽青銅龍", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散你的元龍幼龍。\n80 ( 80)\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:"}
+MultiLanguageItemData['tw'][151829] = {name = "[q3]青銅元龍幼龍", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散你的元龍幼龍。\n80 ( 80)\n已經學會\n隨軍臨天下混搭再造：軍團之殞推出時開放。\n售價:"}
+MultiLanguageItemData['tw'][151830] = {name = "[q3]聖光審判", additional_info = "[q2]使用: 呼喚梵迪卡爾釋放出一道聖光轟擊敵人，對15碼範圍內的敵人造成100點神聖傷害，並使其昏迷5秒。\n\n 只能在阿古斯使用。 (2分鐘 冷卻)"}
 MultiLanguageItemData['tw'][151837] = {name = "祈願陣列", additional_info = "任務物品\n[q]\"這些細長的水晶能將聖光集中成強力的轟炸光束，因此人人都想得到。\""}
 MultiLanguageItemData['tw'][151838] = {name = "審判核心", additional_info = "任務物品\n[q]\"據說審判核心是聖光軍團最頂尖的工藝傑作。\""}
 MultiLanguageItemData['tw'][151839] = {name = "復仇者裝甲", additional_info = "任務物品\n[q]\"聖光軍團的光鑄護甲可以保護復仇者，使其免於遭受燃燒軍團惡魔法術的傷害。\""}
@@ -15180,7 +15181,7 @@ MultiLanguageItemData['tw'][152090] = {name = "[q4]加洛斯不破胸甲", addit
 MultiLanguageItemData['tw'][152091] = {name = "[q4]黑暗守衛者腕甲", additional_info = "裝備後綁定\n{手腕} {板甲}\n9護甲\n+3 [力量 or 智力]\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][152092] = {name = "[q4]納斯雷茲姆利齒", additional_info = "拾取後綁定\n血神器遺物\n+\n售價:"}
 MultiLanguageItemData['tw'][152093] = {name = "[q4]戈夏拉克之遺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 7 加速\n[q2]裝備： 你的近戰攻擊有一定機率賦予你戈夏拉克回音。堆疊15層後，你會發動一連串毀滅性的攻擊，對你面前15碼錐形範圍內的敵人造成致命一擊，使其承受( 60 + 140 )點火焰傷害。\n售價:"}
-MultiLanguageItemData['tw'][152094] = {name = "[q4]泰夏拉克", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{10-17點傷害} {速度 3.60}\n(每秒3.8點傷害)\n+5 [敏捷 or 力量]\n+7 耐力\n[q2]+ 6 致命一擊\n[q2]+ 4 加速\n耐久: 120 / 120\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][152094] = {name = "[q4]泰夏拉克", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1-3點傷害} {速度 3.60}\n(每秒0.6點傷害)\n耐久: 120 / 120\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][152095] = {name = "[q3]克庫山脊行者", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 招募一隊克庫山脊行者和你的勇士一起執行任務。"}
 MultiLanguageItemData['tw'][152096] = {name = "[q3]淨化虛無的克庫", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 招募一名淨化虛無的克庫和你的勇士一起執行任務。"}
 MultiLanguageItemData['tw'][152097] = {name = "[q3]光鑄奮擊者", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 招募一名光鑄奮擊者和你的勇士一起執行任務。"}
@@ -15674,8 +15675,8 @@ MultiLanguageItemData['tw'][152785] = {name = "喬姆布的魂能粉末", additi
 MultiLanguageItemData['tw'][152786] = {name = "多面者之喚", additional_info = "拾取後綁定\n[q]\"製造一座骸骨肖像。使用小鬼、犬魔還有厄祖獸的骸骨。只有這樣才能召喚多面者。\""}
 MultiLanguageItemData['tw'][152787] = {name = "守衛者聖物", additional_info = "任務物品\n唯一（10）\n[q]\"獻給祖爾亞金守衛者雕像的傳統貢品。\""}
 MultiLanguageItemData['tw'][152788] = {name = "[q4]光鑄機甲", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散你的光鑄機甲。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n需要聖光軍團\n- 崇拜\n售價:\n[q]\"聖光軍團擅長使用這種戰爭機械，執行迅捷而致命的游擊任務。\"\n商人：\n復仇者潔拉娜\n區域：\n阿古斯\n陣營：\n聖光軍團 - 崇拜\n花費："}
-MultiLanguageItemData['tw'][152789] = {name = "[q4]鐐鎖厄祖獸", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"厄祖獸由聖光軍團死去成員扭曲的身體和靈魂組成，既可怕又讓人難以轉移目光。\"\n掉落：\n『滅界者』阿古斯(傳奇難度)"}
-MultiLanguageItemData['tw'][152790] = {name = "[q4]邪惡犬魔", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"這個生物由可怕的儀式產生，體內充滿強酸血液。你心裡很清楚，你沒辦法真的控制它。\"\n掉落：\n馴犬者克拉剋斯\n區域：\n安托洛斯荒原"}
+MultiLanguageItemData['tw'][152789] = {name = "[q4]鐐鎖厄祖獸", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"厄祖獸由聖光軍團死去成員扭曲的身體和靈魂組成，既可怕又讓人難以轉移目光。\"\n掉落：\n『滅界者』阿古斯(傳奇難度)"}
+MultiLanguageItemData['tw'][152790] = {name = "[q4]邪惡犬魔", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"這個生物由可怕的儀式產生，體內充滿強酸血液。你心裡很清楚，你沒辦法真的控制它。\"\n掉落：\n馴犬者克拉剋斯\n區域：\n安托洛斯荒原"}
 MultiLanguageItemData['tw'][152791] = {name = "[q4]闇黑古境塔巴克韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n[q2]召喚或解除你的闇黑古境塔巴克。\n80 ( 80)\n需要 初級騎術\n需要阿古斯守望\n- 崇拜\n售價:\n[q]\"塔巴克是阿古斯的原生物種，為了適應因長年戰火而改變的地理環境，演化出厚實的甲殼。\"\n商人：\n『崇敬者』托爾蘭\n區域：\n阿古斯\n陣營：\n阿古斯守望 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][152793] = {name = "[q4]赭紅古境塔巴克韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要阿古斯守望\n- 崇拜\n售價:\n[q]\"塔巴克是阿古斯的原生物種，為了適應因長年戰火而改變的地理環境，演化出厚實的甲殼。\"\n商人：\n『崇敬者』托爾蘭\n區域：\n阿古斯\n陣營：\n阿古斯守望 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][152794] = {name = "[q4]晶紫古境塔巴克韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n[q2]召喚或解除你的晶紫古境塔巴克。\n80 ( 80)\n需要 初級騎術\n需要阿古斯守望\n- 崇拜\n售價:\n[q]\"塔巴克是阿古斯的原生物種，為了適應因長年戰火而改變的地理環境，演化出厚實的甲殼。\"\n商人：\n『崇敬者』托爾蘭\n區域：\n阿古斯\n陣營：\n阿古斯守望 - 崇拜\n花費："}
@@ -15698,9 +15699,9 @@ MultiLanguageItemData['tw'][152810] = {name = "[q4]風暴鋼腿甲", additional_
 MultiLanguageItemData['tw'][152811] = {name = "[q4]風暴鋼束腰", additional_info = "拾取後綁定{腰部} {板甲}\n12護甲\n+5 [力量 or 智力]\n+7 耐力\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][152812] = {name = "蒙那萊硬化蹄甲", additional_info = "使用: 將蹄甲裝在你的座騎上，在庫爾提拉斯或贊達拉可以在2小時期間讓座騎的速度提高20%。\n\n 這個效果在鍛造師身上的持續時間為四倍。"}
 MultiLanguageItemData['tw'][152813] = {name = "蒙那萊硬化鐙索", additional_info = "使用: 將鐙索裝在你的座騎上，在庫爾提拉斯或贊達拉可以在2小時期間騎乘在座騎上進行互動。\n\n 這個效果在鍛造師身上的持續時間為四倍。"}
-MultiLanguageItemData['tw'][152814] = {name = "[q4]狂暴混沌行者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"聖光軍團能拯救的阿古斯本地物種不多，總是有更多的生物向混沌屈服。\"\n掉落：\n馴獸師克拉弗斯\n區域：\n埃雷達斯"}
+MultiLanguageItemData['tw'][152814] = {name = "[q4]狂暴混沌行者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n\n\n[q]\"聖光軍團能拯救的阿古斯本地物種不多，總是有更多的生物向混沌屈服。\"\n掉落：\n馴獸師克拉弗斯\n區域：\n埃雷達斯"}
 MultiLanguageItemData['tw'][152815] = {name = "[q4]安托洛斯幽焰犬魔", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"薩格拉斯的獵犬原本只是普通的惡魔潛獵者，但許多年來經過黑暗泰坦不斷重鑄，終於塑造出更強大的生物。薩格拉斯對這種生物很滿意，決定大量製造它們，並且在它們身上施加暗影和火焰的力量。\"\n成就：\n阿古斯團隊高手的榮耀\n類別：\n地城與團隊"}
-MultiLanguageItemData['tw'][152816] = {name = "[q4]安托洛斯焦炭犬魔", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"薩格拉斯的獵犬原本只是普通的惡魔潛獵者，但許多年來經過黑暗泰坦不斷重鑄，終於塑造出更強大的生物。薩格拉斯對這種生物很滿意，決定大量製造它們，並且在它們身上施加暗影和火焰的力量。\"\n掉落：\n沙圖格\n區域：\n安托洛斯，燃燒王座"}
+MultiLanguageItemData['tw'][152816] = {name = "[q4]安托洛斯焦炭犬魔", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"薩格拉斯的獵犬原本只是普通的惡魔潛獵者，但許多年來經過黑暗泰坦不斷重鑄，終於塑造出更強大的生物。薩格拉斯對這種生物很滿意，決定大量製造它們，並且在它們身上施加暗影和火焰的力量。\"\n掉落：\n沙圖格\n區域：\n安托洛斯，燃燒王座"}
 MultiLanguageItemData['tw'][152817] = {name = "獵鷹蛋", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][152818] = {name = "[q2]蒙那萊硬化盾牌", additional_info = "裝備後綁定\n{副手} {盾}\n59護甲\n+3 力量\n+9 智力\n+4 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][152819] = {name = "[q3]風暴鋼盾牌", additional_info = "裝備後綁定\n{副手} {盾}\n61護甲\n+3 力量\n+10 智力\n+5 耐力\n耐久: 100 / 100\n售價:"}
@@ -15714,11 +15715,11 @@ MultiLanguageItemData['tw'][152834] = {name = "[q3]風暴鋼長矛", additional_
 MultiLanguageItemData['tw'][152835] = {name = "[q3]風暴鋼匕首", additional_info = "裝備後綁定\n{單手} {匕首}\n{4-8點傷害} {速度 1.80}\n(每秒3.3點傷害)\n+3 敏捷\n+5 耐力\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][152837] = {name = "[q3]精準態度調整器", additional_info = "裝備後綁定\n{單手} {權杖}\n{4-5點傷害} {速度 2.60}\n(每秒1.7點傷害)\n+18 智力\n+5 耐力\n耐久: 110 / 110\n[q]\"若要發揮最大效用，就要不斷打擊，直到目標再也無法回嘴。\"\n售價:"}
 MultiLanguageItemData['tw'][152839] = {name = "[q4]卡茲格里安鐵匠之錘", additional_info = "拾取後綁定\n唯一\n鍛造工具\n製作鍛造專業製成的護甲或武器時，有一定機率賦予「永不磨損」屬性。\n[q2]使用: 讓使用者能立刻修復一件裝備。 (1小時 冷卻)\n裝備： +4點鍛造技能。\n需要 庫爾提拉斯鍛造 (150)\n[q]\"這支錘子或許可以替代一般的製作用鐵匠之錘。\""}
-MultiLanguageItemData['tw'][152840] = {name = "[q4]火花法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻火花法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n魔斑蛋"}
-MultiLanguageItemData['tw'][152841] = {name = "[q4]魔焰法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻魔焰法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"聖光軍團能拯救的阿古斯本地物種不多，總是有更多的生物向混沌屈服。\"\n掉落：\n魔斑蛋"}
-MultiLanguageItemData['tw'][152842] = {name = "[q4]鮮亮法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻鮮亮法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n魔斑蛋"}
-MultiLanguageItemData['tw'][152843] = {name = "[q4]暗孢法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻暗孢法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n魔斑蛋"}
-MultiLanguageItemData['tw'][152844] = {name = "[q4]亮光法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻亮光法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n毒尾天鰭魟魚\n區域：\n埃雷達斯"}
+MultiLanguageItemData['tw'][152840] = {name = "[q4]火花法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻火花法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n魔斑蛋"}
+MultiLanguageItemData['tw'][152841] = {name = "[q4]魔焰法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻魔焰法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"聖光軍團能拯救的阿古斯本地物種不多，總是有更多的生物向混沌屈服。\"\n掉落：\n魔斑蛋"}
+MultiLanguageItemData['tw'][152842] = {name = "[q4]鮮亮法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻鮮亮法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n魔斑蛋"}
+MultiLanguageItemData['tw'][152843] = {name = "[q4]暗孢法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻暗孢法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n魔斑蛋"}
+MultiLanguageItemData['tw'][152844] = {name = "[q4]亮光法力魟魚", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n召喚或解散一隻亮光法力魟魚。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"阿古斯某些野生生物，例如法力魟魚就能適應這個破碎的星球，並在此繼續存活。\"\n掉落：\n毒尾天鰭魟魚\n區域：\n埃雷達斯"}
 MultiLanguageItemData['tw'][152845] = {name = "泥鰍內臟", additional_info = "任務物品\n[q]\"你本來還以為牠們的皮已經夠臭了！\""}
 MultiLanguageItemData['tw'][152846] = {name = "地精傳送炸彈", additional_info = "任務物品\n[q2]使用: 釋放出一道大型傳送法術，將目標區域移到遠方的位置。\n[q]\"使用：釋放出一道大型傳送法術，將目標區域移到遠方的位置。\""}
 MultiLanguageItemData['tw'][152847] = {name = "耐用的貝殼", additional_info = "任務物品\n唯一（8）\n[q]\"看來可以提供一些防護。\""}
@@ -15773,9 +15774,9 @@ MultiLanguageItemData['tw'][152899] = {name = "遠古陶器", additional_info = 
 MultiLanguageItemData['tw'][152900] = {name = "[q4]滅界者之血", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"泰坦之血，現在已經硬化變成水晶了。\""}
 MultiLanguageItemData['tw'][152901] = {name = "[q4]祈倫托召喚水晶", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚紫羽法翼。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這是六法議會的禮物，因為你又再次幫助艾澤拉斯脫離燃燒軍團的魔爪。\"\n任務：\n泰坦之血\n區域：\n達拉然"}
 MultiLanguageItemData['tw'][152902] = {name = "[q4]通行符文", additional_info = "任務物品\n[q]\"使用這種惡魔符文可在燃燒王座通行。\""}
-MultiLanguageItemData['tw'][152903] = {name = "[q4]膽齒嚙咬者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"這種生物會發出像吠叫般的咕嚕聲。咬起人來就沒那麼可愛了。\"\n掉落：\n阿古斯"}
-MultiLanguageItemData['tw'][152904] = {name = "[q4]酸液噴吐者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"酸液比一般犬魔多兩倍。\"\n掉落：\n『吞噬者』斯奎里格\n區域：\n埃雷達斯"}
-MultiLanguageItemData['tw'][152905] = {name = "[q4]赤紅奴喉者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"這種生物會服從像噪音一般的指令，只有惡魔才能發出這種聲音。如果硬要翻譯的話，字面意思是：「死涎者」。\"\n掉落：\n泡嘴\n區域：\n安托洛斯荒原"}
+MultiLanguageItemData['tw'][152903] = {name = "[q4]膽齒嚙咬者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"這種生物會發出像吠叫般的咕嚕聲。咬起人來就沒那麼可愛了。\"\n掉落：\n阿古斯"}
+MultiLanguageItemData['tw'][152904] = {name = "[q4]酸液噴吐者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"酸液比一般犬魔多兩倍。\"\n掉落：\n『吞噬者』斯奎里格\n區域：\n埃雷達斯"}
+MultiLanguageItemData['tw'][152905] = {name = "[q4]赤紅奴喉者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:\n[q]\"這種生物會服從像噪音一般的指令，只有惡魔才能發出這種聲音。如果硬要翻譯的話，字面意思是：「死涎者」。\"\n掉落：\n泡嘴\n區域：\n安托洛斯荒原"}
 MultiLanguageItemData['tw'][152906] = {name = "[q4]通行符文", additional_info = "任務物品\n[q]\"使用這種惡魔符文可在燃燒王座通行。\""}
 MultiLanguageItemData['tw'][152907] = {name = "[q4]通行符文", additional_info = "任務物品\n[q]\"使用這種惡魔符文可在燃燒王座通行。\""}
 MultiLanguageItemData['tw'][152908] = {name = "[q4]黑暗泰坦符印", additional_info = "任務物品\n[q]\"只有少數受到薩格拉斯眷顧的人才能獲得的惡魔符印，可以用這個符印進入阿古斯中心。\""}
@@ -15842,7 +15843,7 @@ MultiLanguageItemData['tw'][152978] = {name = "[q3]范達爾的寵物籠", addit
 MultiLanguageItemData['tw'][152979] = {name = "[q3]一灘黑色液體", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚無面心智鞭笞者。\n[q2]右鍵點擊以召喚或解散你的無面心智鞭笞者。\n80 ( 80)"}
 MultiLanguageItemData['tw'][152980] = {name = "[q3]源質背甲", additional_info = "拾取後綁定\n[q2]使用:  伸進去，就能學會如何召喚腐化之血。\n[q2]右鍵點擊以召喚或解散你的腐化之血。\n80 ( 80)"}
 MultiLanguageItemData['tw'][152981] = {name = "[q3]被截斷的觸手", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚狂亂觸手\n[q2]右鍵點擊以召喚或解散你的狂亂觸手。\n80 ( 80)"}
-MultiLanguageItemData['tw'][152982] = {name = "[q3]維克斯的詭秘寶箱", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 偽裝成蟲舌魔寶藏收集者，持續10分鐘。 (1小時 冷卻)\n[q]\"維克斯在扭曲虛空四處探查，想找到具有強大力量的珍貴飾品。也許不會有人知道，你其實不是維克斯…\"\n售價:"}
+MultiLanguageItemData['tw'][152982] = {name = "[q3]維克斯的詭秘寶箱", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 偽裝成蟲舌魔寶藏收集者，持續10分鐘。 (1小時 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n[q]\"維克斯在扭曲虛空四處探查，想找到具有強大力量的珍貴飾品。也許不會有人知道，你其實不是維克斯…\"\n售價:"}
 MultiLanguageItemData['tw'][152983] = {name = "成堆的拉尼舒「食物」", additional_info = "任務物品\n[q2]使用: 把一整包丟給嚼嚼大王。\n[q]\"石頭、原木、陶器還有食人妖腿？這東西不該給人吃。\""}
 MultiLanguageItemData['tw'][152984] = {name = "[q0]萬神殿的恩澤", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][152985] = {name = "萊萊的頭", additional_info = "任務物品\n[q]\"和你想的一樣噁心。\""}
@@ -15863,7 +15864,7 @@ MultiLanguageItemData['tw'][152999] = {name = "小鬼肉", additional_info = "�
 MultiLanguageItemData['tw'][153000] = {name = "[q0]黯淡的永恆硬幣", additional_info = "[q]\"還能吃，但味道糟透了。\"\n售價:"}
 MultiLanguageItemData['tw'][153001] = {name = "[q0]微微發光的鳳凰羽絨", additional_info = "拾取後綁定\n[q]\"羽绒讓你的嘴巴有股灼熱感。\"\n售價:"}
 MultiLanguageItemData['tw'][153002] = {name = "[q0]小型護身符", additional_info = "[q]\"這東西好像原本用在小型寵物的項圈上。\"\n售價:"}
-MultiLanguageItemData['tw'][153004] = {name = "[q3]不穩定的傳送門產生器", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 暫時撕開一個通往扭曲虛空的洞口，持續5秒。讓…膽子夠大的進去闖一闖。 (30分鐘 冷卻)\n[q]\"維克斯在扭曲虛空四處探查，想找到精美的魔法物品。不知道會找到什麼…\"\n售價:"}
+MultiLanguageItemData['tw'][153004] = {name = "[q3]不穩定的傳送門產生器", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 暫時撕開一個通往扭曲虛空的洞口，持續5秒。讓…膽子夠大的進去闖一闖。 (30分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。\n[q]\"維克斯在扭曲虛空四處探查，想找到精美的魔法物品。不知道會找到什麼…\"\n售價:"}
 MultiLanguageItemData['tw'][153005] = {name = "[q3]棄捨護甲套裝", additional_info = "[q7]戰隊綁定\n[q2]使用: 將勇士的戰力等級設定為880。\n售價:"}
 MultiLanguageItemData['tw'][153006] = {name = "[q3]失落知識寶典", additional_info = "拾取後綁定\n[q2]使用: 打開你的追隨者頁面並使用此物品以讓一位勇士直接獲得6000點經驗值。"}
 MultiLanguageItemData['tw'][153007] = {name = "[q0]受到儀式祝福的容器", additional_info = "拾取後綁定\n售價:"}
@@ -15885,7 +15886,7 @@ MultiLanguageItemData['tw'][153022] = {name = "托爾托卷軸", additional_info
 MultiLanguageItemData['tw'][153023] = {name = "[q3]光鑄增強符文", additional_info = "拾取後綁定\n[q2]使用: 敏捷、智力和力量提高 11 點，持續1小時。增強符文。 (1分鐘 冷卻)\n需要聖光軍團\n- 崇拜\n售價:"}
 MultiLanguageItemData['tw'][153024] = {name = "爆炎卷軸", additional_info = "任務物品\n唯一\n[q2]使用: 閱讀這份魔法卷軸來摧毀附近的吸血蟲。 (5秒 冷卻)"}
 MultiLanguageItemData['tw'][153025] = {name = "淨化卷軸", additional_info = "任務物品\n唯一\n[q2]使用: 閱讀一份魔法卷軸，以中斷附近的鮮血儀式。"}
-MultiLanguageItemData['tw'][153026] = {name = "[q3]凝視魔眼怪", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
+MultiLanguageItemData['tw'][153026] = {name = "[q3]凝視魔眼怪", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。"}
 MultiLanguageItemData['tw'][153027] = {name = "[q3]魔鼠鼬孤兒", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n需要阿古斯守望\n- 尊敬"}
 MultiLanguageItemData['tw'][153028] = {name = "神聖的遺骸", additional_info = "任務物品\n[q]\"雷霆蜥蜴的遠古之力仍在這些骨骸中流動。\""}
 MultiLanguageItemData['tw'][153029] = {name = "羅爾苟格的觸角", additional_info = "任務物品\n[q]\"這雙異常巨大的觸角耐得住萬鈞之力。\""}
@@ -15900,9 +15901,9 @@ MultiLanguageItemData['tw'][153038] = {name = "克魯加的淬毒之爪", additi
 MultiLanguageItemData['tw'][153039] = {name = "[q3]水晶營火", additional_info = "拾取後綁定\n玩具\n使用: 點燃水晶營火，可用來烹飪。 (5分鐘 冷卻)\n需要阿古斯守望\n- 尊敬\n[q]\"這些水晶會釋放熱能，產生的煙卻很少，這樣一來可以讓克庫的營地保持隱密，不為人所知。\"\n售價:"}
 MultiLanguageItemData['tw'][153040] = {name = "[q3]魔爪魔鼠鼬", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][153041] = {name = "[q4]荒蹄古境塔巴克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"聖光軍團能拯救的阿古斯本地物種不多，總是有更多的生物向混沌屈服。\"\n成就：\n…還有吃法力餐包類別：\n軍臨天下"}
-MultiLanguageItemData['tw'][153042] = {name = "[q4]光榮碎魔伊萊克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在艾蘭里亞和圖拉揚解釋過這種德萊尼長久以來的動物夥伴有哪些用途之後，聖光軍團也留下幾隻加以訓練。\"\n掉落：\n發光的置物箱"}
-MultiLanguageItemData['tw'][153043] = {name = "[q4]蒙福碎魔伊萊克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在艾蘭里亞和圖拉揚解釋過這種德萊尼長久以來的動物夥伴有哪些用途之後，聖光軍團也留下幾隻加以訓練。\"\n掉落：\n發光的置物箱"}
-MultiLanguageItemData['tw'][153044] = {name = "[q4]復仇碎魔伊萊克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在艾蘭里亞和圖拉揚解釋過這種德萊尼長久以來的動物夥伴有哪些用途之後，聖光軍團也留下幾隻加以訓練。\"\n掉落：\n發光的置物箱"}
+MultiLanguageItemData['tw'][153042] = {name = "[q4]光榮碎魔伊萊克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n\n\n[q]\"在艾蘭里亞和圖拉揚解釋過這種德萊尼長久以來的動物夥伴有哪些用途之後，聖光軍團也留下幾隻加以訓練。\"\n掉落：\n發光的置物箱"}
+MultiLanguageItemData['tw'][153043] = {name = "[q4]蒙福碎魔伊萊克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n\n\n[q]\"在艾蘭里亞和圖拉揚解釋過這種德萊尼長久以來的動物夥伴有哪些用途之後，聖光軍團也留下幾隻加以訓練。\"\n掉落：\n發光的置物箱"}
+MultiLanguageItemData['tw'][153044] = {name = "[q4]復仇碎魔伊萊克", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n\n\n[q]\"在艾蘭里亞和圖拉揚解釋過這種德萊尼長久以來的動物夥伴有哪些用途之後，聖光軍團也留下幾隻加以訓練。\"\n掉落：\n發光的置物箱"}
 MultiLanguageItemData['tw'][153045] = {name = "[q3]魔能鞭笞者", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][153046] = {name = "[q0]暮鬃背甲", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][153047] = {name = "[q0]塔巴克韁繩", additional_info = "拾取後綁定\n售價:"}
@@ -15912,9 +15913,9 @@ MultiLanguageItemData['tw'][153050] = {name = "閃鱗", additional_info = "制�
 MultiLanguageItemData['tw'][153051] = {name = "[q2]霧鱗", additional_info = "制作材料\n\"由擁有剝皮技能的玩家收集。可在拍賣場進行買賣。\"\n售價:"}
 MultiLanguageItemData['tw'][153052] = {name = "[q0]耗竭的水晶塔核心", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][153053] = {name = "銀燼書卷", additional_info = "任務物品\n[q]\"一篇古老的論文，主題是如何對抗佐司特族的魔法。\""}
-MultiLanguageItemData['tw'][153054] = {name = "[q3]溫馴的天鰭魟魚", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
-MultiLanguageItemData['tw'][153055] = {name = "[q3]魔染天鰭魟魚", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
-MultiLanguageItemData['tw'][153056] = {name = "[q3]纏握化身", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
+MultiLanguageItemData['tw'][153054] = {name = "[q3]溫馴的天鰭魟魚", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。"}
+MultiLanguageItemData['tw'][153055] = {name = "[q3]魔染天鰭魟魚", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。"}
+MultiLanguageItemData['tw'][153056] = {name = "[q3]纏握化身", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。"}
 MultiLanguageItemData['tw'][153057] = {name = "[q3]掘地膽汁幼蟲", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][153058] = {name = "天命之手卷軸", additional_info = "任務物品\n唯一\n[q]\"這份卷軸看來嚴重受損，但仍內藏強大的魔力。\""}
 MultiLanguageItemData['tw'][153059] = {name = "[q4]棄捨秘法聖物", additional_info = "拾取後綁定 職業： 聖騎士 , 獵人 , 法師 , 德魯伊 , 惡魔獵人\n[q2]使用: 製造一件靈魂綁定的秘法神兵聖物。"}
@@ -15951,7 +15952,7 @@ MultiLanguageItemData['tw'][153089] = {name = "[q0]虛空侵蝕襯衣", addition
 MultiLanguageItemData['tw'][153090] = {name = "[q0]虛空侵蝕便鞋", additional_info = "裝備後綁定\n{腳} {布甲}\n2護甲\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][153091] = {name = "[q0]虛空侵蝕束褲", additional_info = "裝備後綁定\n{腿部} {布甲}\n3護甲\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][153092] = {name = "[q0]虛空侵蝕裹手", additional_info = "裝備後綁定\n{手} {布甲}\n2護甲\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][153093] = {name = "[q0]虛空侵蝕風帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][153093] = {name = "[q0]虛空侵蝕風帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][153094] = {name = "[q0]虛空侵蝕之索", additional_info = "裝備後綁定\n{腰部} {布甲}\n2護甲\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][153095] = {name = "[q0]虛空侵蝕襯肩", additional_info = "裝備後綁定\n{肩部} {布甲}\n3護甲\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][153096] = {name = "[q0]魔蝕腕甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n5護甲\n耐久: 40 / 40\n售價:"}
@@ -15982,9 +15983,9 @@ MultiLanguageItemData['tw'][153120] = {name = "[q3]蟲舌魔礦石寶箱", addit
 MultiLanguageItemData['tw'][153121] = {name = "[q3]蟲舌魔皮革寶箱", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][153122] = {name = "[q3]蟲舌魔魔法寶箱", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][153123] = {name = "[q2]破碎的萊迪納克斯控制寶石", additional_info = "唯一\n[q2]使用: 暫時控制萊迪納克斯，這是一種無人能擋的管狀坐騎。 (3秒 冷卻)\n3 充能"}
-MultiLanguageItemData['tw'][153124] = {name = "[q3]惡意尖塔", additional_info = "拾取後綁定\n玩具\n[q2]使用: 設置砲塔，殲滅附近的小動物。 (1小時 冷卻)"}
+MultiLanguageItemData['tw'][153124] = {name = "[q3]惡意尖塔", additional_info = "拾取後綁定\n玩具\n[q2]使用: 設置砲塔，殲滅附近的小動物。 (1小時 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。"}
 MultiLanguageItemData['tw'][153125] = {name = "餘存聖光", additional_info = "任務物品\n[q]\"觸感異常柔軟，閃耀著金黃色的光芒。\""}
-MultiLanguageItemData['tw'][153126] = {name = "[q3]迷你火砲控制器", additional_info = "拾取後綁定\n玩具\n[q2]使用: 召喚並控制一具魔爆微型火砲。 (1小時 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][153126] = {name = "[q3]迷你火砲控制器", additional_info = "拾取後綁定\n玩具\n[q2]使用: 召喚並控制一具魔爆微型火砲。 (1小時 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][153127] = {name = "[q2]尋寶魔方", additional_info = "[q7]戰隊綁定\n[q2]使用: 敵人有時候會掉落神兵之力。\n\n 超過49級無法使用。（特效觸發機率：10%，5分鐘 冷卻） (30秒 冷卻)\n[q]\"燃燒軍團的蟲舌魔會用這個東西尋找隱藏的寶藏。\"\n售價:"}
 MultiLanguageItemData['tw'][153130] = {name = "[q7]曼那瑞訓練護符", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n頸部\n+9 耐力\n[q2]+ 14 致命一擊\n[q2]+ 14 加速\n[q2]使用: 犧牲10%生命力，使移動速度提高40%，持續10秒。 (5分鐘 冷卻)\n29 ( 29)\n\n[q]傳奇冒險者的戰衣 (0/7)\n[q0]傳家寶護軀\n傳家寶頭盔\n傳家寶護肩\n傳家寶披風\n傳家寶護腿\n傳家寶項鍊\n傳家寶戒指\n{[q0](2) 組合 : 消耗的休息經驗值降低30%。\n(3) 組合 : 提高你脫離戰鬥後，在戶外、普通地城及戰場的恢復{速度。\n(5) 組合 : 升級時可觸發博學墜飾，對附近敵人造成 1126 點神聖傷害}，並使你的主要屬性提高40%，持續2分鐘。擊敗敵人可延長此效果，最多額外延長2分鐘。\n(6) 組合 : 消耗的休息經驗值額外降低30%。}\n\n\n軍團職業大廳任務：\n攻擊魔火軍械庫"}
 MultiLanguageItemData['tw'][153131] = {name = "永恆回歸卷軸", additional_info = "任務物品\n唯一\n[q2]使用: 據說能讓羅亞的靈魂安息。 (1分鐘 冷卻)"}
@@ -16034,11 +16035,11 @@ MultiLanguageItemData['tw'][153175] = {name = "[q3]復仇戰騎的韁繩", addit
 MultiLanguageItemData['tw'][153176] = {name = "[q3]警戒戰騎的韁繩", additional_info = "拾取後綁定\n唯一\n職業： 聖騎士\n[q2]使用: 永久教會您此雕文\n\n使你的神性戰馬成為警戒戰騎。 僅限: 堅毅戰騎雕紋 悍勇戰騎的韁繩 復仇戰騎的韁繩 黃金戰騎的韁繩\n售價:"}
 MultiLanguageItemData['tw'][153177] = {name = "[q3]黃金戰騎的韁繩", additional_info = "拾取後綁定\n唯一\n職業： 聖騎士\n[q2]使用: 永久教會您此雕文\n\n使你的神性戰馬成為黃金戰騎。 僅限: 堅毅戰騎雕紋 悍勇戰騎的韁繩 復仇戰騎的韁繩 警戒戰騎的韁繩\n售價:"}
 MultiLanguageItemData['tw'][153178] = {name = "火葬儀式火炬", additional_info = "任務物品\n唯一\n[q2]使用: 馬上火化被褻瀆的屍體，解放他們的靈魂。"}
-MultiLanguageItemData['tw'][153179] = {name = "[q3]藍色講修院卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在你頭上召喚一個藍色力之符文。 (1小時 冷卻)\n[q]\"這是當年阿克蒙德在秘法講修院授課所用的教案。這只是其中一部分。\""}
-MultiLanguageItemData['tw'][153180] = {name = "[q3]黃色講修院卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在你頭上召喚一個黃色力之符文。 (15分鐘 冷卻)\n[q]\"這是當年阿克蒙德在秘法講修院授課所用的教案。這只是其中一部分。\""}
-MultiLanguageItemData['tw'][153181] = {name = "[q3]紅色講修院卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在你頭上召喚一個紅色力之符文。 (15分鐘 冷卻)\n[q]\"這是當年阿克蒙德在秘法講修院授課所用的教案。這只是其中一部分。\""}
-MultiLanguageItemData['tw'][153182] = {name = "[q3]聖光之球", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將聖光之球丟給友方玩家。如果可以的話，他們會自動傳回來。\n售價:"}
-MultiLanguageItemData['tw'][153183] = {name = "[q3]屏障產生器", additional_info = "拾取後綁定\n玩具\n[q2]使用: 產生一個暫時的屏障。 (1分鐘 冷卻)\n[q]\"用來產生屏障的水晶科技到現在還沒完全為人所知。\"\n售價:"}
+MultiLanguageItemData['tw'][153179] = {name = "[q3]藍色講修院卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在你頭上召喚一個藍色力之符文。 (1小時 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n[q]\"這是當年阿克蒙德在秘法講修院授課所用的教案。這只是其中一部分。\""}
+MultiLanguageItemData['tw'][153180] = {name = "[q3]黃色講修院卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在你頭上召喚一個黃色力之符文。 (15分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n[q]\"這是當年阿克蒙德在秘法講修院授課所用的教案。這只是其中一部分。\""}
+MultiLanguageItemData['tw'][153181] = {name = "[q3]紅色講修院卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 在你頭上召喚一個紅色力之符文。 (15分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n[q]\"這是當年阿克蒙德在秘法講修院授課所用的教案。這只是其中一部分。\""}
+MultiLanguageItemData['tw'][153182] = {name = "[q3]聖光之球", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將聖光之球丟給友方玩家。如果可以的話，他們會自動傳回來。\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:"}
+MultiLanguageItemData['tw'][153183] = {name = "[q3]屏障產生器", additional_info = "拾取後綁定\n玩具\n[q2]使用: 產生一個暫時的屏障。 (1分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n[q]\"用來產生屏障的水晶科技到現在還沒完全為人所知。\"\n售價:"}
 MultiLanguageItemData['tw'][153184] = {name = "發光的墜盒", additional_info = "任務物品\n[q]\"火爆阿珍應該會想要拿回這個東西。\""}
 MultiLanguageItemData['tw'][153185] = {name = "鐵製午餐盒", additional_info = "任務物品\n[q]\"把上面的淤泥擦掉之後，露出一條表層打磨晶亮，以及上好油的鉸鏈。有人在遺失這玩意之前，將它保養得完美無缺。\""}
 MultiLanguageItemData['tw'][153186] = {name = "白銀羅盤", additional_info = "任務物品\n[q]\"儘管被海鹽和沙土弄得斑斑駁駁，它所指的方位仍無絲毫偏差。\""}
@@ -16048,9 +16049,9 @@ MultiLanguageItemData['tw'][153189] = {name = "[q2]破碎的聖光之劍", addit
 MultiLanguageItemData['tw'][153190] = {name = "魔斑蛋", additional_info = "拾取後綁定\n持續時間：5天 (實時)\n[q]\"這顆蛋正在孵化成某種東西。\"\n售價:"}
 MultiLanguageItemData['tw'][153191] = {name = "破裂的魔斑蛋", additional_info = "拾取後綁定\n[q]\"蛋已經孵化！\"\n[q2]<右鍵單擊打開>\n售價:"}
 MultiLanguageItemData['tw'][153192] = {name = "日輝之露", additional_info = "[q2]使用: 微微發出光芒的飲料。（特效觸發機率：20%，15秒 冷卻）\n[q]\"聖光軍團的成員會飲用這種飲料來提高士氣。\"\n售價:"}
-MultiLanguageItemData['tw'][153193] = {name = "[q3]蹦蹦巴魯特", additional_info = "拾取後綁定\n唯一\n玩具\n坐騎\n[q0](帳號通用)\n[q2]使用: 在阿古斯召喚可供騎乘的鬼靈塔巴克。這是一種速度非常非常快的坐騎。 (20分鐘 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][153194] = {name = "[q3]燃燒軍團通訊球", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 讓你看到遙遠的地方，並且獲得召喚信標的能力，可以把燃燒軍團部隊吸引過來。 (10分鐘 冷卻)"}
-MultiLanguageItemData['tw'][153195] = {name = "[q3]烏娜的娃娃", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚烏娜。\n[q2]右鍵點擊以召喚或解散這位夥伴。"}
+MultiLanguageItemData['tw'][153193] = {name = "[q3]蹦蹦巴魯特", additional_info = "拾取後綁定\n唯一\n玩具\n坐騎\n[q0](帳號通用)\n[q2]使用: 在阿古斯召喚可供騎乘的鬼靈塔巴克。這是一種速度非常非常快的坐騎。 (20分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:"}
+MultiLanguageItemData['tw'][153194] = {name = "[q3]燃燒軍團通訊球", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 讓你看到遙遠的地方，並且獲得召喚信標的能力，可以把燃燒軍團部隊吸引過來。 (10分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。"}
+MultiLanguageItemData['tw'][153195] = {name = "[q3]烏娜的娃娃", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚烏娜。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。"}
 MultiLanguageItemData['tw'][153197] = {name = "[q3]堅定者恩澤", additional_info = "拾取後綁定\n使用: 永久性地為護肩施加堅定者附魔，讓穿戴者得以從敵人的屍體上獲得阿古岩晶簇。無法用在等級高於320的物品。\n需要阿古斯守望\n- 崇敬\n售價:"}
 MultiLanguageItemData['tw'][153198] = {name = "[q0]寒霜冰雹", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][153199] = {name = "[q0]寒界火盆", additional_info = "拾取後綁定\n售價:"}
@@ -16058,7 +16059,7 @@ MultiLanguageItemData['tw'][153200] = {name = "[q0]微微發光的浮根", addit
 MultiLanguageItemData['tw'][153201] = {name = "[q0]閃爍的奧里諾露水", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][153202] = {name = "[q2]阿古岩晶簇", additional_info = "拾取後綁定\n\"裡面有來自阿古斯的朦朧的阿古岩。可供擁有堅定者附魔的玩家拾取。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][153203] = {name = "[q3]古老釣線", additional_info = "拾取後綁定\n使用: 將一條來自阿古斯的古老釣線裝在你的魚竿上，提高6點釣魚技能。\n需要 釣魚 (1)\n[q]\"任何能從萬年戰火留存下來的釣線一定都是好釣線。\""}
-MultiLanguageItemData['tw'][153204] = {name = "[q3]全視者之眼", additional_info = "拾取後綁定\n玩具\n[q2]使用: 召喚全視者之眼，讓施法者可以看到目標眼底的景象，並得知與目標相關的情報，持續1分鐘。 (30分鐘 冷卻)"}
+MultiLanguageItemData['tw'][153204] = {name = "[q3]全視者之眼", additional_info = "拾取後綁定\n玩具\n[q2]使用: 召喚全視者之眼，讓施法者可以看到目標眼底的景象，並得知與目標相關的情報，持續1分鐘。 (30分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n於軍臨天下：混搭再造：夜落精靈的崛起推出時開放。"}
 MultiLanguageItemData['tw'][153205] = {name = "[q4]棄捨束腰", additional_info = "拾取後綁定\n[q2]使用: 製造一件靈魂綁定物品，此物品符合你設定之戰利品優先分配專"}
 MultiLanguageItemData['tw'][153206] = {name = "[q4]棄捨護腕", additional_info = "拾取後綁定\n[q2]使用: 製造一件靈魂綁定物品，此物品符合你設定之戰利品優先分配專"}
 MultiLanguageItemData['tw'][153207] = {name = "[q4]棄捨足靴", additional_info = "拾取後綁定\n[q2]使用: 製造一件靈魂綁定物品，此物品符合你設定之戰利品優先分配專"}
@@ -16088,7 +16089,7 @@ MultiLanguageItemData['tw'][153248] = {name = "[q2]聖光之寶", additional_inf
 MultiLanguageItemData['tw'][153249] = {name = "伊梅拉的調和水晶", additional_info = "任務物品\n唯一\n[q2]使用: 調和水晶和靈魂精華。結果無法預料。 (3秒 冷卻)"}
 MultiLanguageItemData['tw'][153251] = {name = "新鮮塔巴克肉", additional_info = "[q2]使用: 丟肉塊！ (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][153252] = {name = "[q3]叛逆的小鬼", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的叛逆的小鬼。\n80 ( 80)"}
-MultiLanguageItemData['tw'][153253] = {name = "[q3]單魔能引擎劫敵機", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 召喚一架單魔能引擎劫敵機，並將你的視野固定在它身上。這架劫敵機具備簡易的匿蹤功能、移動速度快，但是有點脆弱。 (10分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][153253] = {name = "[q3]單魔能引擎劫敵機", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 召喚一架單魔能引擎劫敵機，並將你的視野固定在它身上。這架劫敵機具備簡易的匿蹤功能、移動速度快，但是有點脆弱。 (10分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][153254] = {name = "[q3]艾索隆隱士釘錘", additional_info = "拾取後綁定{單手} {權杖}\n{6-8點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 2 加速\n[q2]+ 3 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][153255] = {name = "[q3]艾索隆隱士鬥棍", additional_info = "拾取後綁定{單手} {權杖}\n{6-8點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 臨機應變\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][153257] = {name = "[q3]艾索隆隱士裁決錘", additional_info = "拾取後綁定{單手} {權杖}\n{6-8點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 臨機應變\n耐久: 90 / 90\n售價:"}
@@ -16124,7 +16125,7 @@ MultiLanguageItemData['tw'][153289] = {name = "[q2]埃雷達爾牧師外套", ad
 MultiLanguageItemData['tw'][153290] = {name = "[q3]克庫採礦鎬", additional_info = "拾取後綁定 採礦工具 耐久: 90 / 90\n可加快在破碎群島和阿古斯的採礦速度。不需要裝備。\n裝備： +3點採礦技能。\n需要阿古斯守望\n- 尊敬\n售價:"}
 MultiLanguageItemData['tw'][153291] = {name = "[q3]鬼靈監察者法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{5-8點傷害} {速度 3.60}\n(每秒1.8點傷害)\n+5 [敏捷 or 力量 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 6 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][153292] = {name = "[q3]鬼靈監察者錐杖", additional_info = "拾取後綁定{雙手} {法杖}\n{5-8點傷害} {速度 3.60}\n(每秒1.8點傷害)\n+5 [敏捷 or 力量 or 智力]\n+7 耐力\n[q2]+ 6 加速\n[q2]+ 4 精通\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][153293] = {name = "[q3]盲目之眼", additional_info = "拾取後綁定\n玩具\n[q2]使用: 讓你很難被偵測到，持續10分鐘。\n\n 只能在阿古斯和破碎群島使用。 (5分鐘 冷卻)\n售價:"}
+MultiLanguageItemData['tw'][153293] = {name = "[q3]盲目之眼", additional_info = "拾取後綁定\n玩具\n[q2]使用: 讓你很難被偵測到，持續10分鐘。\n\n 只能在阿古斯和破碎群島使用。 (5分鐘 冷卻)\n已經學會\n隨軍臨天下混搭再造：阿古斯永恆推出時開放。\n售價:"}
 MultiLanguageItemData['tw'][153295] = {name = "[q3]鬼靈事務官速刃", additional_info = "拾取後綁定{單手} {劍}\n{5-9點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 3 加速\n[q2]+ 2 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][153296] = {name = "[q3]鬼靈事務官長劍", additional_info = "拾取後綁定{單手} {劍}\n{5-9點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 臨機應變\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][153297] = {name = "[q3]鬼靈事務官寬劍", additional_info = "拾取後綁定{單手} {劍}\n{5-9點傷害} {速度 2.60}\n(每秒2.7點傷害)\n+2 [敏捷 or 力量 or 智力]\n+4 耐力\n[q2]+ 2 加速\n[q2]+ 3 精通\n耐久: 90 / 90\n售價:"}
@@ -16172,7 +16173,7 @@ MultiLanguageItemData['tw'][153349] = {name = "佐司特聖物", additional_info
 MultiLanguageItemData['tw'][153350] = {name = "改造後的吉爾尼斯法杖", additional_info = "任務物品\n[q2]使用: 解放一位被詛咒的入侵者的意志。範圍20碼。\n[q]\"這把收割女巫用的法杖已經灌注了額外的魔法，有助於對付不死生物。\""}
 MultiLanguageItemData['tw'][153351] = {name = "束縛塑像", additional_info = "任務物品\n[q]\"要拾起很困難，更難的是放下它。\""}
 MultiLanguageItemData['tw'][153352] = {name = "獻祭塑像", additional_info = "任務物品\n[q]\"基座上的鮮血都還沒乾呢。\""}
-MultiLanguageItemData['tw'][153355] = {name = "鐵潮帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][153355] = {name = "鐵潮帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][153356] = {name = "血蝕匕首", additional_info = "任務物品\n[q]\"無數的贊達拉人被這把儀式匕首所殺。\""}
 MultiLanguageItemData['tw'][153357] = {name = "崇山戰鬥號角", additional_info = "任務物品\n[q2]使用: 吹響崇山戰鬥號角，強化附近的庫爾提拉斯人。"}
 MultiLanguageItemData['tw'][153358] = {name = "贊姆蘭的儀式之書", additional_info = "任務物品\n[q]\"書的每一頁都滲出鮮血。\""}
@@ -17008,7 +17009,7 @@ MultiLanguageItemData['tw'][154787] = {name = "[q0]飛散之布襯衫", addition
 MultiLanguageItemData['tw'][154788] = {name = "[q0]飛散之布便鞋", additional_info = "裝備後綁定\n{腳} {布甲}\n2護甲\n50 ( 50)\n售價:"}
 MultiLanguageItemData['tw'][154789] = {name = "[q0]飛散之布束褲", additional_info = "裝備後綁定\n{腿部} {布甲}\n3護甲\n50 ( 50)\n售價:"}
 MultiLanguageItemData['tw'][154790] = {name = "[q0]飛散之布裹手", additional_info = "裝備後綁定\n{手} {布甲}\n2護甲\n50 ( 50)\n售價:"}
-MultiLanguageItemData['tw'][154791] = {name = "[q0]飛散之布風帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n50 ( 50)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][154791] = {name = "[q0]飛散之布風帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n50 ( 50)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][154792] = {name = "[q0]飛散之布腰索", additional_info = "裝備後綁定\n{腰部} {布甲}\n2護甲\n50 ( 50)\n售價:"}
 MultiLanguageItemData['tw'][154793] = {name = "[q0]飛散之布襯肩", additional_info = "裝備後綁定\n{肩部} {布甲}\n3護甲\n50 ( 50)\n售價:"}
 MultiLanguageItemData['tw'][154794] = {name = "[q0]崩碎之鏈腕甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n5護甲\n耐久: 40 / 40\n售價:"}
@@ -17620,7 +17621,7 @@ MultiLanguageItemData['tw'][155678] = {name = "古老的筆記謄本", additiona
 MultiLanguageItemData['tw'][155679] = {name = "斑點蛋", additional_info = "任務物品\n[q]\"大部分是蛋黃。\""}
 MultiLanguageItemData['tw'][155680] = {name = "禿鷲肉", additional_info = "任務物品\n[q]\"又軟又瘦。\""}
 MultiLanguageItemData['tw'][155681] = {name = "山羊毛", additional_info = "任務物品"}
-MultiLanguageItemData['tw'][155683] = {name = "分水帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][155683] = {name = "分水帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][155685] = {name = "[q0]滅界者之鐮", additional_info = "拾取後綁定{雙手} {長柄武器}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n售價:"}
 MultiLanguageItemData['tw'][155693] = {name = "偵察報告", additional_info = "任務物品\n[q]\"密封的信封內有篇寫給隱蔽高地首領的偵察報告。\""}
 MultiLanguageItemData['tw'][155694] = {name = "原體之塵", additional_info = "任務物品\n[q]\"這些精心磨製的原體玻璃碎片是喚天者不可或缺的材料。\""}
@@ -18303,45 +18304,45 @@ MultiLanguageItemData['tw'][156663] = {name = "高品質回收物", additional_i
 MultiLanguageItemData['tw'][156664] = {name = "轉化之血", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][156665] = {name = "一袋轉化石", additional_info = "任務物品\n[q2]使用: 朝女巫投擲轉化石，然後看她變成一頭小生物。變的生物，呃，有可能不會太小。"}
 MultiLanguageItemData['tw'][156666] = {name = "[q3]大師級訓練師外袍", additional_info = "拾取後綁定\n唯一\n外袍\n售價:"}
-MultiLanguageItemData['tw'][156668] = {name = "[q4]高嶺頭飾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156669] = {name = "[q4]高嶺肩衛", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156670] = {name = "[q4]高嶺背心", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156671] = {name = "[q4]高嶺手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156672] = {name = "[q4]高嶺束腰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156673] = {name = "[q4]高嶺護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156674] = {name = "[q4]高嶺長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156675] = {name = "[q4]夏多雷之冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156676] = {name = "[q4]夏多雷披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156677] = {name = "[q4]夏多雷華服", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156678] = {name = "[q4]夏多雷手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156679] = {name = "[q4]夏多雷腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156680] = {name = "[q4]夏多雷護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156681] = {name = "[q4]夏多雷軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156668] = {name = "[q4]高嶺頭飾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156669] = {name = "[q4]高嶺肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156670] = {name = "[q4]高嶺背心", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156671] = {name = "[q4]高嶺手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156672] = {name = "[q4]高嶺束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156673] = {name = "[q4]高嶺護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156674] = {name = "[q4]高嶺長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156675] = {name = "[q4]夏多雷之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156676] = {name = "[q4]夏多雷披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156677] = {name = "[q4]夏多雷華服", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156678] = {name = "[q4]夏多雷手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156679] = {name = "[q4]夏多雷腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156680] = {name = "[q4]夏多雷護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156681] = {name = "[q4]夏多雷軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][156682] = {name = "[q3]異界實用貨物背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][156683] = {name = "[q3]實用貨物背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][156684] = {name = "[q4]高嶺護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156685] = {name = "[q4]夏多雷護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156684] = {name = "[q4]高嶺護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 高嶺牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156685] = {name = "[q4]夏多雷護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 夜裔精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][156686] = {name = "艾勒瑞克的剪刀", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][156687] = {name = "轉化之血", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][156688] = {name = "[q3]冰冷的實用貨物背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][156689] = {name = "[q3]燒焦的實用貨物背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][156690] = {name = "[q4]刃多雷頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156691] = {name = "[q4]刃多雷肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156692] = {name = "[q4]刃多雷披肩", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156693] = {name = "[q4]刃多雷手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156694] = {name = "[q4]刃多雷腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156695] = {name = "[q4]刃多雷護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156696] = {name = "[q4]刃多雷長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156697] = {name = "[q4]刃多雷護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156690] = {name = "[q4]刃多雷頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156691] = {name = "[q4]刃多雷肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156692] = {name = "[q4]刃多雷披肩", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156693] = {name = "[q4]刃多雷手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156694] = {name = "[q4]刃多雷腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156695] = {name = "[q4]刃多雷護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156696] = {name = "[q4]刃多雷長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156697] = {name = "[q4]刃多雷護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 虛無精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][156698] = {name = "[q3]耐用的有用貨物背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][156699] = {name = "[q4]光鑄頸甲", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156700] = {name = "[q4]光鑄肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156701] = {name = "[q4]光鑄護胸", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156702] = {name = "[q4]光鑄手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156703] = {name = "[q4]光鑄束腰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156704] = {name = "[q4]光鑄腿鎧", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156705] = {name = "[q4]光鑄護蹄", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][156706] = {name = "[q4]光鑄護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156699] = {name = "[q4]光鑄頸甲", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156700] = {name = "[q4]光鑄肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156701] = {name = "[q4]光鑄護胸", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156702] = {name = "[q4]光鑄手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156703] = {name = "[q4]光鑄束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156704] = {name = "[q4]光鑄腿鎧", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156705] = {name = "[q4]光鑄護蹄", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][156706] = {name = "[q4]光鑄護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 光鑄德萊尼\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][156707] = {name = "[q3]Bret的實用貨物背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][156708] = {name = "黏黏的研究報告", additional_info = "任務物品\n[q]\"噁…\""}
 MultiLanguageItemData['tw'][156709] = {name = "絕佳的蜂王乳", additional_info = "任務物品"}
@@ -18531,7 +18532,7 @@ MultiLanguageItemData['tw'][156979] = {name = "[q2]掘鍋杖", additional_info =
 MultiLanguageItemData['tw'][156980] = {name = "[q2]堅固的木棍", additional_info = "拾取後綁定{單手} {權杖}\n{1-2點傷害} {速度 2.60}\n(每秒0.6點傷害)\n+1 [敏捷 or 力量]\n+1 耐力\n耐久: 30 / 30\n售價:"}
 MultiLanguageItemData['tw'][156981] = {name = "[q2]戰用長矛", additional_info = "拾取後綁定{雙手} {長柄武器}\n{2-4點傷害} {速度 3.60}\n(每秒0.8點傷害)\n+2 敏捷\n+2 耐力\n耐久: 35 / 35\n售價:"}
 MultiLanguageItemData['tw'][156982] = {name = "[q2]暗影堡匕首", additional_info = "拾取後綁定{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+2 敏捷\n+2 耐力\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][156983] = {name = "[q2]符文圖騰割刃", additional_info = "拾取後綁定{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+1 敏捷\n+2 耐力\n[q2]+ 2 致命一擊\n耐久: 40 / 40\n售價:"}
+MultiLanguageItemData['tw'][156983] = {name = "[q2]符文圖騰割刃", additional_info = "拾取後綁定{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+1 敏捷\n+2 耐力\n[q2]+ 2 致命一擊\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][156984] = {name = "[q2]風程小刀", additional_info = "拾取後綁定{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+1 敏捷\n+2 耐力\n[q2]+ 2 致命一擊\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][156985] = {name = "[q2]應得平靜法杖", additional_info = "拾取後綁定{雙手} {法杖}\n{2-3點傷害} {速度 3.60}\n(每秒0.7點傷害)\n+2 敏捷\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][156986] = {name = "[q2]科多裁決錘", additional_info = "拾取後綁定{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n+4 智力\n+1 耐力\n耐久: 40 / 40\n售價:"}
@@ -19290,7 +19291,7 @@ MultiLanguageItemData['tw'][158324] = {name = "塔蘭姬的魔精", additional_i
 MultiLanguageItemData['tw'][158325] = {name = "靈魂碎片", additional_info = "唯一（99）\n[q]\"鮮血食人妖儀式的能量還保存在裡面。\""}
 MultiLanguageItemData['tw'][158326] = {name = "[q2]土製炸藥", additional_info = "阿拉希高地\n拾取後綁定\n唯一\n[q2]使用: 對5碼範圍內的敵人造成30點火焰傷害，並將其擊退。\n10 充能\n[q]\"倉促製成的組裝物品，電線與火藥外露，且外殼稍微彎曲。\""}
 MultiLanguageItemData['tw'][158327] = {name = "[q3]蒙那萊矯捷瞄準鏡", additional_info = "[q2]使用: 永久性地將一個特殊裝置裝在你的遠程武器上，使你在造成遠程傷害時，有機會使加速提高 194 ，持續12秒。\n\n 將此裝置裝上遠程武器後會使它與你靈魂綁定。\n售價:"}
-MultiLanguageItemData['tw'][158329] = {name = "[q2]隱藏手套", additional_info = "造型\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][158329] = {name = "[q2]隱藏手套", additional_info = "造型\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][158330] = {name = "[q2]普勞德摩爾陸戰隊紋章盾", additional_info = "拾取後綁定{副手} {盾}\n52護甲\n+2 力量\n+8 智力\n+4 耐力\n[q2]+ 3 臨機應變\n[q2]+ 2 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][158332] = {name = "塞斯吉爾引導節杖", additional_info = "任務物品\n[q2]使用: 破除包圍著納迦召喚者的護盾。\n[q]\"裝飾華麗的金屬節杖，散發潮起潮落的力量。\""}
 MultiLanguageItemData['tw'][158338] = {name = "[q3]便捷旅行手套", additional_info = "拾取後綁定{手} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 4 臨機應變\n[q2]+ 5 精通\n耐久: 50 / 50\n售價:"}
@@ -19761,8 +19762,8 @@ MultiLanguageItemData['tw'][158934] = {name = "強力靈魂碎片", additional_i
 MultiLanguageItemData['tw'][158935] = {name = "衰竭靈魂裂片", additional_info = "拾取後綁定\n[q2]使用: 虹吸衰竭靈魂的精華。"}
 MultiLanguageItemData['tw'][158936] = {name = "[q0]洛琪拉的日誌", additional_info = "[q2]<右鍵單擊閱讀>\n售價:"}
 MultiLanguageItemData['tw'][158937] = {name = "永燃火炬", additional_info = "任務物品\n[q]\"請務必小心拿取。\""}
-MultiLanguageItemData['tw'][158938] = {name = "黑牙帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][158939] = {name = "污鼠會帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][158938] = {name = "黑牙帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][158939] = {name = "污鼠會帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][158943] = {name = "[q2]納茲曼戰鎧足靴", additional_info = "拾取後綁定{腳} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][158944] = {name = "[q2]羅亞語者的裹足", additional_info = "拾取後綁定{腳} {布甲}\n3護甲\n+4 智力\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][158945] = {name = "[q2]死亡誓願足靴", additional_info = "拾取後綁定{腳} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n耐久: 55 / 55\n售價:"}
@@ -20292,7 +20293,7 @@ MultiLanguageItemData['tw'][159615] = {name = "[q3]點燃法師的引信", addit
 MultiLanguageItemData['tw'][159616] = {name = "[q3]沾滿血汙的屠夫砧板", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率讓你變得敏銳，使致命一擊提高 36 點，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][159617] = {name = "[q3]亮麗金色羽毛", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 敏捷\n[q2]使用: 你的臨機應變提高 38 點，持續20秒。 (2分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][159618] = {name = "[q3]瑪欽巴的儀式繃帶", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 [敏捷 or 力量]\n[q2]使用: 以儀式繃帶纏繞自己，吸收[ 559 * (1 + 臨機應變)]點傷害，持續6秒。 (1分鐘，30秒 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][159619] = {name = "[q3]鹹水藤壺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率施加窒息鹽水，在6秒內造成( 4 * 6 / 1)點自然傷害。如果受窒息鹽水影響的目標死亡，效果便會散播至附近8碼範圍內的所有目標身上。\n售價:"}
+MultiLanguageItemData['tw'][159619] = {name = "[q3]鹹水藤壺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 力量\n[q2]裝備： 你的攻擊有一定機率施加窒息鹽水，在6秒內造成( 4 * 6)點自然傷害。如果受窒息鹽水影響的目標死亡，效果便會散播至附近8碼範圍內的所有目標身上。\n售價:"}
 MultiLanguageItemData['tw'][159620] = {name = "[q3]黑暗低語海螺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的法術有一定機率賦予你 37 點致命一擊，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][159621] = {name = "[q0]私人船錨", additional_info = "唯一\n[q]\"長得像的東西不少，但這個是我的。\"\n售價:"}
 MultiLanguageItemData['tw'][159622] = {name = "[q3]哈達爾的鸚鵡螺", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+6 智力\n[q2]裝備： 你的傷害法術有一定機率在你的目標位置產生一道水柱。水柱會在2秒後爆發，造成 23 點自然傷害，由附近所有敵人分攤。攻擊多名目標時，造成的傷害提高。（3秒 冷卻）\n售價:"}
@@ -20786,22 +20787,22 @@ MultiLanguageItemData['tw'][160215] = {name = "[q3]下水道格柵束腰", addit
 MultiLanguageItemData['tw'][160216] = {name = "[q3]轟雷翠玉彎刃", additional_info = "拾取後綁定{單手} {劍}\n{3-6點傷害} {速度 2.60}\n(每秒1.7點傷害)\n+18 智力\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][160218] = {name = "[q3]奇異的傳送卷軸", additional_info = "拾取後綁定\n[q2]使用: 傳送至指定地點。\n[q]\"這會帶你去一個地方，只能去那個地方 - 塔蘭姬的責難。只能使用一次，記得回收。\""}
 MultiLanguageItemData['tw'][160219] = {name = "城鎮傳送卷軸", additional_info = "阿拉希高地\n拾取後綁定\n唯一\n[q2]使用: 把你送回激流堡。只能於激流堡之役當中使用。 (30秒 冷卻)"}
-MultiLanguageItemData['tw'][160220] = {name = "分水襯衫", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160221] = {name = "海盜手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160222] = {name = "海盜長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160223] = {name = "分水束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160224] = {name = "污鼠會帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160225] = {name = "污鼠會襯衫", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160226] = {name = "污鼠會束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160227] = {name = "污鼠會腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160228] = {name = "鐵潮襯衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160229] = {name = "鐵潮束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160230] = {name = "黑牙束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160231] = {name = "黑牙腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160232] = {name = "黑牙帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160220] = {name = "分水襯衫", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160221] = {name = "海盜手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160222] = {name = "海盜長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160223] = {name = "分水束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160224] = {name = "污鼠會帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160225] = {name = "污鼠會襯衫", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160226] = {name = "污鼠會束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160227] = {name = "污鼠會腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160228] = {name = "鐵潮襯衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160229] = {name = "鐵潮束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160230] = {name = "黑牙束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160231] = {name = "黑牙腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160232] = {name = "黑牙帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][160245] = {name = "R.A.D.A.R.", additional_info = "任務物品\n[q2]使用: 查看生鏽遺址的讀數。\n[q]\"偵察探索用大氣共鳴裝置\""}
-MultiLanguageItemData['tw'][160247] = {name = "分水帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160248] = {name = "鐵潮帽子", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160247] = {name = "分水帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160248] = {name = "鐵潮帽子", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][160249] = {name = "一批補給品", additional_info = "任務物品\n[q]\"一小批補給品。布料、木頭、釘子…各式實用物品。\""}
 MultiLanguageItemData['tw'][160250] = {name = "花粉包裹的死黃蜂", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"早已死亡，但完全被花粉覆蓋。\""}
 MultiLanguageItemData['tw'][160251] = {name = "凋零者的簡易死法", additional_info = "任務物品\n唯一\n[q2]使用: 採取最省事的途徑。\n\n 警告：這會殺死你。 (3分鐘 冷卻)\n[q]\"一個用塞子塞住的瓶子，裡面裝滿不停翻騰的灰白液體，上面貼著骷髏標籤。\""}
@@ -20815,32 +20816,32 @@ MultiLanguageItemData['tw'][160266] = {name = "破布", additional_info = "任�
 MultiLanguageItemData['tw'][160267] = {name = "破褲子", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][160269] = {name = "[q3]裂影之爪", additional_info = "拾取後綁定{單手} {拳套}\n{7-11點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 加速\n[q2]+ 3 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][160270] = {name = "優雅之息卷軸", additional_info = "任務物品\n[q]\"有魔幻的感覺。\""}
-MultiLanguageItemData['tw'][160271] = {name = "Pirate Bicorne (Side, Blue)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160272] = {name = "Pirate Bicorne (Side, Black)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160273] = {name = "Pirate Bicorne (Side, Brown)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160274] = {name = "Pirate Bicorne (Side, Green)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160275] = {name = "Pirate Bandana (Red)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160276] = {name = "Pirate Bandana (Orange)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160277] = {name = "Pirate Bandana (Grey)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160278] = {name = "Pirate Bandana (Green)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160279] = {name = "Pirate Bandana (Blue)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160280] = {name = "Pirate Bandana (Black)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160281] = {name = "Pirate Bicorne (Forward, Blue)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160282] = {name = "Pirate Bicorne (Forward, Brown)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160283] = {name = "Pirate Bicorne (Forward, Green)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160284] = {name = "Pirate Bicorne (Forward, Grey)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160285] = {name = "Pirate Bicorne (Forward, Red)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160286] = {name = "[q2]藍色折邊帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"適合塑形以及帥氣的海上旅行。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160287] = {name = "Pirate Tricorne (Brown)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160288] = {name = "Pirate Tricorne (Green)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160289] = {name = "[q2]灰色折邊帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"適合塑形以及帥氣的海上旅行。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160290] = {name = "[q2]紅色折邊帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"適合塑形以及帥氣的海上旅行。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160291] = {name = "Pirate Flared Tricorne (Blue)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160293] = {name = "Pirate Flared Tricorne (Brown)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160294] = {name = "Pirate Flared Tricorne (Green)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160295] = {name = "Pirate Flared Tricorne (Grey)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160296] = {name = "Pirate Flared Tricorne (Red)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160297] = {name = "Pirate Flared Tricorne (Red, Military)", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160271] = {name = "Pirate Bicorne (Side, Blue)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160272] = {name = "Pirate Bicorne (Side, Black)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160273] = {name = "Pirate Bicorne (Side, Brown)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160274] = {name = "Pirate Bicorne (Side, Green)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160275] = {name = "Pirate Bandana (Red)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160276] = {name = "Pirate Bandana (Orange)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160277] = {name = "Pirate Bandana (Grey)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160278] = {name = "Pirate Bandana (Green)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160279] = {name = "Pirate Bandana (Blue)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160280] = {name = "Pirate Bandana (Black)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160281] = {name = "Pirate Bicorne (Forward, Blue)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160282] = {name = "Pirate Bicorne (Forward, Brown)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160283] = {name = "Pirate Bicorne (Forward, Green)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160284] = {name = "Pirate Bicorne (Forward, Grey)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160285] = {name = "Pirate Bicorne (Forward, Red)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160286] = {name = "[q2]藍色折邊帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"適合塑形以及帥氣的海上旅行。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160287] = {name = "Pirate Tricorne (Brown)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160288] = {name = "Pirate Tricorne (Green)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160289] = {name = "[q2]灰色折邊帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"適合塑形以及帥氣的海上旅行。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160290] = {name = "[q2]紅色折邊帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"適合塑形以及帥氣的海上旅行。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160291] = {name = "Pirate Flared Tricorne (Blue)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160293] = {name = "Pirate Flared Tricorne (Brown)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160294] = {name = "Pirate Flared Tricorne (Green)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160295] = {name = "Pirate Flared Tricorne (Grey)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160296] = {name = "Pirate Flared Tricorne (Red)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160297] = {name = "Pirate Flared Tricorne (Red, Military)", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][160298] = {name = "耐久助熔劑", additional_info = "制作材料\n[q]\"鐵匠以此去除礦石中的雜質。\"\n售價:"}
 MultiLanguageItemData['tw'][160299] = {name = "一把悶燒的星苔", additional_info = "任務物品\n唯一\n[q2]使用: 對悶燃的樹葉搧風，用煙霧來淨化這個區域。 (10秒 冷卻)\n[q]\"濃密、刺鼻的煙圈讓你精神放鬆。\""}
 MultiLanguageItemData['tw'][160301] = {name = "黏稠噁心的花朵", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"沒有花粉，卻充滿某種黏液。\""}
@@ -21294,27 +21295,27 @@ MultiLanguageItemData['tw'][160988] = {name = "哥布林燃夷火箭發射器", 
 MultiLanguageItemData['tw'][160989] = {name = "葡萄乾馬鈴薯沙拉", additional_info = "[q2]使用: 在20秒內恢復( 10000 * 20 / 5)點生命力。\n 進食時必須保持坐姿。\n[q]\"清淡適口。\"\n售價:"}
 MultiLanguageItemData['tw'][160990] = {name = "[q3]髓蜂的束帶", additional_info = "拾取後綁定{腰部} {布甲}\n3護甲\n+5 智力\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 精通\n耐久: 50 / 50\n[q]\"沾滿了餅乾碎屑。\"\n售價:"}
 MultiLanguageItemData['tw'][160991] = {name = "雷克薩的報告", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"雷克薩的報告提到他在高地遇到狼群的事。\""}
-MultiLanguageItemData['tw'][160992] = {name = "[q4]戰歌氏族頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160993] = {name = "[q4]戰歌氏族肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][160994] = {name = "[q4]戰歌氏族鞍具", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160992] = {name = "[q4]戰歌氏族頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160993] = {name = "[q4]戰歌氏族肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160994] = {name = "[q4]戰歌氏族鞍具", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][160995] = {name = "一瓶醃菜汁", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][160996] = {name = "一座培根山", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][160997] = {name = "一堆香腸", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][160998] = {name = "堆成山的蛋", additional_info = "任務物品"}
-MultiLanguageItemData['tw'][160999] = {name = "[q4]戰歌氏族手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161000] = {name = "[q4]戰歌氏族腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161001] = {name = "[q4]戰歌氏族護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161002] = {name = "[q4]戰歌氏族長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161003] = {name = "[q4]戰歌氏族護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][160999] = {name = "[q4]戰歌氏族手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161000] = {name = "[q4]戰歌氏族腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161001] = {name = "[q4]戰歌氏族護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161002] = {name = "[q4]戰歌氏族長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161003] = {name = "[q4]戰歌氏族護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][161007] = {name = "[q3]恐角龍鑲釘馬褲", additional_info = "拾取後綁定{腿部} {皮甲}\n8護甲\n+6 [敏捷 or 智力]\n+9 耐力\n[q2]+ 6 致命一擊\n[q2]+ 6 精通\n耐久: 100 / 100\n[q2]裝備： 受到傷害時有一定機率對攻擊者造成 17 點傷害。\n售價:"}
-MultiLanguageItemData['tw'][161008] = {name = "[q4]黑鐵頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161009] = {name = "[q4]黑鐵肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161010] = {name = "[q4]黑鐵披肩", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161011] = {name = "[q4]黑鐵手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161012] = {name = "[q4]黑鐵腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161013] = {name = "[q4]黑鐵護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161014] = {name = "[q4]黑鐵長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161015] = {name = "[q4]黑鐵護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161008] = {name = "[q4]黑鐵頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161009] = {name = "[q4]黑鐵肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161010] = {name = "[q4]黑鐵披肩", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161011] = {name = "[q4]黑鐵手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161012] = {name = "[q4]黑鐵腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161013] = {name = "[q4]黑鐵護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161014] = {name = "[q4]黑鐵長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161015] = {name = "[q4]黑鐵護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 黑鐵矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][161016] = {name = "[q2]小堤卡", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散小堤卡。\n[q2]右鍵點擊以召喚或解散小堤卡。\n80 ( 80)"}
 MultiLanguageItemData['tw'][161017] = {name = "瑟考特的風暴白銀桶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使用熔爐，將20塊未聖化的風暴白銀礦熔煉成未聖化的風暴白銀錠。\n售價:"}
 MultiLanguageItemData['tw'][161018] = {name = "[q0]恐懼魔翼裹手", additional_info = "拾取後綁定{手腕} {布甲}\n3護甲\n+4 智力\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 加速\n耐久: 50 / 50\n[q]順風戰衣 (0/5)\n[q0]強風斧喙裹踝\n升翔板爪手套\n獵天者馬褲\n驚懼禿鷹腰索\n恐懼魔翼裹手\n[q0](2) 組合 : 移動速度提高5%。\n售價:"}
@@ -21348,23 +21349,23 @@ MultiLanguageItemData['tw'][161046] = {name = "[q3]卷縛蜘蛛手套", addition
 MultiLanguageItemData['tw'][161047] = {name = "[q3]暗影之風護腿", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+6 智力\n+9 耐力\n[q2]+ 5 致命一擊\n[q2]+ 8 精通\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][161048] = {name = "[q3]野蠻喚潮者裹臂", additional_info = "拾取後綁定{手腕} {布甲}\n3護甲\n+4 智力\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 4 精通\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][161049] = {name = "[q3]凶暴魔暴龍裹腿", additional_info = "拾取後綁定{腿部} {布甲}\n5護甲\n+6 智力\n+9 耐力\n[q2]+ 8 致命一擊\n[q2]+ 5 加速\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][161050] = {name = "[q4]黑石氏族頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161051] = {name = "[q4]黑石氏族肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161052] = {name = "[q4]黑石氏族鞍具", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161050] = {name = "[q4]黑石氏族頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161051] = {name = "[q4]黑石氏族肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161052] = {name = "[q4]黑石氏族鞍具", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][161053] = {name = "老水手鹹脆餅", additional_info = "唯一（200）\n[q2]使用: 在20秒內恢復( 125 * 20 / 5)點生命力。\n 進食時必須保持坐姿。\n[q]\"老練水手和鸚鵡的最愛。\"\n售價:"}
-MultiLanguageItemData['tw'][161054] = {name = "[q4]黑石氏族手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161055] = {name = "[q4]黑石氏族腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161056] = {name = "[q4]黑石氏族護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161057] = {name = "[q4]黑石氏族長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161058] = {name = "[q4]黑石氏族護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161059] = {name = "[q4]霜狼氏族頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161060] = {name = "[q4]霜狼氏族肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161061] = {name = "[q4]霜狼氏族鞍具", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161062] = {name = "[q4]霜狼氏族手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161063] = {name = "[q4]霜狼氏族腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161064] = {name = "[q4]霜狼氏族護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161065] = {name = "[q4]霜狼氏族長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][161066] = {name = "[q4]霜狼氏族護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161054] = {name = "[q4]黑石氏族手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161055] = {name = "[q4]黑石氏族腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161056] = {name = "[q4]黑石氏族護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161057] = {name = "[q4]黑石氏族長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161058] = {name = "[q4]黑石氏族護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161059] = {name = "[q4]霜狼氏族頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161060] = {name = "[q4]霜狼氏族肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161061] = {name = "[q4]霜狼氏族鞍具", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161062] = {name = "[q4]霜狼氏族手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161063] = {name = "[q4]霜狼氏族腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161064] = {name = "[q4]霜狼氏族護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161065] = {name = "[q4]霜狼氏族長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][161066] = {name = "[q4]霜狼氏族護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 瑪格哈獸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][161071] = {name = "[q4]染血實驗員的裹帶", additional_info = "裝備後綁定\n{手腕} {布甲}\n3護甲\n+4 智力\n+5 耐力\n[q2]+ 5 致命一擊\n[q2]+ 2 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][161072] = {name = "[q4]濺血護腕", additional_info = "裝備後綁定\n{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][161073] = {name = "[q4]強化實驗對象鐐銬", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n7護甲\n+4 [敏捷 or 智力]\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 臨機應變\n耐久: 55 / 55\n售價:"}
@@ -22447,12 +22448,12 @@ MultiLanguageItemData['tw'][162601] = {name = "[q0]古舊的壓花", additional_
 MultiLanguageItemData['tw'][162602] = {name = "永燃火炬", additional_info = "任務物品\n[q]\"請務必小心拿取。\""}
 MultiLanguageItemData['tw'][162603] = {name = "青翠谷地", additional_info = "拾取後綁定\n[q2]解鎖一個新的祖達薩哨站。"}
 MultiLanguageItemData['tw'][162604] = {name = "任務報告", additional_info = "任務物品\n[q]\"這份報告裡面詳述了佔領祖達薩青翠谷地的任務。\""}
-MultiLanguageItemData['tw'][162605] = {name = "浪潮賢者長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][162606] = {name = "[q0]浪潮賢者胸甲", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][162607] = {name = "浪潮賢者兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][162608] = {name = "浪潮賢者腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][162609] = {name = "浪潮賢者手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][162610] = {name = "浪潮賢者束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162605] = {name = "浪潮賢者長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162606] = {name = "[q0]浪潮賢者胸甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162607] = {name = "浪潮賢者兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162608] = {name = "浪潮賢者腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162609] = {name = "浪潮賢者手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162610] = {name = "浪潮賢者束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][162611] = {name = "[q0]仔細藏好的貯藏品", additional_info = "拾取後綁定"}
 MultiLanguageItemData['tw'][162612] = {name = "[q3]眼鏡蛇牧師頭飾", additional_info = "拾取後綁定{頭部} {布甲}\n4護甲\n+12 智力\n+14 耐力\n耐久: 85 / 85\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
 MultiLanguageItemData['tw'][162613] = {name = "[q3]擬態孵育披肩", additional_info = "拾取後綁定{肩部} {布甲}\n4護甲\n+9 智力\n+10 耐力\n耐久: 85 / 85\n\n[q]當前艾澤萊晶岩之力 (0/5)：\n- 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 有新的能力可用。 - 可用 艾澤萊晶岩強化 。\n售價:"}
@@ -22480,8 +22481,8 @@ MultiLanguageItemData['tw'][162634] = {name = "[q0]遠古納茲曼硬幣", addit
 MultiLanguageItemData['tw'][162635] = {name = "深淵信標", additional_info = "任務物品\n[q2]使用: 發射一道穿刺聖光，指引浪潮賢者魔法攻擊目標。 (3秒 冷卻)"}
 MultiLanguageItemData['tw'][162636] = {name = "節慶禮包", additional_info = "拾取後綁定\n[q2]使用: 使所有獲得的經驗值和聲望值提高14%，持續1小時。 (10秒 冷卻)\n需要魔獸世界14週年紀念"}
 MultiLanguageItemData['tw'][162637] = {name = "週年慶禮物", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][162638] = {name = "[q2]木製玩具頭盔", additional_info = "造型\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][162639] = {name = "[q2]木製玩具頭盔", additional_info = "造型\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162638] = {name = "[q2]木製玩具頭盔", additional_info = "造型\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][162639] = {name = "[q2]木製玩具頭盔", additional_info = "造型\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][162640] = {name = "[q2]部落玩具斗篷", additional_info = "造型\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][162641] = {name = "[q2]聯盟玩具斗篷", additional_info = "造型\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][162642] = {name = "[q3]玩具護甲組", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 裝備此護甲套裝。\n 在冬幕節慶典期間可縮短冷卻時間。 (1小時 冷卻)\n[q]\"含有一個木製頭盔和一件針織斗篷，加點想像力！\"\n售價:"}
@@ -22529,7 +22530,7 @@ MultiLanguageItemData['tw'][162684] = {name = "[q0]蝕刻甲板鞋釘", addition
 MultiLanguageItemData['tw'][162685] = {name = "[q0]溢流羅亞貢品", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][162686] = {name = "[q3]惡魔山羊", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n80 ( 80)\n售價:"}
 MultiLanguageItemData['tw'][162687] = {name = "蘋果袋", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n需要萬鬼節"}
-MultiLanguageItemData['tw'][162690] = {name = "[q4]光陰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][162690] = {name = "[q4]光陰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][162691] = {name = "配方：鋼膚藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作鋼膚藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (1)\n需要榮勛軍團\n- 崇敬\n售價: \n鋼膚藥水\n[q2]使用: 在你體內灌注韌性能量，使你的護甲值提高 269 點，持續25秒。 (5分鐘 冷卻)\n售價:\n需要 海莖草 (10), 河芽草 (8), 水晶瓶"}
 MultiLanguageItemData['tw'][162692] = {name = "配方：回復藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作回復藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (1)\n需要贊達拉帝國\n- 崇敬\n售價: \n回復藥水\n[q2]使用: 讓飲用者進入極度專注的狀態，可以在10秒內最高回復( 601 * 10)點法力，但在專注瓦解之前處於無防禦狀態。 (5分鐘 冷卻)\n售價:\n需要 海妖花粉 (10), 星苔 (8), 水晶瓶"}
 MultiLanguageItemData['tw'][162693] = {name = "配方：澎湃鮮血藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作澎湃鮮血藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (1)\n需要塔蘭姬的遠征隊\n- 崇敬\n售價: \n澎湃鮮血藥水\n[q2]使用: 將熱能灌注到你的血液，持續25秒，使你的近戰攻擊有一定機率造成鮮血爆發，造成 5371 點物理傷害，由附近所有敵人平均分攤。 (5分鐘 冷卻)\n售價:\n需要 海妖花粉 (8), 河芽草 (6), 水晶瓶"}
@@ -23672,8 +23673,8 @@ MultiLanguageItemData['tw'][163918] = {name = "[q0]切肉刀", additional_info =
 MultiLanguageItemData['tw'][163919] = {name = "[q0]一串碎裂的獠牙", additional_info = "售價:"}
 MultiLanguageItemData['tw'][163920] = {name = "[q0]串牙手鐲", additional_info = "售價:"}
 MultiLanguageItemData['tw'][163921] = {name = "[q0]小邪偶咒像", additional_info = "售價:"}
-MultiLanguageItemData['tw'][163922] = {name = "[q2]狗頭人蠟燭頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][163923] = {name = "[q2]狗頭人蠟燭頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][163922] = {name = "[q2]狗頭人蠟燭頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][163923] = {name = "[q2]狗頭人蠟燭頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][163924] = {name = "[q3]鬚蠟蠟燭", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 把蠟燭放在你的頭上。 (1小時 冷卻)"}
 MultiLanguageItemData['tw'][163925] = {name = "[q3]老瓊的左手", additional_info = "裝備後綁定\n{單手} {拳套}\n{7-11點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 加速\n耐久: 65 / 65\n售價:"}
 MultiLanguageItemData['tw'][163926] = {name = "[q3]生鏽的船長鉤子", additional_info = "裝備後綁定\n{單手} {拳套}\n{7-11點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 加速\n[q2]+ 3 臨機應變\n耐久: 65 / 65\n售價:"}
@@ -23834,9 +23835,9 @@ MultiLanguageItemData['tw'][164362] = {name = "[q3]遭劫的駭人觸手魔杖",
 MultiLanguageItemData['tw'][164363] = {name = "[q3]遭劫的古神黯刃", additional_info = "裝備後綁定\n{單手} {匕首}\n{2-4點傷害} {速度 1.80}\n(每秒1.7點傷害)\n+18 智力\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 2 臨機應變\n耐久: 65 / 65\n售價:"}
 MultiLanguageItemData['tw'][164364] = {name = "[q3]遭劫的甲殼鎖鍊長劍", additional_info = "裝備後綁定\n{單手} {劍}\n{6-12點傷害} {速度 2.60}\n(每秒3.5點傷害)\n+3 力量\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][164366] = {name = "[q3]遭劫的超現實幻象寶典。", additional_info = "裝備後綁定\n副手物品\n+10 智力\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n售價:"}
-MultiLanguageItemData['tw'][164367] = {name = "[q2]遭劫的藍色船長帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164368] = {name = "[q2]遭劫的血紅船長帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164369] = {name = "[q2]遭劫的海盜上將雙角帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164367] = {name = "[q2]遭劫的藍色船長帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164368] = {name = "[q2]遭劫的血紅船長帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164369] = {name = "[q2]遭劫的海盜上將雙角帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][164370] = {name = "[q3]天錘大使裝束", additional_info = "裝備後綁定\n[q2]使用: 裝扮成巨魔大使，持續15分鐘。 (10分鐘 冷卻)"}
 MultiLanguageItemData['tw'][164373] = {name = "[q3]附魔石頭湯", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 製作湯讓你偽裝成穴居怪，持續10分鐘。 (2小時 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][164374] = {name = "[q3]魔法猴子香蕉", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 偽裝成猴人，持續10分鐘。 (1小時 冷卻)\n售價:"}
@@ -24297,9 +24298,9 @@ MultiLanguageItemData['tw'][164914] = {name = "超U質模組：超U質改良式�
 MultiLanguageItemData['tw'][164915] = {name = "超U質模組：超U質G械屠殺者MK X8.0", additional_info = "拾取後綁定\n唯一\n[q2]使用: 你的超U質發明會指定為超U質G械屠殺者MK X8.0。\n需要 庫爾提拉斯工程學 (50)"}
 MultiLanguageItemData['tw'][164917] = {name = "艾澤萊晶岩集束炸彈", additional_info = "任務物品\n[q]\"這堆炸彈因為艾澤萊晶岩的關係嗡嗡作響。\""}
 MultiLanguageItemData['tw'][164921] = {name = "大型艾澤萊晶岩炸彈", additional_info = "任務物品\n[q]\"請小心拿取。\""}
-MultiLanguageItemData['tw'][164922] = {name = "[q2]藍色春日頭環", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164923] = {name = "[q2]咖啡色春日頭環", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164924] = {name = "[q2]黃色春日頭環", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164922] = {name = "[q2]藍色春日頭環", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164923] = {name = "[q2]咖啡色春日頭環", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164924] = {name = "[q2]黃色春日頭環", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][164926] = {name = "劍齒虎腰肉", additional_info = "任務物品\n[q]\"肥嫩、油花如大理石紋般。\""}
 MultiLanguageItemData['tw'][164927] = {name = "暮光礦石", additional_info = "任務物品\n[q]\"熟練的鐵匠能把這種礦石打造成武器。\""}
 MultiLanguageItemData['tw'][164928] = {name = "靈魂破片", additional_info = "任務物品"}
@@ -24353,23 +24354,23 @@ MultiLanguageItemData['tw'][164987] = {name = "聯盟戰鬥計畫", additional_i
 MultiLanguageItemData['tw'][164989] = {name = "梅卡托克的戰鬥計畫", additional_info = "任務物品\n[q]\"書內詳細記載著梅卡托克的作戰計畫，還標示出他的飛船位於提拉加德海灣的位置。\""}
 MultiLanguageItemData['tw'][164991] = {name = "平影的筆記", additional_info = "任務物品\n[q]\"黑海岸的飛行計畫頗為詳盡，平影也費了不少功夫，到處寫滿了自己的名字。\""}
 MultiLanguageItemData['tw'][164992] = {name = "爆燃藥水", additional_info = "任務物品\n唯一\n[q2]使用: 以爆燃液體潑灑目標，造成火焰傷害。 (5秒 冷卻)\n[q]\"妮莎精心製作出來的強力炸藥。\""}
-MultiLanguageItemData['tw'][164993] = {name = "[q4]贊達拉面具", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164994] = {name = "[q4]贊達拉肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164995] = {name = "[q4]贊達拉頸環", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164996] = {name = "[q4]贊達拉護手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164997] = {name = "[q4]贊達拉腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164998] = {name = "[q4]贊達拉護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][164999] = {name = "[q4]贊達拉脛衛", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165000] = {name = "[q4]贊達拉護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164993] = {name = "[q4]贊達拉面具", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164994] = {name = "[q4]贊達拉肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164995] = {name = "[q4]贊達拉頸環", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164996] = {name = "[q4]贊達拉護手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164997] = {name = "[q4]贊達拉腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164998] = {name = "[q4]贊達拉護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][164999] = {name = "[q4]贊達拉脛衛", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165000] = {name = "[q4]贊達拉護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 贊達拉食人妖\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][165001] = {name = "[q3]贊達拉外袍", additional_info = "拾取後綁定外袍\n種族: 贊達拉食人妖"}
-MultiLanguageItemData['tw'][165002] = {name = "[q4]庫爾提拉斯雙角帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165003] = {name = "[q4]庫爾提拉斯流蘇肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165004] = {name = "[q4]庫爾提拉斯長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165005] = {name = "[q4]庫爾提拉斯手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165006] = {name = "[q4]庫爾提拉斯繫腰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165007] = {name = "[q4]庫爾提拉斯馬褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165008] = {name = "[q4]庫爾提拉斯長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165009] = {name = "[q4]庫爾提拉斯護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165002] = {name = "[q4]庫爾提拉斯雙角帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165003] = {name = "[q4]庫爾提拉斯流蘇肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165004] = {name = "[q4]庫爾提拉斯長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165005] = {name = "[q4]庫爾提拉斯手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165006] = {name = "[q4]庫爾提拉斯繫腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165007] = {name = "[q4]庫爾提拉斯馬褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165008] = {name = "[q4]庫爾提拉斯長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165009] = {name = "[q4]庫爾提拉斯護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 庫爾提拉斯人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][165010] = {name = "[q3]庫爾提拉斯外袍", additional_info = "拾取後綁定外袍\n種族: 庫爾提拉斯人"}
 MultiLanguageItemData['tw'][165011] = {name = "納茲米爾戰鬥計畫", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][165012] = {name = "絲翼纖維", additional_info = "任務物品\n[q]\"這種非常細的線可以織成十分耐用的布料。\""}
@@ -25069,14 +25070,14 @@ MultiLanguageItemData['tw'][165927] = {name = "[q4]靈化鍊金石", additional_
 MultiLanguageItemData['tw'][165928] = {name = "[q4]永恆鍊金石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 臨機應變\n[q2]裝備： 當你造成治療效果或傷害時，有一定的機率使你的力量、敏捷或智力屬性提高 27 點，持續15秒。提高的該項屬性以你最高的屬性為準。\n[q2]裝備： 使你飲用恢復生命力和法力的藥水時所獲得的效果提高40%。此效果無法堆疊。\n需要 庫爾提拉斯鍊金術 (100)\n[q]\"能代替點金石用來轉化物品。\"\n售價:"}
 MultiLanguageItemData['tw'][165929] = {name = "[q2]配方：靈化鍊金石", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作靈化鍊金石。\n[q2]製作靈化鍊金石。\n需要 庫爾提拉斯鍊金術 (130)\n售價: \n[q4]靈化鍊金石\n拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 臨機應變\n[q2]裝備： 當你造成治療效果或傷害時，有一定的機率使你的力量、敏捷或智力屬性提高 26 點，持續15秒。提高的該項屬性以你最高的屬性為準。\n[q2]裝備： 使你飲用恢復生命力和法力的藥水時所獲得的效果提高40%。此效果無法堆疊。\n需要 庫爾提拉斯鍊金術 (100)\n[q]\"能代替點金石用來轉化物品。\"\n售價: \n需要 亞昆達之噬 (60), 冬吻花 (60), 錨草 (20), 驅質 (20), 伯昂撒姆第之息 (20)"}
 MultiLanguageItemData['tw'][165930] = {name = "[q2]配方：永恆鍊金石", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作永恆鍊金石。\n[q2]製作永恆鍊金石。\n需要 庫爾提拉斯鍊金術 (130)\n售價: \n[q4]永恆鍊金石\n拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 10 臨機應變\n[q2]裝備： 當你造成治療效果或傷害時，有一定的機率使你的力量、敏捷或智力屬性提高 27 點，持續15秒。提高的該項屬性以你最高的屬性為準。\n[q2]裝備： 使你飲用恢復生命力和法力的藥水時所獲得的效果提高40%。此效果無法堆疊。\n需要 庫爾提拉斯鍊金術 (100)\n[q]\"能代替點金石用來轉化物品。\"\n售價: \n需要 亞昆達之噬 (70), 冬吻花 (70), 錨草 (25), 驅質 (25), 伯昂撒姆第之息 (200)"}
-MultiLanguageItemData['tw'][165931] = {name = "[q4]銅鬚頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165932] = {name = "[q4]銅鬚肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165933] = {name = "[q4]銅鬚外套", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165934] = {name = "[q4]銅鬚長手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165935] = {name = "[q4]銅鬚繫腰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165936] = {name = "[q4]銅鬚護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165937] = {name = "[q4]銅鬚踏靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][165938] = {name = "[q4]銅鬚腕鉗", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165931] = {name = "[q4]銅鬚頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165932] = {name = "[q4]銅鬚肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165933] = {name = "[q4]銅鬚外套", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165934] = {name = "[q4]銅鬚長手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165935] = {name = "[q4]銅鬚繫腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165936] = {name = "[q4]銅鬚護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165937] = {name = "[q4]銅鬚踏靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][165938] = {name = "[q4]銅鬚腕鉗", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 矮人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][165942] = {name = "加里維克斯的飛天包", additional_info = "任務物品\n[q]\"抄襲其他人設計的廉價複製品\""}
 MultiLanguageItemData['tw'][165943] = {name = "葛瑞茲的火箭包", additional_info = "任務物品\n\"哥布林以及地精工程學的集大成之作。\""}
 MultiLanguageItemData['tw'][165944] = {name = "一段可疑的訊息", additional_info = "拾取後綁定\n唯一\n[q2]使用: 獲得任務以解鎖一位寵物商人。\n[q]\"裡面草寫著微妙的暗示，是關於一名有能力獲得某些珍奇寵物的走私者。\""}
@@ -25140,15 +25141,15 @@ MultiLanguageItemData['tw'][166344] = {name = "精心調味的肉排和馬鈴薯
 MultiLanguageItemData['tw'][166345] = {name = "[q2]贊達拉迅猛龍蛋", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚突進者。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][166346] = {name = "[q3]崔克的籠子", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚崔克。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][166347] = {name = "[q3]甜姿", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
-MultiLanguageItemData['tw'][166348] = {name = "[q4]辛多雷頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166349] = {name = "[q4]辛多雷肩鎧", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166350] = {name = "[q4]辛多雷外套", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166351] = {name = "[q4]辛多雷護手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166352] = {name = "[q4]辛多雷腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166353] = {name = "[q4]辛多雷護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166354] = {name = "[q4]辛多雷軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166355] = {name = "[q4]辛多雷護腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][166356] = {name = "[q4]辛多雷衣飾", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166348] = {name = "[q4]辛多雷頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166349] = {name = "[q4]辛多雷肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166350] = {name = "[q4]辛多雷外套", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166351] = {name = "[q4]辛多雷護手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166352] = {name = "[q4]辛多雷腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166353] = {name = "[q4]辛多雷護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166354] = {name = "[q4]辛多雷軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166355] = {name = "[q4]辛多雷護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][166356] = {name = "[q4]辛多雷衣飾", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][166357] = {name = "[q4]辛多雷披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n種族: 血精靈\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][166358] = {name = "[q3]體面的鸚鵡", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。不包括帽子。\n[q2]右鍵點擊以召喚或解散巨翼鸚鵡。\n80 ( 80)"}
 MultiLanguageItemData['tw'][166364] = {name = "[q4]亡者之歌", additional_info = "拾取後綁定{單手} {劍}\n{5-8點傷害} {速度 2.60}\n(每秒2.5點傷害)\n+13 智力\n+3 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 加速\n售價:"}
@@ -26254,22 +26255,22 @@ MultiLanguageItemData['tw'][167809] = {name = "[q3]黏滑暗湧獵人", addition
 MultiLanguageItemData['tw'][167810] = {name = "[q3]黏滑寄居蟹", additional_info = "[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的黏滑寄居蟹。\n80 ( 80)"}
 MultiLanguageItemData['tw'][167811] = {name = "[q3]鬥陣俱樂部外袍", additional_info = "拾取後綁定外袍\n需要在畢茲摩鬥陣俱樂部到達第5階"}
 MultiLanguageItemData['tw'][167812] = {name = "[q3]鬥陣俱樂部外袍", additional_info = "拾取後綁定外袍\n需要在鬥陣競技場到達第5階"}
-MultiLanguageItemData['tw'][167813] = {name = "[q3]鬥陣甲冑", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167815] = {name = "[q3]鬥陣薄靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167816] = {name = "[q3]鬥陣手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167817] = {name = "[q3]鬥陣頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167818] = {name = "[q3]鬥陣護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167819] = {name = "[q3]鬥陣肩墊", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167820] = {name = "[q3]鬥陣厚腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167821] = {name = "[q3]鬥陣腕鍊", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167822] = {name = "[q3]鬥陣甲冑", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167823] = {name = "[q3]鬥陣薄靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167824] = {name = "[q3]鬥陣手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167825] = {name = "[q3]鬥陣頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167826] = {name = "[q3]鬥陣護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167827] = {name = "[q3]鬥陣肩墊", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167828] = {name = "[q3]鬥陣厚腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][167829] = {name = "[q3]鬥陣腕鍊", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167813] = {name = "[q3]鬥陣甲冑", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167815] = {name = "[q3]鬥陣薄靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167816] = {name = "[q3]鬥陣手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167817] = {name = "[q3]鬥陣頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167818] = {name = "[q3]鬥陣護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167819] = {name = "[q3]鬥陣肩墊", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167820] = {name = "[q3]鬥陣厚腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167821] = {name = "[q3]鬥陣腕鍊", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167822] = {name = "[q3]鬥陣甲冑", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167823] = {name = "[q3]鬥陣薄靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167824] = {name = "[q3]鬥陣手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167825] = {name = "[q3]鬥陣頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167826] = {name = "[q3]鬥陣護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167827] = {name = "[q3]鬥陣肩墊", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167828] = {name = "[q3]鬥陣厚腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][167829] = {name = "[q3]鬥陣腕鍊", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][167830] = {name = "[q6]石化黑鱗片", additional_info = "任務物品\n[q]\"這個聚合精華曾屬於一隻早在奈薩里奧之前就住在這裡的黑龍…\""}
 MultiLanguageItemData['tw'][167831] = {name = "翡翠裂片", additional_info = "任務物品\n唯一\n[q2]使用: 將翡翠裂片浸入，製作強大的物品。\n[q]\"綠龍軍團的聚合精華碎片。\""}
 MultiLanguageItemData['tw'][167832] = {name = "罐裝小鯉", additional_info = "拾取後綁定\n[q2]使用: 在20秒內恢復( 13200 / 5 * 20)點生命力和( 8000 / 5 * 20)點法力。進食時必須保持坐姿。 在機械岡內，如果進食時間超過10秒，你將因充分進食而獲得 46 點移動速度，持續1小時。\n售價:"}
@@ -26427,7 +26428,7 @@ MultiLanguageItemData['tw'][167999] = {name = "華麗信件", additional_info = 
 MultiLanguageItemData['tw'][168001] = {name = "[q2]油漆瓶：復古青銅", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"可將機甲大貓漆為復古青銅。\""}
 MultiLanguageItemData['tw'][168002] = {name = "秘法卷軸", additional_info = "任務物品\n[q]\"符文脈動著微弱的光芒。\""}
 MultiLanguageItemData['tw'][168003] = {name = "[q3]不穩定的法力珍珠", additional_info = "[q2]在庫爾提拉斯、贊達拉與納沙塔爾野外時，持有不穩定的法力珍珠，可使致命一擊、精通、加速或臨機應變提高150點，持續2小時。"}
-MultiLanguageItemData['tw'][168004] = {name = "恩若司之賜", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168004] = {name = "恩若司之賜", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168005] = {name = "成熟恐角花花瓣", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][168006] = {name = "[q0]凋謝的恐角花花瓣", additional_info = "售價:"}
 MultiLanguageItemData['tw'][168007] = {name = "[q0]破損的恐角花花瓣", additional_info = "售價:"}
@@ -26507,7 +26508,7 @@ MultiLanguageItemData['tw'][168093] = {name = "[q4]骯髒的法力珍珠手鐲",
 MultiLanguageItemData['tw'][168094] = {name = "[q4]微弱共鳴的海潮石", additional_info = "拾取後綁定\n[q2]使用: 重新校準嗡鳴的石頭。"}
 MultiLanguageItemData['tw'][168095] = {name = "[q4]奇怪的珊瑚叢", additional_info = "拾取後綁定\n唯一\n[q2]使用: 敲開晶岩簇。\n[q]\"等等，這可不是珊瑚…\""}
 MultiLanguageItemData['tw'][168096] = {name = "[q4]浸水的工具箱", additional_info = "拾取後綁定\n[q2]使用: 看看工具箱裡面有什麼。\n售價:"}
-MultiLanguageItemData['tw'][168097] = {name = "[q4]失竊的鎧甲木箱", additional_info = "拾取後綁定\n[q2]使用: 取回偷來的護甲，並善加利用。"}
+MultiLanguageItemData['tw'][168097] = {name = "[q4]失竊的鎧甲木箱", additional_info = "拾取後綁定\n[q2]使用: 取回偷來的護甲，並善加利用。\n一天只能購買1次。"}
 MultiLanguageItemData['tw'][168098] = {name = "哈提效果清除器", additional_info = "拾取後綁定\n[q2]使用: 移除哈提所有特殊效果。 (10秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][168099] = {name = "深海珊瑚孢囊", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 吃下充滿氣體的孢莢，恢復生命力上限的10%，並使你腳步輕盈。（1秒 冷卻）\n[q]\"深海魟魚似乎因為平時食用珊瑚，使得牠們在接觸空氣後能夠飄浮起來。\"\n售價:"}
 MultiLanguageItemData['tw'][168100] = {name = "聯盟外袍", additional_info = "拾取後綁定\n唯一\n外袍\n需要任何聯盟種族\n[q]\"這件精美外袍對戰鬥沒有任何幫助，不過穿著它，大家都知道你代表聯盟。\""}
@@ -26649,23 +26650,23 @@ MultiLanguageItemData['tw'][168275] = {name = "[q4]阿努艾薩拉，永恆法�
 MultiLanguageItemData['tw'][168276] = {name = "[q4]巨大納迦之爪", additional_info = "拾取後綁定{單手} {拳套}\n{8-12點傷害} {速度 2.60}\n(每秒3.8點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 4 致命一擊\n[q2]+ 3 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][168280] = {name = "遺失的血色育母鱗片", additional_info = "任務物品\n[q]\"神秘的鱗片散發出一抹朱紅光芒。\""}
 MultiLanguageItemData['tw'][168281] = {name = "機械蛛腿", additional_info = "任務物品"}
-MultiLanguageItemData['tw'][168282] = {name = "[q4]地精天兵指揮官護目鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168283] = {name = "[q4]地精天兵指揮官肩衛", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168284] = {name = "[q4]地精天兵指揮官護軀", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168285] = {name = "[q4]地精天兵指揮官纏手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168286] = {name = "[q4]地精天兵指揮官扣環", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168287] = {name = "[q4]地精天兵指揮官腿甲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168288] = {name = "[q4]地精天兵指揮官踏靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168289] = {name = "[q4]地精天兵指揮官腕環", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168282] = {name = "[q4]地精天兵指揮官護目鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168283] = {name = "[q4]地精天兵指揮官肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168284] = {name = "[q4]地精天兵指揮官護軀", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168285] = {name = "[q4]地精天兵指揮官纏手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168286] = {name = "[q4]地精天兵指揮官扣環", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168287] = {name = "[q4]地精天兵指揮官腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168288] = {name = "[q4]地精天兵指揮官踏靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168289] = {name = "[q4]地精天兵指揮官腕環", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168290] = {name = "[q4]地精天兵指揮官披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n種族: 地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168291] = {name = "[q4]遠祖酋長頭飾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168292] = {name = "[q4]遠祖酋長蹄環", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168293] = {name = "[q4]遠祖酋長纏布", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168294] = {name = "[q4]遠祖酋長披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168295] = {name = "[q4]遠祖酋長腕環", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168296] = {name = "[q4]遠祖酋長巨腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168297] = {name = "[q4]遠祖酋長之握", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168298] = {name = "[q4]遠祖酋長護甲", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168291] = {name = "[q4]遠祖酋長頭飾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168292] = {name = "[q4]遠祖酋長蹄環", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168293] = {name = "[q4]遠祖酋長纏布", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168294] = {name = "[q4]遠祖酋長披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168295] = {name = "[q4]遠祖酋長腕環", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168296] = {name = "[q4]遠祖酋長巨腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168297] = {name = "[q4]遠祖酋長之握", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168298] = {name = "[q4]遠祖酋長護甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 牛頭人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168299] = {name = "趾彈簧", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][168300] = {name = "丹妮的珍藏", additional_info = "任務物品\n[q]\"最棒的小傢伙，戴斯特。\""}
 MultiLanguageItemData['tw'][168301] = {name = "[q4]裂斬，瘋狂之刃", additional_info = "拾取後綁定{單手} {戰刃}\n{7-12點傷害} {速度 2.60}\n(每秒3.7點傷害)\n+3 敏捷\n+5 耐力\n[q2]+ 3 加速\n[q2]+ 4 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -26676,7 +26677,7 @@ MultiLanguageItemData['tw'][168305] = {name = "[q3]能量核心結構圖", addit
 MultiLanguageItemData['tw'][168306] = {name = "[q4]顫慄毒液長槍", additional_info = "拾取後綁定{雙手} {長柄武器}\n{15-21點傷害} {速度 3.60}\n(每秒5.0點傷害)\n+7 敏捷\n+10 耐力\n[q2]+ 7 致命一擊\n耐久: 120 / 120\n{[q2]裝備： 你的傷害技能有一定機率造成[ 34 * (1 + 臨機應變)]點{自然傷害。若盟友對你的目標施加顫慄毒液，則額外造成[ 13 * (1 + 臨機應變)] 點冰霜傷害}。}\n售價:"}
 MultiLanguageItemData['tw'][168307] = {name = "[q2]最美麗的貝殼項鍊", additional_info = "造型\n頸部\n[q]\"誰會想戴「比較沒那麼美麗」的項鍊？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168308] = {name = "[q2]最華麗閃亮的小貝殼", additional_info = "造型\n手指\n[q]\"一閃一閃亮晶晶，在一片漆黑中很顯眼。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168309] = {name = "[q2]海魔法裹臂", additional_info = "造型\n手腕 飾品\n[q]\"戴上這個，大聲告訴所有人，海洋是你的好朋友！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168309] = {name = "[q2]海魔法裹臂", additional_info = "造型\n{手腕} {造型}\n[q]\"戴上這個，大聲告訴所有人，海洋是你的好朋友！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168310] = {name = "機當勞的「大機克」", additional_info = "[q2]使用: 在20秒內恢復 50769 點生命力和 30769 點法力。進食時必須保持坐姿。如果進食時間超過10秒，你將因充分進食而獲得 43 點致命一擊，持續1小時。\n售價:"}
 MultiLanguageItemData['tw'][168311] = {name = "深淵炸肉餅", additional_info = "[q2]使用: 在20秒內恢復 50769 點生命力和 30769 點法力。進食時必須保持坐姿。如果進食時間超過10秒，你將因充分進食而獲得 43 點精通，持續1小時。\n售價:"}
 MultiLanguageItemData['tw'][168312] = {name = "噴香燉魚", additional_info = "[q2]使用: 在20秒內恢復 50769 點生命力和 30769 點法力。進食時必須保持坐姿。如果進食時間超過10秒，你將因充分進食而獲得 92 點耐力，持續1小時。\n售價:"}
@@ -26930,12 +26931,12 @@ MultiLanguageItemData['tw'][168655] = {name = "強效神秘精煉藥劑", additi
 MultiLanguageItemData['tw'][168656] = {name = "強效神秘大鍋", additional_info = "[q7]戰隊綁定\n[q2] 使用: 製造一個藥劑鍋供團隊成員使用以獲得符合其職業與天賦的精煉藥劑。此藥劑鍋可使用30次，並且持續10分鐘。\n售價:"}
 MultiLanguageItemData['tw'][168657] = {name = "[q4]敵友識別器", additional_info = "藍色穿孔卡片\n拾取後綁定\n裝備：追蹤附近的機械生物，在小地圖上顯示他們的位置。\n售價:"}
 MultiLanguageItemData['tw'][168658] = {name = "奈普圖恩蚌", additional_info = "任務物品\n唯一（10）\n[q]\"緊密、美味的肉，帶有少許鹽度和回甘的後味。獵捕起來很危險，但非常值得。\""}
-MultiLanguageItemData['tw'][168659] = {name = "[q2]隱藏的護軀", additional_info = "造型\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168659] = {name = "[q2]隱藏的護軀", additional_info = "造型\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168660] = {name = "[q4]結構圖：布靈登7000型", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作布靈登7000型。\n[q2]製作布靈登7000型。\n需要 庫爾提拉斯工程學 (175)\n需要鏽栓反抗軍\n- 崇拜\n售價:\n[q4]布靈登7000型\n拾取後綁定\n玩具\n[q2]使用: 組裝升級版的布靈登7000型，這是一台狂暴卻又慷慨的機器人。他會每天送一次禮物給玩家，但也會跟其他的布靈登機器人作戰，至死方休。 (4小時 冷卻)\n需要 庫爾提拉斯工程學 (1)\n需要 白金礦石 (5), 風暴白銀礦石 (10), 烈焰琥珀 (3), 萊里柏石 (3), 絕緣導線 (25)"}
 MultiLanguageItemData['tw'][168662] = {name = "紫紅顏料", additional_info = "制作材料\n[q]\"通常會在研磨納沙塔爾的草藥時取得。\"\n售價:"}
 MultiLanguageItemData['tw'][168663] = {name = "紫褐墨水", additional_info = "制作材料\n售價:"}
-MultiLanguageItemData['tw'][168664] = {name = "[q2]隱藏的靴子", additional_info = "造型\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][168665] = {name = "[q2]隱藏的護腕", additional_info = "造型\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168664] = {name = "[q2]隱藏的靴子", additional_info = "造型\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][168665] = {name = "[q2]隱藏的護腕", additional_info = "造型\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][168666] = {name = "厚重的微光殼", additional_info = "裝備後綁定\n持續時間：1天 (實時)"}
 MultiLanguageItemData['tw'][168667] = {name = "[q4]布靈登7000型", additional_info = "拾取後綁定\n玩具\n[q2]使用: 組裝升級版的布靈登7000型，這是一台狂暴卻又慷慨的機器人。他會每天送一次禮物給玩家，但也會跟其他的布靈登機器人作戰，至死方休。 (4小時 冷卻)\n需要 庫爾提拉斯工程學 (1)"}
 MultiLanguageItemData['tw'][168671] = {name = "[q4]電磁電阻器", additional_info = "藍色穿孔卡片\n拾取後綁定\n裝備：降低強制移動效果的潛在性。\n售價:"}
@@ -27352,7 +27353,7 @@ MultiLanguageItemData['tw'][169202] = {name = "[q4]赤紅潮汐戰馬", addition
 MultiLanguageItemData['tw'][169203] = {name = "[q4]墨鱗深尋者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"成群的潮汐戰馬會兇猛地用充滿肌肉的胸膛撞倒獵物。\"\n商人：\n克夫提庫斯‧屈心者\n區域：\n納沙塔爾\n花費：\n150\n\n商人：\n戴澤里安\n區域：\n納沙塔爾\n花費：\n150"}
 MultiLanguageItemData['tw'][169205] = {name = "[q3]鬼魅幼龍", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的鬼魅幼龍。\n80 ( 80)\n售價:"}
 MultiLanguageItemData['tw'][169207] = {name = "記憶核心", additional_info = "任務物品\n[q]\"可插入回憶塔，播放早已遺忘的回憶。有人希望這東西遠離窺探之眼...\""}
-MultiLanguageItemData['tw'][169208] = {name = "[q2]永遠幸運頭冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"一頂花冠，戴在頭上可帶來一整年的好運。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][169208] = {name = "[q2]永遠幸運頭冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"一頂花冠，戴在頭上可帶來一整年的好運。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][169209] = {name = "爆裂力量卷軸", additional_info = "任務物品\n[q2]使用: 對嚙龍族母引導卷軸。\n\n 只能在納爾安南使用。 (1分鐘 冷卻)"}
 MultiLanguageItemData['tw'][169212] = {name = "哨兵腳根", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][169213] = {name = "腳架XS", additional_info = "任務物品\n[q]\"尺寸超小的鋼製支架\""}
@@ -27457,7 +27458,7 @@ MultiLanguageItemData['tw'][169340] = {name = "[q4]棄捨艾澤萊晶岩頭盔",
 MultiLanguageItemData['tw'][169341] = {name = "[q4]棄捨艾澤萊晶岩護軀", additional_info = "拾取後綁定\n唯一\n[q] \"內含一件你的職業適用的決戰艾澤拉斯地城物品。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][169342] = {name = "[q4]棄捨艾澤萊晶岩護軀", additional_info = "拾取後綁定\n唯一\n[q] \"內含一件你的職業適用的決戰艾澤拉斯地城物品。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][169343] = {name = "[q4]棄捨艾澤萊晶岩護軀", additional_info = "拾取後綁定\n唯一\n[q] \"內含一件你的職業適用的決戰艾澤拉斯地城物品。\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][169344] = {name = "[q4]精巧法力電池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 進行引導，把(- 1 * 50429 )點法力儲存在精巧法力電池裡，最多 201716 點。 (1分鐘 冷卻)\n[q2]裝備： 法力值高於50%時，獲得 6 點臨機應變，透過儲存在電池中的法力，最高可提高100%。法力值低於50%時，每5秒從絕妙法力電池汲取 50429 點法力值至你的法力池。\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
+MultiLanguageItemData['tw'][169344] = {name = "[q4]精巧法力電池", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+7 智力\n[q2]使用: 進行引導，把(- 50429 )點法力儲存在精巧法力電池裡，最多 201716 點。 (1分鐘 冷卻)\n[q2]裝備： 法力值高於50%時，獲得 6 點臨機應變，透過儲存在電池中的法力，最高可提高100%。法力值低於50%時，每5秒從絕妙法力電池汲取 50429 點法力值至你的法力池。\n在地心之戰第2季期間，於時間限制內完成所有12級傳奇鑰石難度地城。\n售價:"}
 MultiLanguageItemData['tw'][169346] = {name = "暮光雛龍的鱗片", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"出沒在格瑞姆巴托外的暮光雛龍鱗片。\""}
 MultiLanguageItemData['tw'][169347] = {name = "[q3]機械岡審判", additional_info = "拾取後綁定\n玩具\n[q2]使用: 生成機械岡國王的立體影像。 (1小時 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][169348] = {name = "[q3]贊季爾刺矛手", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
@@ -27566,7 +27567,7 @@ MultiLanguageItemData['tw'][169457] = {name = "食譜：機械齒輪餅", additi
 MultiLanguageItemData['tw'][169458] = {name = "沃魯敦烈陽酒", additional_info = "[q2]使用: 酒精含量較高的飲料。\n需要啤酒節\n[q]\"裝在乾燥葫蘆中，由狐狸人釀製的沙漠烈酒。它是沙漠旅行的必備美酒！\"\n售價:"}
 MultiLanguageItemData['tw'][169459] = {name = "羽冠龍啜飲酒", additional_info = "[q2]使用: 一般的酒精飲料。\n需要啤酒節\n[q]\"就跟羽冠龍的鱗片一樣好入口！\"\n售價:"}
 MultiLanguageItemData['tw'][169460] = {name = "超傳統古典雞尾酒", additional_info = "[q2]使用: 一般的酒精飲料。\n需要啤酒節\n[q]\"托爾托人最愛喝的酒。\"\n售價:"}
-MultiLanguageItemData['tw'][169461] = {name = "[q3]穀物花環", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][169461] = {name = "[q3]穀物花環", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][169462] = {name = "盒裝夜色酒", additional_info = "[q2]使用: 一般的酒精飲料。\n需要啤酒節\n[q]\"隨時都得來點便宜的夜色酒！\"\n售價:"}
 MultiLanguageItemData['tw'][169463] = {name = "冰鎮夜色酒", additional_info = "[q2]使用: 酒精含量較少的飲料。\n需要啤酒節\n[q]\"幫你補充夜井的能量…還有果汁喔！\"\n售價:"}
 MultiLanguageItemData['tw'][169464] = {name = "蘇拉瑪爾氣泡調酒", additional_info = "[q2]使用: 一般的酒精飲料。\n需要啤酒節\n[q]\"在化裝舞會攀談的最佳美酒。\"\n售價:"}
@@ -27976,7 +27977,7 @@ MultiLanguageItemData['tw'][169919] = {name = "[q3]破縛者表揚箱", addition
 MultiLanguageItemData['tw'][169920] = {name = "[q3]奈莉的備用補給品", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][169921] = {name = "[q3]棘衛補給品", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][169922] = {name = "[q3]維姆的謝禮", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][169924] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][169924] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][169925] = {name = "[q4]海蛇皮濺水鞋", additional_info = "拾取後綁定{腳} {布甲}\n4護甲\n+5 智力\n+8 耐力\n[q2]+ 4 致命一擊\n[q2]+ 7 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][169926] = {name = "[q4]漲潮守護者腰帶", additional_info = "拾取後綁定{腰部} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 5 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][169927] = {name = "[q4]深海呼喚者扣環", additional_info = "拾取後綁定{腰部} {鎖甲}\n8護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 6 臨機應變\n耐久: 55 / 55\n售價:"}
@@ -28215,9 +28216,9 @@ MultiLanguageItemData['tw'][170201] = {name = "[q2]深潮卷軸", additional_inf
 MultiLanguageItemData['tw'][170202] = {name = "許威德黑啤酒", additional_info = "[q2]使用: 一般的酒精飲料。\n需要啤酒節\n[q]\"知名的黑鐵釀酒師，黑衣衛許威德所釀造的招牌美酒。\"\n售價:"}
 MultiLanguageItemData['tw'][170203] = {name = "[q3]拍動的魚", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 把魚放下並到處踢來踢去。 (1小時 冷卻)"}
 MultiLanguageItemData['tw'][170204] = {name = "[q3]格拉爾符記", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 相信格拉爾並獲得祝福。 (2小時 冷卻)\n[q]\"越多人配戴格拉爾符記，祂的力量就越強大。\""}
-MultiLanguageItemData['tw'][170205] = {name = "[q2]無窮勇氣頭冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"一頂花冠，戴在頭上會帶來一整年的勇氣。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][170206] = {name = "[q2]永久豐饒頭冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"一頂花冠，戴在頭上會帶來一整年的富裕。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][170207] = {name = "[q2]永恆追悼頭冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"一頂花冠，戴在頭上會帶來一整年的肅穆。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][170205] = {name = "[q2]無窮勇氣頭冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"一頂花冠，戴在頭上會帶來一整年的勇氣。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][170206] = {name = "[q2]永久豐饒頭冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"一頂花冠，戴在頭上會帶來一整年的富裕。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][170207] = {name = "[q2]永恆追悼頭冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"一頂花冠，戴在頭上會帶來一整年的肅穆。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][170208] = {name = "[q2]配方：無盡狂怒藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作無盡狂怒藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (170)\n售價: \n無盡狂怒藥水\n[q2]使用: 將自己灌滿無窮的能量，使你的傷害性法術和攻擊有一定機率對目標額外造成 1344 點火焰傷害，持續1分鐘。 (5分鐘 冷卻)\n售價:\n需要 辛葵 (6), 水晶瓶"}
 MultiLanguageItemData['tw'][170209] = {name = "[q2]配方：野性癒合藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作野性癒合藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (170)\n售價: \n野性癒合藥水\n[q2]使用: 強化你的心智，使你的治療能力有一定機率為你的目標額外恢復 2017 點生命力，持續1分鐘。 (5分鐘 冷卻)\n售價:\n需要 辛葵 (6), 水晶瓶"}
 MultiLanguageItemData['tw'][170210] = {name = "[q2]配方：深淵治療藥水", additional_info = "等級3\n拾取後綁定\n唯一\n[q2]使用:  教你學會如何更有效率地製作深淵治療藥水。\n[q2]有機會產出多瓶藥水。\n需要 庫爾提拉斯鍊金術 (170)\n售價: \n深淵治療藥水\n[q2]使用: 恢復 16000 點生命力。 (5分鐘 冷卻)\n售價:\n需要 辛葵 (2), 水晶瓶"}
@@ -28959,15 +28960,15 @@ MultiLanguageItemData['tw'][171247] = {name = "[q3]深淵裂片", additional_inf
 MultiLanguageItemData['tw'][171248] = {name = "植入裝置原型", additional_info = "任務物品\n[q]\"就算受損了，這件物品還是看得出全新科技的特徵。\""}
 MultiLanguageItemData['tw'][171249] = {name = "靈魂牢籠的鑰匙", additional_info = "拾取後綁定\n[q]\"可開啟靈魂牢籠。\""}
 MultiLanguageItemData['tw'][171250] = {name = "贊季爾武裝", additional_info = "任務物品\n[q]\"在我們手中總比在他們手中好。\""}
-MultiLanguageItemData['tw'][171251] = {name = "忠誠派兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171252] = {name = "忠誠派護肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171251] = {name = "忠誠派兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171252] = {name = "忠誠派護肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171253] = {name = "忠誠派披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171254] = {name = "深海魟魚肉", additional_info = "任務物品\n[q]\"這種口感滑嫩又有嚼勁的肉是安寇恩料理的常見食材。\""}
-MultiLanguageItemData['tw'][171255] = {name = "忠誠派胸甲", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171256] = {name = "忠誠派腿甲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171255] = {name = "忠誠派胸甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171256] = {name = "忠誠派腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171257] = {name = "虛無觸碰過的物質", additional_info = "任務物品\n[q]\"他們到底想用這個做什麼？或許不要多問比較好。\""}
-MultiLanguageItemData['tw'][171260] = {name = "忠誠派手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171261] = {name = "忠誠派腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171260] = {name = "忠誠派手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171261] = {name = "忠誠派腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171262] = {name = "希拉凱斯魔典", additional_info = "任務物品\n[q]\"充滿禁忌魔法。光是閱讀其中符號都會引發疼痛。\""}
 MultiLanguageItemData['tw'][171263] = {name = "靈魂純淨藥水", additional_info = "[q2]使用: 嘗試移除飲用者身上的一個詛咒效果、一個疾病效果和一個中毒效果。超過60級無法使用。 (5分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][171264] = {name = "靈視藥水", additional_info = "[q2]使用: 使你偵測潛行的能力略微提高，持續10分鐘。 (5分鐘 冷卻)\n售價:"}
@@ -29010,23 +29011,23 @@ MultiLanguageItemData['tw'][171317] = {name = "[q3]設計圖：不安奧司曼�
 MultiLanguageItemData['tw'][171318] = {name = "[q3]配方：無縛鍊金石", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作無縛鍊金石。\n[q2]製造無縛鍊金石。\n需要 庫爾提拉斯鍊金術 (165)\n\n\n[q4]無縛鍊金石\n拾取後綁定\n僅可裝備一件：鍊金石（1）\n飾品\n[q2]+ 12 臨機應變\n\n[q0]多色插槽\n\n[q2]裝備： 當你造成治療效果或傷害時，有一定的機率使你的力量、敏捷或智力屬性提高 31 點，持續15秒。提高的該項屬性以你最高的屬性為準。\n[q2]裝備： 使你飲用恢復生命力和法力的藥水時所獲得的效果提高40%。此效果無法堆疊。\n需要 庫爾提拉斯鍊金術 (165)\n[q]\"能代替點金石用來轉化物品。\"\n售價: \n需要 辛葵 (175), 錨草 (60), 驅質 (30)"}
 MultiLanguageItemData['tw'][171320] = {name = "[q3]虛無法器", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"這個黑暗水晶是利用從恩若司手下那邊偷來的設計加以改良，本身散發出來的力量能讓持有者製作強大物品。\""}
 MultiLanguageItemData['tw'][171323] = {name = "[q3]鬼靈鍊金石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 25 臨機應變\n[q2]裝備： 當你造成治療效果或傷害時，有一定的機率使你的力量、敏捷或智力屬性提高 67 點，持續15秒。提高的該項屬性以你最高的屬性為準。\n[q2]裝備： 使你飲用恢復生命力和法力的藥水時所獲得的效果提高40%。此效果無法堆疊。\n需要 暗影之境鍊金術 (100)\n[q]\"能代替點金石用來轉化物品。\"\n售價:"}
-MultiLanguageItemData['tw'][171324] = {name = "[q4]知名探險者的寬帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171325] = {name = "[q4]知名探險者的涉水長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171326] = {name = "[q4]知名探險者的長褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171327] = {name = "[q4]知名探險者的披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][171328] = {name = "[q4]知名探險者的幸運手鐲", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171329] = {name = "[q4]知名探險者的水壺腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171330] = {name = "[q4]知名探險者的寶物攫取手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171331] = {name = "[q4]知名探險者的萬用外衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171324] = {name = "[q4]知名探險者的寬帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171325] = {name = "[q4]知名探險者的涉水長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171326] = {name = "[q4]知名探險者的長褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171327] = {name = "[q4]知名探險者的披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][171328] = {name = "[q4]知名探險者的幸運手鐲", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171329] = {name = "[q4]知名探險者的水壺腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171330] = {name = "[q4]知名探險者的寶物攫取手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171331] = {name = "[q4]知名探險者的萬用外衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171332] = {name = "[q4]知名探險者的防塵披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171333] = {name = "[q4]知名探險者的背包", additional_info = "造型\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171334] = {name = "虛無之觸布料", additional_info = "拾取後綁定\n[q]\"這是幻想大軍所使用的護甲材料。也許怒西昂能好好利用。\"\n售價:"}
 MultiLanguageItemData['tw'][171335] = {name = "[q5]腐化核心", additional_info = "拾取後綁定\n唯一\n[q2]使用: [艾夏卡瑪斯的腐化抗性進一步提高3點。][強化決心罩氅，艾夏卡瑪斯，提高其對理智流失和腐化的抗性。]"}
-MultiLanguageItemData['tw'][171337] = {name = "[q4]毛毛雪怪連指手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171338] = {name = "[q4]毛毛雪怪軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171339] = {name = "[q4]毛毛雪怪運動褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171340] = {name = "[q4]毛毛雪怪兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][171341] = {name = "[q4]毛毛雪怪套衫", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171337] = {name = "[q4]毛毛雪怪連指手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171338] = {name = "[q4]毛毛雪怪軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171339] = {name = "[q4]毛毛雪怪運動褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171340] = {name = "[q4]毛毛雪怪兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][171341] = {name = "[q4]毛毛雪怪套衫", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][171343] = {name = "空白的文件", additional_info = "任務物品\n[q]\"逃過了被寫上冗長繁瑣的研究紀錄的命運。\""}
 MultiLanguageItemData['tw'][171344] = {name = "汎希爾書法文具組", additional_info = "任務物品\n唯一\n[q]\"務必力求華美才能稱得上是正式的汎希爾公文。\""}
 MultiLanguageItemData['tw'][171345] = {name = "偽造的定罪令", additional_info = "任務物品\n唯一\n[q]\"這個命令的格式和措辭有幾個地方看起來有點可疑，但是真實度相當高。\""}
@@ -29658,15 +29659,15 @@ MultiLanguageItemData['tw'][172068] = {name = "醃肉奶昔", additional_info = 
 MultiLanguageItemData['tw'][172069] = {name = "香蕉牛肉布丁", additional_info = "[q2]使用: 在20秒內恢復( 22500 / 5 * 20)點生命力和( 30000 / 5 * 20)點法力。進食時必須保持坐姿。 如果進食時間超過10秒，你將因充分進食而獲得 59 點耐力，持續1小時。\n售價:"}
 MultiLanguageItemData['tw'][172072] = {name = "[q2]實驗瓶", additional_info = "黑翼陷窟\n拾取後綁定\n唯一（5）\n[q2]使用: 造成的傷害提高30%，同時使受到的傷害提高10%，持續30秒。\n[q]\"即使這個瓶子靜止不動，裡頭溫暖而冒泡的液體也會不斷旋轉。\""}
 MultiLanguageItemData['tw'][172074] = {name = "勞倫特的行囊", additional_info = "任務物品\n唯一\n[q]\"裝著各種物品的輕便背袋。\""}
-MultiLanguageItemData['tw'][172075] = {name = "[q4]永恆旅人的面罩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172076] = {name = "[q4]永恆旅人的肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172077] = {name = "[q4]永恆旅人的衣飾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172075] = {name = "[q4]永恆旅人的面罩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172076] = {name = "[q4]永恆旅人的肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172077] = {name = "[q4]永恆旅人的衣飾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][172078] = {name = "[q4]永恆旅人的披風", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172079] = {name = "[q4]永恆旅人的腕輪", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172080] = {name = "[q4]永恆旅人的護手", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172081] = {name = "[q4]永恆旅人的裹腰", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172082] = {name = "[q4]永恆旅人的護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172083] = {name = "[q4]永恆旅人的足靴", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172079] = {name = "[q4]永恆旅人的腕輪", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172080] = {name = "[q4]永恆旅人的護手", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172081] = {name = "[q4]永恆旅人的裹腰", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172082] = {name = "[q4]永恆旅人的護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172083] = {name = "[q4]永恆旅人的足靴", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][172084] = {name = "真菌信標", additional_info = "任務物品\n唯一"}
 MultiLanguageItemData['tw'][172085] = {name = "鏡子碎片", additional_info = "任務物品\n[q]\"一小塊邊緣碎裂、尖銳的反射玻璃碎片。\""}
 MultiLanguageItemData['tw'][172086] = {name = "鏡子碎片", additional_info = "任務物品\n[q]\"一小塊邊緣碎裂、尖銳的反射玻璃碎片。\""}
@@ -29847,14 +29848,14 @@ MultiLanguageItemData['tw'][172367] = {name = "[q2]附魔武器 - 永恆恩典",
 MultiLanguageItemData['tw'][172368] = {name = "[q2]附魔武器 - 罪孽啟示", additional_info = "使用: 永久性地為武器附魔，有時可使你的攻擊揭露目標的罪孽，使你對其造成的傷害額外提高6%，持續10秒。無法用在等級低於10的物品。\n售價:"}
 MultiLanguageItemData['tw'][172370] = {name = "[q2]附魔武器 - 無光之力", additional_info = "使用: 為一把武器永久附魔，在使用攻擊性的法術或技能時會攻擊前5名敵人，有機會對前方送出一道暗影能量波。無法用在等級低於10的物品。\n售價:"}
 MultiLanguageItemData['tw'][172371] = {name = "瓦許印記", additional_info = "任務物品\n[q2]使用: 展示這個標記，取得蛛眼家族成員的信任。 (5秒 冷卻)"}
-MultiLanguageItemData['tw'][172373] = {name = "[q4]小精龍肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172374] = {name = "[q4]小精龍披巾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172375] = {name = "[q4]小精龍面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172376] = {name = "[q4]小精龍高筒靴", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172377] = {name = "[q4]小精龍束帶", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172378] = {name = "[q4]小精龍手鐲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172379] = {name = "[q4]小精龍手套", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][172380] = {name = "[q4]小精龍長褲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172373] = {name = "[q4]小精龍肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172374] = {name = "[q4]小精龍披巾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172375] = {name = "[q4]小精龍面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172376] = {name = "[q4]小精龍高筒靴", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172377] = {name = "[q4]小精龍束帶", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172378] = {name = "[q4]小精龍手鐲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172379] = {name = "[q4]小精龍手套", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][172380] = {name = "[q4]小精龍長褲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][172383] = {name = "[q3]採集的浪潮花蜜", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n需要任何聯盟種族\n蜜背蜂巢的蜂蜜耗盡了。請下禮拜再來。\n[q]\"「好蜂蜜要跟好朋友(還有你的蜜蜂)一起分享。謝謝！」-養蜂人貝瑞\""}
 MultiLanguageItemData['tw'][172405] = {name = "[q3]妖術寶典：活生生的蜂蜜", additional_info = "拾取後綁定 職業： 薩滿\n[q2]使用:  傳授妖術：活生生的蜂蜜。\n[q2]將敵人變形成活生生的蜂蜜，持續1分鐘。在妖術影響下，目標會癱瘓且無法攻擊或施法。傷害會移除此效果。最多影響1個目標。只對人形生物和野獸有效。\n售價:"}
 MultiLanguageItemData['tw'][172406] = {name = "[q3]附魔手套 - 暗影之境採集", additional_info = "使用: 為一雙手套永久附魔，提高在暗影之境的採集速度。\n售價:"}
@@ -30312,7 +30313,7 @@ MultiLanguageItemData['tw'][172947] = {name = "[q2]黑暗幻覺無面者面具",
 MultiLanguageItemData['tw'][172948] = {name = "靈魄果", additional_info = "任務物品\n[q]\"從其中一顆星界之樹掉落下來的種子，由靈魄濃縮而成。\""}
 MultiLanguageItemData['tw'][172950] = {name = "一罐陶土", additional_info = "任務物品\n唯一\n[q2]使用: 把一塊健康的黏土敷在受傷的工人身上，治療他們的傷口。 (3秒 冷卻)\n[q]\"有土味。\""}
 MultiLanguageItemData['tw'][172951] = {name = "馴牧果姆杖", additional_info = "任務物品\n唯一\n[q]\"雖然沾到一點黏液，不過還是可以用，對吧？\""}
-MultiLanguageItemData['tw'][172952] = {name = "[q4]長夜面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][172952] = {name = "[q4]長夜面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][172953] = {name = "耗盡的野性種子", additional_info = "任務物品\n唯一\n[q]\"已經看不出這裡頭曾經有一個強大的靈魂。\""}
 MultiLanguageItemData['tw'][172954] = {name = "凡人的回音", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][172955] = {name = "馴牧果姆杖", additional_info = "任務物品\n唯一\n[q2]使用: 鼓勵一個吃飽的小果姆反芻已吞噬的材料。可能產生無法預測的效果。 (6秒 冷卻)"}
@@ -30599,7 +30600,7 @@ MultiLanguageItemData['tw'][173364] = {name = "收集假人", additional_info = 
 MultiLanguageItemData['tw'][173366] = {name = "燃料罐", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][173368] = {name = "腫脹毒囊", additional_info = "任務物品\n[q]\"噁！\""}
 MultiLanguageItemData['tw'][173372] = {name = "[q3]黑暗帝國寶箱", additional_info = "拾取後綁定\n唯一\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][173373] = {name = "法奧的爐石", additional_info = "任務物品\n[q2]使用: 將使用者傳送至提里斯法林地的法奧之墓。\n1 次充能\n售價:"}
+MultiLanguageItemData['tw'][173373] = {name = "法奧的爐石", additional_info = "任務物品\n[q2]使用: 將使用者傳送至提里斯法林地的法奧之墓。\n1 次充能"}
 MultiLanguageItemData['tw'][173374] = {name = "[q3]萊加尼徽記", additional_info = "[q7]戰隊綁定\n[q2]使用: 與萊迦尼的聲望提高250點。 (2秒 冷卻)"}
 MultiLanguageItemData['tw'][173375] = {name = "[q3]萊加尼徽記", additional_info = "拾取後綁定\n[q2]使用: 與萊迦尼的聲望提高250點。 (2秒 冷卻)"}
 MultiLanguageItemData['tw'][173376] = {name = "[q3]奧丹姆協議者徽記", additional_info = "[q7]戰隊綁定\n[q2]使用: 與奧丹姆協議者的聲望提高250點。 (2秒 冷卻)"}
@@ -30727,12 +30728,12 @@ MultiLanguageItemData['tw'][173516] = {name = "[q3]貪婪之口護足", addition
 MultiLanguageItemData['tw'][173517] = {name = "[q3]惡毒折磨者行者靴", additional_info = "拾取後綁定{腳} {鎖甲}\n10護甲\n+5 [敏捷 or 智力]\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 6 加速\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][173518] = {name = "[q3]陰惡巨怪脛甲", additional_info = "拾取後綁定{腳} {板甲}\n15護甲\n+5 [力量 or 智力]\n+8 耐力\n[q2]+ 6 致命一擊\n[q2]+ 5 臨機應變\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][173523] = {name = "提里斯法營地卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到提里斯法林地中的標記位置。"}
-MultiLanguageItemData['tw'][173524] = {name = "[q4]痛苦面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173524] = {name = "[q4]痛苦面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173526] = {name = "凱爾達隆卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到凱爾達隆。\n1 次充能\n售價:"}
-MultiLanguageItemData['tw'][173527] = {name = "暮色森林卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到暮色森林中的標記位置。\n1 次充能\n售價:"}
-MultiLanguageItemData['tw'][173528] = {name = "鍍金爐石", additional_info = "任務物品\n[q2]使用: 將使用者傳送到藏寶海灣。\n1 次充能\n售價:"}
+MultiLanguageItemData['tw'][173527] = {name = "暮色森林卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到暮色森林中的標記位置。\n1 次充能"}
+MultiLanguageItemData['tw'][173528] = {name = "鍍金爐石", additional_info = "任務物品\n[q2]使用: 將使用者傳送到藏寶海灣。\n1 次充能"}
 MultiLanguageItemData['tw'][173530] = {name = "暮色森林卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到暮色森林。\n1 次充能\n售價:"}
-MultiLanguageItemData['tw'][173531] = {name = "詛咒之地卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到詛咒之地。\n1 次充能\n售價:"}
+MultiLanguageItemData['tw'][173531] = {name = "詛咒之地卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到詛咒之地。\n1 次充能"}
 MultiLanguageItemData['tw'][173532] = {name = "艾爾文森林卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到艾爾文森林。\n1 次充能\n售價:"}
 MultiLanguageItemData['tw'][173533] = {name = "[q3]採集的浪潮花蜜", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n需要任何聯盟種族\n必須要有成熟的蜜背採收蜂和蜜背蜂巢聲望崇拜。\n[q]\"「好蜂蜜要跟好朋友(還有你的蜜蜂)一起分享。謝謝！」-養蜂人貝瑞\""}
 MultiLanguageItemData['tw'][173534] = {name = "馴牧果姆杖", additional_info = "任務物品\n唯一\n[q2]使用: 在黃塵地穴擊昏一隻野生果姆，然後將其殺死以收集野生果姆礦質。 (6秒 冷卻)"}
@@ -30899,8 +30900,8 @@ MultiLanguageItemData['tw'][173694] = {name = "[q2]Night Market Template", addit
 MultiLanguageItemData['tw'][173695] = {name = "汎希爾祭儀長袍", additional_info = "任務物品\n唯一\n[q]\"華美、優雅又漂亮。\""}
 MultiLanguageItemData['tw'][173696] = {name = "汎希爾祭儀匕首", additional_info = "任務物品\n唯一\n[q]\"幫助了無數靈魂，卻未曾斬殺一人。\""}
 MultiLanguageItemData['tw'][173697] = {name = "汎希爾祭儀秘典", additional_info = "任務物品\n唯一\n[q]\"每場儀式都有無數細節，簡直千變萬化。\""}
-MultiLanguageItemData['tw'][173698] = {name = "卡拉贊卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到詛咒之地。\n售價:"}
-MultiLanguageItemData['tw'][173699] = {name = "詛咒之地卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到詛咒之地。\n1 次充能\n售價:"}
+MultiLanguageItemData['tw'][173698] = {name = "卡拉贊卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到詛咒之地。"}
+MultiLanguageItemData['tw'][173699] = {name = "詛咒之地卷軸", additional_info = "任務物品\n[q2]使用: 將使用者傳送到詛咒之地。\n1 次充能"}
 MultiLanguageItemData['tw'][173700] = {name = "縛骨者札爾的鑰匙", additional_info = "任務物品\n僅可裝備一件"}
 MultiLanguageItemData['tw'][173702] = {name = "雲羽鷹精華", additional_info = "任務物品\n[q]\"所有拉里翁最喜歡的食物。\""}
 MultiLanguageItemData['tw'][173703] = {name = "純淨之壺", additional_info = "任務物品\n[q2]使用: 美猴王遞給你這個罐子，彷彿這對解開謎團有所幫助。喝下之後或許能幫你找出你該去哪裡。可是為什麼聞起來這麼奇怪？\n1 次充能\n售價:"}
@@ -30916,7 +30917,7 @@ MultiLanguageItemData['tw'][173712] = {name = "[q2]靈魂記錄簿", additional_
 MultiLanguageItemData['tw'][173713] = {name = "[q4]兇惡白色骸骨馬", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"很少有戰鬥坐騎有這麼多尖刺和骨頭。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
 MultiLanguageItemData['tw'][173714] = {name = "[q4]兇惡白色戰豹", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"若你想幫牠的肚子搔癢，那你是自討苦吃。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
 MultiLanguageItemData['tw'][173715] = {name = "[q2]泥掘者的工具桶", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"瑞文崔斯泥掘者使用的工具桶。\""}
-MultiLanguageItemData['tw'][173716] = {name = "青苔爐石", additional_info = "任務物品\n[q2]使用: 將使用者傳送到月光林地。\n1 次充能\n售價:"}
+MultiLanguageItemData['tw'][173716] = {name = "青苔爐石", additional_info = "任務物品\n[q2]使用: 將使用者傳送到月光林地。\n1 次充能"}
 MultiLanguageItemData['tw'][173717] = {name = "[q2]完美設計的手持鏡", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"除了戰鬥用途之外，這些裝置還具備傳送的功能。這面鏡子擁有錯綜複雜的外框設計。\""}
 MultiLanguageItemData['tw'][173718] = {name = "[q2]一瓶雷德拉夫酒", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"一瓶陳年的雷德拉夫酒，混合瑞文崔斯當地香料與葉子的特製美酒，後勁帶著鐵的強烈氣味。\""}
 MultiLanguageItemData['tw'][173719] = {name = "[q2]完好如初的懼蝠尖牙", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"非常銳利的尖牙，只要輕輕一戳就能刺穿皮膚。\""}
@@ -31039,33 +31040,33 @@ MultiLanguageItemData['tw'][173949] = {name = "[q4]恐懼群島回收物品", ad
 MultiLanguageItemData['tw'][173950] = {name = "[q4]冠殞島回收物品", additional_info = "拾取後綁定\n[q]\"從戰場海嶼上的暮光龍、海盜和無法安息的獸人靈魂回收而來的物資。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][173951] = {name = "[q3]恩萊斯，恩若司的碎片", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 獻祭你一部分的凡人精華，對自己造成生命力上限60%的暗影傷害。\n\n 作為交換，你將成為古神的下僕，捨棄你對原本陣營的忠誠，只服從恩若司。\n\n 恩萊斯只可在戰爭模式中用於庫爾提拉斯和贊達拉的戶外還有恩若司的幻象。 (1小時 冷卻)"}
 MultiLanguageItemData['tw'][173952] = {name = "墳榴果", additional_info = "任務物品\n唯一（10）\n[q]\"這種奇怪的海綿狀果實，微微泛著讓人不舒服的綠光\""}
-MultiLanguageItemData['tw'][173953] = {name = "[q4]黑暗幻覺面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173953] = {name = "[q4]黑暗幻覺面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173954] = {name = "瘋狂文章", additional_info = "任務物品\n[q]\"閱讀它可能不是個好主意。\""}
-MultiLanguageItemData['tw'][173955] = {name = "[q4]蠻勇面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173955] = {name = "[q4]蠻勇面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173956] = {name = "聚合腐化", additional_info = "任務物品\n[q]\"你不會想知道這些眼珠子是從哪裡來的。\""}
-MultiLanguageItemData['tw'][173958] = {name = "[q4]機械地精傳承護軀", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173961] = {name = "[q4]機械地精傳承頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173962] = {name = "[q4]機械地精傳承腿片", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173963] = {name = "[q4]機械地精傳承肩衛", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173964] = {name = "[q4]機械地精傳承扣環", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173958] = {name = "[q4]機械地精傳承護軀", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173961] = {name = "[q4]機械地精傳承頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173962] = {name = "[q4]機械地精傳承腿片", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173963] = {name = "[q4]機械地精傳承肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173964] = {name = "[q4]機械地精傳承扣環", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173965] = {name = "校準好的淵喉石", additional_info = "任務物品\n唯一\n[q]\"與亞登曠野的其他材料不同，此物跟另一個界域似乎有某些關聯。\""}
-MultiLanguageItemData['tw'][173966] = {name = "[q4]狐狸人傳承外衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173967] = {name = "[q4]狐狸人傳承纏手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173968] = {name = "[q4]狐狸人傳承披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173969] = {name = "[q4]狐狸人傳承腿甲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173970] = {name = "[q4]狐狸人傳承工作腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173971] = {name = "[q4]狐狸人傳承肩墊", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173966] = {name = "[q4]狐狸人傳承外衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173967] = {name = "[q4]狐狸人傳承纏手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173968] = {name = "[q4]狐狸人傳承披巾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173969] = {name = "[q4]狐狸人傳承腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173970] = {name = "[q4]狐狸人傳承工作腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173971] = {name = "[q4]狐狸人傳承肩墊", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173972] = {name = "[q4]機械地精傳承披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n種族: 機械地精\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173973] = {name = "普恩果", additional_info = "拾取後綁定\n[q]\"放在志士試煉場的貢品盆內。\""}
-MultiLanguageItemData['tw'][173974] = {name = "[q4]X-52飛行員夾克", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173975] = {name = "[q4]X-52防火踏靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173974] = {name = "[q4]X-52飛行員夾克", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173975] = {name = "[q4]X-52防火踏靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173976] = {name = "嫉妒勳章", additional_info = "任務物品\n[q]\"由瑞文崔斯的王親自贈與汎希爾的勳章，讓配戴者擁有瑞文崔斯部分的統治權。\""}
-MultiLanguageItemData['tw'][173977] = {name = "[q4]X-52極致纏手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173978] = {name = "[q4]X-52精準護目鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173979] = {name = "[q4]X-52強化腿甲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173980] = {name = "[q4]X-52工兵肩衛", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173981] = {name = "[q4]X-52萬能腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173982] = {name = "[q4]X-52掃雷裹腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173977] = {name = "[q4]X-52極致纏手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173978] = {name = "[q4]X-52精準護目鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173979] = {name = "[q4]X-52強化腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173980] = {name = "[q4]X-52工兵肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173981] = {name = "[q4]X-52萬能腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173982] = {name = "[q4]X-52掃雷裹腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][173983] = {name = "狐狸人回收背袋", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][173984] = {name = "[q3]萬世卷軸", additional_info = "拾取後綁定\n玩具\n[q2]使用: 模仿剛抵達之靈魂的外貌。 (1小時 冷卻)"}
 MultiLanguageItemData['tw'][173985] = {name = "阿瑪賽特護甲", additional_info = "任務物品"}
@@ -31081,15 +31082,15 @@ MultiLanguageItemData['tw'][173994] = {name = "[q3]昂古遺跡回收物品", ad
 MultiLanguageItemData['tw'][173995] = {name = "[q2]風險投資公司回收物品", additional_info = "拾取後綁定\n[q]\"這些「回收」回來的物資上面印有風險投資公司的商標，但我們知道裡面裝的是托維爾以及黑色巨龍群的聖物。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][173996] = {name = "[q3]碧綠嶠嶼回收物品", additional_info = "拾取後綁定\n[q]\"從德魯伊海嶼上的熊怪、德魯伊和林地看守者回收而來的物資。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][173997] = {name = "[q3]低語岩礁回收物品", additional_info = "拾取後綁定\n[q]\"從環礁海嶼上的龍蝦人、魚人和納迦回收而來的物資。\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][173998] = {name = "[q4]黯狼衛兵腕環", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][173999] = {name = "[q4]黯狼衛兵扣環", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174000] = {name = "[q4]黯狼衛兵儀祭肩衛", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174001] = {name = "[q4]黯狼衛兵正統長褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174002] = {name = "[q4]黯狼衛兵禮帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174003] = {name = "[q4]黯狼衛兵決鬥手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174004] = {name = "[q4]黯狼衛兵踏靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174005] = {name = "[q4]黯狼衛兵正統大衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][174006] = {name = "[q4]黯狼衛兵正統長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173998] = {name = "[q4]黯狼衛兵腕環", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][173999] = {name = "[q4]黯狼衛兵扣環", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174000] = {name = "[q4]黯狼衛兵儀祭肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174001] = {name = "[q4]黯狼衛兵正統長褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174002] = {name = "[q4]黯狼衛兵禮帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174003] = {name = "[q4]黯狼衛兵決鬥手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174004] = {name = "[q4]黯狼衛兵踏靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174005] = {name = "[q4]黯狼衛兵正統大衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174006] = {name = "[q4]黯狼衛兵正統長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n種族: 狼人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174007] = {name = "淨化藥劑", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 淨化一名友方目標，驅散所有中毒、魔法、疾病和詛咒效果。\n3 充能"}
 MultiLanguageItemData['tw'][174008] = {name = "粗糙土狼毛皮", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][174009] = {name = "泰坦核心", additional_info = "任務物品"}
@@ -31159,7 +31160,7 @@ MultiLanguageItemData['tw'][174073] = {name = "[q2]再生的骨架", additional_
 MultiLanguageItemData['tw'][174074] = {name = "煮熟的肉", additional_info = "任務物品\n[q]\"這塊肉多虧全世界最便宜的調味料才顯得美味：就是飢餓。\""}
 MultiLanguageItemData['tw'][174075] = {name = "[q2]艾曼妮的頂級皮膚", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"製造憎惡體時相當實用。\""}
 MultiLanguageItemData['tw'][174076] = {name = "[q2]死靈油", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"製造憎惡體時相當實用。\""}
-MultiLanguageItemData['tw'][174077] = {name = "[q4]X-52絕緣頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174077] = {name = "[q4]X-52絕緣頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n種族: 哥布林\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174078] = {name = "[q2]櫻草的煙火粉末", additional_info = "拾取後綁定\n[q2]使用: 用阿林斯粉灑滿一座符文祭壇，準備引爆它。 (10秒 冷卻)"}
 MultiLanguageItemData['tw'][174079] = {name = "[q3]痛苦無面者面具", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"痛苦會賦予人理解力。\""}
 MultiLanguageItemData['tw'][174080] = {name = "[q3]長夜無面者面具", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"對未知的恐懼，是低等生物的弱點。\""}
@@ -31362,7 +31363,7 @@ MultiLanguageItemData['tw'][174332] = {name = "裝滿的靈魄容器", additiona
 MultiLanguageItemData['tw'][174333] = {name = "傳聞", additional_info = "任務物品\n[q]\"記述著某位伯爵夫人將鏡子裂片送給幾個家族的事情。\""}
 MultiLanguageItemData['tw'][174336] = {name = "赤紅領巾", additional_info = "任務物品\n[q]\"為整套服飾畫龍點睛的關鍵。\""}
 MultiLanguageItemData['tw'][174341] = {name = "傾樹之心", additional_info = "任務物品\n唯一\n[q]\"準備好以特那葛倫的能量灌注，進行夢旅者的儀式。\""}
-MultiLanguageItemData['tw'][174342] = {name = "[q4]自斷後路面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174342] = {name = "[q4]自斷後路面具", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174343] = {name = "結合卷軸", additional_info = "任務物品\n[q]\"記載著多種琪瑞安符文的說明，可用來強化金屬之間的結合力。\""}
 MultiLanguageItemData['tw'][174347] = {name = "[q0]腐朽幽暗之翼", additional_info = "售價:"}
 MultiLanguageItemData['tw'][174348] = {name = "燒烤嚙咬者", additional_info = "[q2]使用: 在20秒內恢復 50769 點生命力和 30769 點法力。進食時必須保持坐姿。如果你至少花費10秒進食，你將充分進食。\n\n 若充分進食，在恩若司的幻象中，會偽裝成克西爾教徒，降低會招致敵人攻擊的距離，持續10分鐘。\n售價:"}
@@ -31371,8 +31372,8 @@ MultiLanguageItemData['tw'][174350] = {name = "可疑的餐點", additional_info
 MultiLanguageItemData['tw'][174351] = {name = "烤肉串", additional_info = "[q2]使用: 在20秒內恢復 50769 點生命力和 30769 點法力。進食時必須保持坐姿。\n\n 如果你至少花費10秒進食，會立刻恢復100點理智。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][174352] = {name = "烤虛無之鰭", additional_info = "[q2]使用: 在20秒內恢復 50769 點生命力和 30769 點法力。進食時必須保持坐姿。如果你至少花費10秒進食，你將獲得充分進食狀態。\n\n 若充分進食，在恩若司的幻象中，移動速度提高20%。\n售價:"}
 MultiLanguageItemData['tw'][174353] = {name = "可疑的肉", additional_info = "制作材料\n售價:"}
-MultiLanguageItemData['tw'][174354] = {name = "[q4]狐狸人傳承裹足", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][174355] = {name = "[q4]狐狸人傳承裹腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][174354] = {name = "[q4]狐狸人傳承裹足", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][174355] = {name = "[q4]狐狸人傳承裹腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n種族: 狐狸人\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][174356] = {name = "亞基蟲碎塊", additional_info = "任務物品\n[q]\"噁心。\""}
 MultiLanguageItemData['tw'][174357] = {name = "死亡之蓮花瓣", additional_info = "任務物品\n[q]\"磨成粉末後可用來阻隔詛咒的力量。\""}
 MultiLanguageItemData['tw'][174358] = {name = "未開啟的黑石補給木箱", additional_info = "拾取後綁定\n[q]\"裡頭裝的通常是一些寵物用品和寵物吊飾。\"\n[q2]<右鍵單擊打開>"}
@@ -31824,9 +31825,9 @@ MultiLanguageItemData['tw'][175249] = {name = "[q4]無私收集者標槍", addit
 MultiLanguageItemData['tw'][175251] = {name = "[q4]剛毅叉刃匕", additional_info = "拾取後綁定{單手} {匕首}\n{15-26點傷害} {速度 1.80}\n(每秒11.4點傷害)\n+10 敏捷\n+15 耐力\n[q2]+ 13 致命一擊\n[q2]+ 7 精通\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][175253] = {name = "[q2]脫水配方", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][175254] = {name = "[q4]燃燒的希望信標", additional_info = "拾取後綁定副手物品\n+31 智力\n+15 耐力\n[q2]+ 13 加速\n[q2]+ 7 精通\n售價:"}
-MultiLanguageItemData['tw'][175262] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][175263] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][175264] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][175262] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][175263] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][175264] = {name = "塑形UI細小頭部物品", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][175265] = {name = "[q2]首席命令腰帶", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][175275] = {name = "晉升之道卷軸", additional_info = "任務物品\n唯一（8）\n[q]\"精心書寫的卷軸，描述了志士成為琪瑞安的過程。\""}
 MultiLanguageItemData['tw'][175276] = {name = "科爾蘇加德的骨匣", additional_info = "任務物品\n唯一\n[q]\"這個破舊的陶製容器上面有祈倫托的圖案，看來這個骨匣來自艾澤拉斯。\""}
@@ -32546,7 +32547,7 @@ MultiLanguageItemData['tw'][176306] = {name = "[q0]乾裂的絲質衣衫", addit
 MultiLanguageItemData['tw'][176307] = {name = "[q0]乾裂的絲質便鞋", additional_info = "裝備後綁定\n{腳} {布甲}\n6護甲\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][176308] = {name = "[q0]乾裂的絲質束褲", additional_info = "裝備後綁定\n{腿部} {布甲}\n9護甲\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][176309] = {name = "[q0]乾裂的絲質裹手", additional_info = "裝備後綁定\n{手} {布甲}\n6護甲\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][176310] = {name = "[q0]乾裂的絲質風帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][176310] = {name = "[q0]乾裂的絲質風帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][176311] = {name = "[q0]乾裂的絲質索帶", additional_info = "裝備後綁定\n{腰部} {布甲}\n6護甲\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][176312] = {name = "[q0]乾裂的絲質襯肩", additional_info = "裝備後綁定\n{肩部} {布甲}\n7護甲\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][176313] = {name = "[q0]乾鱗腕甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n12護甲\n耐久: 40 / 40\n售價:"}
@@ -32600,7 +32601,7 @@ MultiLanguageItemData['tw'][176427] = {name = "[q0]染色布質外套", addition
 MultiLanguageItemData['tw'][176428] = {name = "[q0]染色布質軟靴", additional_info = "裝備後綁定\n{腳} {布甲}\n6護甲\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][176429] = {name = "[q0]染色布質裹腿", additional_info = "裝備後綁定\n{腿部} {布甲}\n9護甲\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][176430] = {name = "[q0]染色布質之握", additional_info = "裝備後綁定\n{手} {布甲}\n6護甲\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][176431] = {name = "[q0]染色布質兜帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][176431] = {name = "[q0]染色布質兜帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][176432] = {name = "[q0]染色布質環帶", additional_info = "裝備後綁定\n{腰部} {布甲}\n6護甲\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][176433] = {name = "[q0]染色布質披肩", additional_info = "裝備後綁定\n{肩部} {布甲}\n7護甲\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][176434] = {name = "[q0]髒污鍊甲臂甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n12護甲\n耐久: 40 / 40\n售價:"}
@@ -32754,7 +32755,7 @@ MultiLanguageItemData['tw'][176946] = {name = "[q0]腐朽布質法衣", addition
 MultiLanguageItemData['tw'][176947] = {name = "[q0]腐朽布質薄靴", additional_info = "裝備後綁定\n{腳} {布甲}\n6護甲\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][176948] = {name = "[q0]腐朽布質裹腿", additional_info = "裝備後綁定\n{腿部} {布甲}\n9護甲\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][176949] = {name = "[q0]腐朽布質之握", additional_info = "裝備後綁定\n{手} {布甲}\n6護甲\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][176950] = {name = "[q0]腐朽布質兜帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][176950] = {name = "[q0]腐朽布質兜帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][176951] = {name = "[q0]腐朽布質環帶", additional_info = "裝備後綁定\n{腰部} {布甲}\n6護甲\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][176952] = {name = "[q0]腐朽布質披肩", additional_info = "裝備後綁定\n{肩部} {布甲}\n7護甲\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][176953] = {name = "[q0]易碎鍊甲臂甲", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n12護甲\n耐久: 40 / 40\n售價:"}
@@ -33078,6 +33079,7 @@ MultiLanguageItemData['tw'][177404] = {name = "[q2]光明飲者之劍", addition
 MultiLanguageItemData['tw'][177405] = {name = "[q2]溪語者憤怒披風", additional_info = "拾取後綁定背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][177406] = {name = "[q2]溪語者頸飾", additional_info = "拾取後綁定頸部\n+6 耐力\n[q2]+ 9 加速\n[q2]+ 10 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177407] = {name = "[q2]溪語者憤怒塑像", additional_info = "拾取後綁定飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]+ 9 加速\n職業： 薩滿"}
+MultiLanguageItemData['tw'][177408] = {name = "[q2]溪語者突襲指環", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 10 加速\n[q2]+ 9 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177409] = {name = "[q2]溪語者突襲之戒", additional_info = "拾取後綁定\n僅可裝備一件\n手指\n+6 耐力\n[q2]+ 9 致命一擊\n[q2]+ 10 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177410] = {name = "[q2]溪語者憤怒之石", additional_info = "拾取後綁定飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]+ 9 精通\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177411] = {name = "[q2]溪語者勳章", additional_info = "拾取後綁定頸部\n+6 耐力\n[q2]+ 9 致命一擊\n[q2]+ 10 精通\n職業： 薩滿"}
@@ -33096,12 +33098,14 @@ MultiLanguageItemData['tw'][177423] = {name = "[q2]溪語者智慧指環", addit
 MultiLanguageItemData['tw'][177424] = {name = "[q2]溪語者智慧之石", additional_info = "拾取後綁定飾品\n+6 [敏捷 or 力量 or 智力]\n[q2]+ 9 臨機應變\n職業： 薩滿"}
 MultiLanguageItemData['tw'][177425] = {name = "[q2]溪語者毀滅披風", additional_info = "拾取後綁定背部\n4護甲\n+4 [敏捷 or 力量 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n職業： 薩滿\n售價:"}
 MultiLanguageItemData['tw'][177427] = {name = "[q2]摧心脛甲", additional_info = "拾取後綁定{腳} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 死亡騎士\n售價:"}
+MultiLanguageItemData['tw'][177428] = {name = "[q2]摧心護手", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177430] = {name = "[q2]摧心腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n20護甲\n+7 [力量 or 智力]\n+10 耐力\n[q2]+ 6 加速\n[q2]+ 7 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177432] = {name = "[q2]摧心束腰", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177433] = {name = "[q2]摧心護臂", additional_info = "拾取後綁定{手腕} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177435] = {name = "[q2]摧心護脛", additional_info = "拾取後綁定{腳} {板甲}\n14護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177436] = {name = "[q2]摧心手甲", additional_info = "拾取後綁定{手} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177437] = {name = "[q2]摧心腿甲", additional_info = "拾取後綁定{腿部} {板甲}\n20護甲\n+7 [力量 or 智力]\n+10 耐力\n[q2]+ 6 致命一擊\n[q2]+ 7 精通\n職業： 死亡騎士\n售價:"}
+MultiLanguageItemData['tw'][177439] = {name = "[q2]摧心腰環", additional_info = "拾取後綁定{腰部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177440] = {name = "[q2]摧心臂甲", additional_info = "拾取後綁定{手腕} {板甲}\n11護甲\n+4 [力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n職業： 死亡騎士\n售價:"}
 MultiLanguageItemData['tw'][177442] = {name = "[q2]春雨足靴", additional_info = "拾取後綁定{腳} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177443] = {name = "[q2]春雨之握", additional_info = "拾取後綁定{手} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 加速\n[q2]+ 5 精通\n職業： 德魯伊\n售價:"}
@@ -33114,6 +33118,7 @@ MultiLanguageItemData['tw'][177453] = {name = "[q2]春雨腿甲", additional_inf
 MultiLanguageItemData['tw'][177455] = {name = "[q2]春雨之索", additional_info = "拾取後綁定{腰部} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177456] = {name = "[q2]春雨腕輪", additional_info = "拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177458] = {name = "[q2]春雨長靴", additional_info = "拾取後綁定{腳} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 精通\n職業： 德魯伊\n售價:"}
+MultiLanguageItemData['tw'][177459] = {name = "[q2]春雨手套", additional_info = "拾取後綁定{手} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177461] = {name = "[q2]春雨馬褲", additional_info = "拾取後綁定{腿部} {皮甲}\n9護甲\n+7 [敏捷 or 智力]\n+10 耐力\n[q2]+ 7 致命一擊\n[q2]+ 6 精通\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177463] = {name = "[q2]春雨腰環", additional_info = "拾取後綁定{腰部} {皮甲}\n6護甲\n+5 [敏捷 or 智力]\n+7 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n職業： 德魯伊\n售價:"}
 MultiLanguageItemData['tw'][177464] = {name = "[q2]春雨束腕", additional_info = "拾取後綁定{手腕} {皮甲}\n5護甲\n+4 [敏捷 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 精通\n職業： 德魯伊\n售價:"}
@@ -33337,7 +33342,7 @@ MultiLanguageItemData['tw'][177757] = {name = "[q0]灰燼污斑布甲外套", ad
 MultiLanguageItemData['tw'][177758] = {name = "[q0]灰燼污斑布甲軟靴", additional_info = "裝備後綁定\n{腳} {布甲}\n15護甲\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][177759] = {name = "[q0]灰燼污斑布甲裹腿", additional_info = "裝備後綁定\n{腿部} {布甲}\n20護甲\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][177760] = {name = "[q0]灰燼污斑布甲纏手", additional_info = "裝備後綁定\n{手} {布甲}\n13護甲\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][177761] = {name = "[q0]灰燼污斑布甲兜帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][177761] = {name = "[q0]灰燼污斑布甲兜帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n耐久: 70 / 70\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][177762] = {name = "[q0]灰燼污斑布甲環帶", additional_info = "裝備後綁定\n{腰部} {布甲}\n13護甲\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][177763] = {name = "[q0]灰燼污斑布甲披肩", additional_info = "裝備後綁定\n{肩部} {布甲}\n16護甲\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][177764] = {name = "[q2]鏡子碎片", additional_info = "拾取後綁定\n唯一（10）\n[q]\"可用於重建瑞文崔斯各處破損的鏡子。\""}
@@ -34525,7 +34530,7 @@ MultiLanguageItemData['tw'][179592] = {name = "[q3]佐司特面具", additional_
 MultiLanguageItemData['tw'][179593] = {name = "[q3]黑暗之境面具", additional_info = "裝備後綁定\n{頭部} {布甲}\n10護甲\n+16 智力\n+23 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][179594] = {name = "[q3]枯蔑面罩", additional_info = "裝備後綁定\n{頭部} {皮甲}\n17護甲\n+16 [敏捷 or 智力]\n+23 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][179595] = {name = "[q3]佐司特面具", additional_info = "拾取後綁定頭部\n+16 智力\n+23 耐力\n[q2]+ 16 致命一擊\n[q2]+ 16 精通\n售價:"}
-MultiLanguageItemData['tw'][179596] = {name = "[q2]佐司特統御面具", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][179596] = {name = "[q2]佐司特統御面具", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][179597] = {name = "[q0]亞登曠野誓盟盾牌", additional_info = "拾取後綁定{副手} {盾}\n12護甲\n售價:"}
 MultiLanguageItemData['tw'][179598] = {name = "[q0]亞登曠野誓盟盾牌", additional_info = "拾取後綁定{副手} {盾}\n12護甲\n售價:"}
 MultiLanguageItemData['tw'][179599] = {name = "[q0]亞登曠野誓盟盾牌", additional_info = "拾取後綁定{副手} {盾}\n12護甲\n售價:"}
@@ -35433,7 +35438,7 @@ MultiLanguageItemData['tw'][180592] = {name = "[q2]被困住的石魔", addition
 MultiLanguageItemData['tw'][180593] = {name = "[q2]廷衛信使卷軸", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚廷衛信使。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n需要收割者廷衛\n- 崇敬"}
 MultiLanguageItemData['tw'][180594] = {name = "[q3]硬化之骨", additional_info = "晉升製作\n拾取後綁定\n制作材料\n[q]\"這些骨頭歷經長期使用、起曝曬於氣候摧殘下，顯得磨損破敗。很輕易就可以看出，這些東西是從瑪卓薩斯那些骨骼外露的生物身上取來的。\"\n售價:"}
 MultiLanguageItemData['tw'][180595] = {name = "[q3]夜鑄之鋼", additional_info = "晉升製作\n拾取後綁定\n制作材料\n\"由汎希爾所鍛造的奇異金屬，通常會被做成護甲和刀刃。\"\n售價:"}
-MultiLanguageItemData['tw'][180596] = {name = "「速合」的帽子", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][180596] = {name = "「速合」的帽子", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][180600] = {name = "菊花茶", additional_info = "『譴罪之塔』托迦司\n唯一（5）\n職業： 盜賊\n[q2]使用: 恢復100點能量。 (15秒 冷卻)"}
 MultiLanguageItemData['tw'][180601] = {name = "[q2]石膚懼翼幼蝠", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][180602] = {name = "[q2]赤紅懼翼幼蝠", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
@@ -35564,16 +35569,16 @@ MultiLanguageItemData['tw'][180746] = {name = "[q2]剝皮師日誌", additional_
 MultiLanguageItemData['tw'][180747] = {name = "[q2]裁縫師日誌", additional_info = "使用: 使暗影之境裁縫技能提高5點。\n\n 每週只能使用一本技能日誌。\n需要 暗影之境裁縫 (1)\n售價:"}
 MultiLanguageItemData['tw'][180748] = {name = "[q4]絲柔幻光蛾", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n在星湖劇場參與七場不同的演出。\n售價:\n[q]\"亞登曠野的飛蛾在生態系中扮演非常重要的角色，不只能把孢子、靈魄、花粉散播到森林各處，還能為森林底層的生物提供養分和變化。\"\n商人：\n首席營業員沙洛恩\n區域：\n亞登曠野\n花費：\n5000"}
 MultiLanguageItemData['tw'][180749] = {name = "[q3]豪克的戰痕壁壘", additional_info = "拾取後綁定{副手} {盾}\n74護甲\n+4 力量\n+12 智力\n+6 耐力\n[q2]+ 5 致命一擊\n[q2]+ 3 加速\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][180751] = {name = "[q2]紅頂蠟燭", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][180752] = {name = "[q2]粉紅派對帽", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][180751] = {name = "[q2]紅頂蠟燭", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][180752] = {name = "[q2]粉紅派對帽", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][180753] = {name = "[q3]眨星的園藝工具組", additional_info = "拾取後綁定\n唯一\n[q]\"飛靈的工具，用來照料亞登曠野的花園。\""}
 MultiLanguageItemData['tw'][180754] = {name = "[q2]園丁的錘子", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將暗夜日誌、園丁的笛子、錘子、及魔杖放進園丁的籃子，組成眨星的園藝工具組。"}
-MultiLanguageItemData['tw'][180755] = {name = "[q2]妖精狂歡面具", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][180755] = {name = "[q2]妖精狂歡面具", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][180756] = {name = "[q2]園丁的笛子", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將暗夜日誌、園丁的笛子、錘子、及魔杖放進園丁的籃子，組成眨星的園藝工具組。"}
 MultiLanguageItemData['tw'][180757] = {name = "[q2]園丁魔杖", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將暗夜日誌、園丁的笛子、錘子、及魔杖放進園丁的籃子，組成眨星的園藝工具組。"}
 MultiLanguageItemData['tw'][180758] = {name = "[q2]園丁的籃子", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將暗夜日誌、園丁的笛子、錘子、及魔杖放進園丁的籃子，組成眨星的園藝工具組。"}
 MultiLanguageItemData['tw'][180759] = {name = "[q2]暗夜日誌", additional_info = "拾取後綁定\n唯一\n[q2]使用: 將暗夜日誌、園丁的笛子、錘子、及魔杖放進園丁的籃子，組成眨星的園藝工具組。"}
-MultiLanguageItemData['tw'][180760] = {name = "[q2]公義之冠", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][180760] = {name = "[q2]公義之冠", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][180761] = {name = "[q4]忠誠芬連克斯", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"某些晉升者會把芬連克斯當作寵物，它們摸起來或許不像拉里翁那麼毛茸茸，但至少不太可能會吃掉其他寵物。\"\n誓盟：\n琪瑞安\n區域：\n昇靈堡"}
 MultiLanguageItemData['tw'][180762] = {name = "[q4]謙遜芬連克斯", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"芬連克斯不會玩你丟我撿，不過不清楚其原因為何。\"\n誓盟：\n琪瑞安\n區域：\n昇靈堡"}
 MultiLanguageItemData['tw'][180763] = {name = "[q4]勇氣芬連克斯", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"芬連克斯既是不可多得的夥伴，也是考驗個人反應能力的利器。\"\n誓盟：\n琪瑞安\n區域：\n昇靈堡"}
@@ -35590,10 +35595,10 @@ MultiLanguageItemData['tw'][180774] = {name = "乾燥莓果", additional_info = 
 MultiLanguageItemData['tw'][180775] = {name = "家鄉的回憶", additional_info = "任務物品\n[q]\"這些皺皺的乾燥莓果帶有焦味，是從某個死亡的世界採集來的。\""}
 MultiLanguageItemData['tw'][180777] = {name = "瑟洛斯熔鑄之鑰", additional_info = "任務物品\n[q]\"可打開琦娃牢籠的門。\""}
 MultiLanguageItemData['tw'][180778] = {name = "亞登曠野容器", additional_info = "任務物品\n[q]\"柳絮的精華就灌注在此容器中，它會成為全新打造的晉升紋章。\""}
-MultiLanguageItemData['tw'][180780] = {name = "配方：紅頂蠟燭", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作紅頂蠟燭。\n需要 暗影之境鍊金術 (1)\n售價: \n[q2]紅頂蠟燭\n造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 罩影布 , 磨碎的亡喪花 (2), 防腐之油 , 精煉死亡萃取物"}
-MultiLanguageItemData['tw'][180781] = {name = "圖樣：粉紅派對帽", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作粉紅派對帽。\n需要 暗影之境裁縫 (1)\n售價: \n[q2]粉紅派對帽\n造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 罩影布 (6), 半影絲線 (2), 粉紅染料"}
-MultiLanguageItemData['tw'][180782] = {name = "技藝：妖精狂歡面具", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作妖精狂歡面具。\n需要 暗影之境銘文學 (1)\n售價: \n[q2]妖精狂歡面具\n造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 發光墨水 (3), 晦影墨水 (3), 暮光樹皮 (2), 封蠟"}
-MultiLanguageItemData['tw'][180783] = {name = "設計圖：公義之冠", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作公義之冠。\n需要 暗影之境珠寶設計 (1)\n售價: \n[q2]公義之冠\n造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 陽炎金礦石 (4), 晦影石 , 奧睿博拉石 , 怒瞳石 , 可塑線圈"}
+MultiLanguageItemData['tw'][180780] = {name = "配方：紅頂蠟燭", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作紅頂蠟燭。\n需要 暗影之境鍊金術 (1)\n售價: \n[q2]紅頂蠟燭\n造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 罩影布 , 磨碎的亡喪花 (2), 防腐之油 , 精煉死亡萃取物"}
+MultiLanguageItemData['tw'][180781] = {name = "圖樣：粉紅派對帽", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作粉紅派對帽。\n需要 暗影之境裁縫 (1)\n售價: \n[q2]粉紅派對帽\n造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 罩影布 (6), 半影絲線 (2), 粉紅染料"}
+MultiLanguageItemData['tw'][180782] = {name = "技藝：妖精狂歡面具", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作妖精狂歡面具。\n需要 暗影之境銘文學 (1)\n售價: \n[q2]妖精狂歡面具\n造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 發光墨水 (3), 晦影墨水 (3), 暮光樹皮 (2), 封蠟"}
+MultiLanguageItemData['tw'][180783] = {name = "設計圖：公義之冠", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作公義之冠。\n需要 暗影之境珠寶設計 (1)\n售價: \n[q2]公義之冠\n造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:\n需要 陽炎金礦石 (4), 晦影石 , 奧睿博拉石 , 怒瞳石 , 可塑線圈"}
 MultiLanguageItemData['tw'][180784] = {name = "芬芳花朵", additional_info = "拾取後綁定\n唯一\n持續時間：10分鐘\n[q]\"燃燒時會飄散出甜美的香氣，但是摘下來之後很快就會枯萎。\""}
 MultiLanguageItemData['tw'][180785] = {name = "濃縮精華", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][180786] = {name = "[q0]空白封皮", additional_info = "拾取後綁定\n售價:"}
@@ -36981,8 +36986,8 @@ MultiLanguageItemData['tw'][182301] = {name = "充滿卡迦可樂的泥掘者混
 MultiLanguageItemData['tw'][182302] = {name = "樂團宣傳海報", additional_info = "任務物品\n[q2]使用: 脫離戰鬥時，在聖杯區宣傳失落聖杯樂團。"}
 MultiLanguageItemData['tw'][182303] = {name = "刺客的靈魂披風", additional_info = "任務物品\n[q2]使用: 讓使用者隱形，並顯示隱藏在墮滅堡各處的結界。 (10秒 冷卻)\n[q]\"這件魔法披風能讓你在墮滅堡看見隱藏的魔法物品。\""}
 MultiLanguageItemData['tw'][182304] = {name = "[q2]神性呼喚", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
-MultiLanguageItemData['tw'][182305] = {name = "[q3]秋瑟花冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"生命即將結束前才會綻放的一圈花朵。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][182306] = {name = "[q0]怪物披肩", additional_info = "造型\n裝備後綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][182305] = {name = "[q3]秋瑟花冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"生命即將結束前才會綻放的一圈花朵。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][182306] = {name = "[q0]怪物披肩", additional_info = "造型\n裝備後綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][182307] = {name = "[q2]防護聖言", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][182308] = {name = "紅榴石裂片", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][182309] = {name = "硬質羊皮紙", additional_info = "任務物品"}
@@ -37624,7 +37629,7 @@ MultiLanguageItemData['tw'][183130] = {name = "異界蛋", additional_info = "�
 MultiLanguageItemData['tw'][183131] = {name = "冥魄鉤爪", additional_info = "以太化\n淵喉\n拾取後綁定\n唯一\n持續時間：12小時 (實時)\n[q2]使用: 投擲鎖鏈，將自己拉向其位置。\n60 ( 60)\n售價:"}
 MultiLanguageItemData['tw'][183132] = {name = "[q2]迴盪呼喚", additional_info = "拾取後綁定\n[q2]使用: 在魂絆熔爐將此靈印加入你的收藏。"}
 MultiLanguageItemData['tw'][183133] = {name = "呼叫氣囊", additional_info = "任務物品\n[q2]使用: 若氣囊迷路或已死亡，可重新呼叫他。 (10秒 冷卻)"}
-MultiLanguageItemData['tw'][183134] = {name = "[q3]幻象：狩獵之賜", additional_info = "拾取後綁定\n使用: 獲得狩獵之賜的武器附魔外觀。\n需要曠野獵者\n- 崇拜\n售價:"}
+MultiLanguageItemData['tw'][183134] = {name = "[q3]幻象：狩獵之賜", additional_info = "拾取後綁定\n使用: 獲得狩獵之賜的武器附魔外觀。\n需要曠野獵者\n- 崇拜\n已經學會\n售價:"}
 MultiLanguageItemData['tw'][183135] = {name = "召喚陣亡者", additional_info = "以太化\n淵喉\n拾取後綁定\n唯一\n持續時間：12小時 (實時)\n[q2]使用: 召喚陣亡的靈魂迷惑附近的敵人，持續1分鐘。\n60 ( 60)\n售價:"}
 MultiLanguageItemData['tw'][183136] = {name = "燃火淵喉污鼠", additional_info = "以太化\n淵喉\n拾取後綁定\n唯一\n持續時間：12小時 (實時)\n[q2]使用: 朝一個地點投擲會爆炸的淵喉污鼠，對衝擊點附近7碼範圍內的敵人造成7點暗影傷害。\n60 ( 60)\n售價:"}
 MultiLanguageItemData['tw'][183137] = {name = "侍僧的屍體", additional_info = "任務物品\n[q]\"侍僧奈勒希斯的屍體，他是科爾蘇加德最喜歡的學生。\""}
@@ -39132,14 +39137,14 @@ MultiLanguageItemData['tw'][184824] = {name = "[q0]垃圾郵件", additional_inf
 MultiLanguageItemData['tw'][184825] = {name = "[q0]垃圾郵件", additional_info = "拾取後綁定\n持續時間：1小時 (實時)\n[q]\"簡單一招，輕鬆幫你省下70%材料！僅限60分鐘內取得此優惠！\"\n售價:"}
 MultiLanguageItemData['tw'][184826] = {name = "[q0]隨機捆包彈藥", additional_info = "攻擊"}
 MultiLanguageItemData['tw'][184828] = {name = "[q4]葛葛爾的斑點殼", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184829] = {name = "[q4]觀星者的星宿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184830] = {name = "[q4]觀星者長袍", additional_info = "造型\n[q7]戰隊綁定\n唯一\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184831] = {name = "[q4]觀星者望天鏡", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184832] = {name = "[q4]觀星者星界步靴", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184833] = {name = "[q4]觀星者扣帶", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184834] = {name = "[q4]觀星者裹腕", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184835] = {name = "[q4]觀星者手套", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][184836] = {name = "[q4]觀星者護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184829] = {name = "[q4]觀星者的星宿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184830] = {name = "[q4]觀星者長袍", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184831] = {name = "[q4]觀星者望天鏡", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184832] = {name = "[q4]觀星者星界步靴", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184833] = {name = "[q4]觀星者扣帶", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184834] = {name = "[q4]觀星者裹腕", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184835] = {name = "[q4]觀星者手套", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][184836] = {name = "[q4]觀星者護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][184837] = {name = "[q4]觀星者群星罩氅", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][184839] = {name = "[q3]壞掉的百衛控制器", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 致命一擊\n[q2]裝備： 你的法術和技能有一定機率賦予你 38 點主要屬性，持續15秒。\n售價:"}
 MultiLanguageItemData['tw'][184840] = {name = "[q3]循道詩集", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]+ 20 臨機應變\n[q2]裝備： 當你的生命力超過50%時，你的傷害技能有一定機率對目標造成 600 點神聖傷害。生命力低於50%時，則有機率為你治療 926 點生命力。\n售價:"}
@@ -39161,113 +39166,113 @@ MultiLanguageItemData['tw'][184915] = {name = "暗鑄錠", additional_info = "�
 MultiLanguageItemData['tw'][184916] = {name = "沸騰焰核", additional_info = "任務物品\n[q]\"這種會灼傷別人的東西對黑鐵矮人來說再溫暖不過了。\""}
 MultiLanguageItemData['tw'][184917] = {name = "燃點雕刻器", additional_info = "任務物品\n[q]\"索爾加登在他的作品上雕刻符文時所使用的工具。\""}
 MultiLanguageItemData['tw'][184922] = {name = "[q4]武器庫：熔鑄武裝", additional_info = "拾取後綁定\n[q2]使用: 收集黑鐵矮人武裝套裝外觀。"}
-MultiLanguageItemData['tw'][184939] = {name = "[q4]蒼藍暮色法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184940] = {name = "[q4]蒼藍暮色軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184941] = {name = "[q4]蒼藍暮色裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184942] = {name = "[q4]蒼藍暮色兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184943] = {name = "[q4]蒼藍暮色護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184944] = {name = "[q4]蒼藍暮色披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184945] = {name = "[q4]蒼藍暮色束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184946] = {name = "[q4]蒼藍暮色束腕", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184939] = {name = "[q4]蒼藍暮色法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184940] = {name = "[q4]蒼藍暮色軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184941] = {name = "[q4]蒼藍暮色裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184942] = {name = "[q4]蒼藍暮色兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184943] = {name = "[q4]蒼藍暮色護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184944] = {name = "[q4]蒼藍暮色披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184945] = {name = "[q4]蒼藍暮色束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184946] = {name = "[q4]蒼藍暮色束腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184947] = {name = "[q4]蒼藍暮色披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184948] = {name = "[q4]暮光森林法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184949] = {name = "[q4]暮光森林軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184950] = {name = "[q4]暮光森林裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184951] = {name = "[q4]暮光森林兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184952] = {name = "[q4]暮光森林護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184953] = {name = "[q4]暮光森林披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184954] = {name = "[q4]暮光森林束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184955] = {name = "[q4]暮光森林裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184948] = {name = "[q4]暮光森林法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184949] = {name = "[q4]暮光森林軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184950] = {name = "[q4]暮光森林裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184951] = {name = "[q4]暮光森林兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184952] = {name = "[q4]暮光森林護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184953] = {name = "[q4]暮光森林披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184954] = {name = "[q4]暮光森林束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184955] = {name = "[q4]暮光森林裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184956] = {name = "[q4]暮光森林披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184957] = {name = "[q4]秋之承諾法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184958] = {name = "[q4]秋之承諾軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184959] = {name = "[q4]秋之承諾裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184960] = {name = "[q4]秋之承諾兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184961] = {name = "[q4]秋之承諾護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184962] = {name = "[q4]秋之承諾披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184963] = {name = "[q4]秋之承諾束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184964] = {name = "[q4]秋之承諾裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184957] = {name = "[q4]秋之承諾法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184958] = {name = "[q4]秋之承諾軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184959] = {name = "[q4]秋之承諾裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184960] = {name = "[q4]秋之承諾兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184961] = {name = "[q4]秋之承諾護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184962] = {name = "[q4]秋之承諾披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184963] = {name = "[q4]秋之承諾束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184964] = {name = "[q4]秋之承諾裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184965] = {name = "[q4]秋之承諾披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184966] = {name = "[q4]純淨之視法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184967] = {name = "[q4]純淨之視軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184968] = {name = "[q4]純淨之視裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184969] = {name = "[q4]純淨之視兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184970] = {name = "[q4]純淨之視護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184971] = {name = "[q4]純淨之視披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184972] = {name = "[q4]純淨之視束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184973] = {name = "[q4]純淨之視裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184966] = {name = "[q4]純淨之視法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184967] = {name = "[q4]純淨之視軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184968] = {name = "[q4]純淨之視裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184969] = {name = "[q4]純淨之視兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184970] = {name = "[q4]純淨之視護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184971] = {name = "[q4]純淨之視披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184972] = {name = "[q4]純淨之視束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184973] = {name = "[q4]純淨之視裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184974] = {name = "[q4]純淨之視披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184975] = {name = "[q4]戰場信使法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184976] = {name = "[q4]戰場信使軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184977] = {name = "[q4]戰場信使裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184978] = {name = "[q4]戰場信使兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184979] = {name = "[q4]戰場信使護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184980] = {name = "[q4]戰場信使束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184981] = {name = "[q4]戰場信使裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184975] = {name = "[q4]戰場信使法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184976] = {name = "[q4]戰場信使軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184977] = {name = "[q4]戰場信使裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184978] = {name = "[q4]戰場信使兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184979] = {name = "[q4]戰場信使護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184980] = {name = "[q4]戰場信使束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184981] = {name = "[q4]戰場信使裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184982] = {name = "[q4]戰場信使披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184983] = {name = "[q4]棄誓志士法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184984] = {name = "[q4]棄誓志士軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184985] = {name = "[q4]棄誓志士裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184986] = {name = "[q4]棄誓志士兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184987] = {name = "[q4]棄誓志士護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184988] = {name = "[q4]棄誓志士束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184989] = {name = "[q4]棄誓志士裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184983] = {name = "[q4]棄誓志士法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184984] = {name = "[q4]棄誓志士軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184985] = {name = "[q4]棄誓志士裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184986] = {name = "[q4]棄誓志士兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184987] = {name = "[q4]棄誓志士護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184988] = {name = "[q4]棄誓志士束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184989] = {name = "[q4]棄誓志士裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184990] = {name = "[q4]棄誓志士披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184991] = {name = "[q4]抱負志士法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184992] = {name = "[q4]抱負志士軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184993] = {name = "[q4]抱負志士裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184994] = {name = "[q4]抱負志士兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184995] = {name = "[q4]抱負志士護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184996] = {name = "[q4]抱負志士束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184997] = {name = "[q4]抱負志士裹布", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184991] = {name = "[q4]抱負志士法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184992] = {name = "[q4]抱負志士軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184993] = {name = "[q4]抱負志士裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184994] = {name = "[q4]抱負志士兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184995] = {name = "[q4]抱負志士護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184996] = {name = "[q4]抱負志士束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184997] = {name = "[q4]抱負志士裹布", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][184998] = {name = "[q4]抱負志士披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][184999] = {name = "[q4]奉獻志士法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185000] = {name = "[q4]奉獻志士軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185001] = {name = "[q4]奉獻志士裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185002] = {name = "[q4]奉獻志士兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185003] = {name = "[q4]奉獻志士護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185004] = {name = "[q4]奉獻志士束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185005] = {name = "[q4]奉獻志士裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][184999] = {name = "[q4]奉獻志士法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185000] = {name = "[q4]奉獻志士軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185001] = {name = "[q4]奉獻志士裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185002] = {name = "[q4]奉獻志士兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185003] = {name = "[q4]奉獻志士護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185004] = {name = "[q4]奉獻志士束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185005] = {name = "[q4]奉獻志士裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185006] = {name = "[q4]奉獻志士披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185007] = {name = "[q4]奉獻志士長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185008] = {name = "[q4]抱負志士長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185009] = {name = "[q4]棄誓志士長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185010] = {name = "[q4]戰場信使長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185011] = {name = "[q4]流浪死靈法師法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185012] = {name = "[q4]流浪死靈法師軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185013] = {name = "[q4]流浪死靈法師裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185014] = {name = "[q4]流浪死靈法師兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185015] = {name = "[q4]流浪死靈法師護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185016] = {name = "[q4]流浪死靈法師披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185017] = {name = "[q4]流浪死靈法師束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185018] = {name = "[q4]流浪死靈法師裹布", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185007] = {name = "[q4]奉獻志士長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185008] = {name = "[q4]抱負志士長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185009] = {name = "[q4]棄誓志士長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185010] = {name = "[q4]戰場信使長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185011] = {name = "[q4]流浪死靈法師法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185012] = {name = "[q4]流浪死靈法師軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185013] = {name = "[q4]流浪死靈法師裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185014] = {name = "[q4]流浪死靈法師兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185015] = {name = "[q4]流浪死靈法師護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185016] = {name = "[q4]流浪死靈法師披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185017] = {name = "[q4]流浪死靈法師束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185018] = {name = "[q4]流浪死靈法師裹布", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185019] = {name = "[q4]流浪死靈法師披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185020] = {name = "[q4]學徒的死靈服法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185021] = {name = "[q4]學徒的死靈服軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185022] = {name = "[q4]學徒的死靈服裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185023] = {name = "[q4]學徒的死靈服兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185024] = {name = "[q4]學徒的死靈服護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185025] = {name = "[q4]學徒的死靈服護肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185026] = {name = "[q4]學徒的死靈服束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185027] = {name = "[q4]學徒的死靈服裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185020] = {name = "[q4]學徒的死靈服法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185021] = {name = "[q4]學徒的死靈服軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185022] = {name = "[q4]學徒的死靈服裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185023] = {name = "[q4]學徒的死靈服兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185024] = {name = "[q4]學徒的死靈服護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185025] = {name = "[q4]學徒的死靈服護肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185026] = {name = "[q4]學徒的死靈服束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185027] = {name = "[q4]學徒的死靈服裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185028] = {name = "[q4]學徒的死靈服披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185029] = {name = "[q4]瑪利雷斯的助手法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185030] = {name = "[q4]瑪利雷斯的助手軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185031] = {name = "[q4]瑪利雷斯的助手裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185032] = {name = "[q4]瑪利雷斯的助手兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185033] = {name = "[q4]瑪利雷斯的助手護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185034] = {name = "[q4]瑪利雷斯的助手披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185035] = {name = "[q4]瑪利雷斯的助手束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185036] = {name = "[q4]瑪利雷斯的助手裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185029] = {name = "[q4]瑪利雷斯的助手法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185030] = {name = "[q4]瑪利雷斯的助手軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185031] = {name = "[q4]瑪利雷斯的助手裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185032] = {name = "[q4]瑪利雷斯的助手兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185033] = {name = "[q4]瑪利雷斯的助手護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185034] = {name = "[q4]瑪利雷斯的助手披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185035] = {name = "[q4]瑪利雷斯的助手束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185036] = {name = "[q4]瑪利雷斯的助手裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185037] = {name = "[q4]瑪利雷斯的助手披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185038] = {name = "[q4]前線死靈法師法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185039] = {name = "[q4]前線死靈法師軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185040] = {name = "[q4]前線死靈法師裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185041] = {name = "[q4]前線死靈法師兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185042] = {name = "[q4]前線死靈法師護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185043] = {name = "[q4]前線死靈法師披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185044] = {name = "[q4]前線死靈法師束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185045] = {name = "[q4]前線死靈法師裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185038] = {name = "[q4]前線死靈法師法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185039] = {name = "[q4]前線死靈法師軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185040] = {name = "[q4]前線死靈法師裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185041] = {name = "[q4]前線死靈法師兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185042] = {name = "[q4]前線死靈法師護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185043] = {name = "[q4]前線死靈法師披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185044] = {name = "[q4]前線死靈法師束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185045] = {name = "[q4]前線死靈法師裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185046] = {name = "[q4]前線死靈法師披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185047] = {name = "[q2]犛牛靈魂", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][185048] = {name = "[q2]鍬牙靈魂", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
@@ -39278,73 +39283,73 @@ MultiLanguageItemData['tw'][185052] = {name = "[q2]河馬靈魂", additional_inf
 MultiLanguageItemData['tw'][185053] = {name = "[q2]科多獸靈魂", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][185054] = {name = "[q2]長毛象靈魂", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
 MultiLanguageItemData['tw'][185056] = {name = "[q4]碎裂的石碑", additional_info = "拾取後綁定\n唯一\n[q]\"古老石板上刻滿符文，散發著奇異魔法。\"\n[q2]<右鍵單擊閱讀>\n售價:"}
-MultiLanguageItemData['tw'][185057] = {name = "[q4]收割者宮廷法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185058] = {name = "[q4]收割者宮廷軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185059] = {name = "[q4]收割者宮廷裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185060] = {name = "[q4]收割者宮廷兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185061] = {name = "[q4]收割者宮廷護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185062] = {name = "[q4]收割者宮廷束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185063] = {name = "[q4]收割者宮廷裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185057] = {name = "[q4]收割者宮廷法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185058] = {name = "[q4]收割者宮廷軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185059] = {name = "[q4]收割者宮廷裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185060] = {name = "[q4]收割者宮廷兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185061] = {name = "[q4]收割者宮廷護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185062] = {name = "[q4]收割者宮廷束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185063] = {name = "[q4]收割者宮廷裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185064] = {name = "[q4]收割者宮廷披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185065] = {name = "[q4]雷納瑟戰場法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185066] = {name = "[q4]雷納瑟戰場軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185067] = {name = "[q4]雷納瑟戰場裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185068] = {name = "[q4]雷納瑟戰場兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185069] = {name = "[q4]雷納瑟戰場護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185070] = {name = "[q4]雷納瑟戰場束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185071] = {name = "[q4]雷納瑟戰場裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185065] = {name = "[q4]雷納瑟戰場法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185066] = {name = "[q4]雷納瑟戰場軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185067] = {name = "[q4]雷納瑟戰場裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185068] = {name = "[q4]雷納瑟戰場兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185069] = {name = "[q4]雷納瑟戰場護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185070] = {name = "[q4]雷納瑟戰場束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185071] = {name = "[q4]雷納瑟戰場裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185072] = {name = "[q4]雷納瑟戰場披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185073] = {name = "[q4]閃耀宮廷斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185074] = {name = "[q4]閃耀宮廷裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185075] = {name = "[q4]閃耀宮廷束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185076] = {name = "[q4]閃耀宮廷護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185077] = {name = "[q4]閃耀宮廷兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185078] = {name = "[q4]閃耀宮廷裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185079] = {name = "[q4]閃耀宮廷軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185080] = {name = "[q4]閃耀宮廷法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185081] = {name = "[q4]罪殞城汎希爾法衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185082] = {name = "[q4]罪殞城汎希爾軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185083] = {name = "[q4]罪殞城汎希爾裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185084] = {name = "[q4]罪殞城汎希爾兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185085] = {name = "[q4]罪殞城汎希爾護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185086] = {name = "[q4]罪殞城汎希爾束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185087] = {name = "[q4]罪殞城汎希爾裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185074] = {name = "[q4]閃耀宮廷裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185075] = {name = "[q4]閃耀宮廷束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185076] = {name = "[q4]閃耀宮廷護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185077] = {name = "[q4]閃耀宮廷兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185078] = {name = "[q4]閃耀宮廷裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185079] = {name = "[q4]閃耀宮廷軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185080] = {name = "[q4]閃耀宮廷法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185081] = {name = "[q4]罪殞城汎希爾法衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185082] = {name = "[q4]罪殞城汎希爾軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185083] = {name = "[q4]罪殞城汎希爾裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185084] = {name = "[q4]罪殞城汎希爾兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185085] = {name = "[q4]罪殞城汎希爾護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185086] = {name = "[q4]罪殞城汎希爾束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185087] = {name = "[q4]罪殞城汎希爾裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185088] = {name = "[q4]罪殞城汎希爾披巾", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185089] = {name = "[q4]宮廷審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185090] = {name = "[q4]宮廷審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185091] = {name = "[q4]宮廷審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185092] = {name = "[q4]宮廷審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185093] = {name = "[q4]宮廷審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185094] = {name = "[q4]宮廷審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185095] = {name = "[q4]宮廷審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185096] = {name = "[q4]宮廷審判官裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185089] = {name = "[q4]宮廷審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185090] = {name = "[q4]宮廷審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185091] = {name = "[q4]宮廷審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185092] = {name = "[q4]宮廷審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185093] = {name = "[q4]宮廷審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185094] = {name = "[q4]宮廷審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185095] = {name = "[q4]宮廷審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185096] = {name = "[q4]宮廷審判官裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185097] = {name = "[q4]宮廷審判官斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185098] = {name = "[q4]雷納瑟的戰地審判官披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185099] = {name = "[q4]雷納瑟的戰地審判官裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185100] = {name = "[q4]雷納瑟的戰地審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185101] = {name = "[q4]雷納瑟的戰地審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185102] = {name = "[q4]雷納瑟的戰地審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185103] = {name = "[q4]雷納瑟的戰地審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185104] = {name = "[q4]雷納瑟的戰地審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185105] = {name = "[q4]雷納瑟的戰地審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185106] = {name = "[q4]雷納瑟的戰地審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185107] = {name = "[q4]救贖審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185108] = {name = "[q4]救贖審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185109] = {name = "[q4]救贖審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185110] = {name = "[q4]救贖審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185111] = {name = "[q4]救贖審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185112] = {name = "[q4]救贖審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185113] = {name = "[q4]救贖審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185114] = {name = "[q4]救贖審判官裹帶", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185099] = {name = "[q4]雷納瑟的戰地審判官裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185100] = {name = "[q4]雷納瑟的戰地審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185101] = {name = "[q4]雷納瑟的戰地審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185102] = {name = "[q4]雷納瑟的戰地審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185103] = {name = "[q4]雷納瑟的戰地審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185104] = {name = "[q4]雷納瑟的戰地審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185105] = {name = "[q4]雷納瑟的戰地審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185106] = {name = "[q4]雷納瑟的戰地審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185107] = {name = "[q4]救贖審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185108] = {name = "[q4]救贖審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185109] = {name = "[q4]救贖審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185110] = {name = "[q4]救贖審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185111] = {name = "[q4]救贖審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185112] = {name = "[q4]救贖審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185113] = {name = "[q4]救贖審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185114] = {name = "[q4]救贖審判官裹帶", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185115] = {name = "[q4]救贖審判官披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185116] = {name = "[q4]罪惡審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185117] = {name = "[q4]罪惡審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185118] = {name = "[q4]罪惡審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185119] = {name = "[q4]罪惡審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185120] = {name = "[q4]罪惡審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185121] = {name = "[q4]罪惡審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185122] = {name = "[q4]罪惡審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][185123] = {name = "[q4]罪惡審判官裹布", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185116] = {name = "[q4]罪惡審判官長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185117] = {name = "[q4]罪惡審判官軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185118] = {name = "[q4]罪惡審判官裹手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185119] = {name = "[q4]罪惡審判官兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185120] = {name = "[q4]罪惡審判官護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185121] = {name = "[q4]罪惡審判官披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185122] = {name = "[q4]罪惡審判官束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185123] = {name = "[q4]罪惡審判官裹布", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185124] = {name = "[q4]罪惡審判官披巾", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185125] = {name = "[q4]無束鬥士裂斧", additional_info = "拾取後綁定{單手} {斧}\n{28-58點傷害} {速度 2.60}\n(每秒16.5點傷害)\n+15 敏捷\n+22 耐力\n[q2]+ 9 致命一擊\n[q2]+ 20 臨機應變\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][185126] = {name = "[q4]無束鬥士之盾", additional_info = "拾取後綁定{副手} {盾}\n289護甲\n+15 力量\n+45 智力\n+22 耐力\n[q2]+ 10 致命一擊\n[q2]+ 20 臨機應變\n耐久: 120 / 120\n售價:"}
@@ -39618,7 +39623,7 @@ MultiLanguageItemData['tw'][185770] = {name = "溶掉一半的信", additional_i
 MultiLanguageItemData['tw'][185771] = {name = "述命者的用具", additional_info = "任務物品\n唯一\n[q]\"這是一項強大的法器，述命者進行神聖儀式的時候會需要這項物品。\""}
 MultiLanguageItemData['tw'][185772] = {name = "德葛拉", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][185773] = {name = "科爾蘇加德男爵的信物", additional_info = "任務物品\n[q]\"這個小小信物，說明持有人忠於科爾蘇加德。\""}
-MultiLanguageItemData['tw'][185774] = {name = "[q2]PH Green Head Candle", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][185774] = {name = "[q2]PH Green Head Candle", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][185775] = {name = "活力恢復寶典", additional_info = "任務物品\n[q2]使用: 這本寶典裡面記述的文字，具有激勵友軍的作用。 (3秒 冷卻)\n[q]\"裡面的文字難以理解，可是其中蘊含的力量不言而喻。\""}
 MultiLanguageItemData['tw'][185776] = {name = "[q3]鉤尾的命令之視", additional_info = "拾取後綁定{頭部} {板甲}\n38護甲\n+16 [力量 or 智力]\n+23 耐力\n[q2]+ 14 致命一擊\n[q2]+ 17 臨機應變\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][185777] = {name = "[q3]阿克魯斯之牙", additional_info = "拾取後綁定{單手} {匕首}\n{11-20點傷害} {速度 1.80}\n(每秒8.6點傷害)\n+8 敏捷\n+12 耐力\n[q2]+ 8 加速\n[q2]+ 7 精通\n耐久: 80 / 80\n售價:"}
@@ -39812,10 +39817,10 @@ MultiLanguageItemData['tw'][186017] = {name = "[q5]科西亞水晶", additional_
 MultiLanguageItemData['tw'][186042] = {name = "[q4]被遺忘者十字軍之刃", additional_info = "拾取後綁定{雙手} {劍}\n{29-49點傷害} {速度 3.60}\n(每秒10.8點傷害)\n+130 智力\n+44 耐力\n[q2]+ 38 加速\n[q2]+ 20 精通\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][186043] = {name = "托迦司傳送門操作卷軸", additional_info = "『譴罪之塔』托迦司\n唯一\n[q2]使用: 變更托迦司的傳送門，讓你和你的隊伍進入隱藏的區域。\n[q]\"需要整個隊伍來啟動鑰匙。\""}
 MultiLanguageItemData['tw'][186089] = {name = "妮亞的法杖", additional_info = "任務物品\n[q2]使用: 命令你的小果姆啃食目標屍體和附近的所有屍體來長大。 (10秒 冷卻)"}
-MultiLanguageItemData['tw'][186090] = {name = "[q2]簡約眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][186091] = {name = "[q2]黑瑪瑙防眩光眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][186092] = {name = "[q2]歷史觀點偏光眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"保證能夠讓事情變得更糟。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][186093] = {name = "[q2]魔影墨鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][186090] = {name = "[q2]簡約眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][186091] = {name = "[q2]黑瑪瑙防眩光眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][186092] = {name = "[q2]歷史觀點偏光眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"保證能夠讓事情變得更糟。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][186093] = {name = "[q2]魔影墨鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][186094] = {name = "虹吸裝置", additional_info = "任務物品\n[q2]使用: 汲取憤怒靈魂的怒氣。 (10秒 冷卻)\n[q]\"從狂怒魔影上汲取憤怒時相當好用。\""}
 MultiLanguageItemData['tw'][186095] = {name = "哥羅米之牙", additional_info = "任務物品\n[q]\"哥羅米巨大尖銳的牙齒，比想像中還要大。\""}
 MultiLanguageItemData['tw'][186097] = {name = "黑彌爾的符文刃", additional_info = "任務物品\n[q2]使用: 用附近自願的靈魂所提供的靈魄為符文刃充能。 (5秒 冷卻)\n[q]\"力量來自於靈魂，無論是自願或非自願的。\""}
@@ -40604,42 +40609,42 @@ MultiLanguageItemData['tw'][187005] = {name = "寵物巫師帽", additional_info
 MultiLanguageItemData['tw'][187006] = {name = "食譜：暮光茶", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作暮光茶。\n需要 暗影之境烹飪 (75)\n售價: \n暮光茶\n[q2]使用: 在20秒內恢復總計( 30000 / 5 * 20)點法力。喝飲料時必須保持坐姿。\n需要 暮光樹皮 (3), 濃郁的角馬奶 (3)"}
 MultiLanguageItemData['tw'][187007] = {name = "食譜：骨粉麵包", additional_info = "唯一\n[q2]使用:  教你學會如何製作骨粉麵包。\n需要 暗影之境烹飪 (35)\n售價: \n骨粉麵包\n[q2]使用: 在20秒內恢復( 22500 / 5 * 20)點生命力。進食時必須保持坐姿。\n需要 黯淡白骨 (3), 濃郁的角馬奶 (2), 跨界域調和香料"}
 MultiLanguageItemData['tw'][187008] = {name = "食譜：多孔石頭糖", additional_info = "唯一\n[q2]使用:  教你學會如何製作多孔石頭糖。\n需要 暗影之境烹飪 (25)\n售價: \n多孔石頭糖\n[q2]使用: 享用好吃的零食。\n[q]\"毫無營養價值。\"\n需要 多孔岩石 (3), 暮光樹皮 , 跨界域調和香料 (3)"}
-MultiLanguageItemData['tw'][187009] = {name = "[q2]炫麗眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187010] = {name = "[q2]高雅眼鏡", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187011] = {name = "[q4]淵誓執法者肩塔", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187009] = {name = "[q2]炫麗眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187010] = {name = "[q2]高雅眼鏡", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187011] = {name = "[q4]淵誓執法者肩塔", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187012] = {name = "失衡裂隙石", additional_info = "任務物品\n[q2]使用: 轉移到充滿魔影的黑暗界域。"}
-MultiLanguageItemData['tw'][187013] = {name = "[q4]截擊手肩鎧", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187014] = {name = "[q4]鐐卒尖刺護肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187015] = {name = "[q4]餵魂者肩衛", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187016] = {name = "[q4]剔骨者尖刺披肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187017] = {name = "[q4]殘暴者披肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187018] = {name = "[q4]祭儀師鐮刀護肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187019] = {name = "[q4]滲透者肩衛", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187020] = {name = "[q4]死靈術者肩墊", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187021] = {name = "[q4]懲戒者尖刺披肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187022] = {name = "[q4]淵誓副官肩衛", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187023] = {name = "[q4]教官披肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187024] = {name = "[q4]死靈法師披肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187013] = {name = "[q4]截擊手肩鎧", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187014] = {name = "[q4]鐐卒尖刺護肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187015] = {name = "[q4]餵魂者肩衛", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187016] = {name = "[q4]剔骨者尖刺披肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187017] = {name = "[q4]殘暴者披肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187018] = {name = "[q4]祭儀師鐮刀護肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187019] = {name = "[q4]滲透者肩衛", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187020] = {name = "[q4]死靈術者肩墊", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187021] = {name = "[q4]懲戒者尖刺披肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187022] = {name = "[q4]淵誓副官肩衛", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187023] = {name = "[q4]教官披肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187024] = {name = "[q4]死靈法師披肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187025] = {name = "[q4]痛苦使者的背牢", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187026] = {name = "[q4]戰地看守者的折磨工具組", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187027] = {name = "[q4]斯寇德斯肩串", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187027] = {name = "[q4]斯寇德斯肩串", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187028] = {name = "[q3]博文者寶典補給品", additional_info = "[q7]戰隊綁定\n唯一\n需要博文者寶典\n- 級別6\n[q2]<右鍵單擊打開>\n售價:"}
 MultiLanguageItemData['tw'][187029] = {name = "[q3]維娜里的神秘禮物", additional_info = "[q7]戰隊綁定\n唯一\n需要維娜里\n- 感謝\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][187030] = {name = "[q4]死誓肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187031] = {name = "[q4]淵喉卓越披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187032] = {name = "[q4]死亡預言肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187030] = {name = "[q4]死誓肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187031] = {name = "[q4]淵喉卓越披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187032] = {name = "[q4]死亡預言肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187033] = {name = "小型祭品鑰匙", additional_info = "拾取後綁定\n[q]\"這把華麗的鑰匙能打開科西亞儀式常使用的祭品盒。\""}
 MultiLanguageItemData['tw'][187034] = {name = "[q4]鍍金痛苦牢籠", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187035] = {name = "[q4]詛咒者的冰冷重擔", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187038] = {name = "[q4]激烈切割護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187039] = {name = "[q4]錘之冥魄肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187040] = {name = "[q4]雙鐮肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187041] = {name = "[q4]不滅之歿護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187042] = {name = "[q4]神秘學者的裝飾頸甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187043] = {name = "[q4]尖刺城塞肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187044] = {name = "[q4]死亡使者肩冑", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187045] = {name = "[q4]帷幕折磨者披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187046] = {name = "[q4]無瑕割裂肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187038] = {name = "[q4]激烈切割護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187039] = {name = "[q4]錘之冥魄肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187040] = {name = "[q4]雙鐮肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187041] = {name = "[q4]不滅之歿護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187042] = {name = "[q4]神秘學者的裝飾頸甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187043] = {name = "[q4]尖刺城塞肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187044] = {name = "[q4]死亡使者肩冑", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187045] = {name = "[q4]帷幕折磨者披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187046] = {name = "[q4]無瑕割裂肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187047] = {name = "[q3]變形者面罩", additional_info = "科西亞文物\n拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"這個面具的外表千變萬化、隨時都在變動。就在你凝視它的當下已經可看見數十種不同的樣貌。\""}
 MultiLanguageItemData['tw'][187051] = {name = "[q3]遺忘羽毛", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將華爾琪的力量賦予給你的戰寵，讓你的戰寵能夠跟你一起飛翔。 (10秒 冷卻)"}
 MultiLanguageItemData['tw'][187052] = {name = "[q3]虛空之星", additional_info = "科西亞文物\n拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"蘊藏著能量並發出柔和的脈動。\""}
@@ -40661,23 +40666,23 @@ MultiLanguageItemData['tw'][187081] = {name = "[q4]黑焰骷髏新月", addition
 MultiLanguageItemData['tw'][187082] = {name = "[q4]鍍金骷髏新月", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187083] = {name = "[q4]鍍金之眼新月", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187084] = {name = "[q4]獄主之眼新月", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187085] = {name = "[q4]純銀肩串", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187086] = {name = "[q4]死誓純銀肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187087] = {name = "[q4]純銀穿刺者披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187088] = {name = "[q4]純銀骷翼護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187089] = {name = "[q4]純銀尖刃肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187090] = {name = "[q4]純銀翼刃肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187091] = {name = "[q4]鍍金雙鐮護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187092] = {name = "[q4]鍍金肩盾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187093] = {name = "[q4]鍍金裝飾披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187094] = {name = "[q4]鍍金尖刺堡壘", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187095] = {name = "[q4]純銀尖刺肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187096] = {name = "[q4]不滅寶庫重肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187097] = {name = "[q4]傀儡重肩甲", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187098] = {name = "[q4]純銀雙鐮護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187099] = {name = "[q4]純銀堡壘肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187100] = {name = "[q4]純銀裝飾披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187101] = {name = "[q4]純銀肩盾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187085] = {name = "[q4]純銀肩串", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187086] = {name = "[q4]死誓純銀肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187087] = {name = "[q4]純銀穿刺者披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187088] = {name = "[q4]純銀骷翼護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187089] = {name = "[q4]純銀尖刃肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187090] = {name = "[q4]純銀翼刃肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187091] = {name = "[q4]鍍金雙鐮護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187092] = {name = "[q4]鍍金肩盾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187093] = {name = "[q4]鍍金裝飾披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187094] = {name = "[q4]鍍金尖刺堡壘", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187095] = {name = "[q4]純銀尖刺肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187096] = {name = "[q4]不滅寶庫重肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187097] = {name = "[q4]傀儡重肩甲", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187098] = {name = "[q4]純銀雙鐮護肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187099] = {name = "[q4]純銀堡壘肩甲", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187100] = {name = "[q4]純銀裝飾披肩", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187101] = {name = "[q4]純銀肩盾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187103] = {name = "[q3]永生雕像", additional_info = "科西亞文物\n拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"這個雕像所經歷的事件會讓你大開眼界。要不是它總是滿口謊言，或許還真能從它那裡獲得一些知識。\""}
 MultiLanguageItemData['tw'][187104] = {name = "[q3]惡兆石碑", additional_info = "科西亞文物\n拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"接近石碑時，你的腦海中浮現一個聲音，低聲訴說著甜蜜的謊言和令人發狂的真相。\""}
 MultiLanguageItemData['tw'][187105] = {name = "[q5]痛苦凝視的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶：\n\n\n痛苦凝視 符文銘刻之力 瞬發\n罪惡烙印造成10%額外傷害，且 [ 災虐 : 魔眼光束 /\n\n復仇\n魔化破滅 ]造成傷害可使罪惡烙印的持續時間提高0.75秒。\n符文雕刻位置： 頭部，腿部\n來源： 與你的誓盟達到名望48時獲得。\n需要： 惡魔獵人"}
@@ -40791,14 +40796,14 @@ MultiLanguageItemData['tw'][187241] = {name = "[q4]譴罪的警惕之眼", addit
 MultiLanguageItemData['tw'][187242] = {name = "[q4]滅絕者的譴罪頭飾", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187243] = {name = "[q4]魔影獵人的弦刃", additional_info = "造型\n[q7]戰隊綁定\n唯一\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187244] = {name = "可疑的淵喉菇", additional_info = "拾取後綁定\n[q2]使用: 吃了後果自行負責！ (30秒 冷卻)\n[q]\"這個奇怪的物體有很多可疑之處。\"\n售價:"}
-MultiLanguageItemData['tw'][187245] = {name = "[q4]死亡環繞肩塔", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187246] = {name = "[q4]死亡環繞肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187247] = {name = "[q4]死亡環繞肩刺", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187248] = {name = "[q4]柯羅克的微光肩甲", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187250] = {name = "[q4]柯羅克的尖翼肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187251] = {name = "[q4]幽影骷髏肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187252] = {name = "[q4]祭儀師尖刺披肩", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][187253] = {name = "[q4]淵喉守衛尖刺肩甲", additional_info = "造型\n裝備後綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187245] = {name = "[q4]死亡環繞肩塔", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187246] = {name = "[q4]死亡環繞肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187247] = {name = "[q4]死亡環繞肩刺", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187248] = {name = "[q4]柯羅克的微光肩甲", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187250] = {name = "[q4]柯羅克的尖翼肩鎧", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187251] = {name = "[q4]幽影骷髏肩衛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187252] = {name = "[q4]祭儀師尖刺披肩", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187253] = {name = "[q4]淵喉守衛尖刺肩甲", additional_info = "造型\n裝備後綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187254] = {name = "[q4]靈魄排列", additional_info = "拾取後綁定\n[q]\"裡面有175個靈魄。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][187255] = {name = "反抗之手：悲痛紀事", additional_info = "拾取後綁定\n[q]\"故事描述一群邪惡巨人如何被丟入淵喉，以及他們因為違抗閻獄之主受到了多少懲罰。\"\n[q2]<右鍵單擊閱讀>"}
 MultiLanguageItemData['tw'][187256] = {name = "[q3]阿嘻的備用軟呢帽", additional_info = "餘燼宴會\n拾取後綁定\n唯一\n[q]\"泥掘者男管家專屬的禮物，讓他可以戴這頂很酷的軟呢帽。\"\n售價:"}
@@ -41268,7 +41273,7 @@ MultiLanguageItemData['tw'][187781] = {name = "[q3]歐利亞寶箱", additional_
 MultiLanguageItemData['tw'][187782] = {name = "幻象碎片", additional_info = "任務物品\n[q]\"用於構建大型造物基礎的穩定物質。\""}
 MultiLanguageItemData['tw'][187784] = {name = "[q5]永恆者殘餘", additional_info = "拾取後綁定\n額外材料\n\n[q2]提供下列屬性：使物品提高等同於3個階級的等級。\n[q]可使用： 《暗影之境》值得升為傳說的防具和配件的設計圖。\n售價:"}
 MultiLanguageItemData['tw'][187785] = {name = "[q5]永恆者秘典", additional_info = "拾取後綁定\n需要受啟迪者\n- 尊敬"}
-MultiLanguageItemData['tw'][187786] = {name = "[q4]時朽鑰石", additional_info = "拾取後綁定\n唯一\n[q]\"在傳奇難度中，放置在地城裡的能量之泉內。\""}
+MultiLanguageItemData['tw'][187786] = {name = "[q4]時朽鑰石", additional_info = "拾取後綁定\n唯一\n80 ( 80)\n[q]\"在傳奇難度中，放置在地城裡的能量之泉內。\""}
 MultiLanguageItemData['tw'][187787] = {name = "[q2]元質球體", additional_info = "拾取後綁定\n[q]\"以靈魄製成的球體，裡頭保護著某些未知的東西。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][187788] = {name = "乙太晶格", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"用來創造來世生物的珍貴材料。\"\n售價:"}
 MultiLanguageItemData['tw'][187789] = {name = "[q3]幻象粒子", additional_info = "拾取後綁定\n[q]\"稀有造物粒子。\"\n售價:"}
@@ -41375,7 +41380,7 @@ MultiLanguageItemData['tw'][187908] = {name = "法琳的備用熔爐分流器", 
 MultiLanguageItemData['tw'][187909] = {name = "不穩定的拘捕陷阱", additional_info = "拾取後綁定\n持續時間：8小時 (實時)\n[q2]使用: 困住封鎖力場內的目標，以供進一步檢視。 (15秒 冷卻)\n[q]\"比較不穩定的拘捕陷阱。\""}
 MultiLanguageItemData['tw'][187911] = {name = "黑「湯」", additional_info = "[q2]使用: 在20秒內恢復( 9375 / 5 * 20)點生命力和( 12500 / 5 * 20)點法力。進食時必須保持坐姿。\n售價:"}
 MultiLanguageItemData['tw'][187913] = {name = "[q3]黏液法師學徒的長靴", additional_info = "拾取後綁定\n玩具\n[q2]使用: 到處留下黏液，持續3分鐘。\n\n 只有效忠於死靈領主，或達到死靈領主名望等級80的人才能使用。 (5分鐘 冷卻)"}
-MultiLanguageItemData['tw'][187914] = {name = "[q3]埃奧船長沒在用的眼罩", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][187914] = {name = "[q3]埃奧船長沒在用的眼罩", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][187915] = {name = "[q3]刺鼻的水滴魚", additional_info = "唯一\n[q]\"牠的氣味和外觀都很嚇人。\"\n售價:"}
 MultiLanguageItemData['tw'][187916] = {name = "[q3]纏攫水母", additional_info = "唯一\n[q]\"上頭的藤蔓不斷動來動去，似乎想攫取某樣抓不到的東西。\"\n售價:"}
 MultiLanguageItemData['tw'][187917] = {name = "瘋狂公爵的茶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 喝下瘋狂公爵的茶能使你的主要屬性、加速、致命一擊機率或臨機應變提高，持續4小時。\n\n 你一次只能獲得一種瘋狂公爵的茶的效果。 (3秒 冷卻)"}
@@ -41525,12 +41530,12 @@ MultiLanguageItemData['tw'][188225] = {name = "[q0]滄桑之刃", additional_inf
 MultiLanguageItemData['tw'][188226] = {name = "[q0]淵喉行靴", additional_info = "拾取後綁定\n唯一\n[q]\"踏盡暗影之境各處，進出淵喉不費工夫。\"\n售價:"}
 MultiLanguageItemData['tw'][188230] = {name = "滋長瓜種子", additional_info = "任務物品\n唯一（8）\n[q]\"造物的魔法都存在這顆小種子裡。\""}
 MultiLanguageItemData['tw'][188231] = {name = "[q3]供應區寶箱鑰匙", additional_info = "拾取後綁定\n[q]\"這把鑰匙能打開植物供應區的供應區寶箱。\"\n售價:"}
-MultiLanguageItemData['tw'][188236] = {name = "[q3]巡邏者之鞋", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][188237] = {name = "[q3]咒術師軟靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][188243] = {name = "[q3]影縫巡靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][188244] = {name = "[q3]毒惡墳足靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][188248] = {name = "[q4]灼熱踏靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][188249] = {name = "[q4]冰凍護足", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][188236] = {name = "[q3]巡邏者之鞋", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][188237] = {name = "[q3]咒術師軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][188243] = {name = "[q3]影縫巡靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][188244] = {name = "[q3]毒惡墳足靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][188248] = {name = "[q4]灼熱踏靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][188249] = {name = "[q4]冰凍護足", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][188252] = {name = "[q4]統御之鏈", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 [敏捷 or 力量]\n[q2]使用: 將尖刺刺入你的目標，造成 7116 點物理傷害，並且以鎖鍊連結你，持續20秒。鎖鍊存在期間內，儲存對目標造成傷害的25%，最多可累積 3019 點。\n\n 遠離目標會扯斷鎖鍊，對8碼內的所有敵人造成儲存的傷害，此傷害視同暗影傷害。 (3分鐘 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188253] = {name = "[q4]兄弟鬩牆之痕", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n[q2]裝備： 在自己身上附加一個統御符文，付出代價並獲得力量。\n[q2]使用: 再添加一個。 (30秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][188254] = {name = "[q4]嚴酷星蝕", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+47 智力\n[q2]使用: 生成一個星體圍繞你的目標，在7秒內對其造成 3622 點星宙傷害。\n\n 7秒後，星體開始穩定，產生事件視界，持續10秒，在效果範圍內可賦予你 319 點加速。 (2分鐘 冷卻)\n售價:"}
@@ -42804,7 +42809,7 @@ MultiLanguageItemData['tw'][189878] = {name = "[q2]光榮龍騎兵符文衛甲",
 MultiLanguageItemData['tw'][189879] = {name = "[q2]腐化符文領主護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][189880] = {name = "[q2]腐化符文領主披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][189881] = {name = "[q2]維爾薩拉保衛者護脛", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {板甲}\n4護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][189882] = {name = "[q2]驚懼上將雙角帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"海盜自由自在、隨心所欲。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][189882] = {name = "[q2]驚懼上將雙角帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"海盜自由自在、隨心所欲。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][189883] = {name = "[q2]羅德隆哨衛壁壘", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][189884] = {name = "[q3]復仇死敵戰刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {戰刃}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][189885] = {name = "[q4]戰爭之匙", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n[q]\"我的湯匙太大了。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -42953,16 +42958,16 @@ MultiLanguageItemData['tw'][190063] = {name = "[q2]善潔保衛者巨披風", ad
 MultiLanguageItemData['tw'][190064] = {name = "[q4]依米亞狂戰士束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {板甲}\n3護甲\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190065] = {name = "[q2]地精輸液設備", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"地精的巧思通常不是多此一舉，但後果也往往出人意表。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190066] = {name = "[q2]原初之槌", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {權杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n[q]\"若撿到此物，請送回暗月馬戲團的痛扁豺狼人攤位。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190067] = {name = "[q2]喚潮者之握", additional_info = "造型\n[q7]戰隊綁定\n{手} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190067] = {name = "[q2]魔化印記之握", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{手} {鎖甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190068] = {name = "[q2]翡翠披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"送給麥琳瑟拉侍從的禮物，幫助他們融入翡翠夢境充滿活力的翠綠色調。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190069] = {name = "[q2]維爾薩拉保衛者脛甲", additional_info = "造型\n[q7]戰隊綁定\n{腳} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190070] = {name = "[q2]精靈貴族學者手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {布甲}\n1護甲\n[q]\"剪紙的最佳解決方案。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190071] = {name = "[q2]蒼藍誓鱗長弓", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {弓}\n{1-2點傷害} {速度 3.00}\n(每秒0.5點傷害)\n[q]\"只要把箭矢放在對的位置，即使是偏向魔法性質的蒼翼角鷹獸也能有效解決。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190072] = {name = "[q2]喚潮者鍊衫", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {鎖甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190072] = {name = "[q2]魔化印記鍊衫", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{胸部} {鎖甲}\n3護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190073] = {name = "[q2]森林潛獵者兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190074] = {name = "[q2]維爾薩拉保衛者肩甲", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190075] = {name = "[q2]學者烏鴉披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {布甲}\n1護甲\n[q]\"當知識來敲門。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190076] = {name = "[q2]祖母的老帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"賦予女巫權威的女巫帽。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190076] = {name = "[q2]祖母的老帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"賦予女巫權威的女巫帽。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190077] = {name = "[q2]血色狂熱者尖底盾", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190078] = {name = "[q3]野蠻獻祭之刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {匕首}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q]\"以哈卡之名。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190079] = {name = "[q3]悶燃熔爐之刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -42977,7 +42982,7 @@ MultiLanguageItemData['tw'][190087] = {name = "[q4]榮耀的華爾拉亞窄褲",
 MultiLanguageItemData['tw'][190088] = {name = "[q4]榮耀的華爾拉亞頭環", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190089] = {name = "[q4]榮耀的華爾拉亞手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190090] = {name = "[q2]乾枯花束", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190091] = {name = "[q2]華麗腕花", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q]\"適合在華麗場合穿戴的花飾。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190091] = {name = "[q2]華麗腕花", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q]\"適合在華麗場合穿戴的花飾。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190092] = {name = "[q3]勝利大劍師巨劍", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1-3點傷害} {速度 3.60}\n(每秒0.6點傷害)\n[q]\"只要手中有劍，燃刃部族的大劍師幾乎無人能敵。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190093] = {name = "[q4]伊露恩的怒火", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190094] = {name = "[q4]伊露恩的怒濤", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43016,15 +43021,15 @@ MultiLanguageItemData['tw'][190140] = {name = "[q2]科瓦迪爾斥候長褲", ad
 MultiLanguageItemData['tw'][190141] = {name = "[q2]科瓦迪爾斥候護胸", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190142] = {name = "[q2]森林潛獵者腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190143] = {name = "[q2]冰凍秘密裂片", additional_info = "造型\n[q7]戰隊綁定\n{單手} {匕首}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q]\"見證過去藍龍軍團內鬥的證據。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190144] = {name = "[q2]鐵潮劫掠者雙角帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"呀哈飛多迪迪。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190144] = {name = "[q2]鐵潮劫掠者雙角帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"呀哈飛多迪迪。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190145] = {name = "[q3]金輝龍獸釘頭錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"金色的？沒錯。有尖刺？沒錯。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190146] = {name = "[q3]安托洛斯魔能尖杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"從安托洛斯荒原的燃燒軍團船艦殘骸中找到。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190147] = {name = "[q3]扭曲林地長弓", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {弓}\n{1-2點傷害} {速度 3.00}\n(每秒0.5點傷害)\n[q]\"別讓你的弓弦被扭曲林地勾住。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190148] = {name = "[q3]黑羽剃刀", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190149] = {name = "[q2]漫遊者午夜披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190150] = {name = "[q2]流浪者午夜兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190151] = {name = "[q2]漫遊者午夜披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190152] = {name = "[q2]嚴正守望者護手", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190150] = {name = "[q2]流浪者午夜兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190151] = {name = "[q2]漫遊者午夜披巾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190152] = {name = "[q2]嚴正守望者護手", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190153] = {name = "[q2]公正之光聖契", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"它裡面的東西…正在發光。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190154] = {name = "[q2]辛多雷秘密之書", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"「本年度必讀作品！」- 瑟利莎‧沃夫\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190155] = {name = "[q4]可靠的寶藏箱", additional_info = "造型\n[q7]戰隊綁定\n背部\n[q]\"黃金買不到快樂，但可以讓你背痛。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43058,7 +43063,7 @@ MultiLanguageItemData['tw'][190193] = {name = "[q4]扭曲奧秘外套", addition
 MultiLanguageItemData['tw'][190196] = {name = "[q3]受啟迪的爐石", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你傳送回爐石位置。與不同地區的旅店老闆談話可以改變你家所在的位置。"}
 MultiLanguageItemData['tw'][190197] = {name = "[q3]砂蝕寶箱鑰匙", additional_info = "拾取後綁定\n[q]\"能打開澤瑞斯莫提斯無盡沙海中上鎖的砂蝕寶箱的鑰匙。\"\n售價:"}
 MultiLanguageItemData['tw'][190198] = {name = "[q2]砂蝕寶箱鑰匙碎片", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 合成五個砂蝕寶箱鑰匙碎片。"}
-MultiLanguageItemData['tw'][190199] = {name = "[q2]嚴重磨損的獰顱繫腰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q]\"它原本對著我們衝過來！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190199] = {name = "[q2]嚴重磨損的獰顱繫腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q]\"它原本對著我們衝過來！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190200] = {name = "[q2]守護者羽織披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"這間披風是在卡拉贊的臥室裡發現的，它灌注了麥迪文靈魂殘存的精華。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190201] = {name = "[q2]辛多雷刺客罩氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"鮮豔的赤紅色絕非適合秘密行動的顏色，但辛多雷盜賊一向熱愛挑戰。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190202] = {name = "[q4]無賴遺落的長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {皮甲}\n1護甲\n耐久: 35 / 35\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43074,21 +43079,21 @@ MultiLanguageItemData['tw'][190211] = {name = "[q2]腐化符文領主長袍", ad
 MultiLanguageItemData['tw'][190212] = {name = "[q2]光榮龍騎兵兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190213] = {name = "[q2]維爾薩拉保衛者背心甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {板甲}\n5護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190214] = {name = "[q2]雄鷹之翼", additional_info = "造型\n[q7]戰隊綁定\n{單手} {戰刃}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"比照阿拉卡鳥人翅膀的形狀打造，讓它揮動的時候能順著空氣流動。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190215] = {name = "[q2]失落秘法之冠", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"你終於找到它了。它一直都在你頭上。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190216] = {name = "[q2]守護者羽織風帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"裡面並未遺留任何最後的提里斯法守護者的力量，僅徒留他的穿著風格而已。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190215] = {name = "[q2]失落秘法之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"你終於找到它了。它一直都在你頭上。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190216] = {name = "[q2]守護者羽織風帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"裡面並未遺留任何最後的提里斯法守護者的力量，僅徒留他的穿著風格而已。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190217] = {name = "[q3]高山之牙", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"傳說中這把劍曾經劈開一座高山。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190218] = {name = "[q3]寶石撕裂者", additional_info = "造型\n[q7]戰隊綁定\n{單手} {拳套}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"上頭帶有埃雷達斯水晶工匠的徽印。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190219] = {name = "[q3]狠毒裁決錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"注意：接觸到表面會受到感染。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190220] = {name = "[q3]守護者戰旗", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"展現著對過去提里斯法議會的謝意和回憶。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190221] = {name = "[q4]夢魘森林裹腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190222] = {name = "[q4]夢魘森林便鞋", additional_info = "造型\n[q7]戰隊綁定\n{腳} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190223] = {name = "[q4]夢魘森林上衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190224] = {name = "[q4]夢魘森林之握", additional_info = "造型\n[q7]戰隊綁定\n{手} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190225] = {name = "[q4]夢魘森林面具", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190226] = {name = "[q4]夢魘森林護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190227] = {name = "[q4]夢魘森林衣飾", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190228] = {name = "[q4]夢魘森林披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190229] = {name = "[q4]夢魘森林束腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190221] = {name = "[q4]大德魯伊的夢魘裹腰", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腰部} {皮甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190222] = {name = "[q4]大德魯伊的夢魘便鞋", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腳} {皮甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190223] = {name = "[q4]大德魯伊的夢魘上衣", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190224] = {name = "[q4]大德魯伊的夢魘之握", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{手} {皮甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190225] = {name = "[q4]大德魯伊的夢魘面具", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{頭部} {皮甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190226] = {name = "[q4]大德魯伊的夢魘護腿", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腿部} {皮甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190227] = {name = "[q4]大德魯伊的夢魘衣飾", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190228] = {name = "[q4]大德魯伊的夢魘披肩", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{肩部} {皮甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190229] = {name = "[q4]大德魯伊的夢魘束腕", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{手腕} {皮甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190230] = {name = "[q2]光榮龍騎兵腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {鎖甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190231] = {name = "[q4]『破曉使者』阿薩達", additional_info = "[q7]戰隊綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"根據卡多雷的傳說，有一名從不睡覺的冷血獵人徘徊在卡林多最深邃的暗影中。現在，無論是在陽光下還是月光下，阿薩達都會陪你一起狩獵。\"\n貿易站/商店"}
 MultiLanguageItemData['tw'][190233] = {name = "[q3]莫魯克半人馬補給品", additional_info = "拾取後綁定\n唯一\n[q2]<右鍵單擊打開>"}
@@ -43170,26 +43175,26 @@ MultiLanguageItemData['tw'][190389] = {name = "[q2]仲介者的幸運幣", addit
 MultiLanguageItemData['tw'][190390] = {name = "[q2]保護者的擴散裝置", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+42 力量\n[q2]裝備： 你的攻擊有機率啟動擴散裝置，持續20秒，使你的攻擊有極高機率以你的目標為中心擴散，造成 161 點秘法傷害。\n售價:"}
 MultiLanguageItemData['tw'][190423] = {name = "[q2]漫遊者紫羅蘭披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190424] = {name = "[q2]流浪者紫羅蘭斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190425] = {name = "[q2]流浪者紫羅蘭兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190426] = {name = "[q2]漫遊者紫羅蘭披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190425] = {name = "[q2]流浪者紫羅蘭兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190426] = {name = "[q2]漫遊者紫羅蘭披巾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190427] = {name = "[q2]血色狂熱者披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190428] = {name = "[q3]華貴戰爭披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"這曾是羅德隆貴族喜愛的穿著。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190429] = {name = "[q4]巨熊之怒扣環", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {皮甲}\n1護甲\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190430] = {name = "[q2]有缺口的步兵劍", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"因為傳了好幾代，這把劍的劍身已經出現鋸齒痕跡。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190431] = {name = "[q2]精英蠻兵砍斧", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {斧}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"要幹活了嗎？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190432] = {name = "[q2]喚潮者護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190432] = {name = "[q2]魔化印記護腕", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{手腕} {鎖甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190433] = {name = "[q2]狡猾商人外套", additional_info = "造型\n[q7]戰隊綁定\n襯衣\n[q]\"你要買什麼？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][190434] = {name = "[q3]虹彩戰爭披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"粉紅色看起來果然好看！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190435] = {name = "[q2]精靈貴族學者腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190435] = {name = "[q2]翠綠夢境銘文腰帶", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腰部} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190436] = {name = "[q2]森林潛獵者繫帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190437] = {name = "[q2]精靈貴族學者頭帶", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190437] = {name = "[q2]翠綠夢境銘文項圈", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{頭部} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190438] = {name = "[q3]赤紅奧核弦月斧", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {斧}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"這把鋒利斧頭外形如新月，精細的金箔掩飾了它的致命性。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190439] = {name = "[q2]絕憫陷捕者法杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"這就是那個…你知道的。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190440] = {name = "[q2]喚潮者之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190440] = {name = "[q2]魔化印記之冠", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{頭部} {鎖甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190441] = {name = "[q2]黑鐵短槍", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {槍}\n{1-2點傷害} {速度 3.00}\n(每秒0.5點傷害)\n[q]\"去吧，讓我高興一整天。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190442] = {name = "[q3]伊利達瑞劍衛", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190443] = {name = "[q2]膿創魔心塑像", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"與其當個真心人，不如直接把心拿在手上。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190444] = {name = "[q2]血色狂熱者長衣", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190444] = {name = "[q2]血色狂熱者長衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190445] = {name = "[q3]毒化撕腸者", additional_info = "造型\n[q7]戰隊綁定\n{單手} {匕首}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q]\"想要造成胃痛，沒有比這個更快的方法。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190446] = {name = "[q3]熾熱鍛爐之錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190447] = {name = "[q3]灼魂刀戟", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {長柄武器}\n{1-3點傷害} {速度 3.60}\n(每秒0.6點傷害)\n[q]\"用靈魂感受這股熱意！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43227,13 +43232,13 @@ MultiLanguageItemData['tw'][190484] = {name = "[q3]龍金之劍", additional_inf
 MultiLanguageItemData['tw'][190485] = {name = "[q3]龍金指虎", additional_info = "裝備後綁定\n{單手} {拳套}\n{118-169點傷害} {速度 2.60}\n(每秒55.2點傷害)\n+49 [敏捷 or 力量]\n+73 耐力\n[q2]+ 49 隨機數值1\n[q2]+ 49 隨機數值2\n耐久: 65 / 65\n售價:"}
 MultiLanguageItemData['tw'][190486] = {name = "[q3]龍金大釘錘", additional_info = "裝備後綁定\n{雙手} {權杖}\n{115-148點傷害} {速度 3.60}\n(每秒36.5點傷害)\n+432 智力\n+146 耐力\n[q2]+ 97 隨機數值1\n[q2]+ 97 隨機數值2\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][190487] = {name = "[q3]龍金之斧", additional_info = "裝備後綁定\n{單手} {斧}\n{46-97點傷害} {速度 2.60}\n(每秒27.5點傷害)\n+283 智力\n+73 耐力\n[q2]+ 49 隨機數值1\n[q2]+ 49 隨機數值2\n耐久: 90 / 90\n售價:"}
-MultiLanguageItemData['tw'][190488] = {name = "[q4]暗月小丑面具", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190489] = {name = "[q4]暗月小丑披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190490] = {name = "[q4]暗月小丑外套", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190491] = {name = "[q4]暗月小丑手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190492] = {name = "[q4]暗月小丑腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190493] = {name = "[q4]暗月小丑緊身褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190494] = {name = "[q4]暗月小丑輕鞋", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190488] = {name = "[q4]暗月小丑面具", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190489] = {name = "[q4]暗月小丑披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190490] = {name = "[q4]暗月小丑外套", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190491] = {name = "[q4]暗月小丑手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190492] = {name = "[q4]暗月小丑腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190493] = {name = "[q4]暗月小丑緊身褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190494] = {name = "[q4]暗月小丑輕鞋", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190495] = {name = "[q4]洪荒熔火胸甲", additional_info = "拾取後綁定{胸部} {板甲}\n834護甲\n+257 [力量 or 智力]\n+416 耐力\n[q2]+ 239 隨機數值1\n[q2]+ 239 隨機數值2\n耐久: 165 / 165\n售價:"}
 MultiLanguageItemData['tw'][190496] = {name = "[q4]洪荒熔火脛甲", additional_info = "拾取後綁定{腳} {板甲}\n521護甲\n+193 [力量 or 智力]\n+312 耐力\n[q2]+ 179 隨機數值1\n[q2]+ 179 隨機數值2\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][190497] = {name = "[q4]洪荒熔火護手", additional_info = "拾取後綁定{手} {板甲}\n469護甲\n+193 [力量 or 智力]\n+312 耐力\n[q2]+ 179 隨機數值1\n[q2]+ 179 隨機數值2\n耐久: 55 / 55\n售價:"}
@@ -43269,7 +43274,7 @@ MultiLanguageItemData['tw'][190529] = {name = "[q2]套裝：漫遊者紫羅蘭�
 MultiLanguageItemData['tw'][190539] = {name = "[q4]珊瑚潛獵者浪魟", additional_info = "[q7]戰隊綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這個品種的魟魚已經進化出能夠在七彩斑斕的珊瑚中跟蹤獵物的能力。\"\n促銷"}
 MultiLanguageItemData['tw'][190540] = {name = "[q3]套裝：陷捕者軍需品", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集陷捕者軍需品的外觀。\n[q]\"包含箭袋和彈藥袋。\""}
 MultiLanguageItemData['tw'][190541] = {name = "[q2]流浪者蒼藍斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190542] = {name = "[q2]漫遊者蒼藍披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190542] = {name = "[q2]漫遊者蒼藍披巾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190543] = {name = "[q2]鍍銀戰爭披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"重現阿基巴德‧葛雷邁恩時代吉爾尼斯遊俠的標準裝束。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190544] = {name = "[q4]超基性岩石束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {鎖甲}\n2護甲\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190545] = {name = "[q2]原初猛擊者", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"這把錘子曾經用來馴服加瓦東。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43282,11 +43287,11 @@ MultiLanguageItemData['tw'][190551] = {name = "[q2]黑爾拉亞狂戰士護腕",
 MultiLanguageItemData['tw'][190552] = {name = "[q2]科瓦迪爾斥候肩墊", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190553] = {name = "[q2]黑爾拉亞狂戰士背心甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {板甲}\n5護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190554] = {name = "[q2]黑爾拉亞狂戰士肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190555] = {name = "[q2]精靈貴族學者長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190556] = {name = "[q2]喚潮者腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {鎖甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190555] = {name = "[q2]翠綠夢境銘文長袍", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{胸部} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190556] = {name = "[q2]魔化印記腿甲", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腿部} {鎖甲}\n3護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190557] = {name = "[q2]邪惡魔能法杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n[q]\"跨越不同時間軸流傳下來的寶物。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190558] = {name = "[q2]熾烈頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"背面刻著「貝洛格」。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190559] = {name = "[q2]迅疾頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"背面刻著「艾瑞克」。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190558] = {name = "[q2]熾烈頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"背面刻著「貝洛格」。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190559] = {name = "[q2]迅疾頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"背面刻著「艾瑞克」。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190560] = {name = "[q3]征服", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"只要有膠布，再加上一點點祈禱，就能固定任何東西。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190561] = {name = "[q3]移形魔法水晶之刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190562] = {name = "[q3]奧多爾戰爭釘錘", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {權杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"手上拿著-這個，占卜者不會給你好臉色看。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43299,7 +43304,7 @@ MultiLanguageItemData['tw'][190568] = {name = "[q4]榮耀的華爾拉亞罩盔",
 MultiLanguageItemData['tw'][190569] = {name = "[q4]榮耀的華爾拉亞脛甲", additional_info = "造型\n[q7]戰隊綁定\n{腳} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190570] = {name = "[q4]榮耀的華爾拉亞腿甲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {鎖甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190571] = {name = "[q4]榮耀的華爾拉亞肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190572] = {name = "[q2]流浪者蒼藍兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190572] = {name = "[q2]流浪者蒼藍兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190573] = {name = "[q2]漫遊者蒼藍披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190574] = {name = "[q2]科瓦迪爾斥候兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190575] = {name = "[q4]套裝：榮耀的華爾拉亞鍊甲", additional_info = "[q7]戰隊綁定\n職業： 獵人 , 薩滿 , 喚能師\n[q2]使用: 收集榮耀的華爾拉亞鍊甲護甲套裝外觀。"}
@@ -43375,7 +43380,7 @@ MultiLanguageItemData['tw'][190658] = {name = "[q3]鳴響輕絲流動球體", ad
 MultiLanguageItemData['tw'][190659] = {name = "[q3]鳴響外殼流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 波克波可控制無核原基甲蟲時，使你受到的傷害降低10%。 \n此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
 MultiLanguageItemData['tw'][190660] = {name = "[q3]鳴響黏液流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 波克波可控制無核原蝸時，攻擊時有機率降低敵人的攻擊速度和施法速度。 \n此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
 MultiLanguageItemData['tw'][190661] = {name = "[q3]鳴響重生流動球體", additional_info = "魔法物品\n拾取後綁定\n持續時間：1小時\n[q2]使用: 波克波可控制無核地質元素時，定期在你周圍產生恢復盾。此盾受到傷害時會破裂，為你恢復生命力上限的5%，最多可堆疊3次。 \n此效果會持續 15 分。只能在暗影之境戶外區域或奧睿博司生效。\n售價:"}
-MultiLanguageItemData['tw'][190669] = {name = "[q2]光潔公正頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190669] = {name = "[q2]光潔公正頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190670] = {name = "[q2]血紅花束", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"這是從瑞文崔斯的血紅花園摘來的。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190671] = {name = "[q2]野性之力外袍", additional_info = "造型\n[q7]戰隊綁定\n外袍\n[q]\"在這片乾枯的草原中住著一群以生存技巧與凶狠鬥志出名的部族。若你看到其中一人披著這件外袍，最好還是繞路迴避一下。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][190672] = {name = "[q2]死亡衛士侍僧披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43394,19 +43399,19 @@ MultiLanguageItemData['tw'][190684] = {name = "[q2]虛無之縛長褲", addition
 MultiLanguageItemData['tw'][190685] = {name = "[q2]失落十字軍的蒼藍戰斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"這把在寒冰皇冠使用上百年的斧頭已充滿死亡的寒氣。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190686] = {name = "[q4]安納塞隆之鋒", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n耐久: 30 / 30\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190687] = {name = "[q2]圖彩戰刃", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190688] = {name = "[q2]鍍銀公正頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190688] = {name = "[q2]鍍銀公正頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190689] = {name = "[q3]腐化刃拳", additional_info = "造型\n[q7]戰隊綁定\n{單手} {拳套}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"我保證，腐化已經完整滲入刀刃當中。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190690] = {name = "[q3]焰鑄魔化利牙", additional_info = "造型\n[q7]戰隊綁定\n{單手} {匕首}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q]\"拿走深淵領主長牙，只能砍殺一次。把深淵領主長牙點燃，就能永遠砍下去。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190691] = {name = "[q3]扭曲守護者的褻瀆屏障", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190692] = {name = "[q3]勇士戰旗", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {長柄武器}\n{1-3點傷害} {速度 3.60}\n(每秒0.6點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190693] = {name = "[q3]先祖石蹄圖騰", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n種族: 牛頭人 , 高嶺牛頭人\n[q]\"中間是空心的。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190694] = {name = "[q2]嚴正守望者腰帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190695] = {name = "[q2]嚴正守望者長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190694] = {name = "[q2]嚴正守望者腰帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190695] = {name = "[q2]嚴正守望者長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190696] = {name = "[q2]博學者寶石披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"這些珠寶簡直會閃瞎你的眼睛！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190697] = {name = "[q4]破滅世界長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {鎖甲}\n2護甲\n耐久: 35 / 35\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190698] = {name = "[q2]小心使用過的斬斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"也可以拿來當油漆刷。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190699] = {name = "[q2]戈利安採礦鎬", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"還有工作要做?\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190700] = {name = "[q2]喚潮者長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190700] = {name = "[q2]魔化印記長靴", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腳} {鎖甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190701] = {name = "[q2]虛無之縛束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190702] = {name = "[q2]虛無之縛護臂", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {板甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190703] = {name = "[q2]虛無之縛行靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43415,7 +43420,7 @@ MultiLanguageItemData['tw'][190705] = {name = "[q2]虛無之縛護脛", addition
 MultiLanguageItemData['tw'][190706] = {name = "[q2]虛無之縛巨盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190707] = {name = "[q2]虛無之縛外衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190708] = {name = "[q2]虛無之縛肩衛", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190709] = {name = "[q2]喚潮者肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190709] = {name = "[q2]魔化印記肩鎧", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{肩部} {鎖甲}\n2護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190710] = {name = "[q2]看守者禁錮之眼", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"你曾經覺得有人在監視你嗎？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190711] = {name = "[q2]秘法師的尖刺短棒", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {魔杖}\n{1點傷害} {速度 2.00}\n(每秒0.5點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190712] = {name = "[q3]先祖逐星圖騰", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n種族: 牛頭人 , 高嶺牛頭人\n[q]\"就算恐怖圖騰如此殘暴，逐星的象徵還是一直傳承了下來。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43434,7 +43439,7 @@ MultiLanguageItemData['tw'][190724] = {name = "[q4]榮耀的華爾拉亞外套",
 MultiLanguageItemData['tw'][190725] = {name = "[q4]套裝：榮耀的華爾拉亞戰袍", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集榮耀的華爾拉亞戰袍護甲套裝外觀。\n[q]\"華爾拉亞永遠會是歐丁的頂尖戰士。\""}
 MultiLanguageItemData['tw'][190726] = {name = "[q2]異常之沙萃取物", additional_info = "裝備後綁定\n僅可裝備一件\n飾品\n+42 智力\n[q2]裝備： 你的傷害與治療法術有機率朝你的目標投擲魔法之沙，對一個敵人造成 257 點自然傷害或為一名盟友恢復 399 點生命力。\n售價:"}
 MultiLanguageItemData['tw'][190727] = {name = "[q2]防護撤銷球體", additional_info = "拾取後綁定\n[q2]使用: 關閉高價值儲物箱的保護措施。"}
-MultiLanguageItemData['tw'][190728] = {name = "[q2]哥德腕花", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q]\"專為陰沉場合準備的花飾。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190728] = {name = "[q2]哥德腕花", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q]\"專為陰沉場合準備的花飾。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190729] = {name = "[q3]猛勁哨兵徽印", additional_info = "裝備後綁定\n僅可裝備一件\n手指\n+49 耐力\n[q2]+ 110 致命一擊\n[q2]+ 54 加速\n售價:"}
 MultiLanguageItemData['tw'][190730] = {name = "[q3]族母之殼指環", additional_info = "裝備後綁定\n僅可裝備一件\n手指\n+49 耐力\n[q2]+ 63 加速\n[q2]+ 100 臨機應變\n售價:"}
 MultiLanguageItemData['tw'][190731] = {name = "[q3]欺詐者虛幻璽戒", additional_info = "裝備後綁定\n僅可裝備一件\n手指\n+49 耐力\n[q2]+ 49 臨機應變\n[q2]+ 114 精通\n售價:"}
@@ -43475,7 +43480,7 @@ MultiLanguageItemData['tw'][190767] = {name = "[q4]裝甲金色翼手龍", addit
 MultiLanguageItemData['tw'][190768] = {name = "[q4]澤瑞斯監督者的碎形暗語", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這個首創者的造物神秘而超然，依據完美的幾何知識優雅地騰空飛行。\"\n掉落：\n閻獄之主\n區域：\n首創者聖塚\n難度：\n傳奇"}
 MultiLanguageItemData['tw'][190769] = {name = "不穩定的秘能", additional_info = "任務物品\n[q]\"不穩定的秘能濃縮而成的寶石。看樣子隨時都有可能爆炸…所以請不要過度搖晃。\""}
 MultiLanguageItemData['tw'][190771] = {name = "[q4]蟹化澤瑞斯戰騎的碎形暗語", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這種僅存的神祕生物看起來異常古老，看起來幾乎像是永生不死的。牠們說不定是首創者的造物，因為目前我們還沒發現任何能夠合成出這種生物的結構圖。\"\n任務：\n重要動機"}
-MultiLanguageItemData['tw'][190772] = {name = "[q4]套裝：夢魘森林法衣", additional_info = "[q7]戰隊綁定\n職業： 盜賊 , 武僧 , 德魯伊 , 惡魔獵人\n[q2]使用: 收集夢魘森林法衣護甲套裝外觀。"}
+MultiLanguageItemData['tw'][190772] = {name = "[q4]套裝：夢魘森林法衣", additional_info = "軍臨天下：混搭再造\n拾取後綁定\n唯一\n[q2]使用: 收集夢魘森林法衣護甲套裝外觀。\n已經學會"}
 MultiLanguageItemData['tw'][190773] = {name = "[q4]年鑒的回音", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n[q]\"這個裝置的機制裡有個奇怪且激昂的旋律。\""}
 MultiLanguageItemData['tw'][190774] = {name = "[q4]休眠火山口長袍", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {鎖甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190775] = {name = "[q4]休眠火山口護手", additional_info = "造型\n[q7]戰隊綁定\n{手} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43486,22 +43491,22 @@ MultiLanguageItemData['tw'][190779] = {name = "[q4]休眠火山口脛甲", addit
 MultiLanguageItemData['tw'][190780] = {name = "[q4]休眠火山口之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190781] = {name = "[q4]休眠火山口護腕", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {鎖甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190782] = {name = "[q4]休眠火山口鍊衫", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {鎖甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190783] = {name = "[q3]舞劍海盜外套", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190784] = {name = "[q3]舞劍海盜束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190785] = {name = "[q3]舞劍海盜馬褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190786] = {name = "[q3]舞劍海盜長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190787] = {name = "[q2]精靈貴族學者腕輪", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190783] = {name = "[q3]舞劍海盜外套", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190784] = {name = "[q3]舞劍海盜束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190785] = {name = "[q3]舞劍海盜馬褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190786] = {name = "[q3]舞劍海盜長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190787] = {name = "[q2]翠綠夢境銘文腕輪", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{手腕} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190788] = {name = "[q2]森林潛獵者腕甲", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190789] = {name = "[q4]血獵人面具", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190790] = {name = "[q4]血獵人手甲", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190791] = {name = "[q4]血獵人護褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190792] = {name = "[q4]血獵人纏腰", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190793] = {name = "[q4]血獵人裹足", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190789] = {name = "[q4]血獵人面具", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190790] = {name = "[q4]血獵人手甲", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190791] = {name = "[q4]血獵人護褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190792] = {name = "[q4]血獵人纏腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190793] = {name = "[q4]血獵人裹足", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190794] = {name = "[q4]血獵人戰爭披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190795] = {name = "[q4]血獵人角披肩", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190795] = {name = "[q4]血獵人角披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190796] = {name = "[q4]套裝：休眠火山口戰衣", additional_info = "[q7]戰隊綁定\n職業： 獵人 , 薩滿 , 喚能師\n[q2]使用: 收集休眠火山口戰衣護甲套裝外觀。\n[q]\"其實並不能助眠。\""}
 MultiLanguageItemData['tw'][190797] = {name = "[q4]套裝：血獵人之骨", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集血獵人之骨的外觀。\n[q]\"為了古翰的榮耀！\""}
-MultiLanguageItemData['tw'][190798] = {name = "[q4]血獵人背心", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190798] = {name = "[q4]血獵人背心", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190799] = {name = "[q3]套裝：舞劍海盜裝", additional_info = "[q7]戰隊綁定\n[q2]使用: 收集舞劍海盜裝護甲套裝外觀。\n[q]\"打扮一下！把甲板當成伸展台。\""}
 MultiLanguageItemData['tw'][190800] = {name = "[q2]靈光鎖甲外袍", additional_info = "造型\n[q7]戰隊綁定\n外袍\n[q]\"經過精心打造，以免金屬片發出過大聲響。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][190801] = {name = "[q2]幽影鎖甲外袍", additional_info = "造型\n[q7]戰隊綁定\n外袍\n[q]\"有史以來最防戳刺的外袍。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
@@ -43509,16 +43514,16 @@ MultiLanguageItemData['tw'][190802] = {name = "[q2]無盡暮光披氅", addition
 MultiLanguageItemData['tw'][190803] = {name = "[q4]失落侍僧長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {布甲}\n1護甲\n耐久: 35 / 35\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190804] = {name = "[q2]浸酒之錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"第二下就會讓獵物四分五裂。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190805] = {name = "[q2]砍樹工短斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"是不是有人呼叫宇宙霹靂無敵伐木工？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190806] = {name = "[q2]喚潮者繫腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {鎖甲}\n2護甲\n[q]\"這條腰帶將會擋下洶湧潮水。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190806] = {name = "[q2]魔化印記繫腰", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腰部} {鎖甲}\n2護甲\n80 ( 80)\n[q]\"這條腰帶將會擋下洶湧潮水。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190807] = {name = "[q2]工匠工作服", additional_info = "造型\n[q7]戰隊綁定\n襯衣\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][190808] = {name = "[q2]高階祭司的儀祭披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"能提升每件套裝的優雅感。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190809] = {name = "[q2]精靈貴族學者軟靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190809] = {name = "[q2]翠綠夢境銘文軟靴", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腳} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190810] = {name = "[q2]森林潛獵者手甲", additional_info = "造型\n[q7]戰隊綁定\n{手} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190811] = {name = "[q2]森林潛獵者外衣", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {皮甲}\n2護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190812] = {name = "[q3]蒼藍奧核弦月斧", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {斧}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"鋒利的邊緣提醒著我們奧核戰爭有多殘酷。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190813] = {name = "[q2]自動碎顱機", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"能擊碎石頭、顱骨和石頭顱骨！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190814] = {name = "[q2]梅菲斯托剃刀", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"需要刮乾剃淨的時候的最佳選擇。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190815] = {name = "[q2]精靈貴族學者護腿", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190815] = {name = "[q2]翠綠夢境銘文護腿", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{腿部} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190816] = {name = "[q2]鍛造助手的「穩定」能源電池", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190817] = {name = "[q2]哨兵塔盾", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q]\"因為沒人不喜歡塔防。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190818] = {name = "[q3]熱砂文物提取器", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"「比任何鏟子都快！」- 加茲里斯‧輪鎖\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43529,9 +43534,9 @@ MultiLanguageItemData['tw'][190822] = {name = "[q3]莫阿格執法者長戟", ad
 MultiLanguageItemData['tw'][190823] = {name = "[q3]法琳的神秘箱", additional_info = "拾取後綁定\n[q]\"這個神秘箱裡到底裝著什麼東西？\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][190824] = {name = "[q3]忠誠大劍師巨劍", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"這把劍確實鋒利，但其持有者的忠誠更加不容懷疑。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190825] = {name = "[q2]漫遊者赤紅披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190826] = {name = "[q2]漫遊者赤紅披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190826] = {name = "[q2]漫遊者赤紅披巾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190827] = {name = "[q2]流浪者赤紅斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190828] = {name = "[q2]流浪者赤紅兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190828] = {name = "[q2]流浪者赤紅兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190829] = {name = "[q2]流動魔法披巾", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n\"由蘇拉瑪爾最出色的秘法裁縫師親手製造。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190830] = {name = "[q4]瘋狂竊賊長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {皮甲}\n1護甲\n耐久: 35 / 35\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190831] = {name = "[q2]利鋒反曲刀", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"非常適合用來清除麻煩的密林樹叢。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43548,7 +43553,7 @@ MultiLanguageItemData['tw'][190841] = {name = "[q2]虛無之縛肩甲", addition
 MultiLanguageItemData['tw'][190842] = {name = "[q2]極地狂怒拳套", additional_info = "造型\n[q7]戰隊綁定\n{單手} {拳套}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"無論在實際上，或是在抽象上，都是效果極佳的破冰者。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190843] = {name = "[q2]憤怒之喉", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q]\"儘管年代久遠，但它依舊是原本的憤怒之喉。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190844] = {name = "[q3]華爾拉亞勇士巨劍", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"歐丁提供給麾下勇士的武裝永遠是最好的。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190845] = {name = "[q2]嚴正守望者長褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190845] = {name = "[q2]嚴正守望者長褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190846] = {name = "[q3]粉碎虛無尖杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n[q]\"虛無的呼喚永不止息。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190847] = {name = "[q3]死神傳承刺客鉤刺", additional_info = "造型\n[q7]戰隊綁定\n{單手} {匕首}\n{1點傷害} {速度 1.80}\n(每秒0.6點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190849] = {name = "[q3]鍛造大師裁決錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"無論是煮不能吃的食物或是敲敵人的頭，這個武器都可以造成傷害。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43557,7 +43562,7 @@ MultiLanguageItemData['tw'][190851] = {name = "[q2]套裝：流浪者赤紅絲�
 MultiLanguageItemData['tw'][190852] = {name = "原蜂蜜", additional_info = "任務物品\n[q]\"甜甜脆脆的口感，但是聞起來很臭。\""}
 MultiLanguageItemData['tw'][190853] = {name = "[q3]一籃神秘果實", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 慶祝努力的成果！ (30秒 冷卻)"}
 MultiLanguageItemData['tw'][190854] = {name = "[q2]滿是縫補痕跡的錢包", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"這些縫補的痕跡是因為太好下手而造成的嗎？\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190855] = {name = "[q2]玫瑰腕花", additional_info = "造型\n[q7]戰隊綁定\n手腕 飾品\n[q]\"永遠別忘了停下腳步聞聞玫瑰花。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190855] = {name = "[q2]玫瑰腕花", additional_info = "造型\n[q7]戰隊綁定\n{手腕} {造型}\n[q]\"永遠別忘了停下腳步聞聞玫瑰花。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190856] = {name = "[q2]惡臭花束", additional_info = "造型\n[q7]戰隊綁定\n副手物品\n[q]\"有些玫瑰最好別去聞它。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190857] = {name = "[q2]金輝翡翠長披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"翡翠守衛會披上這件披風，融入夢境之中，以便隨時應付任何威脅。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190858] = {name = "[q4]冰寒餘燼束腰", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {板甲}\n3護甲\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43570,11 +43575,11 @@ MultiLanguageItemData['tw'][190864] = {name = "[q2]虛無之縛脛甲", addition
 MultiLanguageItemData['tw'][190865] = {name = "[q2]虛無之縛護手", additional_info = "造型\n[q7]戰隊綁定\n{手} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190866] = {name = "[q2]虛無之縛胸甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {板甲}\n5護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190867] = {name = "[q2]虛無之縛肩鎧", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190868] = {name = "[q2]精靈貴族學者披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {布甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190869] = {name = "[q2]燼石禮服", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q]\"這是燼石村現在最流行的風格。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190868] = {name = "[q2]翠綠夢境銘文卷軸披肩", additional_info = "軍臨天下：混搭再造\n造型\n[q7]戰隊綁定\n{肩部} {布甲}\n1護甲\n80 ( 80)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190869] = {name = "[q2]燼石禮服", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q]\"這是燼石村現在最流行的風格。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190870] = {name = "[q2]城市守衛尖底盾", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q]\"志願守衛節大特賣剩下的東西。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190871] = {name = "[q2]蠻兵扣環", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q]\"帶上劍盾，對抗部落！\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190872] = {name = "[q2]嚴正守望者背心甲", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190872] = {name = "[q2]嚴正守望者背心甲", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190873] = {name = "[q3]狂妄戰錘", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {權杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q]\"傲慢是凡人種族的原罪，為此，他們必須受到懲罰。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190874] = {name = "[q3]閃耀魔能裁決錘", additional_info = "造型\n[q7]戰隊綁定\n{單手} {權杖}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"在注滿魔能的劍柄上依稀可見「復仇者維哈里」這幾個字。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190875] = {name = "[q3]冰凍定罪之觸", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {魔杖}\n{1點傷害} {速度 2.00}\n(每秒0.5點傷害)\n[q]\"死亡侍徒會以這些魔杖來審判囚犯。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43584,9 +43589,9 @@ MultiLanguageItemData['tw'][190880] = {name = "催化蘋果派", additional_info
 MultiLanguageItemData['tw'][190881] = {name = "維生群體", additional_info = "[q2]使用: 在20秒內恢復( 22500 / 5 * 20)點生命力和( 30000 / 5 * 20)點法力。進食時必須保持坐姿。\n[q]\"沒被吃掉…也算是經得起時間的考驗。\"\n售價:"}
 MultiLanguageItemData['tw'][190882] = {name = "[q2]流浪者雪白斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190883] = {name = "[q2]漫遊者雪白披風", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190884] = {name = "[q2]流浪者雪白兜帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190885] = {name = "[q2]漫遊者雪白披巾", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190886] = {name = "[q2]精透白夜手套", additional_info = "造型\n[q7]戰隊綁定\n手 飾品\n[q]\"適合高級場合的優質手套。千萬別戴著這副手套去幫蛋進行彩繪。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190884] = {name = "[q2]流浪者雪白兜帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190885] = {name = "[q2]漫遊者雪白披巾", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190886] = {name = "[q2]精透白夜手套", additional_info = "造型\n[q7]戰隊綁定\n{手} {造型}\n[q]\"適合高級場合的優質手套。千萬別戴著這副手套去幫蛋進行彩繪。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190887] = {name = "[q2]大領主儀祭披氅", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"因為這披氅只能在最重要的場合中穿戴而特別受到沙漠氏族崇敬。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190888] = {name = "[q4]星外暗界之擁", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {布甲}\n1護甲\n耐久: 25 / 25\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190889] = {name = "[q2]護林者短斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43596,18 +43601,18 @@ MultiLanguageItemData['tw'][190892] = {name = "[q2]橘袖襯衣", additional_inf
 MultiLanguageItemData['tw'][190893] = {name = "[q2]華貴的華爾基倫斗篷", additional_info = "造型\n[q7]戰隊綁定\n背部\n1護甲\n[q]\"這些冰雪潔白的寶石是很久以前由巫妖王送給華爾基倫女王的禮物。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190894] = {name = "[q2]森林潛獵者披肩", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {皮甲}\n1護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190895] = {name = "[q2]失落十字軍的紫晶戰斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"這把毫無磨損的斧刃斬碎了無數獸人頭盔與盾牌。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190896] = {name = "[q2]嚴正守望者肩甲", additional_info = "造型\n[q7]戰隊綁定\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190896] = {name = "[q2]嚴正守望者肩甲", additional_info = "造型\n[q7]戰隊綁定\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190897] = {name = "[q2]維爾薩拉保衛者之冠", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {板甲}\n3護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190898] = {name = "[q2]紅色探險帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"設計簡單的帽子，最適合炎熱的氣候。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190899] = {name = "[q2]赤紅雙角帽", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q]\"小朋友船員會熱情地會回你：「是的，船長！」\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190898] = {name = "[q2]紅色探險帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"設計簡單的帽子，最適合炎熱的氣候。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190899] = {name = "[q2]赤紅雙角帽", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q]\"小朋友船員會熱情地會回你：「是的，船長！」\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190900] = {name = "[q2]原型遠行者狙擊槍", additional_info = "造型\n[q7]戰隊綁定\n{遠程} {槍}\n{1-2點傷害} {速度 3.00}\n(每秒0.5點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190901] = {name = "[q2]嚴正守望者頭盔", additional_info = "造型\n[q7]戰隊綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190901] = {name = "[q2]嚴正守望者頭盔", additional_info = "造型\n[q7]戰隊綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190902] = {name = "[q3]泰坦鍛鑄意志", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {劍}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190903] = {name = "[q3]灼魂戰鐮", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {長柄武器}\n{1-3點傷害} {速度 3.60}\n(每秒0.6點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190904] = {name = "[q3]迅捷海盜外套", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190905] = {name = "[q3]迅捷海盜束帶", additional_info = "造型\n[q7]戰隊綁定\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190906] = {name = "[q3]迅捷海盜馬褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][190907] = {name = "[q3]迅捷海盜長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190904] = {name = "[q3]迅捷海盜外套", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190905] = {name = "[q3]迅捷海盜束帶", additional_info = "造型\n[q7]戰隊綁定\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190906] = {name = "[q3]迅捷海盜馬褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][190907] = {name = "[q3]迅捷海盜長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190908] = {name = "[q3]吞噬者亡顱之鐮", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1點傷害} {速度 3.60}\n(每秒0.3點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190909] = {name = "[q3]晶紅魔火裂刃", additional_info = "造型\n[q7]戰隊綁定\n{單手} {劍}\n{1點傷害} {速度 2.60}\n(每秒0.4點傷害)\n[q]\"尖刺加倍，戳中的機率也加倍。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][190910] = {name = "[q3]晶紅魔火壁壘", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q]\"你一定會戳中敵人的點。\"\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -43946,18 +43951,18 @@ MultiLanguageItemData['tw'][191600] = {name = "[q3]配方：進階藥水實驗",
 MultiLanguageItemData['tw'][191601] = {name = "[q3]配方：基本藥瓶實驗", additional_info = "拾取後綁定\n[q2]使用:  教你學會拿基本藥瓶做實驗。\n[q2]你已經將藥瓶實驗的所有知識都研究透徹了。\n需要 巨龍群島鍊金術 (10)\n售價:\n[q2]基本藥瓶鍊金實驗\n[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥瓶配方。\"\n需要 工匠精神 (5), 龍之鍊金溶液 (2), 全能之龍"}
 MultiLanguageItemData['tw'][191602] = {name = "[q3]配方：進階藥瓶實驗", additional_info = "拾取後綁定\n[q2]使用:  教你學會拿進階藥瓶做實驗。\n[q2]你已經將藥瓶實驗的所有知識都研究透徹了。\n需要 巨龍群島鍊金術 (25)\n售價:\n[q3]進階藥瓶鍊金實驗\n[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥瓶配方。\"\n需要 工匠精神 (5), 龍之鍊金溶液 (2), 全能之龍"}
 MultiLanguageItemData['tw'][191604] = {name = "[q4]帷幕之觸三叉矛", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {長柄武器}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n耐久: 35 / 35\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191616] = {name = "[q4]火羽頭冠", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191617] = {name = "[q4]火羽法衣", additional_info = "造型\n[q7]戰隊綁定\n唯一\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191618] = {name = "[q4]火羽隱蔽護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191619] = {name = "[q4]火羽光焰裹手", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191620] = {name = "[q4]火羽羽毛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n肩部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191621] = {name = "[q4]火羽徽記", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腰部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191622] = {name = "[q4]火羽之爪", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191616] = {name = "[q4]火羽頭冠", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191617] = {name = "[q4]火羽法衣", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191618] = {name = "[q4]火羽隱蔽護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191619] = {name = "[q4]火羽光焰裹手", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191620] = {name = "[q4]火羽羽毛", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{肩部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191621] = {name = "[q4]火羽徽記", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腰部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191622] = {name = "[q4]火羽之爪", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][191623] = {name = "[q4]不穩定的霜火腰帶", additional_info = "拾取後綁定{腰部} {板甲}\n469護甲\n+193 [力量 or 智力]\n+312 耐力\n[q2]+ 256 致命一擊\n[q2]+ 102 精通\n耐久: 55 / 55\n[q2]裝備： 你的法術和技能有很高的機率施加滯留冰霜火花，在10秒內造成[ 935 * (6)]點霜火傷害。在此效果期間死亡的敵人會爆炸，並留下寒冷的雨雪使敵人緩速50%，持續8秒。\n售價:"}
 MultiLanguageItemData['tw'][191625] = {name = "[q4]熔鑄獨石杖", additional_info = "造型\n[q7]戰隊綁定\n{雙手} {法杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][191626] = {name = "[q4]熔鑄劈斧", additional_info = "造型\n[q7]戰隊綁定\n{單手} {斧}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191627] = {name = "[q4]火羽短衫", additional_info = "造型\n[q7]戰隊綁定\n唯一\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191628] = {name = "[q4]火羽順風護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191627] = {name = "[q4]火羽短衫", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191628] = {name = "[q4]火羽順風護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][191631] = {name = "[q4]熔鑄壁壘", additional_info = "造型\n[q7]戰隊綁定\n{副手} {盾}\n14護甲\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][191633] = {name = "晶化法力裂片", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"這個水晶對著你歌唱，你在歌曲中聽見古老的語言，講述著遠古時代的故事。拉索斯可能會對此感興趣。\""}
 MultiLanguageItemData['tw'][191634] = {name = "[q5]團結的記憶", additional_info = "拾取後綁定\n唯一\n[q2]使用: 使符刻師恢復下列記憶："}
@@ -44011,10 +44016,10 @@ MultiLanguageItemData['tw'][191733] = {name = "報告：侵染", additional_info
 MultiLanguageItemData['tw'][191734] = {name = "[q3]暈車苦工的魔法藥劑", additional_info = "拾取後綁定\n[q2]使用: 聞起來像蟾蜍的呼吸和塔巴克的汗水味，不過獸人認為這東西能阻止世界移動的感覺，聽起來好像很不錯。 (5秒 冷卻)\n[q]\"只能在恐軌車站、靈魂之喉、黑石鑄造場或巨龍之魂使用。\"\n售價:"}
 MultiLanguageItemData['tw'][191752] = {name = "犄角璽戒", additional_info = "任務物品\n[q]\"以半龍人的標準來看，這種璽戒很樸素。\""}
 MultiLanguageItemData['tw'][191763] = {name = "無懈可擊的嘯翔偽裝v2", additional_info = "任務物品\n唯一\n[q2]使用: 經過更新和升級且擁有更多羽毛！現在還附贈主廚之帽！\n[q]\"經過更新和升級且擁有更多羽毛！現在還附贈主廚之帽！\""}
-MultiLanguageItemData['tw'][191774] = {name = "[q4]火羽爪套", additional_info = "造型\n[q7]戰隊綁定\n唯一\n手 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191775] = {name = "[q4]火羽短褲和褲襪", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191776] = {name = "[q4]火羽隱蔽護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
-MultiLanguageItemData['tw'][191779] = {name = "[q4]火羽繞頸背心", additional_info = "造型\n[q7]戰隊綁定\n唯一\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191774] = {name = "[q4]火羽爪套", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{手} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191775] = {name = "[q4]火羽短褲和褲襪", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191776] = {name = "[q4]火羽隱蔽護腿", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][191779] = {name = "[q4]火羽繞頸背心", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][191780] = {name = "堅硬蜥蜴皮", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][191781] = {name = "[q5]吞噬者殘餘", additional_info = "拾取後綁定\n需要受啟迪者\n- 尊敬\n額外材料\n\n[q]可使用： 等級1《暗影之境》值得升為傳說的防具和配件的設計圖。\n售價:"}
 MultiLanguageItemData['tw'][191782] = {name = "新鮮的元龍飛翼", additional_info = "任務物品"}
@@ -44740,7 +44745,7 @@ MultiLanguageItemData['tw'][193364] = {name = "[q3]史考弗", additional_info =
 MultiLanguageItemData['tw'][193365] = {name = "[q2]基本藥水鍊金實驗", additional_info = "[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥水配方。\""}
 MultiLanguageItemData['tw'][193366] = {name = "[q3]進階藥瓶鍊金實驗", additional_info = "[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥瓶配方。\""}
 MultiLanguageItemData['tw'][193367] = {name = "[q3]進階藥水鍊金實驗", additional_info = "[q]\"使用容易揮發的材料進行實驗，希望能夠發現新的藥水配方。\""}
-MultiLanguageItemData['tw'][193371] = {name = "[q3]「萊茵石」太陽眼鏡", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][193371] = {name = "[q3]「萊茵石」太陽眼鏡", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][193373] = {name = "[q3]鳳凰希翼", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][193374] = {name = "[q3]燼翼", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散這位夥伴。\n80 ( 80)\n售價:"}
 MultiLanguageItemData['tw'][193375] = {name = "奈薩贊文物碎片", additional_info = "任務物品\n70 ( 70)\n[q]\"這些畸形的的碎片在不受干擾的情況下度過了千年的時間，直到最近遭受碎裂火焰軍的劇變為止。\""}
@@ -44918,7 +44923,7 @@ MultiLanguageItemData['tw'][193606] = {name = "[q2]赤紅戰鬥者的龍金護�
 MultiLanguageItemData['tw'][193607] = {name = "[q2]赤紅戰鬥者的龍金肩鎧", additional_info = "裝備後綁定\n{肩部} {板甲}\n489護甲\n+162 [力量 or 智力]\n+243 耐力\n[q2]+ 153 隨機數值1\n[q2]+ 153 隨機數值2\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][193608] = {name = "[q2]赤紅戰鬥者的龍金護腰", additional_info = "裝備後綁定\n{腰部} {板甲}\n400護甲\n+162 [力量 or 智力]\n+243 耐力\n[q2]+ 153 隨機數值1\n[q2]+ 153 隨機數值2\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][193609] = {name = "[q2]赤紅戰鬥者的龍金臂甲", additional_info = "裝備後綁定\n{手腕} {板甲}\n356護甲\n+121 [力量 or 智力]\n+182 耐力\n[q2]+ 115 隨機數值1\n[q2]+ 115 隨機數值2\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][193610] = {name = "[q4]法術守衛者冠冕", additional_info = "造型\n[q7]戰隊綁定\n唯一\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
+MultiLanguageItemData['tw'][193610] = {name = "[q4]法術守衛者冠冕", additional_info = "造型\n[q7]戰隊綁定\n唯一\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。"}
 MultiLanguageItemData['tw'][193611] = {name = "[q3]遠古角環", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"戴在遠古龍角上的戒指。\""}
 MultiLanguageItemData['tw'][193612] = {name = "[q2]鍛造防護圍裙", additional_info = "裝備後綁定\n僅可裝備一件：胸部（1）\n鍛造用具[q2]+ 18 複數製造\n售價:"}
 MultiLanguageItemData['tw'][193613] = {name = "[q3]防火圍裙", additional_info = "拾取後綁定\n僅可裝備一件：胸部（1）\n鍛造用具[q2]+ 29 複數製造\n裝備： +6點巨龍群島鍛造技能\n售價:"}
@@ -45706,7 +45711,7 @@ MultiLanguageItemData['tw'][194743] = {name = "古爾恰克的指標", additiona
 MultiLanguageItemData['tw'][194744] = {name = "熔烤血肉", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][194746] = {name = "湯瑪斯的空瓶", additional_info = "拾取後綁定\n唯一\n[q]\"十分適合用來放米蓋爾的禮物。\""}
 MultiLanguageItemData['tw'][194747] = {name = "冰凍的毒囊", additional_info = "任務物品\n[q]\"巨型蜘蛛的製毒器官。巨牙海民會將其調配成治療蜘蛛毒液的良藥。\""}
-MultiLanguageItemData['tw'][194748] = {name = "[q3]對切透鏡瞄準鏡", additional_info = "造型\n裝備後綁定\n頭部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][194748] = {name = "[q3]對切透鏡瞄準鏡", additional_info = "造型\n裝備後綁定\n{頭部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][194749] = {name = "[q3]設計圖：對切透鏡瞄準鏡", additional_info = "[q2]使用:  教你學會如何製作對切透鏡瞄準鏡。\n需要 巨龍群島珠寶設計 (1)\n售價:"}
 MultiLanguageItemData['tw'][194750] = {name = "[q2]專業設備", additional_info = "拾取後綁定\n[q]\"含有全新的專業工具，由工匠聯盟免費提供。\"\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][194784] = {name = "閃爍羊皮紙", additional_info = "制作材料\n[q]\"閃亮的羊皮紙，雕銘師經常使用。可以透過向商人購買獲得。\"\n售價:"}
@@ -45773,8 +45778,8 @@ MultiLanguageItemData['tw'][194901] = {name = "[q2]彎曲犄角", additional_inf
 MultiLanguageItemData['tw'][194902] = {name = "[q3]黏呼呼巧克力", additional_info = "拾取後綁定\n持續時間：1天\n售價:"}
 MultiLanguageItemData['tw'][194903] = {name = "[q3]口袋巧克力", additional_info = "拾取後綁定\n持續時間：1天 (實時)\n[q2]使用: 吃下一小口軟綿綿的甜食，使你在5秒內恢復20%的生命力和法力。\n[q]\"事實上，巧克力確實會融化。\""}
 MultiLanguageItemData['tw'][194961] = {name = "失竊的火箭包", additional_info = "拾取後綁定\n唯一\n持續時間：4小時\n[q2]使用: 裝備失竊的火箭包。 (10秒 冷卻)\n[q]\"遭竊的軍情七處裝備，不知道為什麼在這裡。\"\n售價:"}
-MultiLanguageItemData['tw'][194963] = {name = "[q4]設計圖：黑曜灼燒合金", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作黑曜灼燒合金。\n[q2]前往甦醒海岸西部，在龍禍要塞中找到大地守護者的熔爐。\n需要 巨龍群島鍛造 (50)\n售價:"}
-MultiLanguageItemData['tw'][194964] = {name = "[q3]食譜：三味猛瑪象肉串", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何烹製三味猛瑪象肉串。\n4份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (25)"}
+MultiLanguageItemData['tw'][194963] = {name = "[q4]設計圖：黑曜灼燒合金", additional_info = "[q7]戰隊綁定\n[q2]使用:  教你學會如何製作黑曜灼燒合金。\n[q2]前往甦醒海岸西部，在龍禍要塞中找到大地守護者的熔爐。\n需要 巨龍群島鍛造 (50)\n售價:"}
+MultiLanguageItemData['tw'][194964] = {name = "[q3]食譜：三味猛瑪象肉串", additional_info = "[q7]戰隊綁定\n唯一\n[q2]使用:  教你學會如何烹製三味猛瑪象肉串。\n4份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (25)"}
 MultiLanguageItemData['tw'][194965] = {name = "[q3]食譜：雨莎的澎湃燉肉", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何烹製雨莎的澎湃燉肉。\n2份盛宴的食譜。盛宴的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (30)"}
 MultiLanguageItemData['tw'][194966] = {name = "千咬食人魚", additional_info = "制作材料\n[q]\"原產於巨龍群島的常見淡水魚種。可在拍賣場進行買賣。\"\n售價:"}
 MultiLanguageItemData['tw'][194967] = {name = "副翼海蛾魚", additional_info = "制作材料\n[q]\"原產於巨龍群島的常見海水魚種。可在拍賣場進行買賣。\"\n售價:"}
@@ -46516,7 +46521,7 @@ MultiLanguageItemData['tw'][198101] = {name = "[q3]食譜：配菜沙拉", addit
 MultiLanguageItemData['tw'][198102] = {name = "[q3]設計圖：出奇鋒利的切割刀", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作奇鋒利的切割刀。\n需要 巨龍群島烹飪 (35)\n需要伊斯凱拉巨牙海民的名望等級15。\n售價:"}
 MultiLanguageItemData['tw'][198103] = {name = "[q3]食譜：雪淇淋甜筒", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何烹製雪淇淋甜筒。\n4份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (1)"}
 MultiLanguageItemData['tw'][198104] = {name = "[q3]食譜：胖胖馬芬", additional_info = "拾取後綁定\n[q2]使用:  教你學會烹製胖胖馬芬。\n3份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (1)\n售價:"}
-MultiLanguageItemData['tw'][198105] = {name = "[q3]食譜：慶祝蛋糕", additional_info = "拾取後綁定\n[q2]使用:  教你學會烹製慶祝蛋糕。\n需要 巨龍群島烹飪 (1)\n售價:"}
+MultiLanguageItemData['tw'][198105] = {name = "[q3]食譜：慶祝蛋糕", additional_info = "[q7]戰隊綁定\n[q2]使用:  教你學會烹製慶祝蛋糕。\n需要 巨龍群島烹飪 (1)\n售價:"}
 MultiLanguageItemData['tw'][198106] = {name = "[q3]食譜：美味的幼雛點心", additional_info = "拾取後綁定\n[q2]使用:  教你學會烹製美味的幼雛點心。\n2份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (1)\n售價:"}
 MultiLanguageItemData['tw'][198107] = {name = "[q3]食譜：帶勁的水", additional_info = "[q2]使用:  教你學會烹製帶勁的水。\n4份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (15)\n售價:"}
 MultiLanguageItemData['tw'][198108] = {name = "[q3]食譜：美味的龍涎", additional_info = "[q2]使用:  教你學會烹製美味的龍涎。\n4份餐點的食譜。餐點的實際數量會依烹飪技能而異。\n需要 巨龍群島烹飪 (15)\n售價:"}
@@ -46709,23 +46714,23 @@ MultiLanguageItemData['tw'][198540] = {name = "[q3]黃金爪", additional_info =
 MultiLanguageItemData['tw'][198541] = {name = "[q0]耗盡的紫羅蘭煙霧", additional_info = "拾取後綁定\n唯一\n[q]\"感覺若有似無，彷彿有一股花香縈繞。\"\n售價:"}
 MultiLanguageItemData['tw'][198542] = {name = "[q2]席卡女獵手的箭頭", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+382 [敏捷 or 力量]\n[q2]裝備： 你的攻擊有一定機率根據你當前獵物的實力提高你的精通，持續20秒。\n售價:"}
 MultiLanguageItemData['tw'][198543] = {name = "[q3]尾巴碎片", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"大型雕像的碎塊。\""}
-MultiLanguageItemData['tw'][198545] = {name = "[q3]青銅沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198546] = {name = "[q3]青銅沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198547] = {name = "[q3]青銅沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198545] = {name = "[q3]青銅沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198546] = {name = "[q3]青銅沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198547] = {name = "[q3]青銅沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][198549] = {name = "黑龍軍團煙火", additional_info = "[q2]使用: 發射一組煙火，表揚黑龍軍團。\n售價:"}
 MultiLanguageItemData['tw'][198550] = {name = "青銅龍軍團煙火", additional_info = "[q2]使用: 發射一組煙火，表揚青銅龍軍團。\n售價:"}
-MultiLanguageItemData['tw'][198551] = {name = "[q3]赤紅沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198552] = {name = "[q3]赤紅沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198553] = {name = "[q3]赤紅沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198554] = {name = "[q3]綠色沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198555] = {name = "[q3]綠色沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198556] = {name = "[q3]綠色沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198557] = {name = "[q3]蒼藍沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198558] = {name = "[q3]蒼藍沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198559] = {name = "[q3]蒼藍沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198560] = {name = "[q3]黑色沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n胸部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198561] = {name = "[q3]黑色沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n腳 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][198562] = {name = "[q3]黑色沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n腿部 飾品\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198551] = {name = "[q3]赤紅沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198552] = {name = "[q3]赤紅沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198553] = {name = "[q3]赤紅沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198554] = {name = "[q3]綠色沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198555] = {name = "[q3]綠色沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198556] = {name = "[q3]綠色沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198557] = {name = "[q3]蒼藍沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198558] = {name = "[q3]蒼藍沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198559] = {name = "[q3]蒼藍沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198560] = {name = "[q3]黑色沃卓肯夾克", additional_info = "造型\n[q7]戰隊綁定\n{胸部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198561] = {name = "[q3]黑色沃卓肯長靴", additional_info = "造型\n[q7]戰隊綁定\n{腳} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][198562] = {name = "[q3]黑色沃卓肯束褲", additional_info = "造型\n[q7]戰隊綁定\n{腿部} {造型}\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][198563] = {name = "[q2]秘法火花", additional_info = "鈷藍集會秘法精華\n拾取後綁定\n[q]\"殘餘的秘法魔法的小火花。鈷藍集會的范希知道如何善加利用它。\""}
 MultiLanguageItemData['tw'][198564] = {name = "時佚聖物", additional_info = "任務物品\n[q]\"從另一條時間線拉過來的文物。\""}
 MultiLanguageItemData['tw'][198565] = {name = "[q0]飛龍降伏者的法衣", additional_info = "拾取後綁定{胸部} {布甲}\n219護甲\n+257 智力\n+416 耐力\n[q2]+ 208 致命一擊\n[q2]+ 270 臨機應變\n耐久: 165 / 165\n[q]飛龍降伏者的裝束 (0/8)\n[q0]飛龍降伏者的肩墊\n飛龍降伏者的腕輪\n飛龍降伏者之索\n飛龍降伏者的護腿\n飛龍降伏者的兜帽\n飛龍降伏者的手套\n飛龍降伏者的長靴\n飛龍降伏者的法衣\n{[q0](2) 組合 : 臨機應變提高 56 點。\n(4) 組合 : 當你被擊昏時，決心變得更加堅定，吸收最多[ 23631 * (1 + 臨機應變)]點傷害}，持續10秒。這個效果只能每2分鐘觸發一次。\n(6) 組合 : 殺死敵方玩家後，獲得破壞者的狂亂，臨機應變提高2%，移動{速度提高2%。最多可堆疊10層。}\n售價:"}
@@ -46995,7 +47000,7 @@ MultiLanguageItemData['tw'][198898] = {name = "技藝：探險者坐騎護具手
 MultiLanguageItemData['tw'][198899] = {name = "[q3]技藝：再生元龍：掠食者斑紋", additional_info = "[q2]使用:  教你學會如何製作再生元龍：掠食者斑紋。\n需要 巨龍群島銘文學 (25)\n售價:"}
 MultiLanguageItemData['tw'][198900] = {name = "技藝：再生元龍手稿：紅色毛髮", additional_info = "拾取後綁定\n售價:"}
 MultiLanguageItemData['tw'][198901] = {name = "[q3]技藝：再生元龍：冠上有脊刺", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作再生元龍：冠上有脊刺。\n需要 巨龍群島銘文學 (25)\n需要龍鱗遠征隊的名望等級15。\n售價:"}
-MultiLanguageItemData['tw'][198902] = {name = "[q3]技藝：烈風迅疾龍：黑毛皮", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作烈風迅疾龍：黑毛皮。\n需要 巨龍群島銘文學 (25)\n需要莫魯克半人馬的名望等級15，以及巨龍群島銘文學專業技能。\n售價:"}
+MultiLanguageItemData['tw'][198902] = {name = "[q3]技藝：烈風迅疾龍：黑毛皮", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作烈風迅疾龍：黑毛皮。\n需要 巨龍群島銘文學 (25)\n需要莫魯克半人馬的名望等級15，以及巨龍群島銘文學專業技能。\n已經學會\n售價:"}
 MultiLanguageItemData['tw'][198903] = {name = "[q3]技藝：烈風迅疾龍：頭部有脊刺", additional_info = "[q2]使用:  教你學會如何製作烈風迅疾龍：頭部有脊刺。\n需要 巨龍群島銘文學 (25)\n售價:"}
 MultiLanguageItemData['tw'][198904] = {name = "[q3]技藝：烈風迅疾龍：疾風捲斑紋", additional_info = "[q2]使用:  教你學會如何製作烈風迅疾龍：疾風捲斑紋。\n需要 巨龍群島銘文學 (25)\n售價:"}
 MultiLanguageItemData['tw'][198905] = {name = "[q2]技藝：幻象羊皮紙：水之洪流", additional_info = "[q2]使用:  教你學會如何製作幻象羊皮紙：水體洪流。\n需要 巨龍群島銘文學 (10)\n售價:"}

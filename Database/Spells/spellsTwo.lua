@@ -1319,7 +1319,7 @@ MultiLanguageSpellData['tw'][90357] = {name = "守護者階段光環", additiona
 MultiLanguageSpellData['tw'][90358] = {name = "偵測 - 法森囚犯", additional_info = nil}
 MultiLanguageSpellData['tw'][90359] = {name = "永久假死(歐庫斯特殊效果)", additional_info = nil}
 MultiLanguageSpellData['tw'][90360] = {name = "游泳狀態", additional_info = nil}
-MultiLanguageSpellData['tw'][90361] = {name = "心靈治療", additional_info = "5集中值 25 碼範圍\n瞬發 30秒 冷卻\n[q]靈獸會為當前友方目標治療[0 + ((遠程攻擊強度 * 0.6) * 1)]點生命力，並在10秒內額外治療[0 + ((遠程攻擊強度 * 0.6) * .66) * (5)]點生命力。"}
+MultiLanguageSpellData['tw'][90361] = {name = "心靈治療", additional_info = "5集中值 25 碼範圍\n瞬發 30秒 冷卻\n[q]靈獸會為當前友方目標治療[0 + ((遠程攻擊強度 * 0.6))]點生命力，並在10秒內額外治療[0 + ((遠程攻擊強度 * 0.6) * .66) * (5)]點生命力。"}
 MultiLanguageSpellData['tw'][90362] = {name = "套用任務隱形區域20", additional_info = nil}
 MultiLanguageSpellData['tw'][90365] = {name = "移除黑石偽裝", additional_info = nil}
 MultiLanguageSpellData['tw'][90366] = {name = "必要的粗暴:已產生隱形的污水海盜", additional_info = nil}
@@ -2495,7 +2495,7 @@ MultiLanguageSpellData['tw'][92183] = {name = "Detect: Quest Invis Zone 25", add
 MultiLanguageSpellData['tw'][92184] = {name = "裝甲鍍鉛", additional_info = "瞬發\n[q]護甲值提高 103 點，持續10秒。"}
 MultiLanguageSpellData['tw'][92185] = {name = "裝甲鍍鉛", additional_info = "[q]使你生命力降至35%以下的近戰攻擊將使你獲得 103 點護甲值，持續10秒。此效果每30秒只能發動一次。\n（30秒 冷卻）"}
 MultiLanguageSpellData['tw'][92186] = {name = "卓越堅韌", additional_info = "40 碼範圍\n瞬發\n[q]生命力上限提高 1350 點，持續15秒。與「戰鬥大師」飾品共用同樣的冷卻時間。"}
-MultiLanguageSpellData['tw'][92187] = {name = "卓越堅韌", additional_info = "40 碼範圍\n瞬發\n[q]生命力上限提高 34167 點，持續15秒。與「戰鬥大師」飾品共用同樣的冷卻時間。"}
+MultiLanguageSpellData['tw'][92187] = {name = "卓越堅韌", additional_info = "40 碼範圍\n瞬發\n[q]生命力上限提高 34167 點，持續15秒，最高可達原始最大生命力的兩倍。與「戰鬥大師」飾品共用同樣的冷卻時間。"}
 MultiLanguageSpellData['tw'][92188] = {name = "戰術大師", additional_info = "瞬發\n[q]使你的精通提高 282 點，持續15秒。"}
 MultiLanguageSpellData['tw'][92189] = {name = "冰柱", additional_info = "無限範圍\n瞬發\n[q]召喚一組冰柱。"}
 MultiLanguageSpellData['tw'][92199] = {name = "大劍師", additional_info = "瞬發\n[q]使你的招架提高 283 點，持續10秒。"}
@@ -7407,20 +7407,20 @@ MultiLanguageSpellData['tw'][100360] = {name = "印刻", additional_info = "無�
 MultiLanguageSpellData['tw'][100362] = {name = "取消印刻", additional_info = nil}
 MultiLanguageSpellData['tw'][100363] = {name = "召喚貪噬幼雛", additional_info = nil}
 MultiLanguageSpellData['tw'][100364] = {name = "禁止立刻恢復", additional_info = nil}
-MultiLanguageSpellData['tw'][100365] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力與( 960 / 1 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點智力與 14 點耐力，持續1小時。"}
+MultiLanguageSpellData['tw'][100365] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力與( 960 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點智力與 14 點耐力，持續1小時。"}
 MultiLanguageSpellData['tw'][100366] = {name = "元素桎梏(地深之源):索爾石頭爆炸A", additional_info = nil}
-MultiLanguageSpellData['tw'][100367] = {name = "豐年祭飲料", additional_info = "瞬發\n[q]在5秒內恢復總計( 960 / 1 * 5)點法力。喝飲料時必須保持坐姿。"}
+MultiLanguageSpellData['tw'][100367] = {name = "豐年祭飲料", additional_info = "瞬發\n[q]在5秒內恢復總計( 960 * 5)點法力。喝飲料時必須保持坐姿。"}
 MultiLanguageSpellData['tw'][100368] = {name = "充分進食", additional_info = "瞬發\n[q]智力和耐力提高 14 點，持續1小時。"}
 MultiLanguageSpellData['tw'][100369] = {name = "元素桎梏(地深之源):索爾石頭爆炸B", additional_info = nil}
 MultiLanguageSpellData['tw'][100370] = {name = "元素桎梏(地深之源):索爾石頭爆炸C", additional_info = nil}
 MultiLanguageSpellData['tw'][100371] = {name = "元素桎梏(地深之源):索爾石頭爆炸D", additional_info = nil}
 MultiLanguageSpellData['tw'][100373] = {name = "充分進食", additional_info = "瞬發\n[q]敏捷和耐力提高 14 點，持續1小時。"}
-MultiLanguageSpellData['tw'][100374] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力與( 960 / 1 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點敏捷與 14 點耐力，持續1小時。"}
+MultiLanguageSpellData['tw'][100374] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力與( 960 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點敏捷與 14 點耐力，持續1小時。"}
 MultiLanguageSpellData['tw'][100375] = {name = "充分進食", additional_info = "瞬發\n[q]臨機應變和耐力提高 3 點，持續1小時。"}
-MultiLanguageSpellData['tw'][100376] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力與( 960 / 1 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點臨機應變與 14 點耐力，持續1小時。"}
+MultiLanguageSpellData['tw'][100376] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力與( 960 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點臨機應變與 14 點耐力，持續1小時。"}
 MultiLanguageSpellData['tw'][100377] = {name = "充分進食", additional_info = "瞬發\n[q]力量和耐力提高 14 點，持續1小時。"}
 MultiLanguageSpellData['tw'][100378] = {name = "烈焰噴射", additional_info = "100 碼範圍\n2.5秒 施法時間\n[q]在附近一名玩家腳下召喚一道烈焰，3秒後烈焰將會爆發，造成56點火焰傷害。"}
-MultiLanguageSpellData['tw'][100379] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力和( 960 / 1 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點力量與 14 點耐力，持續1小時。"}
+MultiLanguageSpellData['tw'][100379] = {name = "豐年祭食物", additional_info = "瞬發\n[q]在5秒內恢復總計 4615 點生命力和( 960 * 5)點法力，進食時必須保持坐姿。如果你花費至少5秒鐘來進食，你將因充分進食而獲得 15 點力量與 14 點耐力，持續1小時。"}
 MultiLanguageSpellData['tw'][100380] = {name = "禁錮火焰元素旋風", additional_info = nil}
 MultiLanguageSpellData['tw'][100391] = {name = "暗影閃現", additional_info = nil}
 MultiLanguageSpellData['tw'][100393] = {name = "召喚月井", additional_info = "瞬發\n[q]召喚一個小月井。"}
@@ -13689,8 +13689,8 @@ MultiLanguageSpellData['tw'][111837] = {name = "群體本能", additional_info =
 MultiLanguageSpellData['tw'][111838] = {name = "群體中的一員", additional_info = "瞬發\n[q]傷害提高25%。"}
 MultiLanguageSpellData['tw'][111839] = {name = "群體本能", additional_info = nil}
 MultiLanguageSpellData['tw'][111840] = {name = "健康", additional_info = "瞬發\n[q]使耐力提高 11 點，持續30分鐘。"}
-MultiLanguageSpellData['tw'][111841] = {name = "清新的飲料", additional_info = "瞬發\n[q]在10秒內恢復總計( 1320 / 1 * 5)點法力。喝飲料時必須保持坐姿。"}
-MultiLanguageSpellData['tw'][111842] = {name = "清新的食物", additional_info = "瞬發\n[q]在10秒內恢復總計 4615 點生命力與( 1320 / 1 * 5)點法力，進食時必須保持坐姿。如果進食時間超過10秒，你將因充分進食而獲得 14 點耐力並感到非常健康，持續1小時。"}
+MultiLanguageSpellData['tw'][111841] = {name = "清新的飲料", additional_info = "瞬發\n[q]在10秒內恢復總計( 1320 * 5)點法力。喝飲料時必須保持坐姿。"}
+MultiLanguageSpellData['tw'][111842] = {name = "清新的食物", additional_info = "瞬發\n[q]在10秒內恢復總計 4615 點生命力與( 1320 * 5)點法力，進食時必須保持坐姿。如果進食時間超過10秒，你將因充分進食而獲得 14 點耐力並感到非常健康，持續1小時。"}
 MultiLanguageSpellData['tw'][111843] = {name = "召喚費爾迪林", additional_info = nil}
 MultiLanguageSpellData['tw'][111844] = {name = "費爾迪林心靈幻象", additional_info = nil}
 MultiLanguageSpellData['tw'][111845] = {name = "更新互動", additional_info = nil}
@@ -14839,7 +14839,7 @@ MultiLanguageSpellData['tw'][114888] = {name = "看見神真子的烏龜頭伸�
 MultiLanguageSpellData['tw'][114889] = {name = "石之壁壘圖騰被動", additional_info = nil}
 MultiLanguageSpellData['tw'][114890] = {name = "爆炸油桶", additional_info = "40 碼範圍\n3秒 施法時間\n[q]對指定區域內的所有敵人造成火焰傷害。"}
 MultiLanguageSpellData['tw'][114892] = {name = "看見神真子的烏龜頭看左邊", additional_info = nil}
-MultiLanguageSpellData['tw'][114893] = {name = "石之壁壘", additional_info = "100 碼範圍\n瞬發\n[q]在你腳下召喚出一個圖騰，賦予你一個可吸收0點傷害的護盾，持續15秒，同時每5秒額外吸收0點傷害，持續30秒。"}
+MultiLanguageSpellData['tw'][114893] = {name = "石之壁壘", additional_info = "100 碼範圍\n瞬發\n[q]最多吸收0點傷害。"}
 MultiLanguageSpellData['tw'][114894] = {name = "魅惑達金", additional_info = nil}
 MultiLanguageSpellData['tw'][114895] = {name = "啟動任務:牛話連篇", additional_info = nil}
 MultiLanguageSpellData['tw'][114896] = {name = "風行圖騰", additional_info = "[q]在施法者身邊召喚出一個(2 * 總生命 / 100)點生命力的風之圖騰，持續6秒，使40碼內的團隊成員不受移動限制的效果影響。"}
@@ -16998,7 +16998,7 @@ MultiLanguageSpellData['tw'][118518] = {name = "吐絲", additional_info = "40 �
 MultiLanguageSpellData['tw'][118519] = {name = "蛛絲纏繞", additional_info = "30 碼範圍\n瞄准 (3秒 施法時間)\n[q]引導一束絲，使目標動彈不得，並於3秒後對其造成自然傷害。"}
 MultiLanguageSpellData['tw'][118520] = {name = "擊殺獎勵:康恩‧藤杖", additional_info = nil}
 MultiLanguageSpellData['tw'][118521] = {name = "憤怒著魔", additional_info = nil}
-MultiLanguageSpellData['tw'][118522] = {name = "元素衝擊：致命一擊", additional_info = "40 碼範圍\n瞬發\n[q]駕馭元素的原始力量，造成(法術能量 201.25%)點元素傷害，並使你的致命一擊或加速提高3%，或精通提高(3 * 1.875 )%，持續10秒。 [ 增強 : 如果已經習得熔岩爆發，元素衝擊會取代熔岩爆發，並可額外使用1次。 ]"}
+MultiLanguageSpellData['tw'][118522] = {name = "元素衝擊：致命一擊", additional_info = "40 碼範圍\n瞬發\n[q]致命一擊提高3%。"}
 MultiLanguageSpellData['tw'][118523] = {name = "虹吸護盾", additional_info = nil}
 MultiLanguageSpellData['tw'][118524] = {name = "仇恨", additional_info = nil}
 MultiLanguageSpellData['tw'][118525] = {name = "怒之衝擊", additional_info = "20 碼範圍\n3.5秒 施法時間\n[q]造成冰霜傷害並將目標擊退。"}
@@ -18119,7 +18119,7 @@ MultiLanguageSpellData['tw'][120633] = {name = "靈魂爆炸", additional_info =
 MultiLanguageSpellData['tw'][120637] = {name = "靈魂爆炸", additional_info = "無限範圍\n瞬發\n[q]對目標5碼範圍內的所有敵人造成11點暗影傷害。"}
 MultiLanguageSpellData['tw'][120638] = {name = "水柱術與蜷伏時機", additional_info = nil}
 MultiLanguageSpellData['tw'][120639] = {name = "靈魂爆炸", additional_info = "無限範圍\n瞬發\n[q]射出一道暗影能量，擊中時對目標和目標5碼範圍內的所有玩家造成0-0點暗影傷害。"}
-MultiLanguageSpellData['tw'][120644] = {name = "輝環", additional_info = "4% 法力 值 30 碼範圍\n1.5秒 施法時間 1分鐘 冷卻\n[q]戒律, 神聖\n 以自己為中心發散暗影能量光環，迅速向外擴張至 30 碼範圍，為盟友治療(法術能量 161%)點生命力，並對敵人造成[(法術能量 144.2%) * 1 * 1 * 1]點暗影傷害。超過6個目標時，治療效果降低。\n\n暗影\n 以自己為中心發散暗影能量光環，迅速向外擴張至 30 碼範圍，為盟友治療(法術能量 161%)點生命力，並對敵人造成[(法術能量 144.2%) * 1 * 1 * 1 ]點暗影傷害。超過6個目標時，治療效果降低。\n\n產生10點瘋狂。"}
+MultiLanguageSpellData['tw'][120644] = {name = "輝環", additional_info = "4% 法力 值 30 碼範圍\n1.5秒 施法時間 1分鐘 冷卻\n[q]暗影\n 以自己為中心發散暗影能量光環，迅速向外擴張至 30 碼範圍，為盟友治療(法術能量 161%)點生命力，並對敵人造成[(法術能量 144.2%) * 1 * 1 * 1 ]點暗影傷害。超過6個目標時，治療效果降低。\n\n產生10點瘋狂。\n\n戒律, 神聖\n 以自己為中心發散暗影能量光環，迅速向外擴張至 30 碼範圍，為盟友治療(法術能量 161%)點生命力，並對敵人造成[(法術能量 144.2%) * 1 * 1 ]點暗影傷害。超過6個目標時，治療效果降低。"}
 MultiLanguageSpellData['tw'][120650] = {name = "姿勢", additional_info = nil}
 MultiLanguageSpellData['tw'][120651] = {name = "姿勢", additional_info = nil}
 MultiLanguageSpellData['tw'][120661] = {name = "青銅", additional_info = nil}
@@ -18812,7 +18812,7 @@ MultiLanguageSpellData['tw'][122114] = {name = "伊露恩天選者", additional_
 MultiLanguageSpellData['tw'][122118] = {name = "暗影箭", additional_info = "100 碼範圍\n3秒 施法時間\n[q]向敵人射出一道黑暗魔法，對其造成380點暗影傷害。"}
 MultiLanguageSpellData['tw'][122119] = {name = "恐懼遺棄", additional_info = "20 碼範圍\n2秒 施法時間\n[q]要所有人走開。"}
 MultiLanguageSpellData['tw'][122120] = {name = "高度之恐懼", additional_info = "20 碼範圍\n2秒 施法時間\n[q]將目標高舉在空中。"}
-MultiLanguageSpellData['tw'][122121] = {name = "神性之星", additional_info = "2% 法力 值 27 碼範圍\n瞬發 15秒 冷卻\n[q]戒律, 神聖\n 朝前方 27 碼投擲一發神性之星，治療路徑上的盟友(法術能量 70%)點生命力，同時對路徑上的敵人造成[(法術能量 56%) * 1 * 1 * 1]點暗影傷害。當其抵達目的地時會折返回你身上，再次治療路徑上的盟友以及傷害路上的敵人。超過6個目標時，治療效果降低。\n\n暗影\n 朝前方 27 碼投擲一發神性之星，治療路徑上的盟友(法術能量 70%)點生命力，同時對路徑上的敵人造成[(法術能量 56%) * 1 * 1 * 1 ]點暗影傷害。當其抵達目的地時會折返回你身上，再次治療路徑上的盟友以及傷害路上的敵人。超過6個目標時，治療效果降低。\n\n產生6點瘋狂。"}
+MultiLanguageSpellData['tw'][122121] = {name = "神性之星", additional_info = "2% 法力 值 27 碼範圍\n瞬發 15秒 冷卻\n[q]暗影\n 朝前方 27 碼投擲一發神性之星，治療路徑上的盟友(法術能量 70%)點生命力，同時對路徑上的敵人造成[(法術能量 56%) * 1 * 1 * 1 ]點暗影傷害。當其抵達目的地時會折返回你身上，再次治療路徑上的盟友以及傷害路上的敵人。超過6個目標時，治療效果降低。\n\n產生6點瘋狂。\n\n戒律, 神聖\n 朝前方 27 碼投擲一發神性之星，治療路徑上的盟友(法術能量 70%)點生命力，同時對路徑上的敵人造成[(法術能量 56%) * 1 * 1 ]點暗影傷害。當其抵達目的地時會折返回你身上，再次治療路徑上的盟友以及傷害路上的敵人。超過6個目標時，治療效果降低。"}
 MultiLanguageSpellData['tw'][122122] = {name = "開啟籠子", additional_info = nil}
 MultiLanguageSpellData['tw'][122123] = {name = "腐蝕性樹脂", additional_info = nil}
 MultiLanguageSpellData['tw'][122124] = {name = "壞壞犛牛", additional_info = "瞬發\n[q]壞壞犛牛。"}
@@ -26506,7 +26506,7 @@ MultiLanguageSpellData['tw'][132320] = {name = "Old Age and Treachery: Ping Sogg
 MultiLanguageSpellData['tw'][132325] = {name = "Old Age and Treachery: Soggy Reading", additional_info = nil}
 MultiLanguageSpellData['tw'][132326] = {name = "Cheer Up Yi-Mo Abandon", additional_info = nil}
 MultiLanguageSpellData['tw'][132330] = {name = "Cancel Ashyo Invis Aura + Trigger Summon", additional_info = nil}
-MultiLanguageSpellData['tw'][132331] = {name = "十字軍聖擊", additional_info = "3% 法力 值 近戰範圍\n瞬發 4.5秒 冷卻\n需要 近戰武器\n[q]懲戒\n打擊目標，造成[(攻擊強度 107.1%) * 1]點 物理 傷害。\n\n產生1道聖能。\n\n神聖, 防護\n打擊目標，造成[(攻擊強度 107.1%) * 1]點物理傷害。\n\n產生1道聖能。"}
+MultiLanguageSpellData['tw'][132331] = {name = "十字軍聖擊", additional_info = "3% 法力 值 近戰範圍\n瞬發 4.5秒 冷卻\n需要 近戰武器\n[q]懲戒\n打擊目標，造成[(攻擊強度 107.1%)]點 物理 傷害。\n\n產生1道聖能。\n\n神聖, 防護\n打擊目標，造成[(攻擊強度 107.1%)]點物理傷害。\n\n產生1道聖能。"}
 MultiLanguageSpellData['tw'][132332] = {name = "Shadow Hopper", additional_info = nil}
 MultiLanguageSpellData['tw'][132333] = {name = "Cancel Ashyo Invis Aura + Trigger Summon (Vision)", additional_info = nil}
 MultiLanguageSpellData['tw'][132335] = {name = "Galleon Loot", additional_info = nil}
@@ -29887,7 +29887,7 @@ MultiLanguageSpellData['tw'][137000] = {name = "黑血", additional_info = "8 �
 MultiLanguageSpellData['tw'][137002] = {name = "找到燃眼", additional_info = nil}
 MultiLanguageSpellData['tw'][137003] = {name = "月亮消隱", additional_info = nil}
 MultiLanguageSpellData['tw'][137005] = {name = "死亡騎士", additional_info = "[q]Modifies Critical Strike Damage 0%：\n冰霜鐮刀 ， 死亡騎士冰霜職業套裝2件"}
-MultiLanguageSpellData['tw'][137006] = {name = "冰霜死亡騎士", additional_info = "[q]Modifies Damage/Healing Done +5%：\n冰川蔓延 ， 冰霜熱疫 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Periodic Damage/Healing Done +5%：\n冰川蔓延 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Periodic Damage/Healing Done +65%：\n冰霜熱疫\n\nModifies Effect #1's Value -8：\n第三次大戰精兵 ， 第四次大戰精兵"}
+MultiLanguageSpellData['tw'][137006] = {name = "冰霜死亡騎士", additional_info = "[q]Modifies Damage/Healing Done +2%：\n冰川蔓延 ， 冰霜熱疫 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Periodic Damage/Healing Done +2%：\n冰川蔓延 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Periodic Damage/Healing Done +61%：\n冰霜熱疫\n\nModifies Effect #1's Value -8：\n第三次大戰精兵 ， 第四次大戰精兵"}
 MultiLanguageSpellData['tw'][137007] = {name = "穢邪死亡騎士", additional_info = "[q]Modifies Damage/Healing Done 0%：\n冰川蔓延 ， 冰霜熱疫 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 飲血者\n\nModifies Damage/Healing Done +55%：\n靈魂收割者\n\nModifies Periodic Damage/Healing Done 0%：\n冰川蔓延 ， 冰霜熱疫 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Effect #1's Value -8：\n第三次大戰精兵 ， 第四次大戰精兵"}
 MultiLanguageSpellData['tw'][137008] = {name = "血魄死亡騎士", additional_info = "[q]Modifies Damage/Healing Done +121%：\n冰川蔓延 ， 冰霜熱疫 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 血魄瘟疫 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Damage/Healing Done +428%：\n死亡打擊\n\nModifies Periodic Damage/Healing Done +121%：\n冰川蔓延 ， 冰霜熱疫 ， 冰霜鐮刀 ， 凜風衝擊 ， 劣者枷鎖 ， 吞噬 ， 哀痛凋零 ， 天啟 ， 天譴打擊 ， 奪魂印記 ， 恐怖實驗體 ， 憎惡體外肢 ， 憎惡體外肢 ， 撕骨裂髓 ， 暗影爪襲 ， 死亡打擊 ， 死亡的撫慰 ， 沸血術 ， 沸血術 ， 煉獄鎖 ， 煉獄鎖 ， 疫病爆發 ， 碎心打擊 ， 穢邪之擊 ， 穢邪荒疫 ， 穢邪荒疫 ， 符文打擊 ， 膿瘡潰擊 ， 超級病原體 ， 靈魂收割者 ， 飲血者\n\nModifies Periodic Damage/Healing Done +154%：\n血魄瘟疫\n\nModifies Effect #1's Value 0：\n第三次大戰精兵 ， 第四次大戰精兵"}
 MultiLanguageSpellData['tw'][137009] = {name = "德魯伊", additional_info = nil}
@@ -29902,7 +29902,7 @@ MultiLanguageSpellData['tw'][137017] = {name = "生存獵人", additional_info =
 MultiLanguageSpellData['tw'][137018] = {name = "法師", additional_info = nil}
 MultiLanguageSpellData['tw'][137019] = {name = "火焰法師", additional_info = "[q]Modifies Damage/Healing Done +4%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Damage/Healing Done +44%：\n霜火箭\n\nModifies Periodic Damage/Healing Done +4%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Periodic Damage/Healing Done +15%：\n霜火箭\n\nModifies Effect #2's Value 0：\n衝擊波"}
 MultiLanguageSpellData['tw'][137020] = {name = "冰霜法師", additional_info = "[q]Modifies Damage/Healing Done +14%：\n冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Damage/Healing Done +128%：\n冰錐術\n\nModifies Periodic Damage/Healing Done +14%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Effect #2's Value 0：\n衝擊波"}
-MultiLanguageSpellData['tw'][137021] = {name = "秘法法師", additional_info = "[q]Modifies Damage/Healing Done +15%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Periodic Damage/Healing Done +15%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Power Cost -67%：\n法術竊取\n\nModifies Effect #2's Value 0：\n衝擊波"}
+MultiLanguageSpellData['tw'][137021] = {name = "秘法法師", additional_info = "[q]Modifies Damage/Healing Done +12%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Periodic Damage/Healing Done +12%：\n冰錐術 ， 冰霜射線 ， 冰霜新星 ， 嚴寒脈衝 ， 寒冰新星 ， 寒冰箭雨 ， 折磨反噬 ， 法能移轉 ， 火焰衝擊 ， 火焰衝擊 ， 火球術 ， 灼燒 ， 炎爆術 ， 烈焰風暴 ， 猛烈魔法 ， 璀璨星火 ， 秘法奔騰 ， 秘法彈幕 ， 秘法衝擊 ， 縱火者 ， 虛空暴雨 ， 衝擊波 ， 超級新星 ， 魔爆術 ， 鳳凰之炎 ， 龍之吐息\n\nModifies Power Cost -67%：\n法術竊取\n\nModifies Effect #2's Value 0：\n衝擊波"}
 MultiLanguageSpellData['tw'][137022] = {name = "武僧", additional_info = nil}
 MultiLanguageSpellData['tw'][137023] = {name = "釀酒武僧", additional_info = "[q]Modifies Damage/Healing Done -38%：\n飛玉疾風\n\nModifies Damage/Healing Done +11%：\n鶴旋踢 ， 鶴旋踢\n\nModifies Damage/Healing Done +35%：\n和諧湧動 ， 火焰吐息 ， 爆炸酒桶 ， 狂拳連打 ， 白虎拳 ， 真氣突發 ， 碎玉轟雷掌 ， 翔陽寸勁 ， 腐蝕療法 ， 酒罈破 ， 靈脈踐踏 ， 靈脈踐踏\n\nModifies Damage/Healing Done +62%：\n滅寂腿\n\nModifies Damage/Healing Done +70%：\n疾風踢 ， 翔陽腳\n\nModifies Damage/Healing Done +92%：\n生氣勃勃\n\nModifies Damage/Healing Done +271%：\n虎掌\n\nModifies Periodic Damage/Healing Done +25%：\n舒和之霧 ， 舒和之霧\n\nModifies Periodic Damage/Healing Done +35%：\n和諧湧動 ， 滅寂腿 ， 火焰吐息 ， 爆炸酒桶 ， 狂拳連打 ， 白虎拳 ， 真氣突發 ， 碎玉轟雷掌 ， 翔陽寸勁 ， 腐蝕療法 ， 虎掌 ， 酒罈破 ， 靈脈踐踏 ， 靈脈踐踏\n\nModifies Buff Duration +50%：\n翠玉清風 ， 飛玉疾風\n\nModifies Global Cooldown -500：\n傷筋斷骨 ， 化毒袪病 ， 化毒袪病 ， 和平之環 ， 幽冥掌 ， 掃堂腿 ， 掃葉腿 ， 斗轉星移 ， 滅寂腿 ， 猛虎出閘 ， 疾風踢 ， 真氣波 ， 真氣爆裂 ， 碎玉轟雷掌 ， 秩序武裝 ， 秩序武裝 ， 翔陽腳 ， 翠玉清風 ， 虎掌 ， 超凡入聖 ， 超凡入聖：連結靈魂 ， 飛玉疾風 ， 鶴旋踢 ， 鶴旋踢 ， 點穴\n\nModifies Power Cost -100%：\n滅寂腿 ， 火焰吐息 ， 飛玉疾風\n\nModifies Power Cost -50%：\n虎掌"}
 MultiLanguageSpellData['tw'][137024] = {name = "織霧武僧", additional_info = "[q]Mistweaver Monk core passive\n[q]Modifies Damage/Healing Done -0%：\n三花聚頂 ， 五氣歸元 ， 保險！ ， 保險！ ， 和諧湧動 ， 秩序武裝 ， 秩序武裝 ， 舒和之霧 ， 迷霧繚繞 ， 雪崙的贈禮 ， 靈脈踐踏 ， 靈魂之力\n\nModifies Damage/Healing Done +10%：\n腐蝕療法\n\nModifies Damage/Healing Done +106%：\n疾風踢 ， 翔陽腳\n\nModifies Damage/Healing Done +115%：\n生氣勃勃\n\nModifies Damage/Healing Done +128%：\n滅寂腿\n\nModifies Damage/Healing Done +297%：\n虎掌\n\nModifies Damage/Healing Done +588%：\n斗轉星移\n\nModifies Periodic Damage/Healing Done -0%：\n三花聚頂 ， 五氣歸元 ， 保險！ ， 保險！ ， 和諧湧動 ， 斗轉星移 ， 生氣勃勃 ， 秩序武裝 ， 秩序武裝 ， 舒和之霧 ， 迷霧繚繞 ， 雪崙的贈禮 ， 靈脈踐踏 ， 靈魂之力\n\nModifies Periodic Damage/Healing Done +10%：\n腐蝕療法\n\nModifies Periodic Damage/Healing Done +400%：\n碎玉轟雷掌\n\nModifies Cooldown +2000：\n疾風踢 ， 翔陽腳\n\nModifies Power Cost -100%：\n虎掌"}
@@ -30372,7 +30372,7 @@ MultiLanguageSpellData['tw'][137572] = {name = "流沙術", additional_info = ni
 MultiLanguageSpellData['tw'][137573] = {name = "速度爆發", additional_info = "瞬發\n[q]移動速度提高70%，持續4秒，同時移除所有減緩移動速度的效果。不會取消潛行狀態。"}
 MultiLanguageSpellData['tw'][137574] = {name = "干擾", additional_info = "150 碼範圍\n瞬發\n[q]魔古干擾你體內的精華，為了返回生者世界，敵人受到的治療效果全都會被轉移該名魔古身上。"}
 MultiLanguageSpellData['tw'][137575] = {name = "霜寒刺骨", additional_info = "瞬發"}
-MultiLanguageSpellData['tw'][137576] = {name = "擲殺", additional_info = "30 碼範圍\n瞬發\n[q]終結技，對目標造成傷害，使其移動速度降低70%，持續6秒。\n 造成的傷害：\n 1點：[攻擊強度 * 0.178 * 1 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 2點：[攻擊強度 * 0.178 * 2 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 3點：[攻擊強度 * 0.178 * 3 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 4點：[攻擊強度 * 0.178 * 4 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 5點：[攻擊強度 * 0.178 * 5 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害"}
+MultiLanguageSpellData['tw'][137576] = {name = "擲殺", additional_info = "30 碼範圍\n瞬發\n[q]終結技，對目標造成傷害，使其移動速度降低70%，持續6秒。\n 造成的傷害：\n 1點：[攻擊強度 * 0.178 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 2點：[攻擊強度 * 0.178 * 2 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 3點：[攻擊強度 * 0.178 * 3 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 4點：[攻擊強度 * 0.178 * 4 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害\n 5點：[攻擊強度 * 0.178 * 5 * [(1.10 * (1 + 臨機應變))][(1.00 * (1 + 臨機應變))]]點傷害"}
 MultiLanguageSpellData['tw'][137577] = {name = "治療", additional_info = "無限範圍\n瞬發\n[q]對受到干擾所影響的目標造成的治療效果全數轉移至『餘燼護法』丁佐身上。"}
 MultiLanguageSpellData['tw'][137578] = {name = "蛇靈烈焰", additional_info = "瞬發\n[q]引導蛇靈羅亞對一名隨機敵人造成40點火焰傷害。"}
 MultiLanguageSpellData['tw'][137579] = {name = "刺骨之寒", additional_info = nil}
@@ -40123,7 +40123,7 @@ MultiLanguageSpellData['tw'][150622] = {name = "龍形", additional_info = nil}
 MultiLanguageSpellData['tw'][150623] = {name = "Powerup Visual - Back Jump", additional_info = nil}
 MultiLanguageSpellData['tw'][150624] = {name = "前往要塞", additional_info = nil}
 MultiLanguageSpellData['tw'][150626] = {name = "正義之怒", additional_info = "瞬發 1.5秒 冷卻\n[q]啟動後，提高你所產生的威脅值，使你成為更有效率的坦克。"}
-MultiLanguageSpellData['tw'][150627] = {name = "公正之錘", additional_info = "無限範圍\n瞬發\n[q]懲戒\n打擊目標，造成[(攻擊強度 107.1%) * 1]點 物理 傷害。\n\n產生1道聖能。\n\n神聖, 防護\n打擊目標，造成[(攻擊強度 107.1%) * 1]點物理傷害。\n\n產生1道聖能。"}
+MultiLanguageSpellData['tw'][150627] = {name = "公正之錘", additional_info = "無限範圍\n瞬發\n[q]懲戒\n打擊目標，造成[(攻擊強度 107.1%)]點 物理 傷害。\n\n產生1道聖能。\n\n神聖, 防護\n打擊目標，造成[(攻擊強度 107.1%)]點物理傷害。\n\n產生1道聖能。"}
 MultiLanguageSpellData['tw'][150628] = {name = "公正之錘", additional_info = "近戰範圍\n瞬發\n[q]錘擊目前目標，造成(攻擊強度 97.5%)%武器傷害，並發出光波攻擊8碼內的所有目標，造成(攻擊強度 13.56%)%傷害。"}
 MultiLanguageSpellData['tw'][150629] = {name = "至尊王者祝福", additional_info = "40 碼範圍\n瞬發\n[q]替附近所有的友方目標施加祝福，使他們的屬性和精通提高。"}
 MultiLanguageSpellData['tw'][150630] = {name = "保護聖禦", additional_info = "40 碼範圍\n瞬發 5分鐘 冷卻\n[q]受保護的隊友將對一切物理攻擊免疫，持續10秒。"}
@@ -41287,7 +41287,7 @@ MultiLanguageSpellData['tw'][152274] = {name = "Trial Step Road Sign State", add
 MultiLanguageSpellData['tw'][152275] = {name = "Cancel Secondary Phase Aura", additional_info = nil}
 MultiLanguageSpellData['tw'][152278] = {name = "憤怒掌控", additional_info = "[q]防護\n 你每消耗10點怒氣，都會使巨像化身和盾牆的剩餘冷卻時間縮短1秒。\n\n狂怒\n 你每消耗20點怒氣，都會使魯莽、劍刃風暴和劫毀旋刃的剩餘冷卻時間縮短1秒。\n\n武器\n 攻擊時，你每消耗20點怒氣，都會使千鈞潰擊、劍刃風暴和劫毀旋刃的剩餘冷卻時間縮短1秒。\n\n武器 (破戰制霸)\n 攻擊時，你每消耗20點怒氣，都會使破戰制霸、劍刃風暴和劫毀旋刃的剩餘冷卻時間縮短1秒。"}
 MultiLanguageSpellData['tw'][152279] = {name = "辛德拉苟莎之息", additional_info = "每秒16點符能\n瞬發 2分鐘 冷卻\n[q]每1秒持續對你面前錐形範圍內的敵人造成[(攻擊強度 139.788%) * [(攻擊強度 * 0.98)][((攻擊強度 + 副手攻擊強度) * 2 / 3)] -- 2H, DW / 攻擊強度]點冰霜傷害，直到符能耗盡為止。對次要目標造成較低的傷害。\n\n在開始和結束時產生1個符文。"}
-MultiLanguageSpellData['tw'][152280] = {name = "褻瀆", additional_info = "[q]代替 死亡凋零\n1個符文 / -10點符能 30 碼範圍\n瞬發 30秒 冷卻\n1 次充能\n[q]褻瀆目標區域，在10秒內對所有敵人造成[((攻擊強度 15%) * (11) / 1)]點暗影傷害。\n\n 你位於褻瀆範圍內時，你的 [ 暗影爪襲 / 天譴打擊]將會攻擊目標附近的7個敵人 。\n\n 如果有任何敵人站在褻瀆的範圍內，褻瀆的規模每秒都會變大，且造成更多傷害。"}
+MultiLanguageSpellData['tw'][152280] = {name = "褻瀆", additional_info = "[q]代替 死亡凋零\n1個符文 / -10點符能 30 碼範圍\n瞬發 30秒 冷卻\n1 次充能\n[q]褻瀆目標區域，在10秒內對所有敵人造成[((攻擊強度 15%) * (11))]點暗影傷害。\n\n 你位於褻瀆範圍內時，你的 [ 暗影爪襲 / 天譴打擊]將會攻擊目標附近的7個敵人 。\n\n 如果有任何敵人站在褻瀆的範圍內，褻瀆的規模每秒都會變大，且造成更多傷害。"}
 MultiLanguageSpellData['tw'][152282] = {name = "藤鞭", additional_info = "近戰範圍\n3秒 施法時間 6秒 冷卻\n[q]發動猛烈攻勢，短暫延遲後重擊地面，造成自然傷害，並將目標擊退。"}
 MultiLanguageSpellData['tw'][152285] = {name = "Summon Darktalon A", additional_info = nil}
 MultiLanguageSpellData['tw'][152286] = {name = "Summon Darktalon B", additional_info = nil}
@@ -41783,7 +41783,7 @@ MultiLanguageSpellData['tw'][152983] = {name = "破壞者", additional_info = ni
 MultiLanguageSpellData['tw'][152984] = {name = "自動火砲就位", additional_info = nil}
 MultiLanguageSpellData['tw'][152985] = {name = "覆寫", additional_info = "瞬發 1.5秒 冷卻\n施法材料:\n競速調整器\n[q]把附近的強化道具變成你所儲存的道具。\n\n 需要材料：競速調整器。"}
 MultiLanguageSpellData['tw'][152986] = {name = "Explosion Wind Impact + Vertical Plume", additional_info = nil}
-MultiLanguageSpellData['tw'][152987] = {name = "毀滅者風暴", additional_info = "無限範圍\n4秒 施法時間\n[q]呼喚毀滅者火力支援，依序對10碼內的敵人造成7330點暗影傷害；然後對20碼內的敵人造成10996點暗影傷害；再來對30碼內的敵人造成14660 點暗影傷害，最後對60碼內的敵人造成36651點暗影傷害。"}
+MultiLanguageSpellData['tw'][152987] = {name = "毀滅者風暴", additional_info = "無限範圍\n4秒 施法時間\n[q]呼喚毀滅者火力支援，依序對10碼內的敵人造成31610點暗影傷害；然後對20碼內的敵人造成47414點暗影傷害；再來對30碼內的敵人造成63219 點暗影傷害，最後對60碼內的敵人造成158047點暗影傷害。"}
 MultiLanguageSpellData['tw'][152989] = {name = "神聖之盾", additional_info = "無限範圍\n瞬發 12秒 冷卻\n[q]擲出神聖能量護盾，擊中時造成神聖傷害，同時阻擋視線和行動，持續30秒。"}
 MultiLanguageSpellData['tw'][152992] = {name = "最後的儀式", additional_info = nil}
 MultiLanguageSpellData['tw'][152993] = {name = "Holy Fill Precast", additional_info = nil}
@@ -44105,8 +44105,8 @@ MultiLanguageSpellData['tw'][155995] = {name = "蓋印重壓", additional_info =
 MultiLanguageSpellData['tw'][155997] = {name = "刺穿", additional_info = nil}
 MultiLanguageSpellData['tw'][155998] = {name = "刺穿", additional_info = "50能量\n0.25 秒 施法時間\n[q]執行者索爾卡對玩家發射手臂上的鎖鍊魚叉，刺穿玩家，造成63點物理傷害。\n\n 然後將玩家拉向自己，並且影遁從玩家身後奮力將其踢飛。"}
 MultiLanguageSpellData['tw'][155999] = {name = "製作灰塵樣品", additional_info = "1.5秒 施法時間\n施法材料:\nItem #109091(3)\n[q]3個小型暮翼之塵樣品組合成暮翼之塵樣品。"}
-MultiLanguageSpellData['tw'][156000] = {name = "褻瀆", additional_info = "100 碼範圍\n瞬發\n[q]褻瀆目標區域，在10秒內對所有敵人造成[((攻擊強度 15%) * 11 / 1)]點暗影傷害。\n\n 你位於褻瀆範圍內時，你的 [ 暗影爪襲 / 天譴打擊]將會攻擊目標附近的7個敵人 。\n\n 如果有任何敵人站在褻瀆的範圍內，褻瀆的規模每秒都會變大，且造成更多傷害。"}
-MultiLanguageSpellData['tw'][156004] = {name = "褻瀆", additional_info = "100 碼範圍\n瞬發\n[q]褻瀆目標區域，在10秒內對所有敵人造成[((攻擊強度 15%) * 11 / 1)]點暗影傷害。\n\n 你位於褻瀆範圍內時，你的 [ 暗影爪襲 / 天譴打擊]將會攻擊目標附近的7個敵人 。\n\n 如果有任何敵人站在褻瀆的範圍內，褻瀆的規模每秒都會變大，且造成更多傷害。"}
+MultiLanguageSpellData['tw'][156000] = {name = "褻瀆", additional_info = "100 碼範圍\n瞬發\n[q]褻瀆目標區域，在10秒內對所有敵人造成[((攻擊強度 15%) * 11)]點暗影傷害。\n\n 你位於褻瀆範圍內時，你的 [ 暗影爪襲 / 天譴打擊]將會攻擊目標附近的7個敵人 。\n\n 如果有任何敵人站在褻瀆的範圍內，褻瀆的規模每秒都會變大，且造成更多傷害。"}
+MultiLanguageSpellData['tw'][156004] = {name = "褻瀆", additional_info = "100 碼範圍\n瞬發\n[q]褻瀆目標區域，在10秒內對所有敵人造成[((攻擊強度 15%) * 11)]點暗影傷害。\n\n 你位於褻瀆範圍內時，你的 [ 暗影爪襲 / 天譴打擊]將會攻擊目標附近的7個敵人 。\n\n 如果有任何敵人站在褻瀆的範圍內，褻瀆的規模每秒都會變大，且造成更多傷害。"}
 MultiLanguageSpellData['tw'][156005] = {name = "戰矛臂鏈", additional_info = nil}
 MultiLanguageSpellData['tw'][156006] = {name = "刺穿", additional_info = "無限範圍\n瞬發\n[q]執行者索爾卡對玩家發射手臂上的鎖鍊魚叉，刺穿玩家，造成63點物理傷害。\n\n 然後將玩家拉向自己，並且影遁從玩家身後奮力將其踢飛。"}
 MultiLanguageSpellData['tw'][156007] = {name = "刺穿", additional_info = "無限範圍\n瞬發\n[q]執行者索爾卡對玩家發射手臂上的鎖鍊魚叉，刺穿玩家，造成63點物理傷害。\n\n 然後將玩家拉向自己，並且影遁從玩家身後奮力將其踢飛。"}
@@ -45375,7 +45375,7 @@ MultiLanguageSpellData['tw'][157926] = {name = "跳摔", additional_info = nil}
 MultiLanguageSpellData['tw'][157928] = {name = "吹熄", additional_info = nil}
 MultiLanguageSpellData['tw'][157930] = {name = "Summon Owynn Graddock (Seeking The Truth)", additional_info = nil}
 MultiLanguageSpellData['tw'][157931] = {name = "秘法箭", additional_info = "100 碼範圍\n2.5秒 施法時間\n[q]以爆發的秘法能量衝擊目標，造成1018點秘法傷害。"}
-MultiLanguageSpellData['tw'][157932] = {name = "腐化光鋒", additional_info = "無限範圍\n瞄准 (1秒 施法時間)\n[q]從球體間射出腐化能量光束，對擊中的敵人造成18326點暗影傷害。"}
+MultiLanguageSpellData['tw'][157932] = {name = "腐化光鋒", additional_info = "無限範圍\n瞄准 (1秒 施法時間)\n[q]從球體間射出腐化能量光束，對擊中的敵人造成6548點暗影傷害。"}
 MultiLanguageSpellData['tw'][157933] = {name = "老鼠誘餌", additional_info = "5 - 15 碼範圍\n0.5 秒 施法時間\n[q]利用這個誘餌，將老鼠吸引到無人駕駛的鋼鐵伐木機。"}
 MultiLanguageSpellData['tw'][157934] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['tw'][157935] = {name = "歐維恩", additional_info = nil}
@@ -47707,7 +47707,7 @@ MultiLanguageSpellData['tw'][161117] = {name = "穿刺之牙", additional_info =
 MultiLanguageSpellData['tw'][161118] = {name = "競技場看臺清場", additional_info = nil}
 MultiLanguageSpellData['tw'][161119] = {name = "Keli'dan FX Scene", additional_info = nil}
 MultiLanguageSpellData['tw'][161120] = {name = "蜘蛛網", additional_info = nil}
-MultiLanguageSpellData['tw'][161121] = {name = "毀滅者風暴", additional_info = "無限範圍\n瞬發\n[q]呼喚毀滅者火力支援，依序對10碼內的敵人造成7330點暗影傷害；然後對20碼內的敵人造成10996點暗影傷害；再來對30碼內的敵人造成14660 點暗影傷害，最後對60碼內的敵人造成36651點暗影傷害。"}
+MultiLanguageSpellData['tw'][161121] = {name = "毀滅者風暴", additional_info = "無限範圍\n瞬發\n[q]呼喚毀滅者火力支援，依序對10碼內的敵人造成31610點暗影傷害；然後對20碼內的敵人造成47414點暗影傷害；再來對30碼內的敵人造成63219 點暗影傷害，最後對60碼內的敵人造成158047點暗影傷害。"}
 MultiLanguageSpellData['tw'][161122] = {name = "魔指恐懼", additional_info = "100 碼範圍\n瞬發\n[q]施法者將附近敵人緩慢拉近，並週期性地派出魔化蜘蛛。位於蜘蛛路徑上的玩家每秒受到自然傷害。"}
 MultiLanguageSpellData['tw'][161124] = {name = "魔指恐懼", additional_info = "100 碼範圍\n1秒 施法時間\n[q]施法者將附近敵人緩慢拉近，並週期性地派出魔化蜘蛛。位於蜘蛛路徑上的玩家每秒受到自然傷害。"}
 MultiLanguageSpellData['tw'][161125] = {name = "Quest - Ironfist Harbor - Peon Carrying Supply Crate", additional_info = nil}

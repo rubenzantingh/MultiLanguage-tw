@@ -1,3 +1,4 @@
+MultiLanguageNpcData['tw'][175417] = {name = "蘇拉諾姆", subname = "傳奇納撒亞武器鍛造師"}
 MultiLanguageNpcData['tw'][175418] = {name = "瑪蘭", subname = "暗夜妖精護甲商人"}
 MultiLanguageNpcData['tw'][175419] = {name = "工匠大師蘭妲", subname = "物品升級"}
 MultiLanguageNpcData['tw'][175420] = {name = "癩爪", subname = nil}
@@ -45557,4 +45558,3 @@ MultiLanguageNpcData['tw'][233139] = {name = "機械工克倫雷格", subname = 
 MultiLanguageNpcData['tw'][233142] = {name = "恐怖的黑鐵酒客", subname = nil}
 MultiLanguageNpcData['tw'][233143] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['tw'][233144] = {name = "淬鍊阿爾加旌旗", subname = nil}
-MultiLanguageNpcData['tw'][233145] = {name = "阿爾加珍藏旌旗", subname = nil}

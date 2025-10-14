@@ -1,3 +1,4 @@
+MultiLanguageNpcData['tw'][120958] = {name = "克索諾斯魔化騎士", subname = nil}
 MultiLanguageNpcData['tw'][120959] = {name = "新訂單", subname = nil}
 MultiLanguageNpcData['tw'][120961] = {name = "煉獄衝擊", subname = nil}
 MultiLanguageNpcData['tw'][120962] = {name = "魔濤吟潮者", subname = nil}
@@ -48562,4 +48563,3 @@ MultiLanguageNpcData['tw'][175413] = {name = "爍風", subname = "隨機團隊�
 MultiLanguageNpcData['tw'][175414] = {name = "艾德拉", subname = "普通納撒亞武器鍛造師"}
 MultiLanguageNpcData['tw'][175415] = {name = "哈寇斯", subname = "英雄納撒亞武器鍛造師"}
 MultiLanguageNpcData['tw'][175416] = {name = "米基", subname = nil}
-MultiLanguageNpcData['tw'][175417] = {name = "蘇拉諾姆", subname = "傳奇納撒亞武器鍛造師"}

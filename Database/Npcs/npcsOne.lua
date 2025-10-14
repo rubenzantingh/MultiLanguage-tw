@@ -48115,4 +48115,3 @@ MultiLanguageNpcData['tw'][64749] = {name = "柯爾‧卡世達苞", subname = "
 MultiLanguageNpcData['tw'][64750] = {name = "羅伯‧傑克森", subname = "馴獸師"}
 MultiLanguageNpcData['tw'][64751] = {name = "傑克森太太", subname = "馴獸師"}
 MultiLanguageNpcData['tw'][64752] = {name = "唐娜‧哈里休魯", subname = "馴獸師"}
-MultiLanguageNpcData['tw'][64753] = {name = "蘇菲‧諾提卡", subname = "馴獸師"}
