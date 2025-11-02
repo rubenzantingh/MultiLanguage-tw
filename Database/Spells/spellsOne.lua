@@ -8633,6 +8633,7 @@ MultiLanguageSpellData['tw'][27820] = {name = "法力爆破", additional_info = 
 MultiLanguageSpellData['tw'][27824] = {name = "Rimblat Grows Flower DND", additional_info = nil}
 MultiLanguageSpellData['tw'][27825] = {name = "暗影印記", additional_info = "瞬發\n需要 近戰武器\n[q]像旋風一般揮舞手中的武器，攻擊半徑8碼範圍內的敵人，對其造成武器傷害。"}
 MultiLanguageSpellData['tw'][27826] = {name = "攔截", additional_info = "30 碼範圍\n瞬發\n[q]向敵人衝鋒，造成100點傷害，並使其昏迷3秒。"}
+MultiLanguageSpellData['tw'][27827] = {name = "救贖之靈", additional_info = "瞬發\n[q]死亡時，牧師會變成救贖之靈，持續15秒。救贖之靈無法移動、攻擊、被攻擊，或者被任何法術或效果鎖定。進入此形態後，牧師可以不消耗法力施放任何治療法術。效果結束後，牧師就會死亡。"}
 MultiLanguageSpellData['tw'][27829] = {name = "[q4]泰坦護腿", additional_info = "2秒 施法時間\n工具:\n鐵匠之錘\n施法材料:\n奧金錠 (12), 附魔瑟銀錠 (20), 大地精華 (10), 泰坦精煉藥劑 (2)\n掉落：\n世界生物\n\n寶藏：\n世界掉落\n\n[q4]泰坦護腿\n裝備後綁定\n腿部 板甲\n13護甲\n+5 [力量 or 智力][q2]+ 3 致命一擊\n[q2]+ 5 加速\n耐久: 120 / 120\n23"}
 MultiLanguageSpellData['tw'][27830] = {name = "[q4]說服者", additional_info = "2.5秒 施法時間\n工具:\n鐵匠之錘\n施法材料:\n奧金錠 (15), 黑鐵錠 (10), 死靈精華 (20), 黑暗符文 (20), 魔暴龍皮 (10)\n掉落：\n世界生物\n\n[q4]說服者\n裝備後綁定\n單手 權杖\n4-6點傷害 速度 2.60\n(每秒1.9點傷害)\n+2 力量\n[q2]+ 4 致命一擊\n[q2]+ 3 加速\n耐久: 110 / 110\n24"}
 MultiLanguageSpellData['tw'][27831] = {name = "暗影箭雨", additional_info = "1.5秒 施法時間\n[q]向附近的敵人射出多支暗影箭，對他們造成暗影傷害。"}

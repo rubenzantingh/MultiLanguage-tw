@@ -1831,7 +1831,7 @@ MultiLanguageNpcData['tw'][67009] = {name = "武僧受訓弟子", subname = nil}
 MultiLanguageNpcData['tw'][67010] = {name = "Psycho Mantid: Tik vs Kree'zot Bunny", subname = nil}
 MultiLanguageNpcData['tw'][67011] = {name = "卡爾洛夏蠻兵", subname = nil}
 MultiLanguageNpcData['tw'][67012] = {name = "塔蘭‧祝", subname = "影潘宗主"}
-MultiLanguageNpcData['tw'][67013] = {name = "寶庫管理者米拉德", subname = "虛空倉庫"}
+MultiLanguageNpcData['tw'][67013] = {name = "寶庫管理者米拉德", subname = nil}
 MultiLanguageNpcData['tw'][67014] = {name = "星移編織師夏菲伊", subname = "塑形師"}
 MultiLanguageNpcData['tw'][67015] = {name = "武僧受訓弟子", subname = nil}
 MultiLanguageNpcData['tw'][67016] = {name = "遠古雕像軀幹", subname = nil}
@@ -18411,7 +18411,7 @@ MultiLanguageNpcData['tw'][86392] = {name = "復仇者諾柏多", subname = nil}
 MultiLanguageNpcData['tw'][86393] = {name = "先知德雷克塔爾", subname = nil}
 MultiLanguageNpcData['tw'][86394] = {name = "狼坐騎", subname = nil}
 MultiLanguageNpcData['tw'][86395] = {name = "星移編織師傑索", subname = "塑形師"}
-MultiLanguageNpcData['tw'][86396] = {name = "寶庫管理者沃赫拉", subname = "虛空倉庫"}
+MultiLanguageNpcData['tw'][86396] = {name = "寶庫管理者沃赫拉", subname = nil}
 MultiLanguageNpcData['tw'][86397] = {name = "破壞性寄生", subname = nil}
 MultiLanguageNpcData['tw'][86398] = {name = "納葛蘭爭鬥者", subname = nil}
 MultiLanguageNpcData['tw'][86399] = {name = "破碎之手獸人", subname = nil}
@@ -29274,7 +29274,7 @@ MultiLanguageNpcData['tw'][99235] = {name = "Kill Credit: Bad Intentions", subna
 MultiLanguageNpcData['tw'][99236] = {name = "塔倫迪斯哨兵", subname = nil}
 MultiLanguageNpcData['tw'][99237] = {name = "白銀誓盟守護法師", subname = nil}
 MultiLanguageNpcData['tw'][99238] = {name = "塔倫迪斯旋刃投擲器", subname = nil}
-MultiLanguageNpcData['tw'][99240] = {name = "反制系統", subname = nil}
+MultiLanguageNpcData['tw'][99240] = {name = "深層冰凍封印", subname = nil}
 MultiLanguageNpcData['tw'][99241] = {name = "指揮官加羅迪努斯", subname = nil}
 MultiLanguageNpcData['tw'][99242] = {name = "Sunken City BO - 5 Points", subname = nil}
 MultiLanguageNpcData['tw'][99244] = {name = "逐星角鷹獸", subname = nil}

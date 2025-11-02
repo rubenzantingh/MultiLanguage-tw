@@ -39821,7 +39821,6 @@ MultiLanguageSpellData['tw'][396495] = {name = "大地裂隙", additional_info =
 MultiLanguageSpellData['tw'][396496] = {name = "大地裂隙", additional_info = "無限範圍\n瞬發\n[q]羅亞瑪斯讓地面冒出多根岩柱，對4.5碼範圍內的玩家造成176657點自然傷害，並將其擊退。"}
 MultiLanguageSpellData['tw'][396497] = {name = "DNT - Valdrakken Accord - Rank 07 Unlock Quest", additional_info = nil}
 MultiLanguageSpellData['tw'][396498] = {name = "洪荒召集", additional_info = "5秒 施法時間\n[q]奧珀方與剩下的議會成員一起最後一次召集元素之力，每5秒對所有玩家造成60點自然傷害。"}
-MultiLanguageSpellData['tw'][396500] = {name = "丟帽子", additional_info = "40 碼範圍\n1.5秒 施法時間\n[q]在野生保育區擲向精英元龍來暫時安撫對方。"}
 MultiLanguageSpellData['tw'][396501] = {name = "石鑿符文", additional_info = nil}
 MultiLanguageSpellData['tw'][396502] = {name = "召集之土", additional_info = "瞬發\n[q]奧珀方與剩下的議會成員一起最後一次召集元素之力，每5秒對所有玩家造成60點自然傷害。"}
 MultiLanguageSpellData['tw'][396503] = {name = "大地裂隙", additional_info = "無限範圍\n2.5秒 施法時間\n[q]羅亞瑪斯讓地面冒出多根岩柱，對4.5碼範圍內的玩家造成176657點自然傷害，並將其擊退。"}
@@ -41080,3 +41079,4 @@ MultiLanguageSpellData['tw'][398380] = {name = "超能衝擊", additional_info =
 MultiLanguageSpellData['tw'][398382] = {name = "大地怒靈之拳", additional_info = nil}
 MultiLanguageSpellData['tw'][398383] = {name = "大地怒靈之拳", additional_info = "瞄准 (6秒 施法時間) 16秒 冷卻\n[q]最多造成[24 * ((法術能量 16%))]點自然傷害。"}
 MultiLanguageSpellData['tw'][398384] = {name = "熾烈之怒", additional_info = "近戰範圍\n瞬發\n[q]Inflicts 3 Fire damage to an enemy every 1 sec for 3秒."}
+MultiLanguageSpellData['tw'][398385] = {name = "熾烈之怒", additional_info = "2秒 施法時間 12秒 冷卻\n[q]狂怒化，使近戰攻擊每秒造成3點火焰傷害，持續3秒秒。"}

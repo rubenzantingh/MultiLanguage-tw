@@ -3786,7 +3786,7 @@ MultiLanguageSpellData['tw'][94468] = {name = "喝飲料", additional_info = "�
 MultiLanguageSpellData['tw'][94469] = {name = "Stun-Kneel (Skullcrusher)", additional_info = nil}
 MultiLanguageSpellData['tw'][94470] = {name = "重拿新教徒長袍", additional_info = nil}
 MultiLanguageSpellData['tw'][94471] = {name = "Life Blast [INTERNAL ONLY]", additional_info = nil}
-MultiLanguageSpellData['tw'][94472] = {name = "贖罪", additional_info = "無限範圍\n瞬發\n[q]真言術：盾、快速治療、恢復、真言術：輝和真言術：命會對你的目標施加贖罪，持續15秒。\n\n 你的法術造成的33%傷害會同時治療所有受贖罪效果影響的目標。\n\n 不在團隊時，治療效果提高100%。"}
+MultiLanguageSpellData['tw'][94472] = {name = "贖罪", additional_info = "無限範圍\n瞬發\n[q]真言術：盾、快速治療、恢復、真言術：輝和真言術：命會對你的目標施加贖罪，持續15秒。\n\n 你的法術造成的38%傷害會同時治療所有受贖罪效果影響的目標。\n\n 不在團隊時，治療效果提高75%。"}
 MultiLanguageSpellData['tw'][94473] = {name = "火焰箭", additional_info = "20 碼範圍\n1.5秒 施法時間\n[q]以火焰射擊目標。"}
 MultiLanguageSpellData['tw'][94477] = {name = "看見任務隱形 18", additional_info = nil}
 MultiLanguageSpellData['tw'][94478] = {name = "看見任務隱形 19", additional_info = nil}
@@ -45375,7 +45375,7 @@ MultiLanguageSpellData['tw'][157926] = {name = "跳摔", additional_info = nil}
 MultiLanguageSpellData['tw'][157928] = {name = "吹熄", additional_info = nil}
 MultiLanguageSpellData['tw'][157930] = {name = "Summon Owynn Graddock (Seeking The Truth)", additional_info = nil}
 MultiLanguageSpellData['tw'][157931] = {name = "秘法箭", additional_info = "100 碼範圍\n2.5秒 施法時間\n[q]以爆發的秘法能量衝擊目標，造成1018點秘法傷害。"}
-MultiLanguageSpellData['tw'][157932] = {name = "腐化光鋒", additional_info = "無限範圍\n瞄准 (1秒 施法時間)\n[q]從球體間射出腐化能量光束，對擊中的敵人造成6548點暗影傷害。"}
+MultiLanguageSpellData['tw'][157932] = {name = "腐化光鋒", additional_info = "無限範圍\n瞄准 (1秒 施法時間)\n[q]從球體間射出腐化能量光束，對擊中的敵人造成28235點暗影傷害。"}
 MultiLanguageSpellData['tw'][157933] = {name = "老鼠誘餌", additional_info = "5 - 15 碼範圍\n0.5 秒 施法時間\n[q]利用這個誘餌，將老鼠吸引到無人駕駛的鋼鐵伐木機。"}
 MultiLanguageSpellData['tw'][157934] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['tw'][157935] = {name = "歐維恩", additional_info = nil}
@@ -47880,7 +47880,6 @@ MultiLanguageSpellData['tw'][161335] = {name = "秘法颶風", additional_info =
 MultiLanguageSpellData['tw'][161336] = {name = "催生噴吐", additional_info = "100 碼範圍\n瞬發\n[q]施法者朝附近目標吐出許多團孕育膽汁。\n 每團膽汁擊中目標時會生出一名魔花人，攻擊施法者的敵人。"}
 MultiLanguageSpellData['tw'][161337] = {name = "戰鬥的號角", additional_info = "25 碼範圍\n瞬發\n[q]召集要塞的軍力攻擊指定的區域，持續15秒。"}
 MultiLanguageSpellData['tw'][161340] = {name = "戰鬥的號角", additional_info = "40 碼範圍\n1秒 施法時間\n需要 遠程武器"}
-MultiLanguageSpellData['tw'][161341] = {name = "戰鬥的號角", additional_info = nil}
 MultiLanguageSpellData['tw'][161342] = {name = "催生噴吐", additional_info = "100 碼範圍\n瞬發\n[q]施法者朝附近目標吐出許多團孕育膽汁。\n 每團膽汁擊中目標時會生出一名魔花人，攻擊施法者的敵人。"}
 MultiLanguageSpellData['tw'][161344] = {name = "催生噴吐", additional_info = "1秒 施法時間 15秒 冷卻\n[q]施法者朝附近目標吐出許多團孕育膽汁。\n 每團膽汁擊中目標時會生出一名魔花人，攻擊施法者的敵人。"}
 MultiLanguageSpellData['tw'][161345] = {name = "壓制力場", additional_info = "500 碼範圍\n瞬發\n[q]寇拉夫猛擊敵人位置的地面，對8碼內的目標造成3682點秘法傷害。此外，會製造一個壓制能量力場，使所有玩家沉默，並且每秒造成2209點秘法傷害。\n\n 此效果會同時沉默烈性異象。"}
