@@ -47880,6 +47880,7 @@ MultiLanguageSpellData['tw'][161335] = {name = "秘法颶風", additional_info =
 MultiLanguageSpellData['tw'][161336] = {name = "催生噴吐", additional_info = "100 碼範圍\n瞬發\n[q]施法者朝附近目標吐出許多團孕育膽汁。\n 每團膽汁擊中目標時會生出一名魔花人，攻擊施法者的敵人。"}
 MultiLanguageSpellData['tw'][161337] = {name = "戰鬥的號角", additional_info = "25 碼範圍\n瞬發\n[q]召集要塞的軍力攻擊指定的區域，持續15秒。"}
 MultiLanguageSpellData['tw'][161340] = {name = "戰鬥的號角", additional_info = "40 碼範圍\n1秒 施法時間\n需要 遠程武器"}
+MultiLanguageSpellData['tw'][161341] = {name = "戰鬥的號角", additional_info = nil}
 MultiLanguageSpellData['tw'][161342] = {name = "催生噴吐", additional_info = "100 碼範圍\n瞬發\n[q]施法者朝附近目標吐出許多團孕育膽汁。\n 每團膽汁擊中目標時會生出一名魔花人，攻擊施法者的敵人。"}
 MultiLanguageSpellData['tw'][161344] = {name = "催生噴吐", additional_info = "1秒 施法時間 15秒 冷卻\n[q]施法者朝附近目標吐出許多團孕育膽汁。\n 每團膽汁擊中目標時會生出一名魔花人，攻擊施法者的敵人。"}
 MultiLanguageSpellData['tw'][161345] = {name = "壓制力場", additional_info = "500 碼範圍\n瞬發\n[q]寇拉夫猛擊敵人位置的地面，對8碼內的目標造成3682點秘法傷害。此外，會製造一個壓制能量力場，使所有玩家沉默，並且每秒造成2209點秘法傷害。\n\n 此效果會同時沉默烈性異象。"}

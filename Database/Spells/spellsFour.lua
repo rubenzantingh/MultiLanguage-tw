@@ -48842,6 +48842,7 @@ MultiLanguageSpellData['tw'][280389] = {name = "射擊", additional_info = "100 
 MultiLanguageSpellData['tw'][280390] = {name = "Cosmetic - Void Tendrils", additional_info = nil}
 MultiLanguageSpellData['tw'][280391] = {name = "眾人之罪", additional_info = "[q]你造成的傷害提高最多20%，每名受到你贖罪影響的盟友都會降低此效果。"}
 MultiLanguageSpellData['tw'][280392] = {name = "削骨斬肉", additional_info = "[q]旋風斬 [ 暴雷轟擊 : 和雷霆一擊造成 / 造成]的傷害提高25%，且現在會 [ 暴雷轟擊 : 影響 / 影響]你下4次的單一目標攻擊。"}
+MultiLanguageSpellData['tw'][280395] = {name = "卡嘉就在附近", additional_info = nil}
 MultiLanguageSpellData['tw'][280396] = {name = "洛琪拉就在附近", additional_info = nil}
 MultiLanguageSpellData['tw'][280397] = {name = "Cancel Aura", additional_info = nil}
 MultiLanguageSpellData['tw'][280398] = {name = "眾人之罪", additional_info = "瞬發\n[q]你造成的傷害提高最多20%，每名受到你贖罪影響的盟友都會降低此效果。"}

@@ -4665,6 +4665,7 @@ MultiLanguageNpcData['tw'][254092] = {name = "伊特努斯", subname = nil}
 MultiLanguageNpcData['tw'][254093] = {name = "伊特努斯", subname = nil}
 MultiLanguageNpcData['tw'][254164] = {name = "水柱", subname = nil}
 MultiLanguageNpcData['tw'][254369] = {name = "控制器", subname = nil}
+MultiLanguageNpcData['tw'][256938] = {name = "卡德加升級的僕從", subname = nil}
 MultiLanguageNpcData['tw'][257023] = {name = "Hyena", subname = nil}
 MultiLanguageNpcData['tw'][257026] = {name = "Clefthoof", subname = nil}
 MultiLanguageNpcData['tw'][257031] = {name = "惡魔犬", subname = nil}

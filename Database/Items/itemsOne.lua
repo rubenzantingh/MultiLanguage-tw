@@ -28093,6 +28093,7 @@ MultiLanguageItemData['tw'][39954] = {name = "[q2]透光的巨黃晶", additiona
 MultiLanguageItemData['tw'][39955] = {name = "[q2]靈巧的巨黃晶", additional_info = "+1敏捷和+1加速\n[q]\"與任何插槽相容。\"\n售價:"}
 MultiLanguageItemData['tw'][39956] = {name = "[q2]高效的巨黃晶", additional_info = "+1智力和+1致命一擊\n[q]\"與任何插槽相容。\"\n售價:"}
 MultiLanguageItemData['tw'][39957] = {name = "[q2]朦朧的暗影水晶", additional_info = "+1智力和+1致命一擊\n[q]\"與任何插槽相容。\"\n售價:"}
+MultiLanguageItemData['tw'][39958] = {name = "[q2]固執的巨黃晶", additional_info = "+1智力和+1護甲值\n[q]\"與任何插槽相容。\"\n售價:"}
 MultiLanguageItemData['tw'][39959] = {name = "[q2]魯莽的巨黃晶", additional_info = "+1智力和+1加速\n[q]\"與任何插槽相容。\"\n售價:"}
 MultiLanguageItemData['tw'][39960] = {name = "[q2]致命的巨黃晶", additional_info = "+1敏捷和+1致命一擊\n[q]\"與任何插槽相容。\"\n售價:"}
 MultiLanguageItemData['tw'][39961] = {name = "[q2]閃爍的暗影水晶", additional_info = "+1敏捷和+1致命一擊\n[q]\"與任何插槽相容。\"\n售價:"}

@@ -26171,6 +26171,7 @@ MultiLanguageItemData['tw'][104468] = {name = "[q4]裂霜護肩", additional_inf
 MultiLanguageItemData['tw'][104469] = {name = "[q4]未受污染的守衛之鍊", additional_info = "傳奇難度\n拾取後綁定頸部\n+2 智力\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 精通\n售價:"}
 MultiLanguageItemData['tw'][104470] = {name = "[q4]諾努衫的謎之屏障", additional_info = "傳奇難度\n拾取後綁定{副手} {盾}\n49護甲\n+1 力量\n+7 智力\n+3 耐力\n[q2]+ 2 精通\n\n[q0]多色插槽\n[q0]插槽加成: + 2智力\n\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][104471] = {name = "[q4]危殆之信長靴", additional_info = "傳奇難度\n拾取後綁定{腳} {皮甲}\n5護甲\n+2 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 加速\n\n[q0]多色插槽\n[q0]插槽加成: + 2致命一擊\n\n耐久: 80 / 80\n售價:"}
+MultiLanguageItemData['tw'][104472] = {name = "[q4]自信之握", additional_info = "傳奇難度\n拾取後綁定{手} {皮甲}\n4護甲\n+1 [敏捷 or 智力]\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n\n[q0]多色插槽\n[q0]多色插槽\n[q0]插槽加成: + 4智力\n\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][104473] = {name = "[q4]最終寧靜護腕", additional_info = "傳奇難度\n拾取後綁定{手腕} {鎖甲}\n6護甲\n+2 [敏捷 or 智力]\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 加速\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][104474] = {name = "[q4]影縛者褶裙", additional_info = "傳奇難度\n拾取後綁定{腿部} {鎖甲}\n10護甲\n+2 [敏捷 or 智力]\n+7 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 精通\n\n[q0]多色插槽\n[q0]多色插槽\n[q0]插槽加成: + 4智力\n\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][104475] = {name = "[q4]破疑腕鎧", additional_info = "傳奇難度\n拾取後綁定{手腕} {板甲}\n8護甲\n+2 [力量 or 智力]\n+4 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 加速\n耐久: 55 / 55\n售價:"}

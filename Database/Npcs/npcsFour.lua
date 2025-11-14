@@ -31171,7 +31171,6 @@ MultiLanguageNpcData['tw'][214103] = {name = "競速狂粉", subname = "艾澤�
 MultiLanguageNpcData['tw'][214104] = {name = "瑪麗娜‧荷莉登", subname = nil}
 MultiLanguageNpcData['tw'][214105] = {name = "競速狂粉", subname = "艾澤拉斯騎士"}
 MultiLanguageNpcData['tw'][214106] = {name = "釣魚船", subname = nil}
-MultiLanguageNpcData['tw'][214107] = {name = "競速狂粉", subname = "艾澤拉斯騎士"}
 MultiLanguageNpcData['tw'][214108] = {name = "Forge Kill Credit", subname = nil}
 MultiLanguageNpcData['tw'][214109] = {name = "熔爐", subname = nil}
 MultiLanguageNpcData['tw'][214110] = {name = "非常正常的小孩(飛龍騎術研究)", subname = "一點都不可怕"}

@@ -42948,6 +42948,7 @@ MultiLanguageSpellData['tw'][336420] = {name = "漸弱", additional_info = "100 
 MultiLanguageSpellData['tw'][336442] = {name = "點燃挑戰之焰。", additional_info = "無限範圍\n瞬發\n[q]點燃勝利之焰。"}
 MultiLanguageSpellData['tw'][336444] = {name = "強音", additional_info = "100 碼範圍\n瞬發\n[q]以秘法能量擊向地面，對多個方向上的所有敵人造成30點秘法傷害。"}
 MultiLanguageSpellData['tw'][336445] = {name = "冰霜之握", additional_info = "60 碼範圍\n2秒 施法時間\n[q]凍結所有敵人，使其昏迷8秒。"}
+MultiLanguageSpellData['tw'][336447] = {name = "粉碎重擊", additional_info = "100 碼範圍\n瞬發\n[q]以秘法能量擊向地面，對多個方向上的所有敵人造成30點秘法傷害。"}
 MultiLanguageSpellData['tw'][336448] = {name = "群體結晶", additional_info = "1秒 施法時間\n[q]對附近60碼範圍內的敵人造成暗影傷害，並使其移動速度降低10%。此效果可堆疊"}
 MultiLanguageSpellData['tw'][336449] = {name = "瑪卓薩斯壁壘", additional_info = "瞬發\n[q]施法者的盾牌引導堅不可摧的死靈能量，使附近盟友受到的傷害降低90%。"}
 MultiLanguageSpellData['tw'][336450] = {name = "瑪卓薩斯壁壘", additional_info = "瞬發\n[q]施法者的盾牌引導堅不可摧的死靈能量，使受到的所有傷害降低 90 %，持續8秒。"}
