@@ -30433,7 +30433,7 @@ MultiLanguageNpcData['tw'][100477] = {name = "深岩鬥士", subname = nil}
 MultiLanguageNpcData['tw'][100478] = {name = "暗影複製體", subname = nil}
 MultiLanguageNpcData['tw'][100479] = {name = "希賽‧風暴烈酒", subname = nil}
 MultiLanguageNpcData['tw'][100480] = {name = "點燈者小玫", subname = nil}
-MultiLanguageNpcData['tw'][100481] = {name = "崇波‧風暴烈酒", subname = nil}
+MultiLanguageNpcData['tw'][100481] = {name = "程波‧風暴烈酒", subname = nil}
 MultiLanguageNpcData['tw'][100482] = {name = "賽諾苟斯", subname = nil}
 MultiLanguageNpcData['tw'][100483] = {name = "角鷹獸", subname = nil}
 MultiLanguageNpcData['tw'][100484] = {name = "邪林樹人", subname = nil}

@@ -383,7 +383,7 @@ MultiLanguageNpcData['tw'][121404] = {name = "Objective Complete", subname = nil
 MultiLanguageNpcData['tw'][121405] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['tw'][121406] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['tw'][121407] = {name = "Objective Complete", subname = nil}
-MultiLanguageNpcData['tw'][121408] = {name = "『救贖者』阿拉特", subname = nil}
+MultiLanguageNpcData['tw'][121408] = {name = "阿拉特", subname = nil}
 MultiLanguageNpcData['tw'][121409] = {name = "黯刃死亡騎士", subname = nil}
 MultiLanguageNpcData['tw'][121410] = {name = "復仇者波羅斯", subname = nil}
 MultiLanguageNpcData['tw'][121411] = {name = "考斯卡部屬", subname = nil}
@@ -664,7 +664,7 @@ MultiLanguageNpcData['tw'][121751] = {name = "Kill Credit: Go to Transport", sub
 MultiLanguageNpcData['tw'][121752] = {name = "黏滑", subname = "巫妖王的手下"}
 MultiLanguageNpcData['tw'][121753] = {name = "傑塔瑞斯上將", subname = nil}
 MultiLanguageNpcData['tw'][121754] = {name = "凡蕾莎‧風行者", subname = "白銀誓盟遊俠將軍"}
-MultiLanguageNpcData['tw'][121755] = {name = "『救贖者』阿拉特", subname = nil}
+MultiLanguageNpcData['tw'][121755] = {name = "阿拉特", subname = nil}
 MultiLanguageNpcData['tw'][121756] = {name = "復仇者波羅斯", subname = "阿古斯之手"}
 MultiLanguageNpcData['tw'][121757] = {name = "第七軍團陸戰隊", subname = nil}
 MultiLanguageNpcData['tw'][121758] = {name = "第七軍團砲手", subname = nil}
@@ -6649,7 +6649,7 @@ MultiLanguageNpcData['tw'][128779] = {name = "埃薩‧奪日者", subname = nil
 MultiLanguageNpcData['tw'][128780] = {name = "戰鬥克洛格", subname = nil}
 MultiLanguageNpcData['tw'][128781] = {name = "莉雅德倫女士", subname = "血騎士團長"}
 MultiLanguageNpcData['tw'][128782] = {name = "復仇者波羅斯", subname = "阿古斯之手"}
-MultiLanguageNpcData['tw'][128783] = {name = "『救贖者』阿拉特", subname = nil}
+MultiLanguageNpcData['tw'][128783] = {name = "阿拉特", subname = nil}
 MultiLanguageNpcData['tw'][128784] = {name = "凡蕾莎‧風行者", subname = "白銀誓盟遊俠將軍"}
 MultiLanguageNpcData['tw'][128785] = {name = "復仇者波羅斯", subname = "阿古斯之手"}
 MultiLanguageNpcData['tw'][128786] = {name = "羅巴‧科拉巴", subname = nil}
@@ -35355,7 +35355,7 @@ MultiLanguageNpcData['tw'][160776] = {name = "萊恩希德", subname = "淵喉�
 MultiLanguageNpcData['tw'][160777] = {name = "卡瑞亞", subname = "死亡暗翼"}
 MultiLanguageNpcData['tw'][160778] = {name = "飢餓的深伏者", subname = nil}
 MultiLanguageNpcData['tw'][160779] = {name = "亡蔽生命吞噬者", subname = nil}
-MultiLanguageNpcData['tw'][160780] = {name = "暮色慄獸", subname = nil}
+MultiLanguageNpcData['tw'][160780] = {name = "潛行的噬魂者", subname = nil}
 MultiLanguageNpcData['tw'][160781] = {name = "掠食噬魂者", subname = nil}
 MultiLanguageNpcData['tw'][160782] = {name = "瑪拉卡斯", subname = "無盡暗影"}
 MultiLanguageNpcData['tw'][160783] = {name = "瓦里歐克", subname = nil}

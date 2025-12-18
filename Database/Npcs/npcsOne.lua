@@ -32570,7 +32570,7 @@ MultiLanguageNpcData['tw'][44333] = {name = "瑪西‧路易斯", subname = "毒
 MultiLanguageNpcData['tw'][44334] = {name = "多娜‧貝莉摩爾", subname = "旅店老闆"}
 MultiLanguageNpcData['tw'][44335] = {name = "韋拉德‧C‧班尼頓", subname = "獸欄管理員"}
 MultiLanguageNpcData['tw'][44336] = {name = "史帝芬‧凱貝爾", subname = "釣魚供應商"}
-MultiLanguageNpcData['tw'][44337] = {name = "瑪烏瑞斯‧耶斯曼", subname = "鍛造供應商"}
+MultiLanguageNpcData['tw'][44337] = {name = "瑪烏瑞斯‧耶斯曼", subname = "鐵匠"}
 MultiLanguageNpcData['tw'][44338] = {name = "白雞", subname = nil}
 MultiLanguageNpcData['tw'][44339] = {name = "沙拉倫", subname = "武器鍛造師"}
 MultiLanguageNpcData['tw'][44340] = {name = "賈妮菈", subname = "食物和飲料"}

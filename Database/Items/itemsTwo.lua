@@ -2814,13 +2814,13 @@ MultiLanguageItemData['tw'][63033] = {name = "大法師加魯斯的法杖", addi
 MultiLanguageItemData['tw'][63034] = {name = "布滿灰塵的監獄日誌", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][63035] = {name = "暮光之錘護甲", additional_info = "任務物品\n[q]\"希望上面的血跡不會被發現。\""}
 MultiLanguageItemData['tw'][63036] = {name = "惡魔鎖鍊", additional_info = "任務物品\n唯一\n[q]\"當你的肉體一接觸到這圈看起來很普通的裝飾用鍊條，畏懼感立即襲向你的內心。\""}
-MultiLanguageItemData['tw'][63039] = {name = "[q4]西風之龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n需要巴拉丁鐵衛\n- 崇拜\n已經學會\n\n\n[q]\"操控著風暴的元素之力，這些雄偉的生物發出閃電般的爆裂聲和雷霆般的吼叫聲。\"\n商人：\n軍需官布瑞奇\n區域：\n托巴拉德半島\n陣營：\n巴拉丁鐵衛 - 崇拜"}
+MultiLanguageItemData['tw'][63039] = {name = "[q4]西風之龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n需要巴拉丁鐵衛\n- 崇拜\n\n\n[q]\"操控著風暴的元素之力，這些雄偉的生物發出閃電般的爆裂聲和雷霆般的吼叫聲。\"\n商人：\n軍需官布瑞奇\n區域：\n托巴拉德半島\n陣營：\n巴拉丁鐵衛 - 崇拜"}
 MultiLanguageItemData['tw'][63040] = {name = "[q4]北風之龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"瞭解風暴的人對平靜都會感到厭惡。\"\n掉落：\n艾塔伊洛斯\n區域：\n漩渦尖塔"}
 MultiLanguageItemData['tw'][63041] = {name = "[q4]南風之龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"溫柔如夏天和風，但很少人想過那是從哪來的。- 伊塔許\"\n掉落：\n奧拉基爾\n區域：\n四風王座"}
 MultiLanguageItemData['tw'][63042] = {name = "[q4]磷光石龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"石母不太在意背叛的艾歐納克斯，甚至容許他的後代被帶離她的領域。\"\n掉落：\n艾歐納克斯\n區域：\n地深之源"}
 MultiLanguageItemData['tw'][63043] = {name = "[q4]玻璃石龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這幾塊當作墜飾可以說是完美無缺，那幾塊可以當做奇妙的戒指。如果這個東西會脫皮還是落角什麼的，告訴我一聲。- 卡琳達\"\n掉落：\n岩革\n區域：\n石岩之心"}
-MultiLanguageItemData['tw'][63044] = {name = "[q4]棕色騎乘駱駝韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要蘭姆卡韓\n- 崇拜\n已經學會\n\n\n[q]\"芬尼摩爾‧昆利最出名的就是在一個下午的時間，先幫第一頭駱駝擠奶，並打破了「最長的未預期飛行時間」記錄。\"\n商人：\n鐵匠阿巴西\n區域：\n奧丹姆\n陣營：\n蘭姆卡韓 - 崇拜\n花費："}
-MultiLanguageItemData['tw'][63045] = {name = "[q4]古銅色騎乘駱駝韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要蘭姆卡韓\n- 崇拜\n已經學會\n\n\n[q]\"芬尼摩爾‧昆利最出名的就是在一個下午的時間，先幫第一頭駱駝擠奶，並打破了「最長的未預期飛行時間」記錄。\"\n商人：\n鐵匠阿巴西\n區域：\n奧丹姆\n陣營：\n蘭姆卡韓 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][63044] = {name = "[q4]棕色騎乘駱駝韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要蘭姆卡韓\n- 崇拜\n\n\n[q]\"芬尼摩爾‧昆利最出名的就是在一個下午的時間，先幫第一頭駱駝擠奶，並打破了「最長的未預期飛行時間」記錄。\"\n商人：\n鐵匠阿巴西\n區域：\n奧丹姆\n陣營：\n蘭姆卡韓 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][63045] = {name = "[q4]古銅色騎乘駱駝韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要蘭姆卡韓\n- 崇拜\n\n\n[q]\"芬尼摩爾‧昆利最出名的就是在一個下午的時間，先幫第一頭駱駝擠奶，並打破了「最長的未預期飛行時間」記錄。\"\n商人：\n鐵匠阿巴西\n區域：\n奧丹姆\n陣營：\n蘭姆卡韓 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][63046] = {name = "[q4]灰色騎乘駱駝韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"芬尼摩爾‧昆利最出名的就是在一個下午的時間，先幫第一頭駱駝擠奶，並打破了「最長的未預期飛行時間」記錄。\"\n掉落：\n『駱駝囤積者』多姆斯\n區域：\n菲拉斯"}
 MultiLanguageItemData['tw'][63047] = {name = "鏽堡村海鱸", additional_info = "任務物品\n[q]\"有股魚腥味。\""}
 MultiLanguageItemData['tw'][63053] = {name = "密碼大師的密碼", additional_info = "任務物品\n唯一\n[q]\"0, 1, 1, 2, 3, 5, 8, 13, 21, ...\""}
@@ -2889,7 +2889,7 @@ MultiLanguageItemData['tw'][63137] = {name = "戈瑟奇的起搏器", additional
 MultiLanguageItemData['tw'][63138] = {name = "[q3]黑暗鳳凰寶寶", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的黑暗鳳凰寶寶。\n80 ( 80)\n售價:"}
 MultiLanguageItemData['tw'][63139] = {name = "雅立史卓莎之淚", additional_info = "任務物品\n唯一\n[q2]使用: 淨化黑曜石樹底下的空洞。"}
 MultiLanguageItemData['tw'][63140] = {name = "[q0]燃燒原野之鼓", additional_info = "售價:"}
-MultiLanguageItemData['tw'][63141] = {name = "[q3]托巴拉德探照燈", additional_info = "拾取後綁定\n玩具\n[q2]使用: 架設你的托巴拉德探照燈。 (5分鐘 冷卻)\n需要巴拉丁鐵衛\n- 尊敬\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][63141] = {name = "[q3]托巴拉德探照燈", additional_info = "拾取後綁定\n玩具\n[q2]使用: 架設你的托巴拉德探照燈。 (5分鐘 冷卻)\n需要巴拉丁鐵衛\n- 尊敬\n售價:"}
 MultiLanguageItemData['tw'][63143] = {name = "斯瓦爾諾斯的詛咒項圈", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][63144] = {name = "巴拉丁鐵衛治療藥水", additional_info = "拾取後綁定\n[q2]使用: 恢復 1200 點生命力。只能在托巴拉德發揮作用。 (5分鐘 冷卻)\n需要巴拉丁鐵衛\n- 友善\n售價:"}
 MultiLanguageItemData['tw'][63145] = {name = "巴拉丁鐵衛法力藥水", additional_info = "拾取後綁定\n[q2]使用: 恢復 360 點法力。只能在托巴拉德發揮作用。 (5分鐘 冷卻)\n需要巴拉丁鐵衛\n- 友善"}
@@ -4223,9 +4223,9 @@ MultiLanguageItemData['tw'][64993] = {name = "地獄吼先鋒法力藥水", addi
 MultiLanguageItemData['tw'][64994] = {name = "地獄吼先鋒治療藥水", additional_info = "拾取後綁定\n[q2]使用: 恢復 1200 點生命力。只能在托巴拉德發揮作用。 (5分鐘 冷卻)\n需要地獄吼先鋒\n- 友善\n售價:"}
 MultiLanguageItemData['tw'][64995] = {name = "地獄吼先鋒繃帶", additional_info = "拾取後綁定\n[q2]使用: 在8秒內治療 1400 點生命力。只能在托巴拉德內使用。\n需要地獄吼先鋒\n- 友善"}
 MultiLanguageItemData['tw'][64996] = {name = "[q2]鏽堡海鷗", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散鏽堡海鷗。\n80 ( 80)\n需要地獄吼先鋒\n- 尊敬"}
-MultiLanguageItemData['tw'][64997] = {name = "[q3]托巴拉德探照燈", additional_info = "拾取後綁定\n玩具\n[q2]使用: 架設你的托巴拉德探照燈。 (5分鐘 冷卻)\n需要地獄吼先鋒\n- 尊敬\n已經學會\n售價:"}
-MultiLanguageItemData['tw'][64998] = {name = "[q4]鬼靈戰馬韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要巴拉丁鐵衛\n- 崇拜\n已經學會\n\n\n[q]\"黑暗的靈魂在牠的光芒之前也會竄逃。\"\n商人：\n軍需官布瑞奇\n區域：\n托巴拉德半島\n陣營：\n巴拉丁鐵衛 - 崇拜\n花費：\n165"}
-MultiLanguageItemData['tw'][64999] = {name = "[q4]鬼靈之狼韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要地獄吼先鋒\n- 崇拜\n已經學會\n售價:\n[q]\"只怕火。\"\n商人：\n波格\n區域：\n托巴拉德半島\n陣營：\n地獄吼先鋒 - 崇拜\n花費：\n165"}
+MultiLanguageItemData['tw'][64997] = {name = "[q3]托巴拉德探照燈", additional_info = "拾取後綁定\n玩具\n[q2]使用: 架設你的托巴拉德探照燈。 (5分鐘 冷卻)\n需要地獄吼先鋒\n- 尊敬\n售價:"}
+MultiLanguageItemData['tw'][64998] = {name = "[q4]鬼靈戰馬韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要巴拉丁鐵衛\n- 崇拜\n\n\n[q]\"黑暗的靈魂在牠的光芒之前也會竄逃。\"\n商人：\n軍需官布瑞奇\n區域：\n托巴拉德半島\n陣營：\n巴拉丁鐵衛 - 崇拜\n花費：\n165"}
+MultiLanguageItemData['tw'][64999] = {name = "[q4]鬼靈之狼韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要地獄吼先鋒\n- 崇拜\n售價:\n[q]\"只怕火。\"\n商人：\n波格\n區域：\n托巴拉德半島\n陣營：\n地獄吼先鋒 - 崇拜\n花費：\n165"}
 MultiLanguageItemData['tw'][65000] = {name = "[q4]淒涼保衛者之冠", additional_info = "[q7]戰隊綁定\n職業： 戰士 , 獵人 , 薩滿\n[q2]使用: 製造一件符合你設定之戰利品優先分配專精的套裝物\n售價:"}
 MultiLanguageItemData['tw'][65001] = {name = "[q4]淒涼征服者之冠", additional_info = "[q7]戰隊綁定\n職業： 聖騎士 , 牧師 , 術士\n[q2]使用: 製造一件符合你設定之戰利品優先分配專精的套裝物\n售價:"}
 MultiLanguageItemData['tw'][65002] = {name = "[q4]淒涼鎮壓者之冠", additional_info = "[q7]戰隊綁定\n職業： 盜賊 , 死亡騎士 , 法師 , 德魯伊\n[q2]使用: 製造一件符合你設定之戰利品優先分配專精的套裝物\n售價:"}
@@ -4560,7 +4560,7 @@ MultiLanguageItemData['tw'][65351] = {name = "[q2]勞動力護胸", additional_i
 MultiLanguageItemData['tw'][65352] = {name = "[q3]訓寐者指環", additional_info = "拾取後綁定手指\n+2 敏捷\n+3 耐力\n[q2]+ 3 致命一擊\n售價:"}
 MultiLanguageItemData['tw'][65353] = {name = "[q2]抽油人盾牌", additional_info = "拾取後綁定{副手} {盾}\n40護甲\n+2 力量\n+5 智力\n+2 耐力\n[q2]+ 2 致命一擊\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][65354] = {name = "[q2]剝奪睡眠披風", additional_info = "拾取後綁定背部\n2護甲\n+2 力量\n+3 耐力\n[q2]+ 2 致命一擊\n售價:"}
-MultiLanguageItemData['tw'][65356] = {name = "[q4]西風之龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n需要地獄吼先鋒\n- 崇拜\n已經學會\n\n\n[q]\"操控著風暴的元素之力，這些雄偉的生物發出閃電般的爆裂聲和雷霆般的吼叫聲。\"\n商人：\n軍需官布瑞奇\n區域：\n托巴拉德半島\n陣營：\n巴拉丁鐵衛 - 崇拜"}
+MultiLanguageItemData['tw'][65356] = {name = "[q4]西風之龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n需要地獄吼先鋒\n- 崇拜\n\n\n[q]\"操控著風暴的元素之力，這些雄偉的生物發出閃電般的爆裂聲和雷霆般的吼叫聲。\"\n商人：\n軍需官布瑞奇\n區域：\n托巴拉德半島\n陣營：\n巴拉丁鐵衛 - 崇拜"}
 MultiLanguageItemData['tw'][65358] = {name = "[q0]源質棒", additional_info = "售價:"}
 MultiLanguageItemData['tw'][65360] = {name = "[q4]協調披風", additional_info = "拾取後綁定背部\n3護甲\n[q2]使用: 將施法者傳送至暴風城。 (2小時 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][65361] = {name = "[q2]公會侍從", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚你的公會侍從，持續5分鐘。\n80 ( 80)"}
@@ -5830,7 +5830,7 @@ MultiLanguageItemData['tw'][67527] = {name = "[q2]艾克索達背袋", additiona
 MultiLanguageItemData['tw'][67528] = {name = "[q2]鐵爐堡背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要鐵爐堡 - 崇敬\""}
 MultiLanguageItemData['tw'][67529] = {name = "[q2]幽暗城背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要幽暗城 - 崇敬\""}
 MultiLanguageItemData['tw'][67530] = {name = "[q2]諾姆瑞根背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要諾姆瑞根 - 崇敬\""}
-MultiLanguageItemData['tw'][67531] = {name = "[q2]暴風城背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要暴風城 - 崇敬\""}
+MultiLanguageItemData['tw'][67531] = {name = "[q2]暴風城背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n需要暴風城 - 崇敬"}
 MultiLanguageItemData['tw'][67532] = {name = "[q2]吉爾尼斯背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要吉爾尼斯 - 崇敬\""}
 MultiLanguageItemData['tw'][67533] = {name = "[q2]奧格瑪背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要奧格瑪 - 崇敬\""}
 MultiLanguageItemData['tw'][67534] = {name = "[q2]雷霆崖背袋", additional_info = "拾取後綁定\n唯一\n16槽背包\n[q]\"需要雷霆崖 - 崇敬\""}
@@ -6502,7 +6502,7 @@ MultiLanguageItemData['tw'][70157] = {name = "[q4]光鑄源質錘", additional_i
 MultiLanguageItemData['tw'][70158] = {name = "[q4]源質鋒刃割顱斧", additional_info = "裝備後綁定\n{單手} {斧}\n{3-8點傷害} {速度 2.60}\n(每秒2.1點傷害)\n+2 力量\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][70159] = {name = "[q3]蜜露恩之喚", additional_info = "拾取後綁定\n玩具\n[q2]使用: 蜜露恩之喚。 (50分鐘 冷卻)\n必須先完成任務「召喚先祖」。"}
 MultiLanguageItemData['tw'][70160] = {name = "[q3]赤紅鞭笞者", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的赤紅鞭笞者。\n80 ( 80)\n必須先完成任務「注滿月井」。\n售價:"}
-MultiLanguageItemData['tw'][70161] = {name = "[q3]蘑菇椅", additional_info = "拾取後綁定\n玩具\n[q2]使用: 佈置一張蘑菇椅。 (5分鐘 冷卻)\n必須先完成任務「注滿月井」。\n已經學會"}
+MultiLanguageItemData['tw'][70161] = {name = "[q3]蘑菇椅", additional_info = "拾取後綁定\n玩具\n[q2]使用: 佈置一張蘑菇椅。 (5分鐘 冷卻)\n必須先完成任務「注滿月井」。"}
 MultiLanguageItemData['tw'][70162] = {name = "[q4]黃鐵禦法劍", additional_info = "裝備後綁定\n{單手} {劍}\n{4-7點傷害} {速度 2.60}\n(每秒2.1點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n耐久: 110 / 110\n[q]\"對抗施法者最好的防禦方式，就是直接殺掉他們。\"\n售價:"}
 MultiLanguageItemData['tw'][70163] = {name = "[q4]無毀守護", additional_info = "裝備後綁定\n{單手} {劍}\n{4-7點傷害} {速度 2.60}\n(每秒2.1點傷害)\n+2 力量\n+3 耐力\n[q2]+ 2 招架\n[q2]+ 2 精通\n耐久: 110 / 110\n售價:"}
 MultiLanguageItemData['tw'][70164] = {name = "[q4]精工源質亡刃", additional_info = "裝備後綁定\n{雙手} {劍}\n{8-14點傷害} {速度 3.60}\n(每秒3.1點傷害)\n+4 力量\n+6 耐力\n[q2]+ 4 加速\n[q2]+ 4 精通\n耐久: 120 / 120\n售價:"}
@@ -7030,7 +7030,7 @@ MultiLanguageItemData['tw'][70738] = {name = "[q4]艾里絲拉卓的指環", add
 MultiLanguageItemData['tw'][70739] = {name = "[q4]熔岩蟲腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n14護甲\n+2 [力量 or 智力]\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 1 精通\n\n[q0]多色插槽\n[q0]多色插槽\n[q0]插槽加成: + 3精通\n\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][70908] = {name = "[q2]貓科魔寵", additional_info = "[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的貓科魔寵。\n80 ( 80)\n售價:"}
 MultiLanguageItemData['tw'][70909] = {name = "[q4]兇惡戰駒韁繩", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"身上的裝甲足以承受戰鬥中的衝擊。\"\n成就：\n聯盟精兵 II\n類別：\n積分戰場"}
-MultiLanguageItemData['tw'][70910] = {name = "[q4]兇惡戰狼之角", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"在大酋長地獄吼的指揮下，部落訓練師開始在飼養狼群時，讓牠們能夠在狂暴且充滿衝擊的持久戰中保持活力。\"\n成就：\n部落精兵 II\n類別：\n積分戰場"}
+MultiLanguageItemData['tw'][70910] = {name = "[q4]兇惡戰狼之角", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"在大酋長地獄吼的指揮下，部落訓練師開始在飼養狼群時，讓牠們能夠在狂暴且充滿衝擊的持久戰中保持活力。\"\n成就：\n部落精兵 II\n類別：\n積分戰場"}
 MultiLanguageItemData['tw'][70912] = {name = "[q4]碎裂黑曜石踏靴", additional_info = "拾取後綁定{腳} {板甲}\n10護甲\n+1 [力量 or 智力]\n+5 耐力\n[q2]+ 3 閃躲\n[q2]+ 2 致命一擊\n\n[q0]多色插槽\n[q0]插槽加成: + 2耐力\n\n耐久: 80 / 80\n售價:"}
 MultiLanguageItemData['tw'][70913] = {name = "[q4]狂熱獻身腿鎧", additional_info = "拾取後綁定{腿部} {板甲}\n14護甲\n+2 [力量 or 智力]\n+6 耐力\n[q2]+ 1 閃躲\n[q2]+ 4 招架\n\n[q0]多色插槽\n[q0]多色插槽\n[q0]插槽加成: + 2耐力\n\n耐久: 120 / 120\n售價:"}
 MultiLanguageItemData['tw'][70914] = {name = "[q4]浴火甲殼", additional_info = "拾取後綁定{胸部} {板甲}\n16護甲\n+2 [力量 or 智力]\n+6 耐力\n[q2]+ 2 閃躲\n[q2]+ 3 精通\n\n[q0]多色插槽\n[q0]多色插槽\n[q0]插槽加成: + 2耐力\n\n耐久: 165 / 165\n售價:"}
@@ -8852,7 +8852,7 @@ MultiLanguageItemData['tw'][73800] = {name = "空水桶", additional_info = "任
 MultiLanguageItemData['tw'][73802] = {name = "觸動靈魂之水桶", additional_info = "任務物品\n[q2]使用: 使用觸動靈魂之水桶中的內容物撲滅飛艇殘骸附近的火焰。 (3秒 冷卻)"}
 MultiLanguageItemData['tw'][73837] = {name = "土製炸藥", additional_info = "任務物品\n[q2]使用: 放置一捆土製炸藥，持續2分鐘。土製炸藥不能被放置在另一捆土製炸藥的10碼範圍內。 (3秒 冷卻)\n[q]\"看起來有點不太穩定...\""}
 MultiLanguageItemData['tw'][73838] = {name = "[q3]高山馬", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"對這個品種的印象，就是經常能在稀釋後的矮人酒桶附近發現牠們。\"\n商人：\n艾絲翠德‧蘭斯朗普\n區域：\n達納蘇斯\n花費："}
-MultiLanguageItemData['tw'][73839] = {name = "[q4]迅捷高山馬", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"經歷了漫長的一天之後，牠終於有機會回到吉爾尼斯的家園。\"\n商人：\n艾絲翠德‧蘭斯朗普\n區域：\n達納蘇斯\n花費："}
+MultiLanguageItemData['tw'][73839] = {name = "[q4]迅捷高山馬", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"經歷了漫長的一天之後，牠終於有機會回到吉爾尼斯的家園。\"\n商人：\n艾絲翠德‧蘭斯朗普\n區域：\n達納蘇斯\n花費："}
 MultiLanguageItemData['tw'][73853] = {name = "死去的先鋒", additional_info = "任務物品"}
 MultiLanguageItemData['tw'][73861] = {name = "哥布林無人飛行機發送器", additional_info = "任務物品\n[q2]使用: 在暴露的樹根啟動哥布林無人飛行機發送器。 (3秒 冷卻)"}
 MultiLanguageItemData['tw'][73901] = {name = "捲曲的峭壁滑翔者尾巴", additional_info = "任務物品\n[q]\"看起來很長，而且意外的有彈性!\""}
@@ -9893,10 +9893,10 @@ MultiLanguageItemData['tw'][77612] = {name = "[q3]士官長的鍊甲臂甲複製
 MultiLanguageItemData['tw'][77613] = {name = "[q3]士官長的鍊甲臂甲複製品", additional_info = "造型\n拾取後綁定{手腕} {鎖甲}\n2護甲\n耐久: 20 / 20 職業： 獵人 , 薩滿 , 喚能師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77614] = {name = "[q3]上尉騎士絲質衣飾複製品", additional_info = "造型\n拾取後綁定{胸部} {布甲}\n1護甲\n耐久: 65 / 65 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77615] = {name = "[q3]少校絲質肩甲複製品", additional_info = "造型\n拾取後綁定{肩部} {布甲}\n1護甲\n耐久: 85 / 85 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77616] = {name = "[q3]中尉騎士絲質長靴複製品", additional_info = "造型\n拾取後綁定{腳} {布甲}\n1護甲\n耐久: 65 / 65 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77617] = {name = "[q3]中尉騎士絲質手套複製品", additional_info = "造型\n拾取後綁定{手} {布甲}\n1護甲\n耐久: 50 / 50 職業： 法師\n[q2]裝備： 使你法力護盾所吸收的傷害總量提高 49 點。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77616] = {name = "[q3]中尉騎士絲質長靴複製品", additional_info = "造型\n拾取後綁定{腳} {布甲}\n1護甲\n耐久: 30 / 30 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77617] = {name = "[q3]中尉騎士絲質手套複製品", additional_info = "造型\n拾取後綁定{手} {布甲}\n1護甲\n耐久: 20 / 20 職業： 法師\n[q2]裝備： 使你法力護盾所吸收的傷害總量提高 49 點。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77618] = {name = "[q3]上尉騎士絲質護腿複製品", additional_info = "造型\n拾取後綁定{腿部} {布甲}\n1護甲\n耐久: 50 / 50 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77619] = {name = "[q3]少校之冠複製品", additional_info = "造型\n拾取後綁定{頭部} {布甲}\n1護甲\n耐久: 85 / 85 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77619] = {name = "[q3]少校之冠複製品", additional_info = "造型\n拾取後綁定{頭部} {布甲}\n1護甲\n耐久: 35 / 35 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77620] = {name = "[q3]士官長的絲質腕輪複製品", additional_info = "造型\n拾取後綁定{手腕} {布甲}\n1護甲\n耐久: 20 / 20 職業： 牧師 , 法師 , 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77621] = {name = "[q3]少校綴甲護肩複製品", additional_info = "造型\n拾取後綁定{肩部} {板甲}\n3護甲\n耐久: 85 / 85 職業： 聖騎士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77622] = {name = "[q3]中尉騎士綴甲護手複製品", additional_info = "造型\n拾取後綁定{手} {板甲}\n3護甲\n耐久: 20 / 20 職業： 聖騎士\n[q2]裝備： 使你審判造成的神聖傷害提高 3 點。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -9910,20 +9910,20 @@ MultiLanguageItemData['tw'][77629] = {name = "[q3]少校冠冕複製品", additi
 MultiLanguageItemData['tw'][77630] = {name = "[q3]上尉騎士緞質長袍複製品", additional_info = "造型\n拾取後綁定{胸部} {布甲}\n1護甲\n耐久: 140 / 140 職業： 牧師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77631] = {name = "[q3]少校緞質襯肩複製品", additional_info = "造型\n拾取後綁定{肩部} {布甲}\n1護甲\n耐久: 35 / 35 職業： 牧師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77632] = {name = "[q3]中尉騎士緞質長靴複製品", additional_info = "造型\n拾取後綁定{腳} {布甲}\n1護甲\n耐久: 65 / 65 職業： 牧師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77633] = {name = "[q3]上尉騎士皮甲護甲複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 140 / 140 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77634] = {name = "[q3]中尉騎士皮甲護手複製品", additional_info = "造型\n拾取後綁定{手} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77635] = {name = "[q3]少校皮甲面紗複製品", additional_info = "造型\n拾取後綁定{頭部} {皮甲}\n2護甲\n耐久: 85 / 85 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77636] = {name = "[q3]少校皮甲肩甲複製品", additional_info = "造型\n拾取後綁定{肩部} {皮甲}\n1護甲\n耐久: 85 / 85 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77637] = {name = "[q3]中尉騎士皮甲長靴複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 65 / 65 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77638] = {name = "[q3]上尉騎士皮甲腿甲複製品", additional_info = "造型\n拾取後綁定{腿部} {皮甲}\n2護甲\n耐久: 100 / 100 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77639] = {name = "[q3]士官長的皮甲臂套複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77640] = {name = "[q3]士官長的皮甲臂套複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77641] = {name = "[q3]上尉騎士鎖甲鍊衫複製品", additional_info = "造型\n拾取後綁定{胸部} {鎖甲}\n3護甲\n耐久: 140 / 140 職業： 薩滿\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77642] = {name = "[q3]少校鎖甲護盔複製品", additional_info = "造型\n拾取後綁定{頭部} {鎖甲}\n2護甲\n耐久: 85 / 85 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77643] = {name = "[q3]上尉騎士鎖甲腿甲複製品", additional_info = "造型\n拾取後綁定{腿部} {鎖甲}\n3護甲\n耐久: 100 / 100 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77633] = {name = "[q3]上尉騎士皮甲護甲複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 65 / 65 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77634] = {name = "[q3]中尉騎士皮甲護手複製品", additional_info = "造型\n拾取後綁定{手} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77635] = {name = "[q3]少校皮甲面紗複製品", additional_info = "造型\n拾取後綁定{頭部} {皮甲}\n2護甲\n耐久: 35 / 35 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77636] = {name = "[q3]少校皮甲肩甲複製品", additional_info = "造型\n拾取後綁定{肩部} {皮甲}\n1護甲\n耐久: 35 / 35 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77637] = {name = "[q3]中尉騎士皮甲長靴複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 30 / 30 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77638] = {name = "[q3]上尉騎士皮甲腿甲複製品", additional_info = "造型\n拾取後綁定{腿部} {皮甲}\n2護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77639] = {name = "[q3]士官長的皮甲臂套複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77640] = {name = "[q3]士官長的皮甲臂套複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77641] = {name = "[q3]上尉騎士鎖甲鍊衫複製品", additional_info = "造型\n拾取後綁定{胸部} {鎖甲}\n3護甲\n耐久: 65 / 65 職業： 薩滿\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77642] = {name = "[q3]少校鎖甲護盔複製品", additional_info = "造型\n拾取後綁定{頭部} {鎖甲}\n2護甲\n耐久: 35 / 35 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77643] = {name = "[q3]上尉騎士鎖甲腿甲複製品", additional_info = "造型\n拾取後綁定{腿部} {鎖甲}\n3護甲\n耐久: 50 / 50 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77644] = {name = "[q3]中尉騎士鎖甲護脛複製品", additional_info = "造型\n拾取後綁定{腳} {鎖甲}\n2護甲\n耐久: 65 / 65 職業： 薩滿\n[q2]裝備： 使你在變成鬼魂之狼之後的移動速度提高15%。此效果無法作用於高於等級49的玩家。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77645] = {name = "[q3]少校鎖甲肩鎧複製品", additional_info = "造型\n拾取後綁定{肩部} {鎖甲}\n2護甲\n耐久: 85 / 85 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77646] = {name = "[q3]中尉騎士鎖甲護拳複製品", additional_info = "造型\n拾取後綁定{手} {鎖甲}\n2護甲\n耐久: 50 / 50 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77645] = {name = "[q3]少校鎖甲肩鎧複製品", additional_info = "造型\n拾取後綁定{肩部} {鎖甲}\n2護甲\n耐久: 35 / 35 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77646] = {name = "[q3]中尉騎士鎖甲護拳複製品", additional_info = "造型\n拾取後綁定{手} {鎖甲}\n2護甲\n耐久: 20 / 20 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77647] = {name = "[q3]少校懼紋披肩複製品", additional_info = "造型\n拾取後綁定{肩部} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77648] = {name = "[q3]上尉騎士懼紋長袍複製品", additional_info = "造型\n拾取後綁定{胸部} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77649] = {name = "[q3]上尉騎士懼紋護腿複製品", additional_info = "造型\n拾取後綁定{腿部} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -9979,12 +9979,12 @@ MultiLanguageItemData['tw'][77698] = {name = "[q4]元帥皮甲纏手複製品", 
 MultiLanguageItemData['tw'][77699] = {name = "[q4]元帥皮甲護足複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 80 / 80 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77700] = {name = "[q4]戰場元帥皮甲面具複製品", additional_info = "造型\n拾取後綁定{頭部} {皮甲}\n2護甲\n耐久: 100 / 100 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77701] = {name = "[q4]戰場元帥皮甲護軀複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 165 / 165 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77702] = {name = "[q4]元帥鎖甲長靴複製品", additional_info = "造型\n拾取後綁定{腳} {鎖甲}\n2護甲\n耐久: 80 / 80 職業： 薩滿\n需要任何聯盟種族\n[q2]裝備： 使你在變成鬼魂之狼之後的移動速度提高15%。此效果無法作用於高於等級49的玩家。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77703] = {name = "[q4]元帥鎖甲護手複製品", additional_info = "造型\n拾取後綁定{手} {鎖甲}\n2護甲\n耐久: 55 / 55 職業： 薩滿\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77704] = {name = "[q4]戰場元帥鎖甲頭盔複製品", additional_info = "造型\n拾取後綁定{頭部} {鎖甲}\n2護甲\n耐久: 100 / 100 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77705] = {name = "[q4]戰場元帥鎖甲肩甲複製品", additional_info = "造型\n拾取後綁定{肩部} {鎖甲}\n2護甲\n耐久: 100 / 100 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77706] = {name = "[q4]元帥鎖甲護腿複製品", additional_info = "造型\n拾取後綁定{腿部} {鎖甲}\n3護甲\n耐久: 120 / 120 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77707] = {name = "[q4]戰場元帥鎖甲護甲複製品", additional_info = "造型\n拾取後綁定{胸部} {鎖甲}\n3護甲\n耐久: 165 / 165 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77702] = {name = "[q4]元帥鎖甲長靴複製品", additional_info = "造型\n拾取後綁定{腳} {鎖甲}\n2護甲\n耐久: 35 / 35 職業： 薩滿\n需要任何聯盟種族\n[q2]裝備： 使你在變成鬼魂之狼之後的移動速度提高15%。此效果無法作用於高於等級49的玩家。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77703] = {name = "[q4]元帥鎖甲護手複製品", additional_info = "造型\n拾取後綁定{手} {鎖甲}\n2護甲\n耐久: 25 / 25 職業： 薩滿\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77704] = {name = "[q4]戰場元帥鎖甲頭盔複製品", additional_info = "造型\n拾取後綁定{頭部} {鎖甲}\n2護甲\n耐久: 45 / 45 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77705] = {name = "[q4]戰場元帥鎖甲肩甲複製品", additional_info = "造型\n拾取後綁定{肩部} {鎖甲}\n2護甲\n耐久: 45 / 45 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77706] = {name = "[q4]元帥鎖甲護腿複製品", additional_info = "造型\n拾取後綁定{腿部} {鎖甲}\n3護甲\n耐久: 55 / 55 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77707] = {name = "[q4]戰場元帥鎖甲護甲複製品", additional_info = "造型\n拾取後綁定{胸部} {鎖甲}\n3護甲\n耐久: 80 / 80 職業： 薩滿\n需要任何聯盟種族\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77708] = {name = "[q4]元帥懼紋長靴複製品", additional_info = "造型\n拾取後綁定{腳} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77709] = {name = "[q4]戰場元帥懼紋護肩複製品", additional_info = "造型\n拾取後綁定{肩部} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77710] = {name = "[q4]戰場元帥頭冠複製品", additional_info = "造型\n拾取後綁定{頭部} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -10007,8 +10007,8 @@ MultiLanguageItemData['tw'][77726] = {name = "[q3]中尉騎士綴甲脛甲複製
 MultiLanguageItemData['tw'][77727] = {name = "[q3]中尉騎士綴甲護手複製品", additional_info = "造型\n拾取後綁定{手} {板甲}\n3護甲\n耐久: 50 / 50 職業： 聖騎士\n[q2]裝備： 使你審判造成的神聖傷害提高 3 點。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77728] = {name = "[q3]中尉騎士緞質裹手複製品", additional_info = "造型\n拾取後綁定{手} {布甲}\n1護甲\n耐久: 20 / 20 職業： 牧師\n[q2]裝備： 使你有100%的機率在施放心靈震爆時不會因受到傷害而中斷施法。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77729] = {name = "[q3]中尉騎士緞質步靴複製品", additional_info = "造型\n拾取後綁定{腳} {布甲}\n1護甲\n耐久: 30 / 30 職業： 牧師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77730] = {name = "[q3]中尉騎士皮甲步靴複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 65 / 65 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77731] = {name = "[q3]中尉騎士皮甲之握複製品", additional_info = "造型\n拾取後綁定{手} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77730] = {name = "[q3]中尉騎士皮甲步靴複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 30 / 30 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77731] = {name = "[q3]中尉騎士皮甲之握複製品", additional_info = "造型\n拾取後綁定{手} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77732] = {name = "[q3]中尉騎士懼紋步靴複製品", additional_info = "造型\n拾取後綁定{腳} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77733] = {name = "[q3]中尉騎士懼紋裹手複製品", additional_info = "造型\n拾取後綁定{手} {布甲}\n1護甲\n職業： 術士\n[q2]裝備： 使你有100%的機率在施放灼熱之痛時不會因受到傷害而中斷施法。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77734] = {name = "[q3]中尉騎士鎧甲護手複製品", additional_info = "造型\n拾取後綁定{手} {板甲}\n3護甲\n耐久: 50 / 50 職業： 戰士\n[q2]裝備： 使你斷筋的怒氣消耗減少3點。\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -10088,16 +10088,16 @@ MultiLanguageItemData['tw'][77807] = {name = "[q3]軍團士兵皮甲護腿複製
 MultiLanguageItemData['tw'][77808] = {name = "[q3]軍團士兵皮甲鍊衫複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 140 / 140 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77809] = {name = "[q3]血衛士皮甲足靴複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 65 / 65 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77810] = {name = "[q3]血衛士皮甲護拳複製品", additional_info = "造型\n拾取後綁定{手} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77811] = {name = "[q3]上尉騎士皮甲護軀複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 140 / 140 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77811] = {name = "[q3]上尉騎士皮甲護軀複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 65 / 65 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77812] = {name = "[q3]上尉騎士皮甲腿甲複製品", additional_info = "造型\n拾取後綁定{腿部} {皮甲}\n2護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77813] = {name = "[q3]少校皮甲護肩複製品", additional_info = "造型\n拾取後綁定{肩部} {皮甲}\n1護甲\n耐久: 85 / 85 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77814] = {name = "[q3]一等士官皮甲臂甲複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77813] = {name = "[q3]少校皮甲護肩複製品", additional_info = "造型\n拾取後綁定{肩部} {皮甲}\n1護甲\n耐久: 35 / 35 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77814] = {name = "[q3]一等士官皮甲臂甲複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77815] = {name = "[q3]勇士皮甲頭盔複製品", additional_info = "造型\n拾取後綁定{頭部} {皮甲}\n2護甲\n耐久: 35 / 35 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77816] = {name = "[q3]血衛士皮甲步靴複製品", additional_info = "造型\n拾取後綁定{腳} {皮甲}\n1護甲\n耐久: 30 / 30 職業： 盜賊\n[q2]裝備： 使你疾跑技能的效果持續時間延長3秒。\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77817] = {name = "[q3]血衛士皮甲之握複製品", additional_info = "造型\n拾取後綁定{手} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77818] = {name = "[q3]軍團士兵皮甲腿甲複製品", additional_info = "造型\n拾取後綁定{腿部} {皮甲}\n2護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77819] = {name = "[q3]勇士皮甲護肩複製品", additional_info = "造型\n拾取後綁定{肩部} {皮甲}\n1護甲\n耐久: 35 / 35 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][77820] = {name = "[q3]少校皮甲頭盔複製品", additional_info = "造型\n拾取後綁定{頭部} {皮甲}\n2護甲\n耐久: 85 / 85 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][77820] = {name = "[q3]少校皮甲頭盔複製品", additional_info = "造型\n拾取後綁定{頭部} {皮甲}\n2護甲\n耐久: 35 / 35 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77821] = {name = "[q3]軍團士兵皮甲護軀複製品", additional_info = "造型\n拾取後綁定{胸部} {皮甲}\n2護甲\n耐久: 65 / 65 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77822] = {name = "[q3]一等士官皮甲臂甲複製品", additional_info = "造型\n拾取後綁定{手腕} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][77823] = {name = "[q3]血衛士鎖甲之握複製品", additional_info = "造型\n拾取後綁定{手} {鎖甲}\n2護甲\n耐久: 50 / 50 職業： 薩滿\n需要任何部落種族\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -11123,7 +11123,7 @@ MultiLanguageItemData['tw'][79753] = {name = "彈尾之鑰", additional_info = "
 MultiLanguageItemData['tw'][79769] = {name = "[q3]惡魔獵人形態", additional_info = "拾取後綁定\n玩具\n[q2]使用: 以惡魔獵人形態出現，持續5分鐘。 (30分鐘 冷卻)"}
 MultiLanguageItemData['tw'][79771] = {name = "[q4]魔化飛龍", additional_info = "唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在千年之前和燃燒軍團奮戰之後，這種英勇的飛龍體內滲入了原始的惡魔魔法，導致了牠的腐化。\"\n商人：\n藍卓‧長射\n區域：\n藏寶海灣"}
 MultiLanguageItemData['tw'][79784] = {name = "潛水頭盔", additional_info = "任務物品\n唯一\n頭部\n售價:"}
-MultiLanguageItemData['tw'][79802] = {name = "[q4]翠玉雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要雲蛟衛\n- 崇拜\n已經學會\n售價:\n[q]\"翠玉雲蛟又輕快又敏捷；而且快速而致命。\"\n任務：\n天翔\n區域：\n翠玉林"}
+MultiLanguageItemData['tw'][79802] = {name = "[q4]翠玉雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要雲蛟衛\n- 崇拜\n售價:\n[q]\"翠玉雲蛟又輕快又敏捷；而且快速而致命。\"\n任務：\n天翔\n區域：\n翠玉林"}
 MultiLanguageItemData['tw'][79806] = {name = "要給謝指揮官的箭", additional_info = "任務物品\n[q]\"這些熊貓人的箭真是有夠鋒利的!\""}
 MultiLanguageItemData['tw'][79807] = {name = "水語者之杖", additional_info = "任務物品\n[q]\"這是一根古老、多節的法杖，上面刻滿了魔法咒語，並有各種聖物裝飾。\""}
 MultiLanguageItemData['tw'][79808] = {name = "典禮長袍", additional_info = "任務物品\n[q]\"絲質的長袍布滿了符文和符號。\""}
@@ -11773,7 +11773,7 @@ MultiLanguageItemData['tw'][81319] = {name = "一捆火炬", additional_info = "
 MultiLanguageItemData['tw'][81324] = {name = "無腰帶", additional_info = "任務物品\n唯一\n腰部"}
 MultiLanguageItemData['tw'][81325] = {name = "無長靴", additional_info = "任務物品\n唯一\n腳\n售價:"}
 MultiLanguageItemData['tw'][81326] = {name = "無褲子(無腿)", additional_info = "任務物品\n唯一\n腿部"}
-MultiLanguageItemData['tw'][81354] = {name = "[q4]蒼藍水黽韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n[q2]召喚並解散一頭可騎乘的蒼藍水黽。\n80 ( 80)\n需要 初級騎術\n需要釣手隊\n- 崇拜\n已經學會\n售價:\n[q]\"「我們通常會拿蟲蟲當魚餌。可是看著它們無辜的眼神時，怎麼可能還下得了手？」- 納特‧帕格\"\n商人：\n納特‧帕格\n區域：\n喀撒朗蠻荒\n陣營：\n釣手隊 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][81354] = {name = "[q4]蒼藍水黽韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n[q2]召喚並解散一頭可騎乘的蒼藍水黽。\n80 ( 80)\n需要 初級騎術\n需要釣手隊\n- 崇拜\n售價:\n[q]\"「我們通常會拿蟲蟲當魚餌。可是看著它們無辜的眼神時，怎麼可能還下得了手？」- 納特‧帕格\"\n商人：\n納特‧帕格\n區域：\n喀撒朗蠻荒\n陣營：\n釣手隊 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][81355] = {name = "蒼風圖騰", additional_info = "任務物品\n[q]\"這個古老的圖騰是手工製成的。上面畫滿了你無法了解的符號和圖案。\""}
 MultiLanguageItemData['tw'][81356] = {name = "影潘火炬", additional_info = "任務物品\n[q2]使用: 焚燒一塊區域內的所有村民屍體，每秒造成31到36點火焰傷害，持續5秒。 (2秒 冷卻)\n[q]\"火焰散發出令人興奮的薰香及草藥味。\""}
 MultiLanguageItemData['tw'][81384] = {name = "被污染的墨鰓珍珠", additional_info = "任務物品\n唯一（20）\n[q]\"一種像墨汁一樣的雲霧在這顆珍珠的表面底下流動。\""}
@@ -13409,7 +13409,7 @@ MultiLanguageItemData['tw'][84097] = {name = "[q2]喚醒者之盾", additional_i
 MultiLanguageItemData['tw'][84098] = {name = "[q2]喚醒者之眼", additional_info = "拾取後綁定{副手} {盾}\n46護甲\n+2 力量\n+6 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][84099] = {name = "[q2]鹽鱗匕首", additional_info = "拾取後綁定{單手} {匕首}\n{3-5點傷害} {速度 1.80}\n(每秒2.2點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][84100] = {name = "[q2]喚醒者之顎", additional_info = "拾取後綁定{單手} {拳套}\n{5-7點傷害} {速度 2.60}\n(每秒2.3點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n耐久: 55 / 55\n售價:"}
-MultiLanguageItemData['tw'][84101] = {name = "[q4]大型遠征犛牛韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個附商人的三人坐騎。對前往奈佛勒斯山峰頂端的漫長旅途來說再適合不過。羨煞你的朋友。\n[q2]召喚大型遠征犛牛前來，載著很有幫助的咕嚕摩提供你完整的買賣物品需求。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價:\n[q]\"已知這種野獸的負重能力可以攜帶超過自身體重五倍的貨物，就算沒有飲水和食物，也可以支撐好幾天。\"\n商人：\n大包公\n區域：\n崑萊峰\n花費："}
+MultiLanguageItemData['tw'][84101] = {name = "[q4]大型遠征犛牛韁繩", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個附商人的三人坐騎。對前往奈佛勒斯山峰頂端的漫長旅途來說再適合不過。羨煞你的朋友。\n[q2]召喚大型遠征犛牛前來，載著很有幫助的咕嚕摩提供你完整的買賣物品需求。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"已知這種野獸的負重能力可以攜帶超過自身體重五倍的貨物，就算沒有飲水和食物，也可以支撐好幾天。\"\n商人：\n大包公\n區域：\n崑萊峰\n花費："}
 MultiLanguageItemData['tw'][84102] = {name = "遠古魔粉", additional_info = "任務物品\n[q]\"這東西還有效嗎?\""}
 MultiLanguageItemData['tw'][84105] = {name = "[q2]小魚", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散泡泡。\n80 ( 80)"}
 MultiLanguageItemData['tw'][84107] = {name = "大牡山獸牙齒", additional_info = "任務物品\n[q]\"跟一柄匕首一樣大。\""}
@@ -14372,8 +14372,8 @@ MultiLanguageItemData['tw'][85395] = {name = "[q4]紅鶴之握", additional_info
 MultiLanguageItemData['tw'][85396] = {name = "[q4]紅鶴首盔", additional_info = "拾取後綁定{頭部} {皮甲}\n5護甲\n+1 [敏捷 or 智力]\n+6 耐力\n[q2]+ 1 致命一擊\n[q2]+ 1 精通\n\n[q0]變換插槽\n[q0]多色插槽\n[q0]插槽加成: + 7敏捷\n\n耐久: 100 / 100 職業： 武僧\n[q]紅鶴戰裝 (0/5)\n[q0]紅鶴肩甲\n紅鶴護腿\n紅鶴首盔\n紅鶴之握\n紅鶴外套\n[q8]舊版套裝：增益失效\n[q0](2) 組合 : 狂拳連打的冷卻時間縮短5秒。\n(4) 組合 : 凝神絕釀的持續時間延長5秒。\n售價:"}
 MultiLanguageItemData['tw'][85397] = {name = "[q4]紅鶴護腿", additional_info = "拾取後綁定{腿部} {皮甲}\n6護甲\n+3 [敏捷 or 智力]\n+6 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 加速\n\n[q0]多色插槽\n[q0]插槽加成: + 2敏捷\n\n耐久: 120 / 120 職業： 武僧\n[q]紅鶴戰裝 (0/5)\n[q0]紅鶴肩甲\n紅鶴護腿\n紅鶴首盔\n紅鶴之握\n紅鶴外套\n[q8]舊版套裝：增益失效\n[q0](2) 組合 : 狂拳連打的冷卻時間縮短5秒。\n(4) 組合 : 凝神絕釀的持續時間延長5秒。\n售價:"}
 MultiLanguageItemData['tw'][85398] = {name = "[q4]紅鶴肩甲", additional_info = "拾取後綁定{肩部} {皮甲}\n5護甲\n+2 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 1 加速\n\n[q0]多色插槽\n[q0]插槽加成: + 2敏捷\n\n耐久: 100 / 100 職業： 武僧\n[q]紅鶴戰裝 (0/5)\n[q0]紅鶴肩甲\n紅鶴護腿\n紅鶴首盔\n紅鶴之握\n紅鶴外套\n[q8]舊版套裝：增益失效\n[q0](2) 組合 : 狂拳連打的冷卻時間縮短5秒。\n(4) 組合 : 凝神絕釀的持續時間延長5秒。\n售價:"}
-MultiLanguageItemData['tw'][85429] = {name = "[q4]金色雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要雲蛟衛\n- 崇拜\n已經學會\n售價:\n[q]\"金色雲蛟是所有拜訪潘達利亞土地訪客最欣賞的珍寶。\"\n任務：\n天翔\n區域：\n翠玉林"}
-MultiLanguageItemData['tw'][85430] = {name = "[q4]蒼藍雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要雲蛟衛\n- 崇拜\n已經學會\n售價:\n[q]\"熊貓人認為蒼藍雲蛟會帶來好運道。\"\n任務：\n天翔\n區域：\n翠玉林"}
+MultiLanguageItemData['tw'][85429] = {name = "[q4]金色雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要雲蛟衛\n- 崇拜\n售價:\n[q]\"金色雲蛟是所有拜訪潘達利亞土地訪客最欣賞的珍寶。\"\n任務：\n天翔\n區域：\n翠玉林"}
+MultiLanguageItemData['tw'][85430] = {name = "[q4]蒼藍雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要雲蛟衛\n- 崇拜\n售價:\n[q]\"熊貓人認為蒼藍雲蛟會帶來好運道。\"\n任務：\n天翔\n區域：\n翠玉林"}
 MultiLanguageItemData['tw'][85447] = {name = "[q2]小金魚", additional_info = "[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散你的小金魚。\n80 ( 80)\n需要釣手隊\n- 尊敬\n售價:"}
 MultiLanguageItemData['tw'][85477] = {name = "完好如初的魔古硬幣", additional_info = "拾取後綁定\n本物品開啟一項任務\n\"關於文物的細節已經被記載在你的考古學日誌裡，就位於「完成的文物」欄頁中。\""}
 MultiLanguageItemData['tw'][85497] = {name = "[q2]鳴叫小包", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
@@ -15951,23 +15951,23 @@ MultiLanguageItemData['tw'][87763] = {name = "艾拉的酒", additional_info = "
 MultiLanguageItemData['tw'][87764] = {name = "蟠龍之心煙火", additional_info = "[q2]使用: 朝空中發射可以綻放出玉蛟圖案的煙火。\n售價:"}
 MultiLanguageItemData['tw'][87768] = {name = "[q4]瑪瑙雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"和牠們的親戚瑪瑙穹天雲蛟比較起來，瑪瑙雲蛟更具侵略性也更大膽。\"\n任務：\n突擊！\n區域：\n螳螂荒原"}
 MultiLanguageItemData['tw'][87769] = {name = "[q4]赤紅雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"赤紅雲蛟可以給你一趟神奇的飛行，帶著突如其來的興緻隨處逛逛，有時一晃就是一整天。\"\n成就：\n潘達利亞英雄的榮耀\n類別：\n地城與團隊"}
-MultiLanguageItemData['tw'][87771] = {name = "[q4]瑪瑙穹天雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"瑪瑙穹天雲蛟出生時，全身覆蓋著紫色的鱗片。隨著時間過去，這些鱗片的顏色會逐漸變深並轉為瑪瑙色。\"\n掉落：\n憤怒之煞\n區域：\n崑萊峰"}
+MultiLanguageItemData['tw'][87771] = {name = "[q4]瑪瑙穹天雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"瑪瑙穹天雲蛟出生時，全身覆蓋著紫色的鱗片。隨著時間過去，這些鱗片的顏色會逐漸變深並轉為瑪瑙色。\"\n掉落：\n憤怒之煞\n區域：\n崑萊峰"}
 MultiLanguageItemData['tw'][87773] = {name = "[q4]赤紅穹天雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"赤紅穹天雲蛟公認為蛟龍中的貴族。\"\n成就：\n潘達利亞團隊高手的榮耀\n類別：\n地城與團隊"}
-MultiLanguageItemData['tw'][87774] = {name = "[q4]金色穹天雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要紹昊大帝\n- 崇拜\n已經學會\n售價:\n[q]\"這種偉大的生物散發出溫暖和希望，就像是從山邊探出頭的朝陽一樣。\"\n商人：\n織霧者阿古\n區域：\n永恆之島\n陣營：\n紹昊大帝 - 崇拜"}
+MultiLanguageItemData['tw'][87774] = {name = "[q4]金色穹天雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要紹昊大帝\n- 崇拜\n售價:\n[q]\"這種偉大的生物散發出溫暖和希望，就像是從山邊探出頭的朝陽一樣。\"\n商人：\n織霧者阿古\n區域：\n永恆之島\n陣營：\n紹昊大帝 - 崇拜"}
 MultiLanguageItemData['tw'][87775] = {name = "[q4]玉雷，翠玉之女", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這種偉大的生物散發出溫暖和智慧，就像是透過上等翠玉的月光一樣。\"\n商人：\n織霧者小霞\n區域：\n永恆之島\n花費：\n5000"}
 MultiLanguageItemData['tw'][87776] = {name = "[q4]蒼藍穹天雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這種偉大的生物散發出溫暖和平靜，就像是夏日午後無雲的天空一樣。\"\n成就：\n騎靈王\n類別：\n坐騎"}
-MultiLanguageItemData['tw'][87777] = {name = "[q4]星界雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"據信星界雲蛟知道幾個生命中最大謎團的答案。但可惜的是牠們不會講話。\"\n掉落：\n純淨能量的貯藏箱"}
+MultiLanguageItemData['tw'][87777] = {name = "[q4]星界雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"據信星界雲蛟知道幾個生命中最大謎團的答案。但可惜的是牠們不會講話。\"\n掉落：\n純淨能量的貯藏箱"}
 MultiLanguageItemData['tw'][87779] = {name = "遠古郭萊貯物箱鑰匙", additional_info = "拾取後綁定\n[q2]使用: 開啟郭萊院的遠古郭萊貯物箱。"}
 MultiLanguageItemData['tw'][87780] = {name = "[q3]瑪塔的放大鏡", additional_info = "拾取後綁定\n唯一\n飾品\n[q2]使用: 召喚不太聰明的瑪塔，陪你一同戰鬥、冒險和玩耍，持續10分鐘。 (1小時 冷卻)\n售價:"}
-MultiLanguageItemData['tw'][87781] = {name = "[q4]蒼藍騎乘鶴韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要金蓮會\n- 崇拜\n已經學會\n售價:\n[q]\"莊嚴的鶴是熊貓人重視的朋友。\"\n商人：\n『慷慨使』賈廬\n區域：\n恆春谷\n陣營：\n金蓮會 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][87781] = {name = "[q4]蒼藍騎乘鶴韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要金蓮會\n- 崇拜\n售價:\n[q]\"莊嚴的鶴是熊貓人重視的朋友。\"\n商人：\n『慷慨使』賈廬\n區域：\n恆春谷\n陣營：\n金蓮會 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][87782] = {name = "[q4]金芒騎乘鶴韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要金蓮會\n- 崇拜\n售價:\n[q]\"鶴是智慧和尊貴的象徵，牠們可以帶我們到空中，一個到處充滿神奇之處。- 『慷慨使』賈廬\"\n商人：\n『慷慨使』賈廬\n區域：\n恆春谷\n陣營：\n金蓮會 - 崇拜\n花費："}
-MultiLanguageItemData['tw'][87783] = {name = "[q4]帝王騎乘鶴韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要金蓮會\n- 崇拜\n已經學會\n售價:\n[q]\"鶴是智慧和尊貴的象徵，牠們可以帶我們到空中，一個到處充滿神奇之處。- 『慷慨使』賈廬\"\n商人：\n『慷慨使』賈廬\n區域：\n恆春谷\n陣營：\n金蓮會 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][87783] = {name = "[q4]帝王騎乘鶴韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要金蓮會\n- 崇拜\n售價:\n[q]\"鶴是智慧和尊貴的象徵，牠們可以帶我們到空中，一個到處充滿神奇之處。- 『慷慨使』賈廬\"\n商人：\n『慷慨使』賈廬\n區域：\n恆春谷\n陣營：\n金蓮會 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][87784] = {name = "[q4]密林騎乘鶴韁繩", additional_info = "混搭再造：潘達利亞\n拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在潘達利亞南部廣受歡迎的坐騎，這種叢林鶴終其一生都在喀撒利虎口下逃生，因此鍛鍊出了極高的速度和敏捷度。\"\n世界事件：\n《魔獸世界》混搭再造：潘達利亞之謎"}
 MultiLanguageItemData['tw'][87785] = {name = "[q4]白化騎乘鶴韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:"}
 MultiLanguageItemData['tw'][87786] = {name = "[q4]黑色騎乘犛牛韁繩", additional_info = "混搭再造：潘達利亞\n拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"當咕嚕摩需要在晚上行經崑萊峰的時候，比較喜歡騎乘這種黑色犛牛來隱藏行蹤，只不過他們得先把鈴噹從裝飾上拿下來。\"\n世界事件：\n《魔獸世界》混搭再造：潘達利亞之謎"}
 MultiLanguageItemData['tw'][87787] = {name = "[q4]中型遠征犛牛韁繩", additional_info = "混搭再造：潘達利亞\n拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"與其他擅長背負重物的品種不同，這種氂牛偏好輕裝上陣，而且一次不能走超過一英里。\"\n世界事件：\n《魔獸世界》混搭再造：潘達利亞之謎"}
-MultiLanguageItemData['tw'][87788] = {name = "[q4]灰色騎乘犛牛韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價:\n[q]\"騎乘用的犛牛在飼養時就刻意讓牠維持苗條身形，因此比其他的同種更為敏捷。\"\n商人：\n大包公\n區域：\n崑萊峰\n花費："}
-MultiLanguageItemData['tw'][87789] = {name = "[q4]亞麻色騎乘犛牛", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價:\n[q]\"騎乘用的犛牛在飼養時就刻意讓牠維持苗條身形，因此比其他的同種更為敏捷。\"\n商人：\n大包公\n區域：\n崑萊峰\n花費："}
+MultiLanguageItemData['tw'][87788] = {name = "[q4]灰色騎乘犛牛韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"騎乘用的犛牛在飼養時就刻意讓牠維持苗條身形，因此比其他的同種更為敏捷。\"\n商人：\n大包公\n區域：\n崑萊峰\n花費："}
+MultiLanguageItemData['tw'][87789] = {name = "[q4]亞麻色騎乘犛牛", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"騎乘用的犛牛在飼養時就刻意讓牠維持苗條身形，因此比其他的同種更為敏捷。\"\n商人：\n大包公\n區域：\n崑萊峰\n花費："}
 MultiLanguageItemData['tw'][87790] = {name = "遠古郭萊神器", additional_info = "任務物品\n唯一\n[q]\"有巨大的力量在脈動著。\""}
 MultiLanguageItemData['tw'][87791] = {name = "[q4]赤紅水黽韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要納特‧帕格\n- 最好的朋友\n\n\n[q]\"「我們通常會拿蟲蟲當魚餌。可是看著它們無辜的眼神時，怎麼可能還下得了手？」- 納特‧帕格\"\n商人：\n納特‧帕格\n區域：\n要塞：釣屋\n陣營：\n納特‧帕格 - 尊敬\n花費：\n100"}
 MultiLanguageItemData['tw'][87792] = {name = "[q4]橘色水黽韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n[q2]召喚並解散一頭可騎乘的橘色水黽。\n80 ( 80)\n需要 初級騎術\n需要釣手隊\n- 崇拜\n售價:"}
@@ -16627,7 +16627,7 @@ MultiLanguageItemData['tw'][89195] = {name = "[q4]專家製幹部衫", additiona
 MultiLanguageItemData['tw'][89196] = {name = "[q3]塞拉摩外袍", additional_info = "拾取後綁定\n唯一\n外袍\n[q2]使用: 插上你的塞拉摩旌旗。 (3分鐘 冷卻)\n[q]\"莫忘塞拉摩！\""}
 MultiLanguageItemData['tw'][89197] = {name = "風切仙人掌種子", additional_info = "拾取後綁定\n[q2]使用: 種植一顆風切仙人掌種子。\n需要耕者工會聲望 - 崇敬\n[q]\"風切仙人掌被百萬根細微的針所覆蓋，這些針能過濾通過的空氣。隨風飄盪的風絨纖維與材料碎塊經常會聚積在仙人掌上。\"\n售價:"}
 MultiLanguageItemData['tw'][89202] = {name = "猛禽葉種子", additional_info = "拾取後綁定\n[q2]使用: 種植一顆猛禽葉種子。\n需要耕者工會聲望 - 崇敬\n[q]\"猛禽葉是一種食肉植物，以吞食兔妖、老鷹與其他小型生物聞名。它進食一次後就會死亡，將種子散播到空氣中，還經常留下獵物的殘骸。\"\n售價:"}
-MultiLanguageItemData['tw'][89205] = {name = "[q3]迷你法力炸彈", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 丟出你的迷你法力炸彈。 (3分鐘 冷卻)\n已經學會"}
+MultiLanguageItemData['tw'][89205] = {name = "[q3]迷你法力炸彈", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 丟出你的迷你法力炸彈。 (3分鐘 冷卻)"}
 MultiLanguageItemData['tw'][89209] = {name = "完好如初的紀念碑記錄簿", additional_info = "拾取後綁定\n本物品開啟一項任務\n\"關於文物的細節已經被記載在你的考古學日誌裡，就位於「完成的文物」欄頁中。\""}
 MultiLanguageItemData['tw'][89216] = {name = "[q4]懿最不喜愛的盔帽", additional_info = "拾取後綁定{頭部} {板甲}\n12護甲\n+1 [力量 or 智力]\n+6 耐力\n[q2]+ 1 致命一擊\n[q2]+ 2 精通\n\n[q0]變換插槽\n[q0]多色插槽\n[q0]插槽加成: + 10耐力\n\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][89222] = {name = "[q3]雲霧之環", additional_info = "拾取後綁定\n玩具\n[q2]使用: 召喚一個雲圈讓你的寵物跳過去。需要飛行寵物。 (10分鐘 冷卻)\n需要雲蛟衛\n- 崇敬\n[q]\"給你的飛行寵物玩\"\n售價:"}
@@ -16691,7 +16691,7 @@ MultiLanguageItemData['tw'][89300] = {name = "[q4]人間赤煙頭巾", additiona
 MultiLanguageItemData['tw'][89301] = {name = "木板堆", additional_info = "拾取後綁定\n[q2]使用: 在指定地點召喚木板堆供你練習。 (1分鐘 冷卻)\n需要影潘\n- 尊敬\n售價:"}
 MultiLanguageItemData['tw'][89302] = {name = "竹子堆", additional_info = "拾取後綁定\n[q2]使用: 在指定地點召喚竹子堆供你練習。 (1分鐘 冷卻)\n需要影潘\n- 尊敬\n售價:"}
 MultiLanguageItemData['tw'][89303] = {name = "石板堆", additional_info = "拾取後綁定\n[q2]使用: 在指定地點召喚石板堆供你練習。 (1分鐘 冷卻)\n需要影潘\n- 尊敬\n售價:"}
-MultiLanguageItemData['tw'][89304] = {name = "[q4]雷霆天尊雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n召喚或解散一隻可供騎乘的雷霆天尊雲蛟。這是一隻飛行坐騎。需要雲蛟衛的雲蛟騎術。\n80 ( 80)\n需要 初級騎術\n需要聖獸天尊\n- 崇拜\n已經學會\n售價:\n[q]\"從幼年開始，雷霆雲蛟就喜歡親近風暴。牠們會在變暗、翻滾的雲層中追逐閃電，並沐浴在傾盆大雨之中。\"\n商人：\n賢者白心(聯盟)\n區域：\n恆春谷\n陣營：\n聖獸天尊 - 崇拜\n花費：\n\n商人：\n賢者蓮綻(部落)\n區域：\n恆春谷\n陣營：\n聖獸天尊 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][89304] = {name = "[q4]雷霆天尊雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n召喚或解散一隻可供騎乘的雷霆天尊雲蛟。這是一隻飛行坐騎。需要雲蛟衛的雲蛟騎術。\n80 ( 80)\n需要 初級騎術\n需要聖獸天尊\n- 崇拜\n售價:\n[q]\"從幼年開始，雷霆雲蛟就喜歡親近風暴。牠們會在變暗、翻滾的雲層中追逐閃電，並沐浴在傾盆大雨之中。\"\n商人：\n賢者白心(聯盟)\n區域：\n恆春谷\n陣營：\n聖獸天尊 - 崇拜\n花費：\n\n商人：\n賢者蓮綻(部落)\n區域：\n恆春谷\n陣營：\n聖獸天尊 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][89305] = {name = "[q4]綠色影潘騎乘虎韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要影潘\n- 崇拜\n售價:\n[q]\"「用根長棍子叫醒老虎固然不錯，但請你的朋友去叫醒老虎會更好。」- 熊貓人諺語\"\n商人：\n『狡詰狐』盧辛\n區域：\n螳螂荒原\n陣營：\n影潘 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][89306] = {name = "[q4]紅色影潘騎乘虎韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要影潘\n- 崇拜\n售價:\n[q]\"「用根長棍子叫醒老虎固然不錯，但請你的朋友去叫醒老虎會更好。」- 熊貓人諺語\"\n商人：\n『狡詰狐』盧辛\n區域：\n螳螂荒原\n陣營：\n影潘 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][89307] = {name = "[q4]藍色影潘騎乘虎韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要影潘\n- 崇拜\n售價:\n[q]\"「用根長棍子叫醒老虎固然不錯，但請你的朋友去叫醒老虎會更好。」- 熊貓人諺語\"\n商人：\n『狡詰狐』盧辛\n區域：\n螳螂荒原\n陣營：\n影潘 - 崇拜\n花費："}
@@ -16711,15 +16711,15 @@ MultiLanguageItemData['tw'][89344] = {name = "[q4]御風者肩甲", additional_i
 MultiLanguageItemData['tw'][89345] = {name = "[q4]石趾肩甲", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+2 [力量 or 智力]\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 1 加速\n\n[q0]多色插槽\n[q0]插槽加成: + 2力量\n\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][89346] = {name = "[q4]秋光護肩", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+1 [力量 or 智力]\n+5 耐力\n[q2]+ 1 致命一擊\n[q2]+ 3 精通\n\n[q0]多色插槽\n[q0]插槽加成: + 3耐力\n\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][89347] = {name = "[q4]蒼刃肩衛", additional_info = "拾取後綁定{肩部} {板甲}\n11護甲\n+2 [力量 or 智力]\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 1 精通\n\n[q0]多色插槽\n[q0]插槽加成: + 2智力\n\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][89362] = {name = "[q4]棕色騎乘山羊韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要耕者工會\n- 崇拜\n需要耕者工會聲望 - 崇拜\n已經學會\n售價:\n[q]\"要訓練一頭頑固的山羊成為坐騎，需要不屈不撓的耐心和溫和的安撫。\"\n商人：\n吉娜‧泥爪\n區域：\n四風峽\n陣營：\n耕者工會 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][89362] = {name = "[q4]棕色騎乘山羊韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要耕者工會\n- 崇拜\n需要耕者工會聲望 - 崇拜\n售價:\n[q]\"要訓練一頭頑固的山羊成為坐騎，需要不屈不撓的耐心和溫和的安撫。\"\n商人：\n吉娜‧泥爪\n區域：\n四風峽\n陣營：\n耕者工會 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][89363] = {name = "[q3]紅色筋斗雲圓盤", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n召喚或解散一朵紅色筋斗雲。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n需要博學行者\n- 崇拜\n售價:\n[q]\"一個遠古魔古神器，用來獎勵那些獻身於發掘和分享熊貓人知識的人們。\"\n商人：\n譚杏桃\n區域：\n恆春谷\n陣營：\n博學行者 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][89365] = {name = "[q2]熱疫毒牙蜘蛛卵囊", additional_info = "拾取後綁定\n唯一\n[q2]使用: 打破蛛卵，讓冒出的狂囓蜘蛛包圍你的敵人，持續10分鐘。只能在戶外使用。 (30分鐘 冷卻)\n3 充能\n[q]\"它在扭動著...\""}
 MultiLanguageItemData['tw'][89366] = {name = "影潘閃光彈", additional_info = "任務物品\n[q2]使用: 照亮白瓣湖周圍的嘯天勘測員。 (10秒 冷卻)"}
 MultiLanguageItemData['tw'][89367] = {name = "[q2]玉龍風箏", additional_info = "[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散你的玉龍風箏。\n80 ( 80)"}
 MultiLanguageItemData['tw'][89368] = {name = "[q2]赤吉風箏", additional_info = "[q2]使用:  教你學會如何召喚和解散這個夥伴。\n[q2]右鍵點擊以召喚或解散你的赤吉風箏。\n80 ( 80)"}
 MultiLanguageItemData['tw'][89373] = {name = "[q2]史考堤的幸運硬幣", additional_info = "拾取後綁定\n唯一\n[q2]使用: 把使用者的外觀變成森林妖精史考堤。 (10分鐘 冷卻)\n3 充能"}
-MultiLanguageItemData['tw'][89390] = {name = "[q4]白色騎乘山羊韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要耕者工會\n- 崇拜\n需要耕者工會聲望 - 崇拜\n已經學會\n售價: \n[q]\"要訓練一頭頑固的山羊成為坐騎，需要不屈不撓的耐心和溫和的安撫。\"\n商人：\n吉娜‧泥爪\n區域：\n永恆之島\n陣營：\n耕者工會 - 崇拜\n花費：\n\n商人：\n吉娜‧泥爪\n區域：\n四風峽\n陣營：\n耕者工會 - 崇拜\n花費："}
-MultiLanguageItemData['tw'][89391] = {name = "[q4]黑色騎乘山羊韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要耕者工會\n- 崇拜\n需要耕者工會聲望 - 崇拜\n已經學會\n售價:\n[q]\"要訓練一頭頑固的山羊成為坐騎，需要不屈不撓的耐心和溫和的安撫。\"\n商人：\n吉娜‧泥爪\n區域：\n永恆之島\n陣營：\n耕者工會 - 崇拜\n花費：\n\n商人：\n吉娜‧泥爪\n區域：\n四風峽\n陣營：\n耕者工會 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][89390] = {name = "[q4]白色騎乘山羊韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要耕者工會\n- 崇拜\n需要耕者工會聲望 - 崇拜\n售價: \n[q]\"要訓練一頭頑固的山羊成為坐騎，需要不屈不撓的耐心和溫和的安撫。\"\n商人：\n吉娜‧泥爪\n區域：\n永恆之島\n陣營：\n耕者工會 - 崇拜\n花費：\n\n商人：\n吉娜‧泥爪\n區域：\n四風峽\n陣營：\n耕者工會 - 崇拜\n花費："}
+MultiLanguageItemData['tw'][89391] = {name = "[q4]黑色騎乘山羊韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要耕者工會\n- 崇拜\n需要耕者工會聲望 - 崇拜\n售價:\n[q]\"要訓練一頭頑固的山羊成為坐騎，需要不屈不撓的耐心和溫和的安撫。\"\n商人：\n吉娜‧泥爪\n區域：\n永恆之島\n陣營：\n耕者工會 - 崇拜\n花費：\n\n商人：\n吉娜‧泥爪\n區域：\n四風峽\n陣營：\n耕者工會 - 崇拜\n花費："}
 MultiLanguageItemData['tw'][89392] = {name = "[q3]卡拉西斐斯琥珀之脊", additional_info = "拾取後綁定{單手} {匕首}\n{1-3點傷害} {速度 1.80}\n(每秒1.1點傷害)\n+12 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 加速\n耐久: 65 / 65\n需要卡拉西\n- 崇拜\n售價:"}
 MultiLanguageItemData['tw'][89393] = {name = "[q3]卡拉西斐斯琥珀分割刃", additional_info = "拾取後綁定{單手} {匕首}\n{3-5點傷害} {速度 1.80}\n(每秒2.2點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n耐久: 65 / 65\n需要卡拉西\n- 崇拜\n售價:"}
 MultiLanguageItemData['tw'][89394] = {name = "[q3]卡拉西斐斯琥珀長矛", additional_info = "拾取後綁定{雙手} {長柄武器}\n{7-15點傷害} {速度 3.60}\n(每秒3.1點傷害)\n+4 敏捷\n+6 耐力\n[q2]+ 4 致命一擊\n[q2]+ 4 加速\n耐久: 100 / 100\n需要卡拉西\n- 崇拜\n售價:"}
@@ -16958,7 +16958,7 @@ MultiLanguageItemData['tw'][89767] = {name = "[q4]晶紅串列束腰", additiona
 MultiLanguageItemData['tw'][89768] = {name = "[q4]紫晶之爪", additional_info = "拾取後綁定{手} {布甲}\n2護甲\n+2 智力\n+5 耐力\n[q2]+ 2 致命一擊\n[q2]+ 1 精通\n\n[q0]多色插槽\n[q0]插槽加成: + 2致命一擊\n\n耐久: 55 / 55\n售價:"}
 MultiLanguageItemData['tw'][89769] = {name = "納茲格寧姆的信號槍", additional_info = "任務物品\n[q2]使用: 對雷鳴要塞炸藥發射煙火，摧毀他們的補給品。"}
 MultiLanguageItemData['tw'][89770] = {name = "[q2]一束犛牛毛", additional_info = "拾取後綁定\n坐騎\n[q2]使用: 召喚一隻可供騎乘的暴怒犛牛。這是一隻速度非常、非常快的坐騎。\n\n\n 只能在潘達利亞使用。 (3秒 冷卻)\n[q]\"非常毛茸茸。\""}
-MultiLanguageItemData['tw'][89783] = {name = "[q4]「帆船」之子的鞍具", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"這種巨大的牡山獸從年幼時就受到訓練，教導牠們帶著一整隊的薩烏洛克大軍，像雷霆一樣衝入戰場。\"\n掉落：\n帆船\n區域：\n四風峽"}
+MultiLanguageItemData['tw'][89783] = {name = "[q4]「帆船」之子的鞍具", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這種巨大的牡山獸從年幼時就受到訓練，教導牠們帶著一整隊的薩烏洛克大軍，像雷霆一樣衝入戰場。\"\n掉落：\n帆船\n區域：\n四風峽"}
 MultiLanguageItemData['tw'][89784] = {name = "[q3]耕者外袍", additional_info = "拾取後綁定外袍\n需要耕者工會\n- 崇拜\n[q]\"一個真正的農藝專家。\""}
 MultiLanguageItemData['tw'][89785] = {name = "[q4]熊貓人風箏線", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"這是潘達利亞博學行者的禮物，也是榮耀的象徵。不過似乎沒有提供飛行手冊。\"\n成就：\n熊貓人大使\n類別：\n潘達利亞"}
 MultiLanguageItemData['tw'][89786] = {name = "一桶甘露酒", additional_info = "任務物品\n[q]\"一種由甜瓜與蜂蜜釀成的甜酒。\""}
@@ -19070,7 +19070,7 @@ MultiLanguageItemData['tw'][93626] = {name = "[q3]失竊的禮物", additional_i
 MultiLanguageItemData['tw'][93655] = {name = "祈倫托密探徽章", additional_info = "拾取後綁定\n[q]\"由祈倫托密探屍體的盔甲扯下來的，可交給奪日者換取獎勵。\""}
 MultiLanguageItemData['tw'][93656] = {name = "奪日者密探徽章", additional_info = "拾取後綁定\n[q]\"由奪日者密探屍體的盔甲扯下來的，可交給祈倫托換取獎勵。\""}
 MultiLanguageItemData['tw'][93662] = {name = "[q4]裝甲嘯天龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎的能力隨著你的騎術技能和地點改變。\n召喚或解散一隻可供騎乘的裝甲嘯天龍。此坐騎的能力隨著你的騎術技能和地點改變。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"只有那些克服魔古暴君每一項挑戰的英勇靈魂，才有辦法驕傲的駕馭這種戰備嘯天龍，在天空自由遨翔。\"\n成就：\n雷霆團隊高手的榮耀\n類別：\n地城與團隊"}
-MultiLanguageItemData['tw'][93666] = {name = "[q4]哈里登的子嗣", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"當你看到颶風的時候，你會選擇避開。但哈里登會和颶風奮戰並且獲勝。\"\n掉落：\n哈里登\n區域：\n雷霆王座"}
+MultiLanguageItemData['tw'][93666] = {name = "[q4]哈里登的子嗣", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"當你看到颶風的時候，你會選擇避開。但哈里登會和颶風奮戰並且獲勝。\"\n掉落：\n哈里登\n區域：\n雷霆王座"}
 MultiLanguageItemData['tw'][93668] = {name = "恐龍神像", additional_info = "任務物品\n[q2]使用: 對獸園內的一隻迅猛龍、羽冠龍、嘯天龍或恐角龍使用這個神像以試圖控制牠們。使用的後果難以預料。 (10秒 冷卻)"}
 MultiLanguageItemData['tw'][93669] = {name = "[q3]狂風魔典", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚這個夥伴。\n[q2]右鍵點擊以召喚或解散狂風魔典。\n80 ( 80)"}
 MultiLanguageItemData['tw'][93671] = {name = "[q4]恐怖戰騎的顱骨", additional_info = "唯一\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎的能力隨著你的騎術技能和地點改變。\n召喚或解散一隻可供騎乘的恐怖戰騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"並不是每位麥迪文的犧牲者都獲得善終。\"\n商人：\n藍卓‧長射\n區域：\n藏寶海灣"}
@@ -19099,8 +19099,8 @@ MultiLanguageItemData['tw'][93796] = {name = "司庫的身軀", additional_info 
 MultiLanguageItemData['tw'][93803] = {name = "古拉的咒卷", additional_info = "任務物品\n[q2]使用: 從墓地召喚一個生物。必須在『回煞魔』古拉的最後安息地使用。 (3秒 冷卻)"}
 MultiLanguageItemData['tw'][93805] = {name = "奪日者偵察報告", additional_info = "任務物品\n[q]\"詳細寫著島上祈倫托的兵力和部署狀況的情報。\""}
 MultiLanguageItemData['tw'][93806] = {name = "共鳴虹吸", additional_info = "任務物品\n唯一\n[q2]使用: 可用來吸出哨衛屍體內，虛弱的贊達拉魂靈。 (5秒 冷卻)"}
-MultiLanguageItemData['tw'][93823] = {name = "挑戰卡：布魯斯", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰布魯斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][93824] = {name = "挑戰卡：維安", additional_info = "等級3\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰維安。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][93823] = {name = "挑戰卡：布魯斯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰布魯斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][93824] = {name = "挑戰卡：維安", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰維安。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][93841] = {name = "[q7]滑膛矮人手持火砲", additional_info = "[q7]戰隊綁定\n{遠程} {槍}\n{1-2點傷害} {速度 3.00}\n(每秒0.5點傷害)"}
 MultiLanguageItemData['tw'][93843] = {name = "[q7]硬化奧金收割斧", additional_info = "[q7]戰隊綁定\n{雙手} {斧}\n{1-3點傷害} {速度 3.60}\n(每秒0.6點傷害)"}
 MultiLanguageItemData['tw'][93844] = {name = "[q7]修整的看守者法杖", additional_info = "[q7]戰隊綁定\n{雙手} {法杖}\n{1-2點傷害} {速度 3.60}\n(每秒0.4點傷害)"}
@@ -19248,33 +19248,33 @@ MultiLanguageItemData['tw'][94154] = {name = "[q3]倖存者的一袋硬幣", add
 MultiLanguageItemData['tw'][94155] = {name = "安東尼達斯之杖", additional_info = "任務物品\n唯一\n[q]\"大法師安東尼達斯的遺物，送給他最有天份的學徒。\""}
 MultiLanguageItemData['tw'][94158] = {name = "[q3]一大袋贊達拉補給品", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][94159] = {name = "[q2]一小包贊達拉補給品", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][94160] = {name = "挑戰卡：牴角", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰牴角。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94161] = {name = "挑戰卡：韋沙斯", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰韋沙斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94162] = {name = "挑戰卡：呆呆", additional_info = "等級2\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰呆呆。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94163] = {name = "挑戰卡：科羅克", additional_info = "等級2\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰科羅克。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94164] = {name = "挑戰卡：弗蘭與瑞多", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰弗蘭與瑞多。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94165] = {name = "挑戰卡：庫拉卡王", additional_info = "等級2\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰庫拉卡王。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94166] = {name = "挑戰卡：吞齧怪", additional_info = "等級2\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰吞齧怪。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94167] = {name = "挑戰卡：薩諾里亞克", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰薩諾里亞克。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94168] = {name = "挑戰卡：伊克斯", additional_info = "等級3\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰伊克斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94160] = {name = "挑戰卡：牴角", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰牴角。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94161] = {name = "挑戰卡：韋沙斯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰韋沙斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94162] = {name = "挑戰卡：呆呆", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰呆呆。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94163] = {name = "挑戰卡：科羅克", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰科羅克。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94164] = {name = "挑戰卡：弗蘭與瑞多", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰弗蘭與瑞多。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94165] = {name = "挑戰卡：庫拉卡王", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰庫拉卡王。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94166] = {name = "挑戰卡：吞齧怪", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰吞齧怪。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94167] = {name = "挑戰卡：薩諾里亞克", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰薩諾里亞克。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94168] = {name = "挑戰卡：伊克斯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰伊克斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][94169] = {name = "挑戰卡：梅颯靈", additional_info = "等級3\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰梅颯靈。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94170] = {name = "挑戰卡：碾大力", additional_info = "等級2\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰碾大力。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94171] = {name = "挑戰卡：雷歐娜", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰雷歐娜。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94172] = {name = "挑戰卡：多明妮卡", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰多明妮卡。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94173] = {name = "挑戰卡：迪肯", additional_info = "等級3\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰迪肯。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94174] = {name = "挑戰卡：米莉耶‧瓦特", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰米莉耶‧瓦特。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94175] = {name = "挑戰卡：菲歐", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰菲歐。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94176] = {name = "挑戰卡：普羅伯斯庫", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰普羅伯斯庫。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94177] = {name = "挑戰卡：麻瘋地精", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰麻瘋地精。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94178] = {name = "挑戰卡：GG工程公司", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰GG工程公司。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94179] = {name = "挑戰卡：黑暗召喚師", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰黑暗召喚師。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94170] = {name = "挑戰卡：碾大力", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰碾大力。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94171] = {name = "挑戰卡：雷歐娜", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰雷歐娜。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94172] = {name = "挑戰卡：多明妮卡", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰多明妮卡。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94173] = {name = "挑戰卡：迪肯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰迪肯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94174] = {name = "挑戰卡：米莉耶‧瓦特", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰米莉耶‧瓦特。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94175] = {name = "挑戰卡：菲歐", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰菲歐。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94176] = {name = "挑戰卡：普羅伯斯庫", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰普羅伯斯庫。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94177] = {name = "挑戰卡：麻瘋地精", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰麻瘋地精。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94178] = {name = "挑戰卡：GG工程公司", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰GG工程公司。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94179] = {name = "挑戰卡：黑暗召喚師", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰黑暗召喚師。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][94180] = {name = "挑戰卡：戰魔像", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰戰魔像。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94181] = {name = "挑戰卡：肉糰", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰肉糰。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94182] = {name = "挑戰卡：艾匹庫斯‧麥希莫斯", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰艾匹庫斯‧麥希莫斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94183] = {name = "挑戰卡：伊坎‧易祖", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰伊坎‧易祖。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94184] = {name = "挑戰卡：阿卡瑪", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰阿卡瑪。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94181] = {name = "挑戰卡：肉糰", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰肉糰。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94182] = {name = "挑戰卡：艾匹庫斯‧麥希莫斯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰艾匹庫斯‧麥希莫斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94183] = {name = "挑戰卡：伊坎‧易祖", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰伊坎‧易祖。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94184] = {name = "挑戰卡：阿卡瑪", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰阿卡瑪。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][94185] = {name = "挑戰卡：潰擊‧蹄踏", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰蹄踏。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][94186] = {name = "挑戰卡：昂格洛斯", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰昂格洛斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][94186] = {name = "挑戰卡：昂格洛斯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰昂格洛斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][94187] = {name = "挑戰卡：裂衝", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰裂衝。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][94188] = {name = "挑戰卡：米歐浩斯‧曼納斯頓", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰米歐浩斯‧曼納斯頓。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][94189] = {name = "挑戰卡：贊夏", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰贊夏。你一次只能擁有一張挑戰卡。\"\n售價:"}
@@ -19303,10 +19303,10 @@ MultiLanguageItemData['tw'][94223] = {name = "[q3]失竊的影潘徽記", additi
 MultiLanguageItemData['tw'][94225] = {name = "[q3]失竊的天尊徽記", additional_info = "[q7]戰隊綁定\n[q2]使用: 與聖獸天尊的聲望提高1000點。 (2秒 冷卻)"}
 MultiLanguageItemData['tw'][94226] = {name = "[q3]失竊的卡拉西徽記", additional_info = "[q7]戰隊綁定\n[q2]使用: 與卡拉西的聲望提高1000點。 (2秒 冷卻)"}
 MultiLanguageItemData['tw'][94227] = {name = "[q3]失竊的金蓮會徽記", additional_info = "[q7]戰隊綁定\n[q2]使用: 與金蓮會的聲望提高8000點。 (2秒 冷卻)"}
-MultiLanguageItemData['tw'][94228] = {name = "[q4]鈷藍原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"「當你和迅猛龍作戰時，你需要的是一隻迅猛龍咬不動的坐騎。」- 某位馭龍師\"\n掉落：\n烏達斯塔\n區域：\n巨獸島"}
-MultiLanguageItemData['tw'][94229] = {name = "[q4]石板原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"面具不是用來控制恐角龍；那是在牠轉頭對付你的時候，確保不會有人看到你的表情。\"\n掉落：\n贊達拉戰爭使者\n區域：\n悚然荒野、喀撒朗蠻荒、崑萊峰、螳螂荒原、四風峽"}
-MultiLanguageItemData['tw'][94230] = {name = "[q4]琥珀原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"有句提到野生恐角龍的古老贊達拉諺語說：「快逃啊！」\"\n掉落：\n贊達拉戰爭使者\n區域：\n悚然荒野、崑萊峰、螳螂荒原、四風峽"}
-MultiLanguageItemData['tw'][94231] = {name = "[q4]翠玉原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"慶典的色彩之下隱藏著致命殺機。\"\n掉落：\n贊達拉戰爭使者\n區域：\n悚然荒野、崑萊峰、螳螂荒原、四風峽"}
+MultiLanguageItemData['tw'][94228] = {name = "[q4]鈷藍原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"「當你和迅猛龍作戰時，你需要的是一隻迅猛龍咬不動的坐騎。」- 某位馭龍師\"\n掉落：\n烏達斯塔\n區域：\n巨獸島"}
+MultiLanguageItemData['tw'][94229] = {name = "[q4]石板原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"面具不是用來控制恐角龍；那是在牠轉頭對付你的時候，確保不會有人看到你的表情。\"\n掉落：\n贊達拉戰爭使者\n區域：\n悚然荒野、喀撒朗蠻荒、崑萊峰、螳螂荒原、四風峽"}
+MultiLanguageItemData['tw'][94230] = {name = "[q4]琥珀原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"有句提到野生恐角龍的古老贊達拉諺語說：「快逃啊！」\"\n掉落：\n贊達拉戰爭使者\n區域：\n悚然荒野、崑萊峰、螳螂荒原、四風峽"}
+MultiLanguageItemData['tw'][94231] = {name = "[q4]翠玉原始恐角龍韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"慶典的色彩之下隱藏著致命殺機。\"\n掉落：\n贊達拉戰爭使者\n區域：\n悚然荒野、崑萊峰、螳螂荒原、四風峽"}
 MultiLanguageItemData['tw'][94232] = {name = "[q3]恐龍學遠古典籍", additional_info = "拾取後綁定 職業： 獵人\n[q2]使用:  教你學會贊達拉馴服恐角龍的古老秘技。\n[q2]學會贊達拉馴服恐角龍的古老知識。\n售價:"}
 MultiLanguageItemData['tw'][94233] = {name = "鄧氏的咒卷", additional_info = "拾取後綁定\n[q2]使用: 從墓地召喚一個生物。 (3秒 冷卻)"}
 MultiLanguageItemData['tw'][94236] = {name = "[q0]卡林多的翔龍卷軸", additional_info = "拾取後綁定\n[q]\"描述九條翔龍翱翔在巍然大地的畫作。\"\n售價:"}
@@ -19854,8 +19854,8 @@ MultiLanguageItemData['tw'][95053] = {name = "一塊普通的岩石", additional
 MultiLanguageItemData['tw'][95054] = {name = "輕飄飄藥水", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 在雷王的寶庫中使用，可漂浮在地面陷阱上，減緩下降的速度，並且行走於水上。任何傷害都會中止此效果。 (10秒 冷卻)\n需要祈倫托先遣軍\n- 友善\n售價:"}
 MultiLanguageItemData['tw'][95055] = {name = "冰霜符文陷阱", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 放置一個符文，當敵人碰到此符文時會被冰凍20秒。只能在雷王的珍寶事件中使用。 (10秒 冷卻)\n需要祈倫托先遣軍\n- 崇敬\n售價:"}
 MultiLanguageItemData['tw'][95056] = {name = "變形鑰匙", additional_info = "拾取後綁定\n唯一（5）\n[q2]使用: 神奇地重塑鑰匙以在雷王的珍寶事件中開啟任何雷王城塞內的上古之門。 (5分鐘 冷卻)\n需要祈倫托先遣軍\n- 崇拜\n售價:"}
-MultiLanguageItemData['tw'][95057] = {name = "[q4]雷霆鈷藍雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n召喚或解散一隻可供騎乘的雷霆鈷藍雲蛟。這是一隻飛行坐騎。需要雲蛟衛的雲蛟騎術。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"這是暴躁納拉卡的後裔。閃電會從牠的鱗片上爆發，並在鞍座上畫出一道電弧。看你敢不敢坐？\"\n掉落：\n納拉卡\n區域：\n雷王島"}
-MultiLanguageItemData['tw'][95059] = {name = "[q4]稷坤之嗣", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"雖然稷坤負責吃掉魔古創造失敗的血肉塑形者，但她的後代比較想吃一些還會動的軀體。\"\n掉落：\n稷坤\n區域：\n雷霆王座"}
+MultiLanguageItemData['tw'][95057] = {name = "[q4]雷霆鈷藍雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n召喚或解散一隻可供騎乘的雷霆鈷藍雲蛟。這是一隻飛行坐騎。需要雲蛟衛的雲蛟騎術。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這是暴躁納拉卡的後裔。閃電會從牠的鱗片上爆發，並在鞍座上畫出一道電弧。看你敢不敢坐？\"\n掉落：\n納拉卡\n區域：\n雷王島"}
+MultiLanguageItemData['tw'][95059] = {name = "[q4]稷坤之嗣", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"雖然稷坤負責吃掉魔古創造失敗的血肉塑形者，但她的後代比較想吃一些還會動的軀體。\"\n掉落：\n稷坤\n區域：\n雷霆王座"}
 MultiLanguageItemData['tw'][95060] = {name = "[q4]被遺棄的箭翔肩甲", additional_info = "拾取後綁定{肩部} {鎖甲}\n8護甲\n+2 [敏捷 or 智力]\n+5 耐力\n[q2]+ 1 加速\n[q2]+ 2 精通\n\n[q0]多色插槽\n[q0]插槽加成: + 2敏捷\n\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][95061] = {name = "[q4]失落火焰護肩", additional_info = "拾取後綁定{肩部} {布甲}\n3護甲\n+2 智力\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 2 加速\n\n[q0]多色插槽\n[q0]插槽加成: + 2智力\n\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][95062] = {name = "[q4]遺日披肩", additional_info = "拾取後綁定{肩部} {皮甲}\n5護甲\n+2 [敏捷 or 智力]\n+5 耐力\n[q2]+ 2 加速\n[q2]+ 2 精通\n\n[q0]多色插槽\n[q0]插槽加成: + 2智力\n\n耐久: 100 / 100\n售價:"}
@@ -21843,18 +21843,18 @@ MultiLanguageItemData['tw'][97230] = {name = "[q3]結構圖：賈德奇特的能
 MultiLanguageItemData['tw'][97268] = {name = "[q3]勇氣之書", additional_info = "拾取後綁定\n唯一\n持續時間：1小時 (實時)"}
 MultiLanguageItemData['tw'][97278] = {name = "挑戰卡：阿胡魯", additional_info = "等級3\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰阿胡魯。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97279] = {name = "挑戰卡：明格斯‧迪格司", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰明格斯‧迪格司。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][97280] = {name = "挑戰卡：呆呆與瓜瓜", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰呆呆與瓜瓜。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97280] = {name = "挑戰卡：呆呆與瓜瓜", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰呆呆與瓜瓜。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97281] = {name = "挑戰卡：大眼怪", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰大眼怪。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97282] = {name = "挑戰卡：泰薩爾", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰泰薩爾。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][97283] = {name = "挑戰卡：囓屍大蛇", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰囓屍大蛇。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97283] = {name = "挑戰卡：囓屍大蛇", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰囓屍大蛇。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97284] = {name = "挑戰卡：砰砰大師", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰砰砰大師。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97285] = {name = "挑戰卡：寶笛爺爺", additional_info = "等級1\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰寶笛爺爺。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97286] = {name = "挑戰卡：大轟噠彈", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰大轟噠彈。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97287] = {name = "挑戰卡：熊與夫人", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰熊與夫人。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97288] = {name = "挑戰卡：拳頭醫師", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰拳頭醫師。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97289] = {name = "挑戰卡：血泥怪", additional_info = "等級3\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰血泥怪。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][97321] = {name = "挑戰卡：盲大俠", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰盲大俠。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][97445] = {name = "挑戰卡：布靈登3000型", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰布靈登3000型。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97321] = {name = "挑戰卡：盲大俠", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰盲大俠。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97445] = {name = "挑戰卡：布靈登3000型", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰布靈登3000型。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97450] = {name = "挑戰卡：泰森‧桑德斯", additional_info = "等級4\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰泰森‧桑德斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97512] = {name = "鬼鐵碎礦", additional_info = "[q2]使用: 將十個碎礦合成一個礦石。\n制作材料\n售價:"}
 MultiLanguageItemData['tw'][97530] = {name = "[q0]柯爾克隆木材", additional_info = "拾取後綁定\n售價:"}
@@ -21873,12 +21873,12 @@ MultiLanguageItemData['tw'][97555] = {name = "[q3]小惡魔引擎鑰匙", additi
 MultiLanguageItemData['tw'][97556] = {name = "[q3]虛無水晶", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚次級虛無呼喚者。\n[q2]右鍵點擊以召喚或解散你的次級虛無呼喚者。\n80 ( 80)"}
 MultiLanguageItemData['tw'][97557] = {name = "[q3]斑斕的鳳鷹羽毛", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚鳳鷹寶寶。\n[q2]右鍵點擊以召喚或解散你的鳳鷹寶寶。\n80 ( 80)"}
 MultiLanguageItemData['tw'][97558] = {name = "[q3]多多的籃子", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何召喚多多。\n[q2]右鍵點擊以召喚或解散你的多多。\n80 ( 80)"}
-MultiLanguageItemData['tw'][97559] = {name = "挑戰卡：T440雙模式機器人", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰T440雙模式機器人。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97559] = {name = "挑戰卡：T440雙模式機器人", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰T440雙模式機器人。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97560] = {name = "挑戰卡：剪刀石頭布", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰剪刀石頭布。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97561] = {name = "挑戰卡：保查", additional_info = "等級7\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰保查。你一次只能擁有一張挑戰卡。\"\n售價:"}
-MultiLanguageItemData['tw'][97563] = {name = "挑戰卡：機械布魯斯", additional_info = "等級6\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰機械布魯斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97563] = {name = "挑戰卡：機械布魯斯", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰機械布魯斯。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97565] = {name = "[q4]無人領取的黑市容器", additional_info = "拾取後綁定\n[q]\"拍賣出去之後卻沒有人領取的物品。欲購者請三思。\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][97566] = {name = "挑戰卡：獰齒鯊", additional_info = "等級5\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰獰齒鯊。你一次只能擁有一張挑戰卡。\"\n售價:"}
+MultiLanguageItemData['tw'][97566] = {name = "挑戰卡：獰齒鯊", additional_info = "等級8\n拾取後綁定\n唯一：挑戰卡（1）\n[q]\"向鬥陣俱樂部的代表出示挑戰卡，要求挑戰獰齒鯊。你一次只能擁有一張挑戰卡。\"\n售價:"}
 MultiLanguageItemData['tw'][97619] = {name = "破損的綠茶葉", additional_info = "[q2]使用: 將十片破損的綠茶葉合成一片綠茶葉。\n制作材料\n售價:"}
 MultiLanguageItemData['tw'][97620] = {name = "雨罌粟花瓣", additional_info = "[q2]使用: 將十片雨罌粟花瓣合成一株雨罌粟。\n制作材料\n售價:"}
 MultiLanguageItemData['tw'][97621] = {name = "絲草莖", additional_info = "[q2]使用: 將十根絲草莖合成一株絲草。\n制作材料\n售價:"}
@@ -24628,8 +24628,8 @@ MultiLanguageItemData['tw'][102483] = {name = "[q3]精製狠毒鬥士堅毅勳�
 MultiLanguageItemData['tw'][102491] = {name = "月岩石塊", additional_info = "任務物品\n[q]\"你拿得動的大小。會發出能量光芒，摸起來有點熱熱的。\""}
 MultiLanguageItemData['tw'][102495] = {name = "影月之水", additional_info = "任務物品\n唯一"}
 MultiLanguageItemData['tw'][102513] = {name = "[q2]圖樣：憤怒之鼓", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作憤怒之鼓。\n需要 潘達利亞製皮 (75)\n\n\n[q2]憤怒之鼓\n[q2]使用: 使所有隊伍和團隊成員的近戰、遠程和法術加速提高15%，持續40秒。\n\n 獲得此效果的盟友會進入精疲力竭狀態，在10分鐘內無法再度獲得嗜血術、英勇氣概或時間扭曲。\n\n 無法對50級以上的盟友產生效果。 (2分鐘 冷卻)\n售價:\n需要 華貴毛皮"}
-MultiLanguageItemData['tw'][102514] = {name = "[q4]兇惡戰豹韁繩", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"裝甲上的利刃裝飾是為了威嚇敵人，並且替戰豹切好食物。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
-MultiLanguageItemData['tw'][102533] = {name = "[q4]兇惡骷髏戰馬韁繩", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"只有在戰鬥中打敗對手的人才能擁有。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
+MultiLanguageItemData['tw'][102514] = {name = "[q4]兇惡戰豹韁繩", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"裝甲上的利刃裝飾是為了威嚇敵人，並且替戰豹切好食物。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
+MultiLanguageItemData['tw'][102533] = {name = "[q4]兇惡骷髏戰馬韁繩", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"只有在戰鬥中打敗對手的人才能擁有。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
 MultiLanguageItemData['tw'][102534] = {name = "[q2]技藝:精製狠毒鬥士堅毅勳章", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何製作製狠毒鬥士堅毅勳章。\n需要 潘達利亞銘文學 (75)\n售價:\n[q3]精製狠毒鬥士堅毅勳章\n裝備後綁定\n僅可裝備一件\n飾品\n+5 耐力\n[q2]使用: 移除所有移動限制以及使你喪失角色控制的效果。 (2分鐘 冷卻)\n售價: \n需要 鬼鐵錠 (10)\n 額外材料： []（#49）"}
 MultiLanguageItemData['tw'][102536] = {name = "新鮮的蘑菇", additional_info = "持續時間：2小時\n制作材料\n售價:"}
 MultiLanguageItemData['tw'][102537] = {name = "新鮮的絲羽鷹蛋", additional_info = "持續時間：2小時\n制作材料\n售價:"}
@@ -26019,7 +26019,7 @@ MultiLanguageItemData['tw'][104249] = {name = "影月褶裙", additional_info = 
 MultiLanguageItemData['tw'][104250] = {name = "啤酒節長裙", additional_info = "唯一\n腿部\n售價:"}
 MultiLanguageItemData['tw'][104251] = {name = "[q0]Peon's Pants", additional_info = "唯一\n腿部\n售價:"}
 MultiLanguageItemData['tw'][104252] = {name = "時髦束褲", additional_info = "唯一\n腿部\n售價:"}
-MultiLanguageItemData['tw'][104253] = {name = "[q4]柯爾克隆重裝殲滅者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚柯爾克隆重裝殲滅者。這是一隻陸行坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"柯爾克隆重裝殲滅者是一種無轡頭的毀滅工具，從卡爾洛斯‧地獄吼的想法中誕生，並由他的工程師實現。\"\n掉落：\n卡爾洛斯‧地獄吼\n區域：\n圍攻奧格瑪"}
+MultiLanguageItemData['tw'][104253] = {name = "[q4]柯爾克隆重裝殲滅者", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚柯爾克隆重裝殲滅者。這是一隻陸行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"柯爾克隆重裝殲滅者是一種無轡頭的毀滅工具，從卡爾洛斯‧地獄吼的想法中誕生，並由他的工程師實現。\"\n掉落：\n卡爾洛斯‧地獄吼\n區域：\n圍攻奧格瑪"}
 MultiLanguageItemData['tw'][104257] = {name = "新鮮的火焰風暴之蛋", additional_info = "拾取後綁定\n[q]\"永恆之島上的廚師會對這個食材很感興趣的。\""}
 MultiLanguageItemData['tw'][104258] = {name = "[q3]發光的綠色灰燼", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][104260] = {name = "[q7]蠻荒秘寶背袋", additional_info = "[q7]戰隊綁定\n[q]\"背袋顫動著，看重量好像藏著...\"\n[q2]<右鍵單擊打開>"}
@@ -26031,7 +26031,7 @@ MultiLanguageItemData['tw'][104265] = {name = "巨型龜肉", additional_info = 
 MultiLanguageItemData['tw'][104266] = {name = "沉重的犛牛腩肉", additional_info = "拾取後綁定\n[q]\"永恆之島上的廚師會對這個食材很感興趣的。\""}
 MultiLanguageItemData['tw'][104267] = {name = "肥厚的虎腿肉", additional_info = "拾取後綁定\n[q]\"永恆之島上的廚師會對這個食材很感興趣的。\""}
 MultiLanguageItemData['tw'][104268] = {name = "[q3]原始潛獵者皮革", additional_info = "拾取後綁定\n[q]\"巨大而厚重的皮革，可以分割成較小的部位。\"\n[q2]<右鍵單擊打開>"}
-MultiLanguageItemData['tw'][104269] = {name = "[q4]雷霆黑曜雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n召喚或解散一隻可供騎乘的雷霆黑曜雲蛟。這是一隻飛行坐騎。需要雲蛟衛的雲蛟騎術。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"這種黑檀般的雲蛟是以閃電來裝飾的版本，牠的稀有程度已經讓不少人為之瘋狂。\"\n掉落：\n霍龍\n區域：\n永恆之島"}
+MultiLanguageItemData['tw'][104269] = {name = "[q4]雷霆黑曜雲蛟韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n召喚或解散一隻可供騎乘的雷霆黑曜雲蛟。這是一隻飛行坐騎。需要雲蛟衛的雲蛟騎術。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這種黑檀般的雲蛟是以閃電來裝飾的版本，牠的稀有程度已經讓不少人為之瘋狂。\"\n掉落：\n霍龍\n區域：\n永恆之島"}
 MultiLanguageItemData['tw'][104270] = {name = "[q0]燒焦的雕紋", additional_info = "職業： 獵人\n售價:"}
 MultiLanguageItemData['tw'][104271] = {name = "[q4]凝結的騷動", additional_info = "團隊搜尋器\n拾取後綁定\n[q2]<右鍵單擊打開>"}
 MultiLanguageItemData['tw'][104272] = {name = "[q4]天尊寶箱", additional_info = "拾取後綁定\n[q2]<右鍵單擊打開>"}
@@ -28470,7 +28470,7 @@ MultiLanguageItemData['tw'][109057] = {name = "[q3]蛙皮潛水帽", additional_
 MultiLanguageItemData['tw'][109059] = {name = "[q0]鋼鐵處刑斧", additional_info = "拾取後綁定{雙手} {斧}\n{4-10點傷害} {速度 3.60}\n(每秒1.9點傷害)\n+4 力量\n+7 耐力\n[q2]+ 9 致命一擊\n售價:"}
 MultiLanguageItemData['tw'][109060] = {name = "[q3]萊拉克鱗片外衣", additional_info = "拾取後綁定{胸部} {鎖甲}\n11護甲\n+4 [敏捷 or 智力]\n+7 耐力\n[q2]+ 4 致命一擊\n[q2]+ 5 臨機應變\n耐久: 140 / 140\n售價:"}
 MultiLanguageItemData['tw'][109061] = {name = "[q3]庫塔爾的殘忍之握", additional_info = "拾取後綁定{手} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+5 耐力\n[q2]+ 3 致命一擊\n[q2]+ 3 精通\n耐久: 50 / 50\n售價:"}
-MultiLanguageItemData['tw'][109062] = {name = "[q3]法師塔，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的法師塔升至第2級所需的設計圖。\n\n Level 1\n從德拉諾的巨魔身上收集甬道石，這些甬道石可以用來替巨魔甬道之門充能。你可以選擇要讓甬道之門通往德拉諾上的哪個地方。此外偶爾還可以在戰鬥中觸發力之符文。\n\n Level 2\n打開第二道巨魔甬道之門。\n\n Level 3\n打開第三道巨魔甬道之門。\n需要納葛蘭的哨站任務或是達到40級。\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][109062] = {name = "[q3]法師塔，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的法師塔升至第2級所需的設計圖。\n\n Level 1\n從德拉諾的巨魔身上收集甬道石，這些甬道石可以用來替巨魔甬道之門充能。你可以選擇要讓甬道之門通往德拉諾上的哪個地方。此外偶爾還可以在戰鬥中觸發力之符文。\n\n Level 2\n打開第二道巨魔甬道之門。\n\n Level 3\n打開第三道巨魔甬道之門。\n需要納葛蘭的哨站任務或是達到40級。\n售價:"}
 MultiLanguageItemData['tw'][109063] = {name = "[q3]法師塔，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的法師塔升至第3級所需的設計圖。\n\n Level 1\n從德拉諾的巨魔身上收集甬道石，這些甬道石可以用來替巨魔甬道之門充能。你可以選擇要讓甬道之門通往德拉諾上的哪個地方。此外偶爾還可以在戰鬥中觸發力之符文。\n\n Level 2\n打開第二道巨魔甬道之門。\n\n Level 3\n打開第三道巨魔甬道之門。\n需要成就：尋找你的甬道石\n售價:"}
 MultiLanguageItemData['tw'][109065] = {name = "[q3]落月旅店，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的落月旅店升至第3級所需的設計圖。\n\n Level 1\n每天都會有訪客在你的旅店待上一整天，帶來地城任務並提供優渥的報酬。\n\n Level 2\n每週隨機招募追隨者。你可以指定特別感興趣的特長和技能。\n\n Level 3\n解鎖特別有賺頭的要塞資源任務。\n需要成就：請留步，聽我說個故事\n售價:"}
 MultiLanguageItemData['tw'][109074] = {name = "[q3]優質虛無縫線繫腰", additional_info = "拾取後綁定{腰部} {布甲}\n2護甲\n+3 智力\n+5 耐力\n[q2]+ 2 加速\n[q2]+ 5 精通\n耐久: 50 / 50\n[q]\"這條腰帶的小扣環完全不反光。\"\n售價:"}
@@ -29493,23 +29493,23 @@ MultiLanguageItemData['tw'][111966] = {name = "[q3]矮人碉堡，第2級", addi
 MultiLanguageItemData['tw'][111967] = {name = "[q3]矮人碉堡，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的矮人碉堡升至第3級所需的設計圖。\n\n Level 1\n有兩倍機會在任務獎勵中取得升級的稀有與史詩級物品，並且可以提高升級的幅度。此外還可以在德拉諾的獸人氏族中收集到護甲碎塊，用於護甲塑形。\n\n Level 2\n可利用要塞資源來承接追隨者武器和護甲的訂單，並可解鎖新的護甲塑形物品。\n\n Level 3\n每週可以免費獲得1個宿命徽印(團隊額外擲骰權)，上限為3個。\n需要成就：補足名額\n售價:"}
 MultiLanguageItemData['tw'][111968] = {name = "[q3]獸倉，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的獸倉升至第2級所需的設計圖。\n\n Level 1\n你可以捕捉裂蹄、伊萊克、狼和塔巴克，以取得皮革和毛皮。製皮和裁縫的設計圖中會用到這些材料。\n\n Level 2\n你可以捕捉野豬和河獸，以取得稀有的肉類。這些肉可以用來烹調強大的料理。\n\n Level 3\n你可以捕捉精英野獸以取得野蠻之血。打造史詩級護甲和武器時會用到這種材料。\n需要阿拉卡山的哨站任務或是達到35級。\n售價:"}
 MultiLanguageItemData['tw'][111969] = {name = "[q3]獸倉，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的獸倉升至第3級所需的設計圖。\n\n Level 1\n你可以捕捉裂蹄、伊萊克、狼和塔巴克，以取得皮革和毛皮。製皮和裁縫的設計圖中會用到這些材料。\n\n Level 2\n你可以捕捉野豬和河獸，以取得稀有的肉類。這些肉可以用來烹調強大的料理。\n\n Level 3\n你可以捕捉精英野獸以取得野蠻之血。打造史詩級護甲和武器時會用到這種材料。\n需要成就：誘捕大師\n售價:"}
-MultiLanguageItemData['tw'][111970] = {name = "[q3]兵營，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的兵營升至第2級所需的設計圖。\n\n Level 1\n開啟巡邏任務。巡邏任務有更高的追隨者經驗值獎勵。\n\n Level 2\n讓擁有保鏢特長的追隨者在德拉諾護衛你。\n\n Level 3\n讓你的追隨者上限提高5人，並取得種族守衛和戰旗。\n需要納葛蘭的哨站任務或是達到40級。\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][111970] = {name = "[q3]兵營，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的兵營升至第2級所需的設計圖。\n\n Level 1\n開啟巡邏任務。巡邏任務有更高的追隨者經驗值獎勵。\n\n Level 2\n讓擁有保鏢特長的追隨者在德拉諾護衛你。\n\n Level 3\n讓你的追隨者上限提高5人，並取得種族守衛和戰旗。\n需要納葛蘭的哨站任務或是達到40級。\n售價:"}
 MultiLanguageItemData['tw'][111971] = {name = "[q3]兵營，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的兵營升至第3級所需的設計圖。\n\n Level 1\n開啟巡邏任務。巡邏任務有更高的追隨者經驗值獎勵。\n\n Level 2\n讓擁有保鏢特長的追隨者在德拉諾護衛你。\n\n Level 3\n讓你的追隨者上限提高5人，並取得種族守衛和戰旗。\n需要成就：巡邏德拉諾\n售價:"}
 MultiLanguageItemData['tw'][111972] = {name = "[q3]附魔研究室，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的附魔研究室升至第2級所需的設計圖。\n\n Level 1\n可以生產附魔物品和訂單，並且能讓沒有附魔專業的玩家在此分解物品。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有附魔特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖附魔任務，並且讓訂單上限提高至21張。\n需要塔拉多爾的哨站任務或是達到30級。\n售價:"}
 MultiLanguageItemData['tw'][111973] = {name = "[q3]附魔研究室，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的附魔研究室升至第3級所需的設計圖。\n\n Level 1\n可以生產附魔物品和訂單，並且能讓沒有附魔專業的玩家在此分解物品。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有附魔特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖附魔任務，並且讓訂單上限提高至21張。\n需要成就：更多訂單\n售價:"}
 MultiLanguageItemData['tw'][111974] = {name = "[q3]珠寶舖，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的珠寶舖升至第2級所需的設計圖。\n\n Level 1\n可以生產珠寶學物品和訂單。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有珠寶學特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖珠寶設計任務，並且讓訂單上限提高至21張。\n需要塔拉多爾的哨站任務或是達到30級。\n售價:"}
 MultiLanguageItemData['tw'][111975] = {name = "[q3]珠寶舖，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的珠寶舖升至第3級所需的設計圖。\n\n Level 1\n可以生產珠寶學物品和訂單。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有珠寶學特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖珠寶設計任務，並且讓訂單上限提高至21張。\n需要成就：更多訂單\n售價:"}
-MultiLanguageItemData['tw'][111976] = {name = "[q3]回收場，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的回收場升至第2級所需的設計圖。\n\n Level 1\n偶爾可以在任務中發現回收物。\n\n Level 2\n增加你在任務中找到回收物的機率。此外還能在回收物中發現追隨者物品。\n\n Level 3\n大幅增加你在任務中找到回收物的機率。\n需要回收場\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][111976] = {name = "[q3]回收場，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的回收場升至第2級所需的設計圖。\n\n Level 1\n偶爾可以在任務中發現回收物。\n\n Level 2\n增加你在任務中找到回收物的機率。此外還能在回收物中發現追隨者物品。\n\n Level 3\n大幅增加你在任務中找到回收物的機率。\n需要回收場\n售價:"}
 MultiLanguageItemData['tw'][111977] = {name = "[q3]回收場，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的回收場升至第3級所需的設計圖。\n\n Level 1\n偶爾可以在任務中發現回收物。\n\n Level 2\n增加你在任務中找到回收物的機率。此外還能在回收物中發現追隨者物品。\n\n Level 3\n大幅增加你在任務中找到回收物的機率。\n需要成就：做回收有賺頭\n售價:"}
 MultiLanguageItemData['tw'][111978] = {name = "[q3]雕銘書房，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的雕銘書房升至第2級所需的設計圖。\n\n Level 1\n可以生產銘文學物品和訂單。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有銘文學特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖銘文學任務，並且讓訂單上限提高至21張。\n需要塔拉多爾的哨站任務或是達到30級。\n售價:"}
 MultiLanguageItemData['tw'][111979] = {name = "[q3]雕銘書房，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的雕銘書房升至第3級所需的設計圖。\n\n Level 1\n可以生產銘文學物品和訂單。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有銘文學特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖銘文學任務，並且讓訂單上限提高至21張。\n需要成就：更多訂單\n售價:"}
-MultiLanguageItemData['tw'][111980] = {name = "[q3]鬥士會堂，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的鬥士會堂升至第2級所需的設計圖。\n\n Level 1\n在德拉諾戶外區域時提高非戰鬥狀態下的恢復速度。並且可以從擊敗的敵方玩家身上取得斷骨，用來換取征服者貢品。\n\n Level 2\n在德拉諾戶外區域時擁有安全降落和水下呼吸效果。同時會開啟死敵系列任務，要求你擊敗特定種族的敵方玩家。\n\n Level 3\n可加入天槌大競技場的鬥士聯賽。並且當你在德拉諾戶外區域時，若生命力在35% 以下，受到的所有傷害降低50%\n需要阿拉卡山的哨站任務或是達到35級。\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][111980] = {name = "[q3]鬥士會堂，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的鬥士會堂升至第2級所需的設計圖。\n\n Level 1\n在德拉諾戶外區域時提高非戰鬥狀態下的恢復速度。並且可以從擊敗的敵方玩家身上取得斷骨，用來換取征服者貢品。\n\n Level 2\n在德拉諾戶外區域時擁有安全降落和水下呼吸效果。同時會開啟死敵系列任務，要求你擊敗特定種族的敵方玩家。\n\n Level 3\n可加入天槌大競技場的鬥士聯賽。並且當你在德拉諾戶外區域時，若生命力在35% 以下，受到的所有傷害降低50%\n需要阿拉卡山的哨站任務或是達到35級。\n售價:"}
 MultiLanguageItemData['tw'][111981] = {name = "[q3]鬥士會堂，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的鬥士會堂升至第3級所需的設計圖。\n\n Level 1\n在德拉諾戶外區域時提高非戰鬥狀態下的恢復速度。並且可以從擊敗的敵方玩家身上取得斷骨，用來換取征服者貢品。\n\n Level 2\n在德拉諾戶外區域時擁有安全降落和水下呼吸效果。同時會開啟死敵系列任務，要求你擊敗特定種族的敵方玩家。\n\n Level 3\n可加入天槌大競技場的鬥士聯賽。並且當你在德拉諾戶外區域時，若生命力在35% 以下，受到的所有傷害降低50%\n需要成就：拾骨者\n售價:"}
 MultiLanguageItemData['tw'][111982] = {name = "[q3]倉庫，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的倉庫升至第2級所需的設計圖。\n\n Level 1\n可以使用你個人的銀行，並且使所有建築物可承接的訂單總數提高5張。\n\n Level 2\n你可以使用公會銀行\n\n Level 3\n允許以太商人進駐，提供虛空倉庫和塑形功能，並且使所有建築物可承接的訂單總數提高15張。\n需要塔拉多爾的哨站任務或是達到30級。\n售價:"}
 MultiLanguageItemData['tw'][111983] = {name = "[q3]倉庫，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的倉庫升至第3級所需的設計圖。\n\n Level 1\n可以使用你個人的銀行，並且使所有建築物可承接的訂單總數提高5張。\n\n Level 2\n你可以使用公會銀行\n\n Level 3\n允許以太商人進駐，提供虛空倉庫和塑形功能，並且使所有建築物可承接的訂單總數提高15張。\n需要成就：我滿腦子都是德拉諾的錢\n售價:"}
 MultiLanguageItemData['tw'][111984] = {name = "[q3]地精零件廠，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的地精零件廠升至第2級所需的設計圖。\n\n Level 1\n解鎖個人工程師，每天會為你製造一個強大的發明。手藝非凡！\n\n Level 2\n你的工程師可以製作五樣全新的驚人裝置。\n\n Level 3\n每天可以建造一輛攻城載具，開著它在德拉諾取得勝利吧！\n需要納葛蘭的哨站任務或是達到40級。\n售價:"}
 MultiLanguageItemData['tw'][111985] = {name = "[q3]地精零件廠，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何聯盟種族\n[q2]使用: 提供將你的地精零件廠升至第3級所需的設計圖。\n\n Level 1\n解鎖個人工程師，每天會為你製造一個強大的發明。手藝非凡！\n\n Level 2\n你的工程師可以製作五樣全新的驚人裝置。\n\n Level 3\n每天可以建造一輛攻城載具，開著它在德拉諾取得勝利吧！\n需要成就：頂尖科技\n售價:"}
-MultiLanguageItemData['tw'][111986] = {name = "[q3]貿易站，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的貿易站升至第2級所需的設計圖。\n\n Level 1\n每天會有商人過來販賣商品，並且可以交易製造材料換取要塞資源！\n\n Level 2\n與撒塔斯守軍或獰笑骷髏陣營取得連繫。並另外獲得一個能力，讓你能在德拉諾找到製造拍賣器的零件。\n\n Level 3\n在德拉諾所取得的聲望提升20%\n需要阿拉卡山的哨站任務或是達到35級。\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][111986] = {name = "[q3]貿易站，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的貿易站升至第2級所需的設計圖。\n\n Level 1\n每天會有商人過來販賣商品，並且可以交易製造材料換取要塞資源！\n\n Level 2\n與撒塔斯守軍或獰笑骷髏陣營取得連繫。並另外獲得一個能力，讓你能在德拉諾找到製造拍賣器的零件。\n\n Level 3\n在德拉諾所取得的聲望提升20%\n需要阿拉卡山的哨站任務或是達到35級。\n售價:"}
 MultiLanguageItemData['tw'][111987] = {name = "[q3]貿易站，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的貿易站升至第3級所需的設計圖。\n\n Level 1\n每天會有商人過來販賣商品，並且可以交易製造材料換取要塞資源！\n\n Level 2\n與撒塔斯守軍或獰笑骷髏陣營取得連繫。並另外獲得一個能力，讓你能在德拉諾找到製造拍賣器的零件。\n\n Level 3\n在德拉諾所取得的聲望提升20%\n需要成就：蠻荒盟友\n售價:"}
 MultiLanguageItemData['tw'][111988] = {name = "[q3]製皮廠，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的製皮廠升至第2級所需的設計圖。\n\n Level 1\n可以生產製皮物品和訂單。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有製皮特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖製皮任務，並且讓訂單上限提高至21張。\n需要塔拉多爾的哨站任務或是達到30級。\n售價:"}
 MultiLanguageItemData['tw'][111989] = {name = "[q3]製皮廠，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n使用: 提供將你的製皮廠升至第3級所需的設計圖。\n\n Level 1\n可以生產製皮物品和訂單。\n\n Level 2\n一次最多能有14張訂單。並且能讓擁有製皮特長的追隨者在此工作，提供特殊獎勵。\n\n Level 3\n解鎖製皮任務，並且讓訂單上限提高至21張。\n需要成就：更多訂單\n售價:"}
@@ -29522,7 +29522,7 @@ MultiLanguageItemData['tw'][111997] = {name = "[q3]草藥園，第3級", additio
 MultiLanguageItemData['tw'][111998] = {name = "[q3]寵物園，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的寵物園升至第2級所需的設計圖。\n\n Level 1\n吸引精英戰寵，你可以使用牠們戰鬥並獲得獎勵。並讓你的5個戰寵在要塞裡到處遊蕩。\n\n Level 2\n在德拉諾時，提高你捕捉到戰寵的機率，並降低你復活戰寵的冷卻時間。最多可以有10個寵物在要塞裡到處遊蕩。\n\n Level 3\n每天可以進行一場有特殊寵物獎勵的寵物戰鬥。\n需要寵物園\n售價:"}
 MultiLanguageItemData['tw'][111999] = {name = "[q3]寵物園，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的寵物園升至第3級所需的設計圖。\n\n Level 1\n吸引精英戰寵，你可以使用牠們戰鬥並獲得獎勵。並讓你的5個戰寵在要塞裡到處遊蕩。\n\n Level 2\n在德拉諾時，提高你捕捉到戰寵的機率，並降低你復活戰寵的冷卻時間。最多可以有10個寵物在要塞裡到處遊蕩。\n\n Level 3\n每天可以進行一場有特殊寵物獎勵的寵物戰鬥。\n需要成就：德拉諾寵物對戰高手\n售價:"}
 MultiLanguageItemData['tw'][112001] = {name = "[q3]獸欄，第1級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供在你的要塞建造獸欄所需的設計圖。\n\n Level 1\n可以捕捉並訓練德拉諾的特殊坐騎。此外當你在德拉諾的戶外區域時，可以在騎乘狀態時與物件互動。\n\n Level 2\n在德拉諾的戶外區域時，於騎乘狀態下不會再被敵人暈眩。\n\n Level 3\n在德拉諾時坐騎速度提高20%\n售價:"}
-MultiLanguageItemData['tw'][112002] = {name = "[q3]獸欄，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的獸欄升至第2級所需的設計圖。\n\n Level 1\n可以捕捉並訓練德拉諾的特殊坐騎。此外當你在德拉諾的戶外區域時，可以在騎乘狀態時與物件互動。\n\n Level 2\n在德拉諾的戶外區域時，於騎乘狀態下不會再被敵人暈眩。\n\n Level 3\n在德拉諾時坐騎速度提高20%\n需要納葛蘭的哨站任務或是達到40級。\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][112002] = {name = "[q3]獸欄，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的獸欄升至第2級所需的設計圖。\n\n Level 1\n可以捕捉並訓練德拉諾的特殊坐騎。此外當你在德拉諾的戶外區域時，可以在騎乘狀態時與物件互動。\n\n Level 2\n在德拉諾的戶外區域時，於騎乘狀態下不會再被敵人暈眩。\n\n Level 3\n在德拉諾時坐騎速度提高20%\n需要納葛蘭的哨站任務或是達到40級。\n售價:"}
 MultiLanguageItemData['tw'][112003] = {name = "[q3]獸欄，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n[q2]使用: 提供將你的獸欄升至第3級所需的設計圖。\n\n Level 1\n可以捕捉並訓練德拉諾的特殊坐騎。此外當你在德拉諾的戶外區域時，可以在騎乘狀態時與物件互動。\n\n Level 2\n在德拉諾的戶外區域時，於騎乘狀態下不會再被敵人暈眩。\n\n Level 3\n在德拉諾時坐騎速度提高20%\n需要成就：坐騎大師\n售價:"}
 MultiLanguageItemData['tw'][112005] = {name = "[q4]獄卒聖契", additional_info = "艾斯蘭\n拾取後綁定\n唯一（5）\n職業： 聖騎士\n[q2]使用: 教你學會技能：獄卒審判，持續1小時。只能在艾斯蘭使用。"}
 MultiLanguageItemData['tw'][112006] = {name = "戈杜尼『牙籤』", additional_info = "任務物品\n[q]\"結塊的污垢覆蓋在這把武器上。\""}
@@ -30405,7 +30405,7 @@ MultiLanguageItemData['tw'][113277] = {name = "巨魔血藥水", additional_info
 MultiLanguageItemData['tw'][113278] = {name = "拾荒者的接目鏡", additional_info = "[q2]使用: 你在阿拉卡山的時候可以感應附近的財寶，並且使這些財寶顯示在你的小地圖上，持續1小時。\n售價:"}
 MultiLanguageItemData['tw'][113287] = {name = "[q3]輕蔑裂片", additional_info = "拾取後綁定{單手} {劍}\n{4-8點傷害} {速度 2.60}\n(每秒2.3點傷害)\n+2 [敏捷 or 力量]\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 3 精通\n耐久: 90 / 90\n售價:"}
 MultiLanguageItemData['tw'][113288] = {name = "[q3]蔑視裂片", additional_info = "拾取後綁定{單手} {匕首}\n{1-3點傷害} {速度 1.80}\n(每秒1.1點傷害)\n+13 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 臨機應變\n耐久: 65 / 65\n售價:"}
-MultiLanguageItemData['tw'][113289] = {name = "[q3]烈性水晶", additional_info = "[q]\"上面似乎隨機刻著一些文字和雕紋。\""}
+MultiLanguageItemData['tw'][113289] = {name = "[q3]烈性水晶", additional_info = "[q]\"上面似乎隨機刻著一些文字和雕紋。\"\n售價:"}
 MultiLanguageItemData['tw'][113290] = {name = "山藤果", additional_info = "[q2]使用: 在20秒內恢復總計( 2125 * 20 / 5)點生命力，進食時必須保持坐姿。\n售價:"}
 MultiLanguageItemData['tw'][113292] = {name = "割下的奇喉獸爪", additional_info = "任務物品\n[q]\"沾染著無數無辜者之血。\""}
 MultiLanguageItemData['tw'][113293] = {name = "割脊者的軀殼", additional_info = "任務物品\n[q]\"相當堅韌，但依舊輕軟。\""}
@@ -31679,7 +31679,7 @@ MultiLanguageItemData['tw'][114831] = {name = "[q3]奢華護腿", additional_inf
 MultiLanguageItemData['tw'][114833] = {name = "迷你飛毯", additional_info = "拾取後綁定\n[q2]使用: \n[q2]右鍵點擊以召喚或解散你的伊萊克玩具。\n80 ( 80)"}
 MultiLanguageItemData['tw'][114834] = {name = "[q2]踏草小伊萊克", additional_info = "拾取後綁定\n唯一\n[q2]使用:  教你學會如何召喚這個夥伴。\n80 ( 80)"}
 MultiLanguageItemData['tw'][114835] = {name = "魯比瑞", additional_info = "拾取後綁定\n[q2]使用: 給小魯比一個魯比瑞。\n售價:"}
-MultiLanguageItemData['tw'][114836] = {name = "[q3]咒織刺繡", additional_info = "[q]\"可以透過刺繡導引咒織之力。\""}
+MultiLanguageItemData['tw'][114836] = {name = "[q3]咒織刺繡", additional_info = "[q]\"可以透過刺繡導引咒織之力。\"\n售價:"}
 MultiLanguageItemData['tw'][114837] = {name = "[q0]不穩定的咒織精華劑", additional_info = "[q]\"這個精華劑有點不太穩定。\""}
 MultiLanguageItemData['tw'][114838] = {name = "[q0]不穩定的強效咒織精華劑", additional_info = "[q]\"這個精華劑有點不太穩定。\""}
 MultiLanguageItemData['tw'][114842] = {name = "[q5]書卷：飛行形態", additional_info = "艾斯蘭\n拾取後綁定\n唯一（5）\n職業： 德魯伊\n[q2]使用: 可在艾斯蘭使用飛行形態，持續1小時。只能在艾斯蘭使用。"}
@@ -31692,7 +31692,7 @@ MultiLanguageItemData['tw'][114848] = {name = "[q4]魔典：轉化惡魔", addit
 MultiLanguageItemData['tw'][114849] = {name = "[q4]英勇躍擊手冊", additional_info = "艾斯蘭\n拾取後綁定\n唯一（5）\n職業： 戰士\n[q2]使用: 英勇躍擊現在可額外使用2次，持續1小時。只能在艾斯蘭時使用。"}
 MultiLanguageItemData['tw'][114850] = {name = "泡嘶氣泡飲料", additional_info = "拾取後綁定\n[q2]使用: 濃度非常高的酒精飲料。"}
 MultiLanguageItemData['tw'][114851] = {name = "圖樣：咒織布", additional_info = "拾取後綁定\n[q2]使用:  Teaches you how to make a Hexweave Cloth.\n一份原料可製造8個，數量會根據裁縫技能而提高。\n\n 同時產生術法之水或術法之風。\n\n 冷卻時間會每日重置。\n需要 裁縫 (1)\n售價: \n[q2]咒織布\n拾取後綁定\n制作材料\n\"將毛皮編織成優質的布料，是德拉諾裁縫的基礎材料。\"\n售價: \n需要 奢華毛皮 (20), 格古隆德捕蠅草 (10)"}
-MultiLanguageItemData['tw'][114852] = {name = "圖樣：咒織刺繡", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作咒織刺繡。\n需要 德拉諾裁縫 (1)\n售價: \n[q3]咒織刺繡\n[q]\"可以透過刺繡導引咒織之力。\"\n需要 奢華毛皮 (30)"}
+MultiLanguageItemData['tw'][114852] = {name = "圖樣：咒織刺繡", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作咒織刺繡。\n需要 德拉諾裁縫 (1)\n售價: \n[q3]咒織刺繡\n[q]\"可以透過刺繡導引咒織之力。\"\n售價:\n需要 奢華毛皮 (30)"}
 MultiLanguageItemData['tw'][114853] = {name = "圖樣：咒織披肩", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作咒織披肩。\n需要 德拉諾裁縫 (1)\n售價: \n[q4]咒織披肩\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{肩部} {布甲}\n3護甲\n+3 智力\n+5 耐力\n耐久: 100 / 100\n售價:\n需要 咒織布 (100), 真鐵礦石 (10)\n 額外材料： []（#31） ， 咒織精華劑（#241）"}
 MultiLanguageItemData['tw'][114854] = {name = "圖樣：咒織風帽", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作咒織風帽。\n需要 德拉諾裁縫 (1)\n售價: \n[q4]咒織風帽\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{頭部} {布甲}\n3護甲\n+5 智力\n+7 耐力\n耐久: 100 / 100\n售價:\n需要 咒織布 (100), 真鐵礦石 (5)\n 額外材料： []（#31） ， 咒織精華劑（#241）"}
 MultiLanguageItemData['tw'][114855] = {name = "圖樣：咒織護腿", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作咒織護腿。\n需要 德拉諾裁縫 (1)\n售價: \n[q4]咒織護腿\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{腿部} {布甲}\n4護甲\n+5 智力\n+7 耐力\n耐久: 120 / 120\n售價:\n需要 咒織布 (100), 生獸皮 (4)\n 額外材料： []（#31） ， 咒織精華劑（#241）"}
@@ -32282,7 +32282,7 @@ MultiLanguageItemData['tw'][115522] = {name = "迅捷騎乘馬鞭", additional_i
 MultiLanguageItemData['tw'][115523] = {name = "[q5]黑手的斷臂", additional_info = "任務物品\n唯一\n[q]\"這是血肉…還是岩石？\""}
 MultiLanguageItemData['tw'][115524] = {name = "[q2]塔岩水晶", additional_info = "拾取後綁定\n制作材料\n[q]\"多功能的合成寶石，許多德拉諾珠寶學設計圖中都會用到。\""}
 MultiLanguageItemData['tw'][115525] = {name = "[q3]嚇人的巨魔臉", additional_info = "唯一\n[q2]使用: 外貌變成嚇人的巨魔，持續10分鐘。（特效觸發機率：10%，30秒 冷卻） (50分鐘 冷卻)\n5 充能"}
-MultiLanguageItemData['tw'][115526] = {name = "[q3]塔岩再結晶裝置", additional_info = nil}
+MultiLanguageItemData['tw'][115526] = {name = "[q3]塔岩再結晶裝置", additional_info = "售價:"}
 MultiLanguageItemData['tw'][115527] = {name = "[q0]不穩定的塔岩增幅器", additional_info = "[q]\"這個增幅器有點不太穩定。\""}
 MultiLanguageItemData['tw'][115529] = {name = "[q0]不穩定的大型塔岩增幅器", additional_info = "[q]\"這個增幅器有點不太穩定。\""}
 MultiLanguageItemData['tw'][115530] = {name = "N.U.K.U.L.A.R.目標標定器", additional_info = "拾取後綁定\n唯一\n持續時間：1天 (實時)\n[q2]使用: 標記目標位置，在10秒後威力強大的彈頭會命中這個地點，對20碼內的所有敵人造成 76892 點火焰傷害。 (1小時 冷卻)\n2 充能\n[q]\"顯然是什麼高科技艱深術語的縮寫。\""}
@@ -32809,7 +32809,7 @@ MultiLanguageItemData['tw'][116071] = {name = "[q0]一本詩集", additional_inf
 MultiLanguageItemData['tw'][116072] = {name = "燻黑的鐵鑰匙", additional_info = "任務物品\n唯一\n[q]\"看起來可以打開鐵牢籠。\""}
 MultiLanguageItemData['tw'][116075] = {name = "[q3]格納迪恩的鱗片", additional_info = "拾取後綁定飾品\n+4 敏捷\n[q2]裝備： 你的攻擊每次命中時，有一定機率獲得 30 點精通，持續20秒。（特效觸發機率：15%，1.083分鐘 冷卻）\n售價:"}
 MultiLanguageItemData['tw'][116077] = {name = "[q3]諾羅許的脈動大腦", additional_info = "拾取後綁定飾品\n[q2]+ 6 臨機應變\n[q2]裝備： 你的法術每次造成致命一擊傷害時，有一定機率獲得 21 點智力，持續10秒。(每分鐘大約可觸發 0.85 次)\n售價:"}
-MultiLanguageItemData['tw'][116078] = {name = "設計圖：塔岩再結晶裝置", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作塔岩再結晶裝置。\n需要德拉諾珠寶學\n(1)\n售價:\n[q3]塔岩再結晶裝置\n需要 黑石礦石 (15), 真鐵礦石 (15)"}
+MultiLanguageItemData['tw'][116078] = {name = "設計圖：塔岩再結晶裝置", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作塔岩再結晶裝置。\n需要德拉諾珠寶學\n(1)\n售價:\n[q3]塔岩再結晶裝置\n售價:\n需要 黑石礦石 (15), 真鐵礦石 (15)"}
 MultiLanguageItemData['tw'][116079] = {name = "設計圖：塔岩增幅器", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作塔岩增幅器。\n需要德拉諾珠寶學\n(1)\n售價:\n[q0]塔岩增幅器\n售價: \n需要 塔岩水晶 (70), 術法之土 (15), 野蠻之血 (15)"}
 MultiLanguageItemData['tw'][116080] = {name = "[q0]設計圖：大型塔岩增幅器", additional_info = "拾取後綁定\n需要 珠寶設計 (1)\n[q]\"設計圖上的字跡模糊不清。\"\n售價:"}
 MultiLanguageItemData['tw'][116081] = {name = "設計圖：發光鋼鐵指環", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作發光鋼鐵指環。\n需要德拉諾珠寶學\n(1)\n售價:\n[q3]發光鋼鐵指環\n裝備後綁定\n手指\n+2 力量\n+4 耐力\n售價:\n需要 真鐵礦石 (60)"}
@@ -32893,7 +32893,7 @@ MultiLanguageItemData['tw'][116166] = {name = "[q3]遠遊便褲", additional_inf
 MultiLanguageItemData['tw'][116167] = {name = "[q3]旅行頭盔", additional_info = "裝備後綁定\n{頭部} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+7 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][116168] = {name = "[q3]旅行外套", additional_info = "裝備後綁定\n{胸部} {鎖甲}\n11護甲\n+4 [敏捷 or 智力]\n+7 耐力\n耐久: 140 / 140\n售價:"}
 MultiLanguageItemData['tw'][116169] = {name = "[q3]旅行護腿", additional_info = "裝備後綁定\n{腿部} {鎖甲}\n10護甲\n+4 [敏捷 or 智力]\n+7 耐力\n耐久: 100 / 100\n售價:"}
-MultiLanguageItemData['tw'][116170] = {name = "[q3]皮革翻新工具組", additional_info = nil}
+MultiLanguageItemData['tw'][116170] = {name = "[q3]皮革翻新工具組", additional_info = "售價:"}
 MultiLanguageItemData['tw'][116171] = {name = "[q4]強力光潔披風", additional_info = "裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n背部\n3護甲\n+3 力量\n+4 耐力\n售價:"}
 MultiLanguageItemData['tw'][116172] = {name = "吵鬧煙火發射器", additional_info = "[q2]使用: 給活潑的地雷犬一個煙火。\n[q]\"請勿在家嘗試。\"\n售價:"}
 MultiLanguageItemData['tw'][116173] = {name = "[q3]破舊的霜狼罩氅", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務\n需要 艾澤拉斯製皮 (1)\n[q]\"用舊的斗篷上印著霜狼的紋章。\""}
@@ -33044,7 +33044,7 @@ MultiLanguageItemData['tw'][116321] = {name = "圖樣：遠遊便褲", additiona
 MultiLanguageItemData['tw'][116322] = {name = "圖樣：旅行頭盔", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作旅行頭盔。\n需要 德拉諾製皮 (1)\n售價:\n[q3]旅行頭盔\n裝備後綁定\n{頭部} {鎖甲}\n8護甲\n+4 [敏捷 or 智力]\n+7 耐力\n耐久: 85 / 85\n售價:\n需要 生獸皮 (50)\n 額外材料： []（#49）"}
 MultiLanguageItemData['tw'][116323] = {name = "圖樣：旅行外套", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作旅行外套。\n需要 德拉諾製皮 (1)\n售價:\n[q3]旅行外套\n裝備後綁定\n{胸部} {鎖甲}\n11護甲\n+4 [敏捷 or 智力]\n+7 耐力\n耐久: 140 / 140\n售價:\n需要 生獸皮 (50)\n 額外材料： []（#49）"}
 MultiLanguageItemData['tw'][116324] = {name = "圖樣：旅行護腿", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作旅行護腿。\n需要 德拉諾製皮 (1)\n售價:\n[q3]旅行護腿\n裝備後綁定\n{腿部} {鎖甲}\n10護甲\n+4 [敏捷 or 智力]\n+7 耐力\n耐久: 100 / 100\n售價:\n需要 生獸皮 (50)\n 額外材料： []（#49）"}
-MultiLanguageItemData['tw'][116325] = {name = "圖樣：皮革翻新工具組", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作皮革翻新工具組\n需要 德拉諾製皮 (1)\n售價:\n[q3]皮革翻新工具組\n需要 生獸皮 (30)"}
+MultiLanguageItemData['tw'][116325] = {name = "圖樣：皮革翻新工具組", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作皮革翻新工具組\n需要 德拉諾製皮 (1)\n售價:\n[q3]皮革翻新工具組\n售價:\n需要 生獸皮 (30)"}
 MultiLanguageItemData['tw'][116326] = {name = "圖樣：強力光潔披風", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作強力光潔披風。\n需要 德拉諾製皮 (1)\n售價:\n[q4]強力光潔披風\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n背部\n3護甲\n+3 力量\n+4 耐力\n售價:\n需要 光潔皮革 (100), 德拉諾力量藥水\n 額外材料： []（#47） ， 光潔精華劑（#240）"}
 MultiLanguageItemData['tw'][116327] = {name = "圖樣：靈機光潔披風", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作靈機光潔披風。\n需要 德拉諾製皮 (1)\n售價:\n[q4]靈機光潔披風\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n背部\n3護甲\n+3 敏捷\n+4 耐力\n售價:\n需要 光潔皮革 (100), 德拉諾敏捷藥水\n 額外材料： []（#47） ， 光潔精華劑（#240）"}
 MultiLanguageItemData['tw'][116328] = {name = "圖樣：明亮光潔披風", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作明亮光潔披風。\n需要 德拉諾製皮 (1)\n售價:\n[q4]明亮光潔披風\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n背部\n3護甲\n+3 智力\n+4 耐力\n售價:\n需要 光潔皮革 (100), 德拉諾智力藥水\n 額外材料： []（#47） ， 光潔精華劑（#240）"}
@@ -33139,10 +33139,10 @@ MultiLanguageItemData['tw'][116424] = {name = "水棲生物戰鬥訓練石", add
 MultiLanguageItemData['tw'][116425] = {name = "[q3]悶燒護脛", additional_info = "裝備後綁定\n{腿部} {板甲}\n15護甲\n+4 [力量 or 智力]\n+7 耐力\n耐久: 100 / 100\n售價:"}
 MultiLanguageItemData['tw'][116426] = {name = "[q3]悶燒頭盔", additional_info = "裝備後綁定\n{頭部} {板甲}\n13護甲\n+4 [力量 or 智力]\n+7 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][116427] = {name = "[q3]悶燒胸甲", additional_info = "裝備後綁定\n{胸部} {板甲}\n17護甲\n+4 [力量 or 智力]\n+7 耐力\n耐久: 140 / 140\n售價:"}
-MultiLanguageItemData['tw'][116428] = {name = "[q3]真鋼重塑器", additional_info = nil}
+MultiLanguageItemData['tw'][116428] = {name = "[q3]真鋼重塑器", additional_info = "售價:"}
 MultiLanguageItemData['tw'][116429] = {name = "無瑕的戰鬥訓練石", additional_info = "[q7]戰隊綁定\n[q2]使用: 使任何戰寵獲得2000點經驗值。"}
 MultiLanguageItemData['tw'][116430] = {name = "攻城大砲零件", additional_info = "任務物品"}
-MultiLanguageItemData['tw'][116431] = {name = "[q3]霜牆酒館，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何部落種族\n[q2]使用: 提供將你的霜牆酒館升至第2級所需的設計圖。\n\n Level 1\n每天都會有訪客在你的旅店待上一整天，帶來地城任務並提供優渥的報酬。\n\n Level 2\n每週隨機招募追隨者。你可以指定特別感興趣的特長和技能。\n\n Level 3\n解鎖特別有賺頭的要塞資源任務。\n需要阿拉卡山的哨站任務或是達到35級。\n已經學會\n售價:"}
+MultiLanguageItemData['tw'][116431] = {name = "[q3]霜牆酒館，第2級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何部落種族\n[q2]使用: 提供將你的霜牆酒館升至第2級所需的設計圖。\n\n Level 1\n每天都會有訪客在你的旅店待上一整天，帶來地城任務並提供優渥的報酬。\n\n Level 2\n每週隨機招募追隨者。你可以指定特別感興趣的特長和技能。\n\n Level 3\n解鎖特別有賺頭的要塞資源任務。\n需要阿拉卡山的哨站任務或是達到35級。\n售價:"}
 MultiLanguageItemData['tw'][116432] = {name = "[q3]霜牆酒館，第3級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何部落種族\n[q2]使用: 提供將你的霜牆酒館升至第3級所需的設計圖。\n\n Level 1\n每天都會有訪客在你的旅店待上一整天，帶來地城任務並提供優渥的報酬。\n\n Level 2\n每週隨機招募追隨者。你可以指定特別感興趣的特長和技能。\n\n Level 3\n解鎖特別有賺頭的要塞資源任務。\n需要成就：請留步，聽我說個故事\n售價:"}
 MultiLanguageItemData['tw'][116433] = {name = "[q3]霜牆酒館，第1級", additional_info = "要塞藍圖\n拾取後綁定\n唯一\n需要任何部落種族\n[q2]使用: 提供在你的要塞建造霜牆酒館所需的設計圖。\n\n Level 1\n每天都會有訪客在你的旅店待上一整天，帶來地城任務並提供優渥的報酬。\n\n Level 2\n每週隨機招募追隨者。你可以指定特別感興趣的特長和技能。\n\n Level 3\n解鎖特別有賺頭的要塞資源任務。\n售價:"}
 MultiLanguageItemData['tw'][116434] = {name = "玄鐵外殼", additional_info = "任務物品"}
@@ -33359,7 +33359,7 @@ MultiLanguageItemData['tw'][116650] = {name = "[q0]不穩定的強效真鋼精�
 MultiLanguageItemData['tw'][116651] = {name = "[q3]真愛稜石", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 將稜石聚焦在一名目標上，讓他們閃亮登場，享受眾人的愛慕。 (5分鐘 冷卻)\n[q]\"這東西裡包含著無盡的愛意。\""}
 MultiLanguageItemData['tw'][116652] = {name = "[q0]不穩定的鋼鑄精華劑", additional_info = "[q]\"這個精華劑有點不太穩定。\""}
 MultiLanguageItemData['tw'][116653] = {name = "[q0]不穩定的強效鋼鑄精華劑", additional_info = "[q]\"這個精華劑有點不太穩定。\""}
-MultiLanguageItemData['tw'][116654] = {name = "[q3]真鋼研磨器", additional_info = nil}
+MultiLanguageItemData['tw'][116654] = {name = "[q3]真鋼研磨器", additional_info = "售價:"}
 MultiLanguageItemData['tw'][116655] = {name = "[q3]皺皮踏崖裂蹄", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價:\n[q]\"這種裂蹄坐騎的蹄子有細痕，讓牠可以在山區安全尋找食物。\"\n商人：\n商人艾蘭達\n區域：\n落月之地\n花費：\n\n商人：\n商人達拉克\n區域：\n霜牆要塞\n花費："}
 MultiLanguageItemData['tw'][116656] = {name = "[q3]訓練過的冰足裂蹄", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"在你獲得這個坐騎前，你都不覺得德拉諾的事物在折騰你；直到你發現裂蹄的毛會沾黏在所有東西上！\"\n來源：\n要塞獸欄"}
 MultiLanguageItemData['tw'][116657] = {name = "[q3]年邁的厚皮裂蹄", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術"}
@@ -33439,7 +33439,7 @@ MultiLanguageItemData['tw'][116730] = {name = "設計圖：鋼鑄軍刀", additi
 MultiLanguageItemData['tw'][116731] = {name = "設計圖：鋼鑄匕首", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作鋼鑄匕首。\n需要 德拉諾鍛造 (1)\n售價: \n[q3]鋼鑄匕首\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{單手} {匕首}\n{3-6點傷害} {速度 1.80}\n(每秒2.5點傷害)\n+2 敏捷\n+3 耐力\n耐久: 65 / 65\n售價:\n需要 真鋼錠 (100), 真鐵礦石 (20), 黑石礦石 (20)\n 額外材料： []（#31） ， 鋼鑄精華劑（#236）"}
 MultiLanguageItemData['tw'][116732] = {name = "設計圖：鋼鑄戰錘", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作鋼鑄戰錘。\n需要 德拉諾鍛造 (1)\n售價: \n[q3]鋼鑄戰錘\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{單手} {權杖}\n{5-7點傷害} {速度 2.60}\n(每秒2.3點傷害)\n+2 敏捷\n+3 耐力\n耐久: 110 / 110\n售價:\n需要 真鋼錠 (100), 真鐵礦石 (20), 黑石礦石 (20)\n 額外材料： []（#31） ， 鋼鑄精華劑（#236）"}
 MultiLanguageItemData['tw'][116733] = {name = "設計圖：鋼鑄盾牌", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作鋼鑄盾牌。\n需要 德拉諾鍛造 (1)\n售價: \n[q4]鋼鑄盾牌\n裝備後綁定\n{副手} {盾}\n49護甲\n+2 力量\n+7 智力\n+3 耐力\n耐久: 120 / 120\n售價:\n需要 真鋼錠 (100), 真鐵礦石 (20), 黑石礦石 (20)\n 額外材料： []（#47） ， 鋼鑄精華劑（#236）"}
-MultiLanguageItemData['tw'][116734] = {name = "設計圖：真鋼研磨器", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼研磨器。\n需要 德拉諾鍛造 (1)\n售價: \n[q3]真鋼研磨器\n需要 黑石礦石 (20), 真鐵礦石 (10)"}
+MultiLanguageItemData['tw'][116734] = {name = "設計圖：真鋼研磨器", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼研磨器。\n需要 德拉諾鍛造 (1)\n售價: \n[q3]真鋼研磨器\n售價:\n需要 黑石礦石 (20), 真鐵礦石 (10)"}
 MultiLanguageItemData['tw'][116735] = {name = "設計圖：真鋼肩鎧", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼肩鎧。\n需要 德拉諾鍛造 (1)\n售價:\n[q4]真鋼肩鎧\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{肩部} {板甲}\n12護甲\n+3 [力量 or 智力]\n+5 耐力\n耐久: 100 / 100\n售價:\n需要 真鋼錠 (100), 真鐵礦石 (10)\n 額外材料： []（#47） ， 真鋼精華劑（#237）"}
 MultiLanguageItemData['tw'][116736] = {name = "設計圖：真鋼頭盔", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼頭盔。\n需要 德拉諾鍛造 (1)\n售價:\n[q4]真鋼頭盔\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{頭部} {板甲}\n13護甲\n+5 [力量 or 智力]\n+7 耐力\n耐久: 100 / 100\n售價:\n需要 真鋼錠 (100), 真鐵礦石 (5)\n 額外材料： []（#47） ， 真鋼精華劑（#237）"}
 MultiLanguageItemData['tw'][116737] = {name = "設計圖：真鋼護脛", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼護脛。\n需要 德拉諾鍛造 (1)\n售價:\n[q4]真鋼護脛\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{腿部} {板甲}\n15護甲\n+5 [力量 or 智力]\n+7 耐力\n耐久: 120 / 120\n售價:\n需要 真鋼錠 (100), 奢華毛皮 (4)\n 額外材料： []（#47） ， 真鋼精華劑（#237）"}
@@ -33481,7 +33481,7 @@ MultiLanguageItemData['tw'][116774] = {name = "[q3]訓練過的銀光塔巴克",
 MultiLanguageItemData['tw'][116775] = {name = "[q3]逐風雄塔巴克", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要沃金之矛\n- 崇拜\n售價:\n[q]\"逐風塔巴克的紅色色澤反映此生物的個性：嗜血、兇殘與勇敢。\"\n商人：\n戴澤里安\n陣營：\n沃金之矛 - 崇拜\n區域：\n戰爭之矛\n花費：\n5, + 5,000"}
 MultiLanguageItemData['tw'][116776] = {name = "[q3]蒼白食棘塔巴克", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要烏瑞恩先鋒\n- 崇拜\n售價:\n[q]\"這種塔巴克只吃薊草與荊棘，所以體內臟腑如同體外毛皮一樣堅硬結實。\"\n商人：\n克夫提庫斯‧屈心者\n陣營：\n烏瑞恩先鋒 - 崇拜\n區域：\n暴風之盾\n花費：\n5, + 5,000"}
 MultiLanguageItemData['tw'][116777] = {name = "[q4]兇惡戰羊", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何聯盟種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"在用頭撞擊你腰帶以下的部位前，牠不會接受你是它的騎士。\"\n商人：\n死靈領主賽普\n區域：\n暴風城\n花費：\n1"}
-MultiLanguageItemData['tw'][116778] = {name = "[q4]兇惡戰鬥迅猛龍", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"因為利齒與銳爪還不夠用。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
+MultiLanguageItemData['tw'][116778] = {name = "[q4]兇惡戰鬥迅猛龍", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"因為利齒與銳爪還不夠用。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
 MultiLanguageItemData['tw'][116779] = {name = "[q3]鋼喉", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"有個訓練師曾在鋼喉狼的嘴上安裝金屬配飾，結果花了三天才拿回來。\"\n掉落：\n入侵者遺忘的財寶"}
 MultiLanguageItemData['tw'][116780] = {name = "[q3]戰歌厄牙狼", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"有鋼鐵般的意志力，給它裂蹄骨頭就會跟你很親密。\"\n掉落：\n復仇之靈、死亡之爪、恐懼之拳、毀滅之輪\n區域：\n塔南森林"}
 MultiLanguageItemData['tw'][116781] = {name = "[q3]裝甲霜狼", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"被訓練成能夠在霜火峰的嚴酷氣候中生存，但是表情不擠成一團的話就好像要牠的命一樣。\"\n成就：\n獸欄大師"}
@@ -33490,7 +33490,7 @@ MultiLanguageItemData['tw'][116784] = {name = "[q3]訓練過的咆哮者", addit
 MultiLanguageItemData['tw'][116785] = {name = "[q4]迅捷霜狼", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n需要霜狼獸人\n- 崇拜\n售價:\n[q]\"霜狼住在霜火峰寒冷的高地，會狩獵眼前所有生物，動作最快的霜狼吃的最飽。\"\n商人：\n貝絲卡‧赤牙\n陣營：\n霜狼獸人 - 崇拜\n區域：\n戰爭之矛\n花費：\n5, + 5,000"}
 MultiLanguageItemData['tw'][116786] = {name = "[q3]濃煙恐狼", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"一般上認為大多分布在北方，討厭婚禮。\"\n掉落：\n入侵者遺忘的財寶"}
 MultiLanguageItemData['tw'][116788] = {name = "[q4]酋長的死亡之輪", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"常被稱為「哥布林除草機」，這個低吼的巨獸會讓敵人感覺自己有如雜草，等著被它清除。\"\n成就：\n類別：\n偉業"}
-MultiLanguageItemData['tw'][116789] = {name = "[q4]勇士的飆速快車", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"由人類、地精與矮人聯手打造的裝甲傑作，只要稍轉手把，就能將牛頭人切成美味牛排。\"\n商人：\n波里\n區域：\n暴風城，舊城區\n花費："}
+MultiLanguageItemData['tw'][116789] = {name = "[q4]勇士的飆速快車", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"由人類、地精與矮人聯手打造的裝甲傑作，只要稍轉手把，就能將牛頭人切成美味牛排。\"\n商人：\n波里\n區域：\n暴風城，舊城區\n花費："}
 MultiLanguageItemData['tw'][116791] = {name = "[q3]挑戰者的戰爭雪人", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"幸好牠們動作夠快，把大部分的味道留在身後。\"\n成就：\n挑戰之霸：白銀勳章"}
 MultiLanguageItemData['tw'][116792] = {name = "[q4]太陽外皮小古羅", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"喜歡太陽，痛恨其他東西。\"\n掉落：\n重拳\n區域：\n格古隆德"}
 MultiLanguageItemData['tw'][116794] = {name = "[q4]夜吼", additional_info = "坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"岡恩是德拉諾最兇猛的狩獵者，一向都是成群行動。\"\n掉落：\n諾卡洛許\n區域：\n霜火峰"}
@@ -34615,7 +34615,7 @@ MultiLanguageItemData['tw'][118040] = {name = "[q2]汽怒靈徽印", additional_
 MultiLanguageItemData['tw'][118041] = {name = "秘法鱒魚", additional_info = "任務物品\n[q]\"德拉諾原生種魚類的範例。\""}
 MultiLanguageItemData['tw'][118042] = {name = "征服者貢品", additional_info = "[q]\"交回敵人身上的斷骨，就能獲得征服者貢品！\""}
 MultiLanguageItemData['tw'][118043] = {name = "斷骨", additional_info = "拾取後綁定"}
-MultiLanguageItemData['tw'][118044] = {name = "設計圖：真鋼重塑器", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼重塑器。\n需要 德拉諾鍛造 (1)\n售價: \n[q3]真鋼重塑器\n需要 真鐵礦石 (30)"}
+MultiLanguageItemData['tw'][118044] = {name = "設計圖：真鋼重塑器", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何製作真鋼重塑器。\n需要 德拉諾鍛造 (1)\n售價: \n[q3]真鋼重塑器\n售價:\n需要 真鐵礦石 (30)"}
 MultiLanguageItemData['tw'][118046] = {name = "[q2]黃色小鴨", additional_info = "拾取後綁定\n[q2]使用: 與大多數寵物夥伴玩我丟你撿的遊戲。 (3秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][118049] = {name = "[q2]小足球", additional_info = "拾取後綁定\n[q2]使用: 與大多數寵物夥伴玩我丟你撿的遊戲。 (3秒 冷卻)\n售價:"}
 MultiLanguageItemData['tw'][118050] = {name = "附魔蘋果", additional_info = "魔法物品\n唯一（20）\n[q2]使用: 在20秒內恢復總計( 2125 * 20 / 5)點生命力，進食時必須保持坐姿。\n[q]\"如果你登出了15分鐘以上，此水果會消失。\""}
@@ -35040,7 +35040,7 @@ MultiLanguageItemData['tw'][118607] = {name = "[q2]技藝：蝕刃戰杖", addit
 MultiLanguageItemData['tw'][118608] = {name = "[q0]技藝：強效武器水晶", additional_info = "拾取後綁定\n需要 銘文學 (1)\n[q]\"技藝圖紙上的字跡模糊不清。\"\n售價:"}
 MultiLanguageItemData['tw'][118610] = {name = "[q2]技藝：武器水晶", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何銘刻武器水晶。\n需要 德拉諾銘文學 (1)\n售價: \n[q0]武器水晶\n[q]\"上面刻著奇怪的符文。\"\n售價: \n需要 戰爭顏料 (70), 術法之水 (15), 野蠻之血 (15)"}
 MultiLanguageItemData['tw'][118613] = {name = "[q2]技藝：暗影魔典", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何銘刻暗影魔典。\n需要 德拉諾銘文學 (1)\n售價: \n[q3]暗影魔典\n裝備後綁定\n副手物品\n+7 智力\n+3 耐力\n售價:\n需要 輕羊皮紙 (10), 戰爭顏料 (50)\n 額外材料： []（#49） ， 武器水晶（#242）"}
-MultiLanguageItemData['tw'][118614] = {name = "[q2]技藝：烈性水晶", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何銘刻烈性水晶。\n需要 德拉諾銘文學 (1)\n售價: \n[q3]烈性水晶\n[q]\"上面似乎隨機刻著一些文字和雕紋。\"\n需要 天藍顏料 (12)"}
+MultiLanguageItemData['tw'][118614] = {name = "[q2]技藝：烈性水晶", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何銘刻烈性水晶。\n需要 德拉諾銘文學 (1)\n售價: \n[q3]烈性水晶\n[q]\"上面似乎隨機刻著一些文字和雕紋。\"\n售價:\n需要 天藍顏料 (12)"}
 MultiLanguageItemData['tw'][118615] = {name = "[q2]技藝：將領的火焰手杖", additional_info = "拾取後綁定\n[q2]使用:  教你學會如何銘刻將領的火焰手杖。\n需要 德拉諾銘文學 (1)\n售價: \n[q3]將領的火焰手杖\n裝備後綁定\n僅可裝備一件：德拉諾之霸製造（3）\n{遠程} {魔杖}\n{1-3點火焰傷害} {速度 2.00}\n(每秒1.0點傷害)\n+13 智力\n+3 耐力\n耐久: 90 / 90\n售價:\n需要 普通木柴 , 戰爭顏料 (100)\n 額外材料： []（#49） ， 武器水晶（#242）"}
 MultiLanguageItemData['tw'][118616] = {name = "奧拉夫的盾牌", additional_info = "任務物品\n唯一\n持續時間：1天\n[q2]使用: 衝向一名敵人，並以盾牌重擊，將其擊倒。 (5分鐘 冷卻)"}
 MultiLanguageItemData['tw'][118617] = {name = "可怕的酸性溶液", additional_info = "任務物品\n唯一\n持續時間：1天\n[q2]使用: 朝一名敵人潑濺酸液，降低移動速度並提高受到的傷害，持續10秒。 (5分鐘 冷卻)"}
@@ -36593,7 +36593,7 @@ MultiLanguageItemData['tw'][120282] = {name = "[q4]鋼鐵鎮壓者精華", addit
 MultiLanguageItemData['tw'][120283] = {name = "[q4]鋼鐵征服者精華", additional_info = "傳奇難度\n[q7]戰隊綁定\n本物品開啟一項任務\n職業： 聖騎士 , 牧師 , 術士\n需要任何聯盟種族\n售價:"}
 MultiLanguageItemData['tw'][120284] = {name = "[q4]鋼鐵保衛者精華", additional_info = "傳奇難度\n[q7]戰隊綁定\n本物品開啟一項任務\n職業： 戰士 , 獵人 , 薩滿 , 武僧\n需要任何聯盟種族\n售價:"}
 MultiLanguageItemData['tw'][120285] = {name = "[q4]鋼鐵鎮壓者精華", additional_info = "傳奇難度\n[q7]戰隊綁定\n本物品開啟一項任務\n職業： 盜賊 , 死亡騎士 , 法師 , 德魯伊\n需要任何聯盟種族\n售價:"}
-MultiLanguageItemData['tw'][120286] = {name = "[q4]附魔幻象 - 光榮暴君", additional_info = "拾取後綁定\n唯一\n使用: 獲得光榮暴君的武器附魔外觀。\n需要在第14或第15季贏得「聯盟英雄」或「決鬥者」頭銜。\n需要在第14或第15季贏得「部落英雄」或「決鬥者」頭銜。\n已經學會"}
+MultiLanguageItemData['tw'][120286] = {name = "[q4]附魔幻象 - 光榮暴君", additional_info = "拾取後綁定\n唯一\n使用: 獲得光榮暴君的武器附魔外觀。\n需要在第14或第15季贏得「聯盟英雄」或「決鬥者」頭銜。\n需要在第14或第15季贏得「部落英雄」或「決鬥者」頭銜。"}
 MultiLanguageItemData['tw'][120287] = {name = "[q4]附魔幻象 - 原始凱旋", additional_info = "拾取後綁定\n使用: 獲得原始凱旋的武器附魔外觀。\n需要在德拉諾之霸第1、第2或第3季贏得「聯盟英雄」或「決鬥者」頭銜。\n需要在德拉諾之霸第1、第2或第3季贏得「部落英雄」或「決鬥者」頭銜。"}
 MultiLanguageItemData['tw'][120290] = {name = "秘密會議資料", additional_info = "拾取後綁定\n持續時間：1小時 (實時)\n[q]\"發現秘密會議資料的時候，吹響號角，召喚獸人首領。\""}
 MultiLanguageItemData['tw'][120293] = {name = "微溫的烤犛牛肉湯", additional_info = "[q2]使用: 在20秒內恢復總計 8173 點生命力和( 2125 / 5 * 20)點法力。如果進食時間超過10秒，你將因充分進食而獲得 10 點的有用屬性，持續1小時。只能在試煉場內使用。\n售價:"}
@@ -36695,7 +36695,7 @@ MultiLanguageItemData['tw'][120977] = {name = "[q3]中尉騎士的鎧甲護腰�
 MultiLanguageItemData['tw'][120978] = {name = "[q6]灰燼使者", additional_info = "拾取後綁定\n唯一\n{雙手} {劍}\n{3-7點傷害} {速度 3.60}\n(每秒1.4點傷害)\n+2 力量\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n\n[q0]神聖神器遺物槽\n[q0]火焰神器遺物槽\n\n職業： 聖騎士\n[q2]裝備： 賦予你灰燼甦醒能力，對範圍內的敵人造成大量傷害。（特效觸發機率：10%）\n[q]\"在那段人劍合一的日子裡，灰燼使者成為了傳奇。這個名字所代表的不只是一把強大的寶劍，更代表了持有這把寶劍的英勇騎士。\"\n售價:"}
 MultiLanguageItemData['tw'][120980] = {name = "[q3]血衛士的綴甲束腰複製品", additional_info = "造型\n拾取後綁定{腰部} {板甲}\n3護甲\n耐久: 20 / 20 職業： 聖騎士\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120981] = {name = "[q3]中尉騎士的綴甲束腰複製品", additional_info = "造型\n拾取後綁定{腰部} {板甲}\n3護甲\n耐久: 50 / 50 職業： 聖騎士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][120982] = {name = "[q3]中尉騎士的鎖甲鎖鍊複製品", additional_info = "造型\n拾取後綁定{腰部} {鎖甲}\n2護甲\n耐久: 50 / 50 職業： 薩滿\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][120982] = {name = "[q3]中尉騎士的鎖甲鎖鍊複製品", additional_info = "造型\n拾取後綁定{腰部} {鎖甲}\n2護甲\n耐久: 20 / 20 職業： 薩滿\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120983] = {name = "[q3]中尉騎士的鍊甲腰帶複製品", additional_info = "造型\n拾取後綁定{腰部} {鎖甲}\n2護甲\n耐久: 50 / 50 職業： 獵人\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120984] = {name = "[q3]血衛士的龍皮腰帶複製品", additional_info = "造型\n拾取後綁定{腰部} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 德魯伊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120985] = {name = "[q3]血衛士的皮製扣環複製品", additional_info = "造型\n拾取後綁定{腰部} {皮甲}\n1護甲\n耐久: 20 / 20 職業： 盜賊\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
@@ -36707,7 +36707,7 @@ MultiLanguageItemData['tw'][120990] = {name = "[q3]血衛士的鎖甲鎖鍊複�
 MultiLanguageItemData['tw'][120991] = {name = "[q3]血衛士的鍊甲腰帶複製品", additional_info = "造型\n拾取後綁定{腰部} {鎖甲}\n2護甲\n耐久: 50 / 50 職業： 獵人\n積分戰場的軍階必須達到軍團士兵才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120992] = {name = "[q3]中尉騎士的龍皮腰帶複製品", additional_info = "造型\n拾取後綁定{腰部} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 德魯伊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120993] = {name = "[q3]中尉騎士的皮製扣環複製品", additional_info = "造型\n拾取後綁定{腰部} {皮甲}\n1護甲\n耐久: 50 / 50 職業： 盜賊\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
-MultiLanguageItemData['tw'][120994] = {name = "[q3]中尉騎士的絲質繫腰複製品", additional_info = "造型\n拾取後綁定{腰部} {布甲}\n1護甲\n耐久: 50 / 50 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
+MultiLanguageItemData['tw'][120994] = {name = "[q3]中尉騎士的絲質繫腰複製品", additional_info = "造型\n拾取後綁定{腰部} {布甲}\n1護甲\n耐久: 20 / 20 職業： 法師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120995] = {name = "[q3]中尉騎士的緞質裹腰複製品", additional_info = "造型\n拾取後綁定{腰部} {布甲}\n1護甲\n耐久: 50 / 50 職業： 牧師\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][120996] = {name = "[q3]中尉騎士的懼紋裹衣複製品", additional_info = "造型\n拾取後綁定{腰部} {布甲}\n1護甲\n職業： 術士\n積分戰場軍階必須達到上尉騎士才能購買。\n[q2]使用：將此外觀新增到你的戰隊收藏。\n售價:"}
 MultiLanguageItemData['tw'][121001] = {name = "[q2]魯特凡胸甲", additional_info = "裝備後綁定\n{胸部} {板甲}\n17護甲\n+5 [力量 or 智力]\n+7 耐力\n耐久: 115 / 115\n售價:"}
@@ -37707,7 +37707,7 @@ MultiLanguageItemData['tw'][122392] = {name = "[q7]陳舊的觀察者盾牌", ad
 MultiLanguageItemData['tw'][122393] = {name = "午夜玫瑰配方：第1部分，材料", additional_info = "任務物品\n[q]\"這個部分詳細記載了製作著名的午夜玫瑰醇酒所需的材料。\""}
 MultiLanguageItemData['tw'][122394] = {name = "午夜玫瑰配方：第2部分，準備", additional_info = "任務物品\n[q]\"這個部分詳細記載了在混合午夜玫瑰醇酒前所必須達成的繁複條件。\""}
 MultiLanguageItemData['tw'][122395] = {name = "午夜玫瑰配方：第3部分，步驟", additional_info = "任務物品\n[q]\"這個部分詳細記載了在釀造午夜玫瑰醇酒時所須仔細遵循的繁複步驟。\""}
-MultiLanguageItemData['tw'][122396] = {name = "[q7]打鬥者鋒利之爪", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n{單手} {拳套}\n{12-18點傷害} {速度 2.60}\n(每秒5.8點傷害)\n+5 敏捷\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n29 ( 29)\n需要在畢茲摩鬥陣俱樂部到達第8階\n已經學會\n需要在鬥陣競技場達到第8階\n\n\n商人：\n北方保羅+『倒楣鬼』賽姆斯\n區域：\n奧格瑪：鬥陣競技場\n\n商人：\n奎肯布希+『觸動者』德許威\n區域：\n礦道地鐵：畢茲摩鬥陣俱樂部"}
+MultiLanguageItemData['tw'][122396] = {name = "[q7]打鬥者鋒利之爪", additional_info = "[q]傳家寶升級等級： 0/0\n[q7]戰隊綁定\n{單手} {拳套}\n{12-18點傷害} {速度 2.60}\n(每秒5.8點傷害)\n+5 敏捷\n+8 耐力\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n29 ( 29)\n需要在畢茲摩鬥陣俱樂部到達第8階\n需要在鬥陣競技場達到第8階\n\n\n商人：\n北方保羅+『倒楣鬼』賽姆斯\n區域：\n奧格瑪：鬥陣競技場\n\n商人：\n奎肯布希+『觸動者』德許威\n區域：\n礦道地鐵：畢茲摩鬥陣俱樂部"}
 MultiLanguageItemData['tw'][122398] = {name = "要塞偵察報告", additional_info = "拾取後綁定\n[q2]使用: 隨機取得一個符合資格的任務。"}
 MultiLanguageItemData['tw'][122399] = {name = "偵察文件：麥奈洛克", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"你的斥候回報敵方在麥奈洛克持續有所行動。\""}
 MultiLanguageItemData['tw'][122400] = {name = "偵察文件：永茂林野地", additional_info = "拾取後綁定\n本物品開啟一項任務\n[q]\"你的斥候回報敵方在永茂林野地持續有所行動。\""}
@@ -38634,7 +38634,7 @@ MultiLanguageItemData['tw'][124523] = {name = "[q4]碎界者的決心", addition
 MultiLanguageItemData['tw'][124528] = {name = "完整的幽潮尾巴", additional_info = "任務物品\n[q]\"流著噁心的液體。\""}
 MultiLanguageItemData['tw'][124530] = {name = "阿卡利斯的頭", additional_info = "任務物品\n[q]\"這張臉只有他老媽受得了。\""}
 MultiLanguageItemData['tw'][124535] = {name = "點燃的火炬", additional_info = "任務物品\n唯一\n[q2]使用: 擲向巴斯蘭的屍體，使其起火燃燒。"}
-MultiLanguageItemData['tw'][124540] = {name = "[q4]兇惡的作戰科多獸", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n已經學會\n售價: \n[q]\"尾巴上的刺球威力強大，足以摧毀絕大多數的聯盟強化防禦工事。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
+MultiLanguageItemData['tw'][124540] = {name = "[q4]兇惡的作戰科多獸", additional_info = "[q7]戰隊綁定\n坐騎\n需要任何部落種族\n[q2]使用:  教你學會如何召喚這個坐騎。\n80 ( 80)\n需要 初級騎術\n售價: \n[q]\"尾巴上的刺球威力強大，足以摧毀絕大多數的聯盟強化防禦工事。\"\n商人：\n亡靈守衛奈薩里安\n區域：\n奧格瑪\n花費：\n1"}
 MultiLanguageItemData['tw'][124545] = {name = "[q4]碎裂靈魂稜石", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+3 [敏捷 or 力量 or 智力]\n[q2]+ 5 致命一擊\n[q2]+ 5 加速\n[q2]+ 5 臨機應變\n[q2]+ 5 精通\n售價:"}
 MultiLanguageItemData['tw'][124546] = {name = "[q4]終極末日印記", additional_info = "拾取後綁定\n僅可裝備一件\n飾品\n+1 [敏捷 or 力量 or 智力]\n[q2]+ 5 速度\n[q2]+ 5 汲取\n[q2]+ 5 迴避\n售價:"}
 MultiLanguageItemData['tw'][124550] = {name = "[q3]邪怨護腕", additional_info = "拾取後綁定\n[q2]使用: 製造一件靈魂綁定物品，此物品符合你設定之戰利品優先分配專\n售價:"}
@@ -43453,12 +43453,12 @@ MultiLanguageItemData['tw'][129916] = {name = "撒爾薩里安的鱗", additiona
 MultiLanguageItemData['tw'][129917] = {name = "加拉隆的鱗", additional_info = "任務物品\n[q]\"加拉隆硬殼般的龍鱗幾乎無法剝除。\""}
 MultiLanguageItemData['tw'][129920] = {name = "芬里爾的獸皮", additional_info = "任務物品\n[q]\"出乎意料地暖和。\""}
 MultiLanguageItemData['tw'][129921] = {name = "巨鱗蛇的鱗片", additional_info = "任務物品\n[q]\"像鑽石碎屑。\""}
-MultiLanguageItemData['tw'][129922] = {name = "[q4]鐵縛怨靈戰騎韁轡", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n已經學會\n\n\n[q]\"不滅的魂魄勉強困在鋼鐵的軀殼裡，它是『騎士』撒拉納創造的另一個物品。人們一度認為它們全都被摧毀了。\"\n商人：\n奧辛恩\n區域：\n達拉然\n花費：\n5000"}
+MultiLanguageItemData['tw'][129922] = {name = "[q4]鐵縛怨靈戰騎韁轡", additional_info = "拾取後綁定\n坐騎\n[q0](帳號通用)\n使用:  教你學會如何召喚這個坐騎。此坐騎將隨著你的騎術技能和騎乘地點而改變。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"不滅的魂魄勉強困在鋼鐵的軀殼裡，它是『騎士』撒拉納創造的另一個物品。人們一度認為它們全都被摧毀了。\"\n商人：\n奧辛恩\n區域：\n達拉然\n花費：\n5000"}
 MultiLanguageItemData['tw'][129923] = {name = "[q4]日蝕龍鷹韁繩", additional_info = "拾取後綁定\n唯一\n坐騎\n[q0](帳號通用)\n[q2]使用:  教你學會如何召喚這個坐騎。這是一隻飛行坐騎。\n80 ( 80)\n需要 初級騎術\n\n\n[q]\"這些紫色龍鷹是從日蝕崗哨的叛逃血精靈那兒捕捉而來的，牠們是星光聖所的占卜者最想要的坐騎。\"\n商人：\n庫普瑞\n區域：\n撒塔斯城\n花費：\n5000"}
 MultiLanguageItemData['tw'][129926] = {name = "[q3]灰舌印記", additional_info = "拾取後綁定\n玩具\n[q2]使用: 將你自己偽裝成灰舌破碎者。 (30分鐘 冷卻)"}
 MultiLanguageItemData['tw'][129927] = {name = "[q2]惡魔磨刀石", additional_info = "拾取後綁定\n唯一\n使用: 對石材樣本進行的附魔和巧妙的逆向工程獲得了有趣的結果。造成的物理傷害提高5%，持續5分鐘。對等級大於49的玩家無效。 (3秒 冷卻)\n[q]\"對軍團武器進行反向工程，以獲得有趣的結果。\""}
 MultiLanguageItemData['tw'][129928] = {name = "[q3]冰寒的時光扭曲稜石", additional_info = "拾取後綁定\n唯一\n本物品開啟一項任務"}
-MultiLanguageItemData['tw'][129929] = {name = "[q3]永恆變換之鏡", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 揭露德拉諾和外域之間的時空交錯點。 (15秒 冷卻)\n已經學會\n[q]\"有些鏡子會顯示出其他的可能…\""}
+MultiLanguageItemData['tw'][129929] = {name = "[q3]永恆變換之鏡", additional_info = "拾取後綁定\n唯一\n玩具\n[q2]使用: 揭露德拉諾和外域之間的時空交錯點。 (15秒 冷卻)\n[q]\"有些鏡子會顯示出其他的可能…\""}
 MultiLanguageItemData['tw'][129930] = {name = "古隆之鼓", additional_info = "任務物品\n[q]\"這個皮鼓看來經常使用，但養護得宜。\""}
 MultiLanguageItemData['tw'][129931] = {name = "[q3]毀壞者", additional_info = "拾取後綁定{單手} {匕首}\n{2-5點傷害} {速度 1.80}\n(每秒1.9點傷害)\n+2 敏捷\n+3 耐力\n[q2]+ 4 致命一擊\n耐久: 65 / 65\n售價:"}
 MultiLanguageItemData['tw'][129934] = {name = "[q4]荒野鬥士符文之斧", additional_info = "德拉諾之霸第2季\n拾取後綁定{單手} {斧}\n{2-5點傷害} {速度 2.60}\n(每秒1.3點傷害)\n+13 智力\n+3 耐力\n[q2]+ 2 致命一擊\n[q2]+ 2 精通\n耐久: 110 / 110需要任何聯盟種族\n售價:"}
@@ -44157,7 +44157,7 @@ MultiLanguageItemData['tw'][131545] = {name = "[q2]蛛毒腿甲", additional_inf
 MultiLanguageItemData['tw'][131546] = {name = "[q2]奇言護手", additional_info = "拾取後綁定{手} {鎖甲}\n5護甲\n+2 [敏捷 or 智力]\n+3 耐力\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][131547] = {name = "[q2]葛尼斯的腕甲", additional_info = "拾取後綁定{手腕} {鎖甲}\n4護甲\n+2 [敏捷 or 智力]\n+2 耐力\n[q2]+ 5 臨機應變\n耐久: 40 / 40\n售價:"}
 MultiLanguageItemData['tw'][131548] = {name = "[q2]狂亂熱誠之握", additional_info = "拾取後綁定{手} {鎖甲}\n5護甲\n+2 [敏捷 or 智力]\n+3 耐力\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][131549] = {name = "[q3]鷹巢山頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+4 耐力\n耐久: 65 / 65\n售價:"}
+MultiLanguageItemData['tw'][131549] = {name = "[q3]鷹巢山頭盔", additional_info = "拾取後綁定{頭部} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+4 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][131550] = {name = "[q3]鷹巢山戰爭軟帽", additional_info = "拾取後綁定{頭部} {鎖甲}\n6護甲\n+3 [敏捷 or 智力]\n+4 耐力\n[q2]+ 3 致命一擊\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][131551] = {name = "[q2]調和大師的長褲", additional_info = "拾取後綁定{腿部} {鎖甲}\n7護甲\n+3 [敏捷 or 智力]\n+4 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][131552] = {name = "[q2]混血護脛", additional_info = "拾取後綁定{腿部} {鎖甲}\n5護甲\n+2 [敏捷 or 智力]\n+3 耐力\n耐久: 55 / 55\n售價:"}
@@ -44794,7 +44794,7 @@ MultiLanguageItemData['tw'][132530] = {name = "[q3]劫福斯閃亮亮模組", ad
 MultiLanguageItemData['tw'][132531] = {name = "[q3]劫福斯機甲戰鬥模組", additional_info = "[q2]使用: 教劫福斯如何進入機甲戰鬥模式。\n售價:"}
 MultiLanguageItemData['tw'][132532] = {name = "[q2]重型鱗甲束褲", additional_info = "裝備後綁定\n{腿部} {鎖甲}\n7護甲\n+6 [敏捷 or 智力]\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][132533] = {name = "[q2]重型鱗甲護手", additional_info = "裝備後綁定\n{手} {鎖甲}\n4護甲\n+3 [敏捷 or 智力]\n+3 耐力\n耐久: 40 / 40\n售價:"}
-MultiLanguageItemData['tw'][132534] = {name = "[q3]重型鱗甲裹手", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n4護甲\n+1 [敏捷 or 智力]\n+2 耐力\n耐久: 35 / 35\n售價:"}
+MultiLanguageItemData['tw'][132534] = {name = "[q3]重型鱗甲裹手", additional_info = "裝備後綁定\n{手腕} {鎖甲}\n4護甲\n+1 [敏捷 or 智力]\n+2 耐力\n耐久: 50 / 50\n售價:"}
 MultiLanguageItemData['tw'][132535] = {name = "[q2]重型鱗甲肩鎧", additional_info = "裝備後綁定\n{肩部} {鎖甲}\n6護甲\n+2 [敏捷 or 智力]\n+3 耐力\n耐久: 70 / 70\n售價:"}
 MultiLanguageItemData['tw'][132536] = {name = "[q3]重型鱗甲兜帽", additional_info = "裝備後綁定\n{頭部} {鎖甲}\n6護甲\n+4 [敏捷 or 智力]\n+5 耐力\n耐久: 85 / 85\n售價:"}
 MultiLanguageItemData['tw'][132537] = {name = "[q3]碎鱗頭環", additional_info = "裝備後綁定\n{頭部} {鎖甲}\n6護甲\n+4 [敏捷 or 智力]\n+5 耐力\n耐久: 85 / 85\n售價:"}
