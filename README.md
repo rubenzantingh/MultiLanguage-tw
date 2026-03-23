@@ -1,5 +1,8 @@
 # MultiLanguage Chinese (Traditional) language pack
 
+> [!IMPORTANT]
+> The data source (wowhead.com) is actively preventing scraping of the website. This means the addon can no longer receive database updates for the time being. Efforts will be made to keep the addon up to date with the latest UI changes. If an alternative data source can be found the database updates will resume.
+
 ## Description
 This is the Traditional Chinese (TW) language pack for the Cataclysm version of the [MultiLanguage addon](https://www.curseforge.com/wow/addons/multilanguage). It requires the base addon to work. Installing it adds the Chinese (Traditional) option within the addon configuration. This language pack is not required for the classic version of the game, only for Cataclysm and retail.
 
